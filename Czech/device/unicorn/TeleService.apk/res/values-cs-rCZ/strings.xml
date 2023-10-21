@@ -141,6 +141,13 @@
     <string name="call_category">Volání</string>
     <string name="call_forwarding_settings">Přesměrování hovorů</string>
     <string name="call_forwarding_settings_with_label">Přesměrování hovorů (%s)</string>
+    <string name="call_notification_answer_action">Přijmout</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odmítnout</string>
+    <string name="call_notification_hang_up_action">Zavěsit</string>
+    <string name="call_notification_incoming_text">Příchozí hovor</string>
+    <string name="call_notification_ongoing_text">Probíhající hovor</string>
+    <string name="call_notification_screening_text">Prověřování příchozího hovoru</string>
     <string name="call_quality_notification_bluetooth_details">Signál sítě Bluetooth je slabý. Zkuste přepnout na hlasitý odposlech.</string>
     <string name="call_quality_notification_name">Oznámení o kvalitě hovoru</string>
     <string name="call_settings">Nastavení hovorů</string>
@@ -236,6 +243,7 @@
     <string name="clh_callFailed_requested_facility_not_subscribed_txt">Hovor se nepodařilo dokončit. Kód chyby: 50.</string>
     <string name="clh_callFailed_resources_unavailable_unspecified_txt">Hovor se nepodařilo dokončit. Kód chyby: 47.</string>
     <string name="clh_callFailed_response_to_STATUS_ENQUIRY_txt">Hovor se nepodařilo dokončit. Kód chyby: 30.</string>
+    <string name="clh_callFailed_satelliteEnabled_txt">Satelitní režim je zapnutý</string>
     <string name="clh_callFailed_semantically_incorrect_message_txt">Hovor se nepodařilo dokončit. Kód chyby: 95.</string>
     <string name="clh_callFailed_service_or_option_not_available_unspecified_txt">Hovor se nepodařilo dokončit. Kód chyby: 63.</string>
     <string name="clh_callFailed_service_or_option_not_implemented_unspecified_txt">Hovor se nepodařilo dokončit. Kód chyby: 79.</string>
@@ -401,6 +409,7 @@ Hovor nelze provést. Zkuste to znovu, až telefon vychladne.
 Tísňové volání máte pořád k dispozici."</string>
     <string name="incall_error_power_off_wfc">Chcete-li se připojit k bezdrátové síti a provést hovor, vypněte režim Letadlo.</string>
     <string name="incall_error_promote_wfc">Pokud chcete provést hovor, povolte volání přes připojení Wi-Fi.</string>
+    <string name="incall_error_satellite_enabled">Pokud chcete někomu zavolat, satelitní režim vypněte.</string>
     <string name="incall_error_supp_service_conference">Hovory se nepodařilo spojit.</string>
     <string name="incall_error_supp_service_hangup">Hovor nelze ukončit.</string>
     <string name="incall_error_supp_service_hold">Hovory nelze podržet.</string>
@@ -411,6 +420,7 @@ Tísňové volání máte pořád k dispozici."</string>
     <string name="incall_error_supp_service_transfer">Hovor nelze předat.</string>
     <string name="incall_error_supp_service_unknown">Služba není podporována.</string>
     <string name="incall_error_wfc_only_no_wireless_network">Chcete-li provést hovor, připojte se k bezdrátové síti.</string>
+    <string name="install_messages_on_work_profile_action_str">Nainstalovat pracovní aplikaci na odesílání zpráv</string>
     <string name="international_disable">Mezinárodní zprávy zakázány</string>
     <string name="international_enable">Mezinárodní zprávy povoleny</string>
     <string name="invalidPin">Zadejte kód PIN o délce 4-8 číslic.</string>
@@ -510,7 +520,7 @@ Tísňové volání máte pořád k dispozici."</string>
     <string name="newPin2Label">Nový kód PIN2</string>
     <string name="newPinLabel">Nový kód PIN</string>
     <string name="no_change">Nebyly provedeny žádné změny.</string>
-    <string name="no_rtt_when_roaming">Použít: Funkce SMS během hovoru není dostupná při roamingu</string>
+    <string name="no_rtt_when_roaming">Použít: Funkce Okamžitý text není dostupná při roamingu</string>
     <string name="no_vm_number">Chybí číslo hlasové schránky</string>
     <string name="no_vm_number_msg">Na SIM kartě není uloženo žádné číslo hlasové schránky.</string>
     <string name="not_allowed">Vaše SIM karta nepovoluje připojení k této síti.</string>
@@ -577,6 +587,7 @@ Zkuste to znovu nebo kontaktujte oddělení zákaznických služeb, kde získát
     <string name="payphone">Telefonní automat</string>
     <string name="phoneAppLabel">Telefonní služby</string>
     <string name="phoneIconLabel">Telefon</string>
+    <string name="phone_account_settings_user_restriction">Nastavení telefonního účtu může změnit jen administrátor nebo uživatel pracovního účtu.</string>
     <string name="phone_accounts">Účty pro volání</string>
     <string name="phone_accounts_add_sip_account">Přidat účet SIP</string>
     <string name="phone_accounts_all_calling_accounts">Všechny účty pro volání</string>
@@ -669,6 +680,7 @@ Počet zbývajících pokusů: %d."</string>
     <string name="radioInfo_display_bytes">B</string>
     <string name="radioInfo_display_dbm">dBm</string>
     <string name="radioInfo_display_packets">pakety</string>
+    <string name="radioInfo_imei_primary">Primární</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">Stav služby IMS</string>
     <string name="radioInfo_menu_viewADN">Zobrazit adresář SIM karty</string>
@@ -684,7 +696,6 @@ Počet zbývajících pokusů: %d."</string>
     <string name="radioInfo_service_off">Bezdrátový modul je vypnut</string>
     <string name="radioInfo_service_out">Mimo provoz</string>
     <string name="radioInfo_unknown">Neznámé</string>
-    <string name="radio_info_band_mode_label">Zvolit pásmo bezdrátového modulu</string>
     <string name="radio_info_call_redirect_label">Přesměrování hovoru:</string>
     <string name="radio_info_call_status_label">Stav hlasového hovoru:</string>
     <string name="radio_info_cell_info_refresh_rate">Interval obnovení informací o mobilní síti:</string>
@@ -693,6 +704,7 @@ Počet zbývajících pokusů: %d."</string>
     <string name="radio_info_data_connection_disable">Zakázat datové připojení</string>
     <string name="radio_info_data_connection_enable">Povolit datové připojení</string>
     <string name="radio_info_data_network_type_label">Typ datové sítě:</string>
+    <string name="radio_info_data_raw_registration_state_label">Stav registrace nezpracovaných dat:</string>
     <string name="radio_info_dcnr_restricted">DCNR – omezeno (NSA):</string>
     <string name="radio_info_dds">SubId výchozí datové SIM karty:</string>
     <string name="radio_info_dl_kbps">Rychlost stahování (kB/s):</string>
@@ -734,6 +746,8 @@ Rozhraní UT: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">Přepnout kontrolu DNS</string>
     <string name="radio_info_ul_kbps">Rychlost nahrávání (kB/s):</string>
     <string name="radio_info_voice_network_type_label">Typ hlasové sítě:</string>
+    <string name="radio_info_voice_raw_registration_state_label">Voice – stav registrace nezpracovaných dat:</string>
+    <string name="radio_info_wlan_data_raw_registration_state_label">WLAN – stav registrace nezpracovaných dat:</string>
     <string name="radio_off_during_emergency_call">Během nouzového volání není možné zapnout režim letadla.</string>
     <string name="radio_off_error">Před zobrazením těchto nastavení prosím zapněte bezdrátový modul.</string>
     <string name="reading_settings">Načítání nastavení...</string>
@@ -763,7 +777,7 @@ Rozhraní UT: %5$s"</string>
     <string name="roaming_on_notification_title">Datový roaming je zapnutý</string>
     <string name="roaming_reenable_message">Datový roaming je vypnutý. Klepnutím ho zapnete.</string>
     <string name="roaming_warning">Mohou vám být účtovány vysoké poplatky.</string>
-    <string name="rtt_mode_more_information">"Funkce SMS během hovoru (RTT) pomáhá volajícím, kteří neslyší, jsou nedoslýchaví, mají řečovou vadu, případně potřebují víc než jen hlas z jiného důvodu.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Další informace&lt;/a>
+    <string name="rtt_mode_more_information">"Funkce Okamžitý text (RTT) pomáhá volajícím, kteří neslyší, jsou nedoslýchaví, mají řečovou vadu, případně potřebují víc než jen hlas z jiného důvodu.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Další informace&lt;/a>
        &lt;br>&lt;br> – Text poslaný během hovoru se uloží jako přepis zpráv
        &lt;br> – Tato funkce není dostupná při videohovorech"</string>
     <string name="rtt_mode_summary">Povolit posílání zpráv během hlasového hovoru</string>
@@ -773,6 +787,10 @@ Rozhraní UT: %5$s"</string>
     <string name="selectContact">vybrat kontakt</string>
     <string name="select_automatically">Vybírat síť automaticky</string>
     <string name="send_button">Odeslat</string>
+    <string name="send_from_work_profile_action_str">Přepnout na pracovní profil</string>
+    <string name="send_from_work_profile_cancel">Zrušit</string>
+    <string name="send_from_work_profile_description">Vaše organizace dovoluje odesílat zprávy jen z pracovních aplikací</string>
+    <string name="send_from_work_profile_title">Z osobní aplikace nelze odeslat zprávu</string>
     <string name="settings_label">Nastavení sítě</string>
     <string name="simContacts_airplaneMode">Chcete-li importovat kontakty ze SIM karty, vypněte režim Letadlo.</string>
     <string name="simContacts_empty">Na SIM kartě nejsou žádné kontakty.</string>
@@ -786,6 +804,7 @@ Rozhraní UT: %5$s"</string>
     <string name="sim_ndp_dismiss_text">Zavřít</string>
     <string name="sim_ndp_unlock_text">Odemknout</string>
     <string name="sim_selection_required_pref">Vyžadován výběr</string>
+    <string name="simulate_out_of_service_string">Simulovat provoz mimo službu (pouze ladicí sestavení)</string>
     <string name="singleContactImportedMsg">Kontakt byl importován</string>
     <string name="single_emergency_number_title">Tísňová linka</string>
     <string name="sip_accounts_removed_notification_action">Přejít do nastavení</string>
