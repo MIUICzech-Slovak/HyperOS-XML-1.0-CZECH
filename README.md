@@ -1,9 +1,10 @@
-[![MIUI14 logo](https://i.imgur.com/idmH8Nu.png)](https://xiaomi.eu/)
-
-MIUI-v14 translation for all supported devices. MIUI Translation: **VMach3** **ingbrzy**
+[![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
 
 
-MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+HyperOS translation for all supported devices. HyperOS Translation: **VMach3**
+
+
+HyperOS China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 CZECH strings by miuios.cz are under a 
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -14,6 +15,6 @@ For more info visit:
 - [CZECH&SLOVAK MIUI Fansite](http://miuios.cz)  
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translation XML checker https://translators.xiaomi.eu/XML_MIUI14-Czech-cs.html
+Translation XML checker http://translators.xiaomi.eu/XML_MIUI15-Czech-cz.html
 
 MIUI Translation: contact@miuios.cz
