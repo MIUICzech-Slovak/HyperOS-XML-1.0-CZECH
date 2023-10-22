@@ -934,7 +934,6 @@ Další informace vám poskytne váš administrátor IT."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Vaše osobní aplikace jsou připojeny k internetu prostřednictvím aplikace %1$s. Vaší síťovou aktivitu (jako jsou e-maily a údaje o prohlížení) vidí poskytovatel VPN.</string>
     <string name="monitoring_description_two_named_vpns">Toto zařízení je připojeno k internetu prostřednictvím aplikací %1$s a %2$s. Vaší síťovou aktivitu (jako jsou e-maily a údaje o prohlížení) vidí administrátor IT.</string>
     <string name="monitoring_description_vpn_settings">Otevřít nastavení VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s má přístup k datům spojeným s tímto zařízením, může měnit jeho nastavení a spravovat aplikace.
 
 Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
