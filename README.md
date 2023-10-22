@@ -1,7 +1,7 @@
 [![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
 
 
-HyperOS translation for all supported devices. HyperOS Translation: **VMach3**
+HyperOS translation for all supported devices. HyperOS Translation: **VMach3** **ingbrzy**
 
 
 HyperOS China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
