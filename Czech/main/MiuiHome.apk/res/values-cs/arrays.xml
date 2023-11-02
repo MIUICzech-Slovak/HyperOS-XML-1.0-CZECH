@@ -112,4 +112,13 @@
         <item>Prach</item>
         <item>Mlha</item>
     </string-array>
+	<string-array name="no_word_model_entries">
+        <item>Vypnuto</item>
+        <item>Všude</item>
+        <item>Na widgetech</item>
+     </string-array>
+     <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Vypnuto</item>
+        <item>Všude</item>
+     </string-array>
 </resources>

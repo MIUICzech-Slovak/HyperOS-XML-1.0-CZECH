@@ -402,4 +402,32 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
+	<string name="align_satellite_model_exit">Ukončit</string>
+      <string name="align_satellite_model_use">Start</string>
+      <string name="antispam_notification_text">Klepnutím zapnete inteligentní funkce režimu Nerušit</string>
+      <string name="focus_notification_on_call">Jmenuje se…</string>
+      <string name="miuix_appcompat_edit">Upravit</string>
+      <string name="relay_call_unable_to_work">"Tuto funkci nelze použít pro propojené hovory"</string>
+      <string name="relay_device_local">Toto zařízení</string>
+      <string name="relay_device_type_pc">Počítač</string>
+      <string name="relay_stop_recorder">Nahrávání se zastavilo</string>
+      <string name="satellite_call_failed">Signál je přerušen. Zkuste to znovu.</string>
+      <string name="satellite_dialog_button">Plovoucí okno</string>
+      <string name="satellite_dialog_cancel">Zrušit</string>
+      <string name="satellite_guide_down">"Nakloňte zařízení dolů
+a umístěte balón do modré oblasti"</string>
+      <string name="satellite_guide_found">Nalezený satelit</string>
+      <string name="satellite_guide_left">"Nakloňte zařízení doleva
+umístěte ikonu satelitu do modré oblasti"</string>
+      <string name="satellite_guide_right">"Nakloňte zařízení doprava
+umístěte ikonu satelitu do modré oblasti"</string>
+      <string name="satellite_guide_searching">Hledá se satelit…</string>
+      <string name="satellite_guide_searching_floating">Probíhá vyhledávání…</string>
+      <string name="satellite_guide_up">"Nakloňte zařízení nahoru
+a umístěte balón do modré oblasti"</string>
+      <string name="satellite_incall_tip">Reproduktor je zapnut</string>
+      <string name="satellite_service_provider">Poskytuje China Telecom</string>
+      <string name="satellite_state">Nehýbejte zařízením</string>
+      <string name="satellite_state_connected">"Připojeno k satelitu. Nehýbejte zařízením."</string>
+      <string name="satellite_state_connected_floating">Nehýbejte zařízením</string>
 </resources>

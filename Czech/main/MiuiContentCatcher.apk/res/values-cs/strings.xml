@@ -35,4 +35,6 @@
     <string name="settings_clear_data_confirmation_description">"Když nyní vymažete heslo, budete ho muset při přihlašování vložit manuálně.</string>
     <string name="settings_clear_data_confirmation_title">Vymazání hesel</string>
     <string name="using_miui_autofill_message">Pro zadání hesel automaticky, MIUI uloží informace o účtu a heslo do zařízení.</string>
+	<string name="hide_password_talkback">Skrýt heslo</string>
+	<string name="show_password_talkback">Zobrazit heslo</string>
 </resources>

@@ -214,4 +214,5 @@ klepnutím zobrazíte"</string>
     <string name="yesterday">Včera</string>
 	<string name="uninstall_warning_content">"Nahrávání plochy je systémová aplikace. Po odinstalaci nebudete moci nahrávat obrazovku."</string>
 	<string name="uninstall_warning_title">Odinstalovat Nanrávání plochy?</string>
+	<string name="protect_oneself_when_recording">Nahrávání hovoru. Chraňte své soukromí a soukromí jiných lidí při používání této funkce.</string>
 </resources>

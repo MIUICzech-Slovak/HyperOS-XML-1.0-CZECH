@@ -967,4 +967,7 @@ Zkontrolujte také složku SPAM."</string>
       <string name="setting_later">Nyní ne</string>
       <string name="setting_now">Přidat</string>
       <string name="template_percent">%1$d procent.</string>
+	  <string name="empty_device_list">Zatím zde nic není</string>
+      <string name="user_agreement_read_phone_permission_desc">Pro přihlášení pomocí telefonního čísla</string>
+      <string name="user_agreement_read_phone_permission_title">Přečíst telefonní čísla</string>
 </resources>

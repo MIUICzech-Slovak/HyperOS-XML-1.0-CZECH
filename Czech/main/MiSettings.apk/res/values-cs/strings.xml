@@ -805,4 +805,8 @@ pro dnešek"</string>
 	<string name="max_fps_string">Až %s Hz</string>
 	<string name="miuix_appcompat_edit">Upravit</string>
 	<string name="summary_max_fps_for_intelligent">Upravte obnovovací frekvenci dynamicky až do %s Hz na základě scenářů, aby ste dosáhli rovnováhy mezi výkonem a spotřebou energie</string>
+	<string name="anti_flicker_mode_summary_new">Použijte DC stmívání při slabém osvětlení ke snížení únavy očí</string>
+	<string name="app_use">Doba používání aplikace</string>
+	<string name="mi_transfer_banner_summary">Podporováno je více značek zařízení</string>
+	<string name="mi_transfer_banner_title">Přeneste položky ze starého zařízení</string>
 </resources>

@@ -426,4 +426,12 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
 	<string name="pause_status_focus_notification">Pozastaveno</string>
 	<string name="recording_status_focus_notification">Nahrávání</string>
 	<string name="stop_status_focus_notification">Dokončeno</string>
+	<string name="btn_continue_record_description">Obnovit nahrávání</string>
+      <string name="miuix_item_view_role_description">Tab</string>
+      <string name="miuix_navigator_content_switch_description">Zobrazit postranní panel</string>
+      <string name="miuix_navigator_multiple_choice">Vybrat</string>
+      <string name="miuix_navigator_navigator_switch_description">Skrýt boční panel</string>
+      <string name="toast_enter_silent_mode">Nahrávání. Je zapnut tichý režim.</string>
+      <string name="toast_exit_silent_mode">Nahrávání je dokončeno. Tichý režim je vypnutý.</string>
+      <string name="trash_delete">Odstranit</string>
 </resources>

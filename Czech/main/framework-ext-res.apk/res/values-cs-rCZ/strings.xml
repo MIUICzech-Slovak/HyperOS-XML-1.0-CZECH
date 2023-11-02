@@ -510,4 +510,21 @@
     <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
     <string name="xspace_head">Klonovaná aplikace</string>
     <string name="xspace_resolver_activity_title">Vybrat apl.</string>
+	<string name="hovermode_text_confirm">Rozumím</string>
+      <string name="hovermode_text_doubleclick">Dvojitým klepnutím pozastavíte/přehrajete</string>
+      <string name="hovermode_text_drag">Posunutím přiblížíte</string>
+      <string name="hovermode_text_help">Nápověda</string>
+      <string name="hovermode_text_left">Upravit jas</string>
+      <string name="hovermode_text_prompt">Když je zapnut režim vznášení, používejte gesta v dolní polovině obrazovky. Mezi aplikacemi mohou existovat rozdíly.</string>
+      <string name="hovermode_text_right">Upravte hlasitost</string>
+      <string name="no_avaliable_application">Nejsou k dispozici žádné aplikace</string>
+      <string name="open_system_optimization">Nejprve zapněte optimalizaci systému</string>
+      <string name="tof_music_support_scene_des">Podporuje ovládací prvky přehrávače hudby</string>
+      <string name="tof_office_support_scene_des">Podporuje dokumenty aplikace Word a prezentace aplikace PowerPoint</string>
+      <string name="tof_short_video_support_scene_des">Podporuje přepínání mezi videi</string>
+      <string name="tof_video_support_scene_des">Podporuje ovládání přehrávače videa na celou obrazovku</string>
+      <string name="wallpaper_geometrically_irregular_title">Abstraktní geometrie</string>
+      <string name="wallpaper_neon_title">Neon</string>
+      <string name="wallpaper_overlapping_space_title">Tvar a stín</string>
+      <string name="wallpaper_submerged_wing_title">Textury</string>
 </resources>

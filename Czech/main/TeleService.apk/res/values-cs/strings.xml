@@ -2031,4 +2031,17 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
     <string name="yesterday">Včera</string>
 	<string name="intelligent_dual_sim_summary">Pro zvýšení rychlosti připojení se použijí mobilní data druhé SIM karty</string>
 	<string name="intelligent_dual_sim_title">Inteligentní duální SIM</string>
+	<string name="checkbox_do_not_show_again">Už nezobrazovat</string>
+      <string name="close_smart_dual_sim">Zrušit</string>
+      <string name="enable_2g_dialog_title">Pozor</string>
+      <string name="enable_2g_dialog_warn_message">"Pokud vypnete 2G a nacházíte se v oblasti, kde je 2G jedinou dostupnou sítí, nebudete moci uskutečňovat žádná tísňová ani jiná volání. Vypnout přesto?"</string>
+      <string name="enable_2g_summary">Sítě 2G jsou méně bezpečné, ale v některých oblastech mohou zlepšit kvalitu připojení</string>
+      <string name="enable_2g_title">Povolit používání 2G</string>
+      <string name="no_ims_service_notification_content">Obraťte se na svého poskytovatele služeb a požádejte ho o řešení tohoto problému.</string>
+      <string name="open_smart_dual_sim">Zapnout</string>
+      <string name="prompt_to_suggest_no_ims_service_notification_title">"Službu VoLTE nelze použít"</string>
+      <string name="smart_dual_sim_available_message">Chcete-li zlepšit kvalitu videohovorů, zapněte funkci Smart dual SIM. Zapnout teď?</string>
+      <string name="smart_dual_sim_available_title">Smart dual SIM</string>
+      <string name="volte_switch_globalization_prompt">Tato mobilní síť nebyla ověřena pro VoLTE na tomto zařízení. Zapnutí této funkce může ovlivnit výdrž baterie, hovory, zprávy, hlasovou schránku a spotřebu mobilních dat.</string>
+      <string name="volte_switch_globalization_prompt_title">Pozor</string>
 </resources>

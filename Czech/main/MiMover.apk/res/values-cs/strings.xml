@@ -828,4 +828,18 @@ na vašem iPhonu"</string>
 	<string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" už poskytuje služby zálohování systému. Odinstalujte ho a restartujte zařízení, abyste mohli používat Mi Mover.</string>
      <string name="receiver_finish_not_transferred">Nepřeneseno</string>
      <string name="receiver_finish_transferred">Přeneseno</string>
+	 <string name="dialog_request_all_permission_content">"Pro přenos dat ze starého zařízení do nového se tato aplikace musí připojit k internetu a vyžaduje následující povolení:
+• Přístup k fotografiím, zvuku a videím
+• Přístup ke zprávám, kontaktům a historii hovorů
+• Přístup k úložišti
+• Přístup k seznamu aplikací nainstalovaných v zařízení"</string>
+      <string name="dialog_request_all_permission_title">Jsou vyžadována povolení</string>
+      <string name="permission_about_storage_pad">Jsou vyžadována povolení pro přístup k úložišti zařízení</string>
+      <string name="provisiion_set_old_pad_summary">Použijte Mi Mover k importu dat ze starého zařízení bez připojení k internetu</string>
+      <string name="provision_cta_title_pad">Přenos ze starého zařízení</string>
+      <string name="provision_select_data_one">Vyberte položky pro přenos</string>
+      <string name="provision_set_new_pad">Použít jako nové zařízení</string>
+      <string name="provision_set_old_pad">Importovat ze starého zařízení</string>
+      <string name="receiver_video_summary_pad">Odemkněte své staré zařízení, klepněte na položku \"Přenést\" a naskenujte tento obrázek</string>
+      <string name="receiver_video_title_pad">Přenos ze starého zařízení</string>
 </resources>

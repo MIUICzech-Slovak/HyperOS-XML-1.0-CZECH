@@ -825,4 +825,14 @@ Vylepšené zabezpečení."</string>
 	<string name="international_home_pull_up_content">Potažením prstem nahoru po domovské obrazovce otevřete Centrum obsahu.</string>
 	<string name="international_home_pull_up_sub_content">Pokud chcete otevřít vyhledávání, potáhněte prstem dolů ze středu plochy.</string>
 	<string name="switch_personal_assistant_summary">Potažením prstem doprava na ploše otevřete Google Asistenta</string>
+	<string name="keyguard_multi_window_tip">Tuto stránku lze zobrazit pouze v režimu celé obrazovky</string>
+      <string name="miui_setting_config_title">Nastavení domovské obrazovky</string>
+      <string name="new_open_personal_assistant_settings_simplified">Zámek aplikací</string>
+      <string name="new_privacy_thumbnail_blur_summary">Rozmazat ukázky aplikací v části Nedávné</string>
+      <string name="new_recents_config_title">Jiné</string>
+      <string name="not_support_adding">"Přidání této položky zatím není podporováno"</string>
+      <string name="setting_close">Vypnuto</string>
+      <string name="setting_no_word">Kdekoli</string>
+      <string name="setting_only_widget_no_word">Na widgetech</string>
+      <string name="start_new_window">Nové okno</string>
 </resources>
