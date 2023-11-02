@@ -6205,7 +6205,7 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="invisible_mode_open_summary_compact">Aktuální verze systému podporuje pouze současné vypnutí povolení pro fotoaparát, polohu a mikrofon pro všechny aplikace. Vypnutím jednoho z těchto povolení se vypnou všechna.</string>
       <string name="invisible_mode_open_title_compact">Připomenutí povolení</string>
       <string name="layoutDirection">rtl</string>
-      <stringname="location">Umístění</string>
+      <string name="location">Umístění</string>
       <string name="mic">Mikrofon</string>
       <string name="miui_blur_location">Přibližná poloha</string>
       <string name="new_result_sound_only">Zvuk</string>
