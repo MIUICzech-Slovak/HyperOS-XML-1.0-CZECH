@@ -494,8 +494,8 @@ pokračovat"</string>
       <string name="miui15_invisible_mode_dialog_message">"V režimu inkognito nelze používat služby propojení zařízení. Nejdříve vypněte režim inkognito."</string>
       <string name="miui15_low_version_dialog_message">Aktualizujte software ve svém počítači nebo si stáhněte nejnovější verzi z plus.miui.com.</string>
       <string name="miui15_low_version_dialog_title">Aktualizace služeb propojení zařízení</string>
-      <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nepodařilo se připojit k počítači. Ujistěte se, že jste zapnuli Wi-Fi a Bluetooth na svém mobilním zařízení i počítači a že váš počítač používá Xiaomi PC Manager."</string >
-       <string name="miui15_privacy_all_purpose">Služby propojení zařízení vám umožňují připojit telefon k počítači a spojit dvě zařízení do jedné pracovní stanice.</string>
+      <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nepodařilo se připojit k počítači. Ujistěte se, že jste zapnuli Wi-Fi a Bluetooth na svém mobilním zařízení i počítači a že váš počítač používá Xiaomi PC Manager."</string>
+      <string name="miui15_privacy_all_purpose">Služby propojení zařízení vám umožňují připojit telefon k počítači a spojit dvě zařízení do jedné pracovní stanice.</string>
       <string name="miui15_privacy_pad_all_purpose">Služby propojení zařízení vám umožňují spojit vaše mobilní zařízení do jedné pracovní stanice, takže můžete používat aplikace z telefonu na tabletu, přijímat hovory na jiném zařízení, používat sdílenou schránku, přenášet položky a přenášet obsah obrazovky.</ string>
       <string name="miui15_scanner_lower_version_toast">Chcete-li se připojit, aktualizujte software v počítači</string>
       <string name="miuix_appcompat_edit">Upravit</string>
