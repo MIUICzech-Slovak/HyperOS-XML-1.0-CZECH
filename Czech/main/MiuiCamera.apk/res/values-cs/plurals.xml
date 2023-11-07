@@ -124,4 +124,16 @@
         <item quantity="other">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
         <item quantity="one">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
     </plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Rychle vpřed o %d sekund</item>
+        <item quantity="one">Rychle dopředu o %d sekundu</item>
+	</plurals>
+	<plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Přetočit dozadu %d sekundy</item>
+        <item quantity="one">Přetočení o %d sekundu dozadu</item>
+	</plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornění</item>
+        <item quantity="one">%d nové upozornění</item>
+	</plurals>
 </resources>             

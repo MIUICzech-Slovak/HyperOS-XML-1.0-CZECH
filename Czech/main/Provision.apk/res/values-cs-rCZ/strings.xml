@@ -542,4 +542,111 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="withdraw_consent">Pokud svůj souhlas odvoláte, služby Denní tapety budou deaktivovány.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
+	<string name="after_sales_support">Poprodejní podpora</string>
+      <string name="after_sales_support_introduction">Tato služba vám umožňuje získat podporu a pomoc týkající se zakoupených zařízení.</string>
+      <string name="authority_introduction">Správce povolení je základní služba, která vám umožňuje spravovat oprávnění aplikací na tomto zařízení.</string>
+      <string name="default_font">Výchozí</string>
+      <string name="font_settings_sub_title">Vyberte systémové písmo</string>
+      <string name="font_settings_title">Nastavení písma</string>
+      <string name="font_use_case_text_example">Text</string>
+      <string name="font_use_case_title_example">Název</string>
+      <string name="get_imei_information">Přístup k IMEI</string>
+      <string name="interconnection_service_summary_china">"Služby propojení Xiaomi umožňují vašim zařízením vzájemnou bezdrátovou interakci. Služby Xiaomi Interconnectivity Services můžete použít k ovládání zařízení, přenosu zvuku a přehrávání videa, kombinování funkcí zařízení nebo spouštění úloh na jednom zařízení a pokračování s nimi ve stejné aplikaci na jiných připojených zařízeních Tato aplikace se musí připojit k internetu a vyžaduje následující povolení:
+\u0009\u0009Mi Share:
+\u0009\u0009Přistupujte k fotografiím a souborům uloženým v zařízení
+\u0009\u0009Na odesílání a přijímání přeneseného obsahu
+\u0009\u0009Přístup k informacím o poloze
+\u0009\u0009Na přenos souborů přes Bluetooth nebo Wi-Fi
+\u0009\u0009Zapněte nebo vypněte Bluetooth
+\u0009\u0009Na nalezení zařízení v okolí, ke kterým se lze připojit přes Bluetooth
+\u0009\u0009Zapněte nebo vypněte Wi-Fi
+\u0009\u0009Na objevování zařízení v okolí a přenos položek přes Wi-Fi
+\u0009\u0009Připojte se k zařízením v okolí
+\u0009\u0009Na zjišťování a připojení k zařízením v okolí
+\u0009\u0009Přenos přehrávání médií (Mi Smart Play, přenášení):
+\u0009\u0009Zapněte nebo vypněte Bluetooth
+\u0009\u0009Na nalezení zařízení v okolí, ke kterým se lze připojit přes Bluetooth
+\u0009\u0009Zapněte nebo vypněte Wi-Fi
+\u0009\u0009Na objevování zařízení v okolí a přenos položek přes Wi-Fi
+\u0009\u0009Přeneste položky do jiných zařízení
+\u0009\u0009K vytvoření připojení Bluetooth mezi zařízeními a přenos položek
+\u0009\u0009Přístup k informacím o poloze
+\u0009\u0009Na přístup k informacím o zařízeních v okolí
+\u0009\u0009Nahrávání interního zvuku zařízení
+\u0009\u0009Pro přenos a přehrávání zvuku mezi zařízeními během přenášení a zrcadlení
+\u0009\u0009Přistupujte k fotkám, videím a zvukům uloženým v zařízení
+\u0009\u0009Na odesílání a přijímání přeneseného obsahu
+\u0009\u0009Přístup k MAC adrese zařízení
+\u0009\u0009K rozpoznání připojených zařízení
+\u0009\u0009Získejte přístup k obsahu obrazovky
+\u0009\u0009Pro přístup k obsahu obrazovky během nahrávání nebo přenášení včetně citlivých informací, jako jsou zvuk, hesla, platební hesla, fotografie, zprávy atp.
+\u0009\u0009Odevzdání aplikace (úkoly aplikací napříč zařízeními, Plocha+):
+\u0009\u0009Zapněte nebo vypněte Bluetooth
+\u0009\u0009Na objevování zařízení v okolí přes Bluetooth
+\u0009\u0009Zapněte nebo vypněte Wi-Fi
+\u0009\u0009Na objevení zařízení v okolí k přenášení přes Wi-Fi
+\u0009\u0009Přístup k MAC adrese zařízení
+\u0009\u0009K rozpoznání připojených zařízení
+\u0009\u0009Přistupujte k fotkám, videím a zvukům uloženým v zařízení
+\u0009\u0009Na odesílání a přijímání přeneseného obsahu
+\u0009\u0009Přeneste položky do jiných zařízení
+\u0009\u0009K vytvoření připojení Bluetooth mezi zařízeními a přenosu obsahu
+\u0009\u0009Nahrávání interního zvuku zařízení
+\u0009\u0009Pro přenos a přehrávání zvuku mezi zařízeními během přenášení a zrcadlení
+\u0009\u0009Získejte přístup k obsahu obrazovky
+\u0009\u0009Pro přístup k obsahu obrazovky během nahrávání nebo přenášení včetně citlivých informací, jako jsou zvuk, hesla, platební hesla, fotografie, zprávy atp.
+\u0009\u0009Operace se soubory (sdílená schránka, používání fotoaparátu s poznámkami):
+\u0009\u0009Zapněte nebo vypněte Bluetooth
+\u0009\u0009Na nalezení zařízení v okolí, ke kterým se lze připojit přes Bluetooth
+\u0009\u0009Zapněte nebo vypněte Wi-Fi
+\u0009\u0009Na objevení zařízení v okolí k přenášení přes Wi-Fi
+\u0009\u0009Přistupujte k fotkám, videím a zvukům uloženým v zařízení
+\u0009\u0009Na odesílání a přijímání přeneseného obsahu
+\u0009\u0009Vstup do schránky
+\u0009\u0009Umožňuje aplikacím přístup ke zkopírovanému obsahu
+\"Společné propojení zařízení (zvýšení rychlosti sítě, používání klávesnic, myší a kamer):
+\u0009\u0009Zapněte nebo vypněte Bluetooth
+\u0009\u0009Na nalezení zařízení v okolí, ke kterým se lze připojit přes Bluetooth
+\u0009\u0009Zapněte nebo vypněte Wi-Fi
+\u0009\u0009Na objevení zařízení v okolí k přenášení přes Wi-Fi
+\u0009\u0009Přistupujte k fotkám, videím a zvukům uloženým v zařízení
+\u0009\u0009Na odesílání a přijímání přeneseného obsahu
+\u0009\u0009Přístup k fotoaparátu
+\u0009\u0009Pro focení a nahrávání videa
+\u0009\u0009Ovládání zařízení:
+\u0009\u0009Zapněte a vypněte Bluetooth
+\u0009\u0009Na nalezení zařízení v okolí, ke kterým se lze připojit přes Bluetooth
+\u0009\u0009 Zapněte a vypněte Wi-Fi
+\u0009\u0009Na objevení zařízení v okolí k přenášení přes Wi-Fi
+\u0009\u0009Nahrávání interního zvuku zařízení
+\u0009\u0009Pro přenos a přehrávání zvuku mezi zařízeními během přenášení a zrcadlení
+\u0009\u0009Přistupujte k fotkám, videím a zvukům uloženým v zařízení
+\u0009\u0009Na odesílání a přijímání přeneseného obsahu
+Pokud s udělením těchto povolení nesouhlasíte, nebudete moci tyto služby používat.
+Dostupné služby propojení se mohou lišit v závislosti na verzi vašeho systému a modelu zařízení. Více informací naleznete na %s"</string>
+      <string name="permission_authority_describe">Přístup k seznamu aplikací nainstalovaných v tomto zařízení</string>
+      <string name="permission_authority_describe_applist_summary">Pro správu povolení aplikace</string>
+      <string name="permission_get_imei_information_summary">K identifikaci času aktivace zařízení</string>
+      <string name="permission_number">Přístupové telefonní číslo</string>
+      <string name="permission_number_introduction">K vytvoření spojení Bluetooth se systémy auta a sluchátky Bluetooth</string>
+      <string name="permission_qualcomm_describe_summary">Pro dynamické přidělování systémových prostředků různým aplikacím a organizování jejich pracovních procesů</string>
+      <string name="permission_quality_describe_summary">Pro shromažďování informací o selháních aplikace</string>
+      <string name="permission_uniquely_identifiable_information">Přístup k jedinečným identifikátorům tohoto zařízení</string>
+      <string name="permission_uniquely_identifiable_information_summary">Přístup k MAC adrese a OAID zařízení pro zjišťování, připojení a komunikaci s jinými zařízeními</string>
+      <string name="permission_use_bluetooth">Použít Bluetooth</string>
+      <string name="permission_use_bluetooth_summary">Pro zjišťování, připojení a komunikaci se zařízeními v okolí</string>
+      <string name="permission_use_wlan">Použít Wi-Fi</string>
+      <string name="permission_use_wlan_summary">Pro zjišťování, připojení a komunikaci se zařízeními v okolí</string>
+      <string name="phone_service_introduction">Telefonie je základní služba, která vašemu zařízení umožňuje uskutečňovat hovory, odesílat a přijímat zprávy a připojovat se k síti.</string>
+      <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je služba, která spravuje systémové procesy.</string>
+      <string name="recommend_font">MiSans</string>
+      <string name="recommended_font_mark">Doporučuje se</string>
+      <string name="require_base_authority_statement">"Pro poskytování základních služeb jsou potřebná následující povolení:
+\u0009\u0009\u0009Přístup k IMEI a IMSI"</string>
+      <string name="require_basic_applist_and_authority_statement">Pro poskytování základních služeb jsou potřebná následující povolení:</string>
+      <string name="select_font_modele_tips">V části Témata si můžete kdykoli vybrat nové písmo</string>
+      <string name="service_name_authority">Správce povolení</string>
+      <string name="system_update_statement">Pro provedení aktualizace systému potřebujeme shromáždit IMEI zařízení, IMSI zařízení, identifikátory zařízení (OAID a šifrované Android ID), účet Xiaomi, výrobce zařízení, model zařízení, provozovatele sítě, zařízení paměť, verzi operačního systému, region , jazyk, konektivitu, typ sítě a IP adresu.</string>
+      <string name="system_update_title">Aktualizace systému</string>
+      <string name="terms_of_use_label_system_quality_monitoring">Monitorování kvality systému</string>
 </resources>

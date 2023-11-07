@@ -1171,4 +1171,24 @@ Postupujte dle pokynů"</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+	<string-array name="battery_indicator_style_summaries">
+         <item>Grafický</item>
+         <item>Procento (v ikoně)</item>
+         <item>Procento (vedle ikony)</item>
+         <item>Ukazatel úrovně</item>
+      </string-array>
+      <string-array name="notch_battery_indicator_style_summaries">
+         <item>Grafický</item>
+         <item>Procento (v ikoně)</item>
+         <item>Procento (vedle ikony)</item>
+      </string-array>
+      <string-array name="smart_device_control_entries">
+         <item>SmartHub</item>
+         <item>Smart Home</item>
+         <item>Žádný</item>
+      </string-array>
+      <string-array name="smart_home_entries">
+         <item>Smart Home</item>
+         <item>Žádný</item>
+      </string-array>
 </resources>
