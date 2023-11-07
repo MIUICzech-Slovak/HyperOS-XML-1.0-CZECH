@@ -15,6 +15,6 @@ For more info visit:
 - [CZECH&SLOVAK MIUI Fansite](http://miuios.cz)  
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translation XML checker http://translators.xiaomi.eu/XML_MIUI15-Czech-cz.html
+Translation XML checker http://translators.xiaomi.eu/XML_MIUI15-Czech-cs.html
 
 MIUI Translation: contact@miuios.cz

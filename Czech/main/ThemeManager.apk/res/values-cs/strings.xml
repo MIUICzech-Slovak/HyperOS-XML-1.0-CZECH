@@ -1434,8 +1434,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
       <string name="personalize_item_more_setting">Další nastavení</string>
       <string name="rain_probability_desc">Pravděpodobnost srážek: %s</string>
       <string name="resource_ringtone_too_large_waring">Soubory s vyzváněcími tóny musí mít %1$d MB nebo méně</string>
-      <string name="restore_default_change_wallpaper_when_special_lockscreen">"Momentálně používáte šablonu uzamčené obrazovky. Pokud budete pokračovat, vaše uzamčená obrazovka se obnoví na výchozí hodnotu a budou nahrazeny tapety na ploše a uzamčené obrazovce. > Použít nyní?"
-       <string name="restore_default_lock_style_apply_superwallpaper">"Tato šablona uzamčené obrazovky nepodporuje super tapety. Po použití se vaše uzamčená obrazovka vrátí na výchozí nastavení a vaše tapety na ploše a uzamčené obrazovce budou nahrazeny. Použít nyní?"</string
+      <string name="restore_default_change_wallpaper_when_special_lockscreen">"Momentálně používáte šablonu uzamčené obrazovky. Pokud budete pokračovat, vaše uzamčená obrazovka se obnoví na výchozí hodnotu a budou nahrazeny tapety na ploše a uzamčené obrazovce. Použít nyní?"</string>
+       <string name="restore_default_lock_style_apply_superwallpaper">"Tato šablona uzamčené obrazovky nepodporuje super tapety. Po použití se vaše uzamčená obrazovka vrátí na výchozí nastavení a vaše tapety na ploše a uzamčené obrazovce budou nahrazeny. Použít nyní?"</string>
       <string name="restore_default_lockscreen_when_special_lock_style">"Momentálně používáte šablonu uzamčené obrazovky. Pokud budete pokračovat, vaše uzamčená obrazovka se obnoví na výchozí hodnotu. Použít nyní?"</string>
       <string name="restore_history_lock_screen_when_apply_theme">"Momentálně používáte motiv třetí strany. Pokud změníte tapetu uzamčené obrazovky, může to způsobit, že hodiny na uzamčené obrazovce se obnoví na výchozí hodnoty. Použít nyní?"</string>
       <string name="somatosensory_temperature_format">Pocit jako %s°</string>

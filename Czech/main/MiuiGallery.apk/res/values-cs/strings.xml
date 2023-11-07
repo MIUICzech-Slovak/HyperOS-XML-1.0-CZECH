@@ -3180,6 +3180,5 @@ Nejlepší záběry byly vybrány automaticky. Další fotografie můžete přid
       <string name="segment_save_success">Uloženo do galerie</string>
       <string name="segment_send">Odeslat</string>
       <string name="segment_send_processing">Příprava k odeslání…</string>
-      <string name="stop_migration_ok">Zastavit</string>
       <string name="text_segment">Výřez z fotografie</string>
 </resources>
