@@ -184,8 +184,8 @@ přidáno do seznamu blokovaných"</string>
     <string name="delivery_report_activity">Potvrzení o doručení</string>
     <string name="delivery_toast_body">Zpráva pro %s doručena</string>
     <string name="dialog_complain_tips">Povolit Zprávam připojení k síti.</string>
-    <string name="dialog_message_fake_cell_detect_error">Upravit informace o této zprávě? MIUI odešlě číslo (%1$s), obsah zprávy a polohu na Xiaomi server.</string>
-    <string name="dialog_message_mx">Xiaomi Zprávy umožňují posílat SMS zprávy ostatním MIUI uživatelům bez poplatků. Pro jejich aktivaci je vyžadováno odeslání aktivační SMS. Musíte souhlasit s našimi \"%1$s\" a \"%2$s\".</string>
+    <string name="dialog_message_fake_cell_detect_error">Upravit informace o této zprávě? HyperOS odešlě číslo (%1$s), obsah zprávy a polohu na Xiaomi server.</string>
+    <string name="dialog_message_mx">Xiaomi Zprávy umožňují posílat SMS zprávy ostatním HyperOS uživatelům bez poplatků. Pro jejich aktivaci je vyžadováno odeslání aktivační SMS. Musíte souhlasit s našimi \"%1$s\" a \"%2$s\".</string>
     <string name="dialog_message_networking">SMS aplikace vyžaduje připojení na internet pro fungování cloudových zpráv.</string>
     <string name="dialog_message_sms_report">SPAM SMS a informace o odesílateli budou odeslány Xiaomi pro další analýzu.</string>
     <string name="dialog_title_fake_cell_detect_error">Upravit</string>
@@ -515,7 +515,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefonní číslo není správné</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Nelze aktivovat Cloudové zprávy</string>
     <string name="mx_and_voip_enable">MiZprávy</string>
-    <string name="mx_and_voip_enable_popup_msg">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakychkoliv poplatků.</string>
+    <string name="mx_and_voip_enable_popup_msg">Odesílejte MiZprávy ostatním uživatelům HyperOS bez jakychkoliv poplatků.</string>
     <string name="mx_and_voip_enable_popup_msg2">Ochrana soukromí</string>
     <string name="mx_auto_resend_mms">Auto. odeslání MMS</string>
     <string name="mx_auto_resend_mms_summary">Odeslat jako MMS, pokud Cloud zprávy nejsou dostupné. Bude zpoplatněno vaším operátorem.</string>
@@ -528,21 +528,21 @@ přidáno do seznamu blokovaných"</string>
     <string name="mx_btn_enable_now">Povolit</string>
     <string name="mx_count_dspt">Odeslali jste %1$d SMS a %2$d MMS přes cloud</string>
     <string name="mx_current_status">Další nastavení</string>
-    <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
-    <string name="mx_dspt_listview">Odeslat zprávy přes internet mezi uživateli MIUI zdarma</string>
-    <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli MIUI. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
-    <string name="mx_dspt_provision_ex">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakýchkoliv poplatků.</string>
+    <string name="mx_dspt">Poslat SMS přes internet pomocí HyperOS, pokud odeslání přes operátora selže</string>
+    <string name="mx_dspt_listview">Odeslat zprávy přes internet mezi uživateli HyperOS zdarma</string>
+    <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli HyperOS. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
+    <string name="mx_dspt_provision_ex">Odesílejte MiZprávy ostatním uživatelům HyperOS bez jakýchkoliv poplatků.</string>
     <string name="mx_dspt_provision_ex2">Ochrana soukromí</string>
     <string name="mx_enable">Zapnout cloudové zprávy</string>
     <string name="mx_enable_ex">MiZprávy</string>
-    <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat SMS přes MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>
+    <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat SMS přes HyperOS. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>
     <string name="mx_filter_message_from_stranger">Blokovat Cloudové zprávy z neznámých čísel</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Stále bude možné přijímat běžné SMS zprávy z neznámých čísel. Toto nastavení můžete kdykoliv změnit v nastavení zpráv.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Blokovat Cloudové zprávy z neznámých čísel</string>
     <string name="mx_filter_message_from_stranger_summary">Stále bude možné přijímat běžné SMS zprávy z neznámých čísel</string>
-    <string name="mx_main_purpose">Cloudové zprávy umožňují odesílat SMS jiným MIUI uživatelům.
+    <string name="mx_main_purpose">Cloudové zprávy umožňují odesílat SMS jiným HyperOS uživatelům.
 Pro aktivaci této služby bude odeslána bežná SMS."</string>
-    <string name="mx_main_purpose_short">Xiaomi Zprávy umožňují uživatelům MIUI odesílat SMS a MMS zprávy zdarma.</string>
+    <string name="mx_main_purpose_short">Xiaomi Zprávy umožňují uživatelům HyperOS odesílat SMS a MMS zprávy zdarma.</string>
     <string name="mx_message">Xiaomi Zprávy</string>
     <string name="mx_msg">Cloudová zpráva</string>
     <string name="mx_msg_pageview_setting_title">Nastavení Cloudových zpráv</string>
@@ -554,7 +554,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
     <string name="mx_recommend_msg">Povolte Cloud zprávy pro zasílání zpráv zdarma</string>
     <string name="mx_stranger_recommend_msg">Dotykem zablokujete Xiaomi zprávy z neznámých čísel</string>
-    <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
+    <string name="mx_type_guide">Cloudové zprávy umožňují HyperOS odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
     <string name="need_download">Čekání na synchr...</string>
     <string name="net_sms_subscribed">Úspěšné přihlášení</string>
     <string name="net_sms_unsubscribe">Úspěšné odhlášení</string>
@@ -680,7 +680,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="pref_title_fwd_sender_info">Kdo přeposlal</string>
     <string name="pref_title_hide_festival">Skrýt záložku Doporučené</string>
     <string name="pref_title_manage_sim_messages">Úložistě na SIM kartě</string>
-    <string name="pref_title_miui_card">Odeslat jako MIUI vizitku</string>
+    <string name="pref_title_miui_card">Odeslat jako HyperOS vizitku</string>
     <string name="pref_title_mms_auto_retrieval">Načítat MMS zprávy automaticky</string>
     <string name="pref_title_mms_delete">Limit MMS zpráv</string>
     <string name="pref_title_mms_read_reports">Potvrzení o přečtení</string>
@@ -749,7 +749,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="recipients_contain_sub_sim_number">"Vypadá to, že mezi příjemci je číslo ze sekundární SIM karty.  Tuto zprávu odešlete pomocí sekundární SIM."</string>
     <string name="recipients_over_size">Příliš mnoho příjemců.</string>
     <string name="recommend_bar_cancel">Ignorovat</string>
-    <string name="recommend_bar_message_mx">Xiaomi Zprávy umožňují posílat SMS zprávy ostatním MIUI uživatelům bez poplatků.</string>
+    <string name="recommend_bar_message_mx">Xiaomi Zprávy umožňují posílat SMS zprávy ostatním HyperOS uživatelům bez poplatků.</string>
     <string name="recommend_bar_message_smart_message">Kopírovat ověřovací kódy, sledovací čísla, atd.</string>
     <string name="recommend_bar_ok">Povolit</string>
     <string name="recommend_bar_title_mx_rcs">Xiaomi Zprávy</string>
@@ -757,7 +757,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="recommend_both_dialog_title">Vítejte ve Zprávách!</string>
     <string name="recommend_dialog_message">Můžete povolit Xiaomi Zprávy a Inteligentní zprávy pro přístup k dalším nastavením.</string>
     <string name="recommend_mx_dialog_title">Vítejte v Xiaomi Zprávách!</string>
-    <string name="recommend_mx_setting_summary">Xiaomi Zprávy umožňují posílat SMS zprávy ostatním uživatelům MIUI přes internet.</string>
+    <string name="recommend_mx_setting_summary">Xiaomi Zprávy umožňují posílat SMS zprávy ostatním uživatelům HyperOS přes internet.</string>
     <string name="recommend_smart_sms_dialog_title">Vítejte v Inteligentních zprávách!</string>
     <string name="recommend_smart_sms_setting_summary">Inteligentní zprávy poskytují rozpoznání názvu odesílatele.</string>
     <string name="recording_failed">Nelze nahrát</string>
@@ -1055,7 +1055,7 @@ Pokus: %s."</string>
     <string name="view_hms_details">Podrobnosti</string>
     <string name="view_message_details">Podrobnosti zprávy</string>
     <string name="voip_enable">MiZpráva a Hlas</string>
-    <string name="voip_enable_popup_msg">"Volejte ostatním uživatelům MIUI, aniž by vám váš operátor účtoval poplatky. VoIP zprostředkovává Weihui. Zobrazit zásady ochrany osobních údajů společnosti Weihui."</string>
+    <string name="voip_enable_popup_msg">"Volejte ostatním uživatelům HyperOS, aniž by vám váš operátor účtoval poplatky. VoIP zprostředkovává Weihui. Zobrazit zásady ochrany osobních údajů společnosti Weihui."</string>
     <string name="voip_enable_popup_msg2">Ochrana osobních údajů</string>
     <string name="wait_for_sp_mark_as_read">Načítání...</string>
     <string name="wap_push_title">"[WAP Push] "</string>

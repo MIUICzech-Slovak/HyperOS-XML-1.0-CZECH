@@ -52,7 +52,7 @@
     <string name="err_type_suggestion">Návrhy</string>
     <string name="err_type_system">Systém</string>
     <string name="err_type_system_summary">Paměť, výkon, atd.</string>
-    <string name="err_type_systemapp">MIUI apl.</string>
+    <string name="err_type_systemapp">HyperOS apl.</string>
     <string name="err_type_translate">Jazyk</string>
     <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">MiHome</string>
@@ -259,7 +259,7 @@
     <string name="reply">Odpovědět</string>
     <string name="reply_failed">Odpověď nebylo možné odeslat</string>
     <string name="reply_successful">Odpověď úspěšně odeslána</string>
-    <string name="report_miui">Nahlásit MIUI</string>
+    <string name="report_miui">Nahlásit HyperOS</string>
     <string name="request_empty_data">Žádná data</string>
     <string name="save_pic">Uložit</string>
     <string name="save_pic_fail">Obrázek nelze uložit, zkontrolujte SD kartu</string>
@@ -272,11 +272,11 @@
     <string name="select_system_app_tag">Vyberte štítky</string>
     <string name="submit_dialog_cancel">Zrušit</string>
     <string name="submit_dialog_confirm">Odeslat</string>
-    <string name="submit_dialog_content">Vaše připomínky spolu s přílohami a protokoly budou odeslány na servery MIUI. Mohou obsahovat osobní údaje.</string>
+    <string name="submit_dialog_content">Vaše připomínky spolu s přílohami a protokoly budou odeslány na servery HyperOS. Mohou obsahovat osobní údaje.</string>
     <string name="submit_dialog_title">Odeslat hlášení</string>
     <string name="submit_feedback_info_failed">Nelze odeslat hlášení</string>
     <string name="suggestion_description">Napište návrh na novou funkci (v angličtině)...</string>
-    <string name="system_app_select">MIUI apl.</string>
+    <string name="system_app_select">HyperOS apl.</string>
     <string name="systemui">Roletka</string>
     <string name="tab_title_chat">Časté dotazy</string>
     <string name="tab_title_my_reports">Moje hlášení</string>
@@ -288,8 +288,8 @@
     <string name="title_frequent_question_feedback_main">Časté dotazy</string>
     <string name="title_mi_family">Xiaomi Home v okolí</string>
     <string name="title_nonsystem_app">Jiné apl.</string>
-    <string name="title_same_question_feedback_main">Podobné problémy na MIUI fóru</string>
-    <string name="title_system_app">MIUI apl.</string>
+    <string name="title_same_question_feedback_main">Podobné problémy na HyperOS fóru</string>
+    <string name="title_system_app">HyperOS apl.</string>
     <string name="toast_description_required">Musíte zadat nějaký popis!</string>
     <string name="toast_feedback_collect_store">Vytváření záznamu...</string>
     <string name="toast_feedback_network_unavailable">Nelze se připojit k síti</string>

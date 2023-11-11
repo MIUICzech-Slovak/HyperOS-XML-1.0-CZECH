@@ -96,8 +96,8 @@
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="font_hint_large">Výchozí velikost textu</string>
     <string name="font_hint_normal">Zvětšit</string>
-    <string name="framework_introduction">Xiaomi Services Framework vám umožňuje využívat Xiaomi účet, Xiaomi Push, Xiaomi Statistiky a MIUI BI.</string>
-    <string name="framwork_base_service">Pro poskytnutí těchto služeb vyžadují Xiaomi Services Framework (Xiaomi účet, Xiaomi Push, Xiaomi Statistiky, MIUI BI) připojení k internetu, přístup k vašemu telefonnímu číslu, IMEI, IMSI a udělení povolení vašemu zařízení přijímat push oznámení.</string>
+    <string name="framework_introduction">Xiaomi Services Framework vám umožňuje využívat Xiaomi účet, Xiaomi Push, Xiaomi Statistiky a HyperOS BI.</string>
+    <string name="framwork_base_service">Pro poskytnutí těchto služeb vyžadují Xiaomi Services Framework (Xiaomi účet, Xiaomi Push, Xiaomi Statistiky, HyperOS BI) připojení k internetu, přístup k vašemu telefonnímu číslu, IMEI, IMSI a udělení povolení vašemu zařízení přijímat push oznámení.</string>
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
@@ -208,7 +208,7 @@
     <string name="other_settings_ad_dialog_agree">Povolit</string>
     <string name="other_settings_ad_dialog_content">"Po vypnutí této funkce nebude zobrazování reklam vypnuto. Pouze již nebudete přijímat reklamy přizpůsobené tomu, co vás zajímá. Více o funkci přizpůsobených reklam najdete v Zásadách ochrany osobních údajů Xiaomi.
 Chcete přizpůsobení reklam přesto vypnout?"</string>
-    <string name="other_settings_ad_dialog_content_for_global">"Když jsou personalizovaná doporučení reklam vypnutá, uvidíte v aplikacích systému MIUI stále stejné množství reklam, jako když je tato funkce zapnutá. Reklamy od Xiaomi a platforem třetích stran však již nebudou relevantní, protože nebudou založeny na vašich osobních preferencích."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Když jsou personalizovaná doporučení reklam vypnutá, uvidíte v aplikacích systému HyperOS stále stejné množství reklam, jako když je tato funkce zapnutá. Reklamy od Xiaomi a platforem třetích stran však již nebudou relevantní, protože nebudou založeny na vašich osobních preferencích."</string>
     <string name="other_settings_ad_dialog_disagree">Vypnout</string>
     <string name="other_settings_ad_disable_summary">Zapnout přizpůsobení reklam</string>
     <string name="other_settings_ad_enable">Přizpůsobené reklamy</string>
@@ -218,8 +218,8 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="other_settings_alarm_assistance_summary">"Informace o své poloze můžete policii odeslat pomocí SMS nebo mobilních dat automaticky, když voláte na číslo 110, 120, 119 nebo 122. Přečtěte si naší &lt;a href=\" %1$s\ ">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobních údajů&lt;/a> před použitím této funkce."</string>
     <string name="other_settings_alarm_assistance_user">Smlouva s uživatelem</string>
     <string name="other_settings_auto_update">Automatické aktualizace systému</string>
-    <string name="other_settings_auto_update_summary">Nové aktualizace MIUI stáhněte na adrese HyperOS.cz/rom a nainstalujete v aplikací Aktualizace - Menu (3 tečky) - Vybrat zip.</string>
-    <string name="other_settings_auto_update_summary_v1">Umožněte MIUI vybrat nejlepší čas na stáhnutí a instalaci aktualizací. Vaše zařízení se pro uplatnění změn automaticky restartuje.</string>
+    <string name="other_settings_auto_update_summary">Nové aktualizace HyperOS stáhněte na adrese HyperOS.cz/rom a nainstalujete v aplikací Aktualizace - Menu (3 tečky) - Vybrat zip.</string>
+    <string name="other_settings_auto_update_summary_v1">Umožněte HyperOS vybrat nejlepší čas na stáhnutí a instalaci aktualizací. Vaše zařízení se pro uplatnění změn automaticky restartuje.</string>
     <string name="other_settings_enhanced_lockscreen">Denní tapeta</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Zásady ochrany osobních údajů</string>
     <string name="other_settings_enhanced_lockscreen_summary">Získávejte vybrané obrázky a příběhy do vašeho zařízení každý den. %1$s a %2$s</string>
@@ -228,15 +228,15 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="other_settings_get_apps_summary">Aktualizujte systém a aplikace třetích stran, aby jste mohli používat jejich nejnovější funkce.</string>
     <string name="other_settings_location">Přístup k poloze</string>
     <string name="other_settings_location_summary">Povolit aplikacím přístup k vaší poloze</string>
-    <string name="other_settings_quality_service">Oprávnění MIUI Daemon</string>
-    <string name="other_settings_quality_service_summary">MIUI Daemon se používá ke zlepšení stability a výkonu systému. Aby tato služba mohla normálně fungovat, potřebuje oprávnění k přístupu a ukládání položek do úložiště zařízení.</string>
-    <string name="other_settings_upload_debug_log_detail">"Pomožte vylepšit své zážitky se zařízením MIUI automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi. Pomůže to zlepšit výdrž baterie, systém MIUI a stabilitu aplikací.</string>
+    <string name="other_settings_quality_service">Oprávnění HyperOS Daemon</string>
+    <string name="other_settings_quality_service_summary">HyperOS Daemon se používá ke zlepšení stability a výkonu systému. Aby tato služba mohla normálně fungovat, potřebuje oprávnění k přístupu a ukládání položek do úložiště zařízení.</string>
+    <string name="other_settings_upload_debug_log_detail">"Pomožte vylepšit své zážitky se zařízením HyperOS automatickým odesíláním diagnostických údajů, údajů o používání zařízení a aplikací do společnosti Xiaomi. Pomůže to zlepšit výdrž baterie, systém HyperOS a stabilitu aplikací.</string>
     <string name="other_settings_upload_debug_log_summary">Statistiky o využití dat, které nám pomohou lokalizovat a vyřešit problémy, mohou obsahovat vaše osobní informace</string>
     <string name="other_settings_upload_debug_log_title">Odesílat diagnostická data automaticky</string>
     <string name="other_settings_user_experience">Optimalizace na základě uživatelské zkušenosti</string>
     <string name="other_settings_user_experience_summary">Pomozte nám vylepšit naše produkty a služby sdílením statistik o využívání vašich dat. Zobrazit podrobnosti</string>
     <string name="other_settings_user_experience_summary_index">Zobrazit podrobnosti</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje přenášet data z vašeho zařízení, když je poškozena jeho obrazovka.</string>
+    <string name="permission_HyperOSDaemon_introduction">HyperOS Daemon umožňuje přenášet data z vašeho zařízení, když je poškozena jeho obrazovka.</string>
     <string name="permission_access_calendar">Přístup ke kalendáři</string>
     <string name="permission_access_calendar_fast_application_summary">K umožnění přístupu rychlých aplikací ke kalendáři;</string>
     <string name="permission_account">Přístup k účtům na vašem zařízení:</string>
@@ -251,7 +251,7 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="permission_clock_info_introduction">Ukládání dat z nastavených budíků</string>
     <string name="permission_contact">Přístup ke kontaktům:</string>
     <string name="permission_contact_describe">Přístup ke kontaktům</string>
-    <string name="permission_contact_describe_MIUIDaemon_summary">Pro ověření vaší identity.</string>
+    <string name="permission_contact_describe_HyperOSDaemon_summary">Pro ověření vaší identity.</string>
     <string name="permission_contact_describe_bluetooth_summary">Pro umožnění přístupu ke kontaktům vašim dalším kompatibilním zařízením, která k tomuto zařízení připojíte. Stane se tak pouze tehdy, když zapnete Bluetooth nebo upravíte své kontakty při zapnutém Bluetooth.</string>
     <string name="permission_contact_describe_desktop_summary">Pro používání funkce nouzového kontaktu na ploše ve zjednodušeném režimu a zobrazování upozornění na konverzaci;</string>
     <string name="permission_contact_describe_message_summary">Pro zobrazení odpovídajících kontaktních informací SMS a MMS.</string>
@@ -415,7 +415,7 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="servicestate_title">Prohlášení o základních službách</string>
     <string name="setting_locale">Nastavení regionu…</string>
     <string name="shut_down">Vypnout</string>
-    <string name="sim_activation_introduction">Služba aktivace SIM karty ověří informace o aktuální vložené SIM kartě, pro ujištění, že služby MIUI mohou fungovat normálně. Tyto služby zahrnují Vyhledání zařízení, vytváření Xiaomi účtů pomocí telefonních čísel a synchronizaci zpráv a historie hovorů.</string>
+    <string name="sim_activation_introduction">Služba aktivace SIM karty ověří informace o aktuální vložené SIM kartě, pro ujištění, že služby HyperOS mohou fungovat normálně. Tyto služby zahrnují Vyhledání zařízení, vytváření Xiaomi účtů pomocí telefonních čísel a synchronizaci zpráv a historie hovorů.</string>
     <string name="sim_card_detecting">Vyhledávání SIM karty…</string>
     <string name="sim_card_detecting_check">SIM karta nebyla nalezena. Ujistěte se, že je SIM karta správně vložena a že zůstatek na ní je dostačující.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Povolit připojení k mobilní datové síti? Pokud tuto možnost povolíte, vložená SIM karta bude využita pro připojení k mobilní datové síti.</string>
@@ -454,7 +454,7 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="terms_of_use">Pravidla a podmínky</string>
     <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
     <string name="terms_of_use_label">"Přečtěte si naše Smluvní podmínky a Zásady ochrany osobních údajů, abyste věděli, jaké informace shromažďujeme, jakým způsobem je využíváme a jaké možnosti rozhodování v tomto procesu máte.
-Abyste mohli využívat služeb MIUI, musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů.
+Abyste mohli využívat služeb HyperOS, musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů.
 %s a komponenty Xiaomi účtu se přihlásí k internetu pro získání informací o vaší poloze."</string>
     <string name="terms_of_use_label_Mistore">, systémové plug-iny Xiaomi Store</string>
     <string name="terms_of_use_label_RMS">Správce povolení</string>
@@ -486,10 +486,10 @@ Abyste mohli využívat služeb MIUI, musíte nejprve souhlasit s našimi Smluvn
     <string name="terms_of_use_label_systemhelper">, Služby s vlastní registrací</string>
     <string name="terms_of_use_label_translation">Překladatelská služba</string>
     <string name="terms_of_use_label_updater">, Aktualizace</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Před použitím MIUI si musíte přečíst a souhlasit s našimi Podmínkami používání a Ochranou soukromí. Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Když je vaše zařízení aktivováno, následující služby se připojí k síti a získají přístup k vaší poloze:</string>
-    <string name="terms_of_use_label_use_network_china">Před použitím MIUI si musíte přečíst a souhlasit s našimi Podmínkami používání a Ochranou soukromí. Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Když je vaše zařízení aktivováno, k síti se připojí následující služby:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Před použitím HyperOS si musíte přečíst a souhlasit s našimi Podmínkami používání a Ochranou soukromí. Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Když je vaše zařízení aktivováno, následující služby se připojí k síti a získají přístup k vaší poloze:</string>
+    <string name="terms_of_use_label_use_network_china">Před použitím HyperOS si musíte přečíst a souhlasit s našimi Podmínkami používání a Ochranou soukromí. Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Když je vaše zařízení aktivováno, k síti se připojí následující služby:</string>
     <string name="terms_of_use_label_wallpaper">Tapeta</string>
-    <string name="terms_of_use_lable_apps">Xiaomi služby, Služby aktivace Xiaomi SIM karty, Xiaomi Cloud, Najít zařízení, Domovská obrazovka, Hry, MIUI Daemon, systémové komponenty MSA, Překladatelské služby, Rychlé aplikace, Aplikační trezor, statistiky, Xiaomi Link</string>
+    <string name="terms_of_use_lable_apps">Xiaomi služby, Služby aktivace Xiaomi SIM karty, Xiaomi Cloud, Najít zařízení, Domovská obrazovka, Hry, HyperOS Daemon, systémové komponenty MSA, Překladatelské služby, Rychlé aplikace, Aplikační trezor, statistiky, Xiaomi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Xiaomi služby, MiCloud, Vyhledávání zařízení, Plocha, Hry.</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"r
 r
@@ -516,10 +516,10 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="tuesday_short">Úte</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="user_agreement">Smluvní podmínky</string>
-    <string name="user_agreement_declare">Před použitím MIUI musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů. Během aktivace zařízení se Služby aktivace Xiaomi SIM, Domovská obrazovka, Častá slovní spojení, Překladatelské služby, MIUI Daemon a aplikace Aktualizace připojí k internetu. MSA se také připojí k internetu pro získání informací o vaší poloze.</string>
-    <string name="user_agreement_declare_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
-    <string name="user_agreement_declare_wifi_device">Před používaním MIUI, musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Před používáním MIUI, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
+    <string name="user_agreement_declare">Před použitím HyperOS musíte nejprve souhlasit s našimi Smluvními podmínkami a Zásadami ochrany osobních údajů. Během aktivace zařízení se Služby aktivace Xiaomi SIM, Domovská obrazovka, Častá slovní spojení, Překladatelské služby, HyperOS Daemon a aplikace Aktualizace připojí k internetu. MSA se také připojí k internetu pro získání informací o vaší poloze.</string>
+    <string name="user_agreement_declare_gmscore">Před používáním HyperOS, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
+    <string name="user_agreement_declare_wifi_device">Před používaním HyperOS, musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
+    <string name="user_agreement_declare_wifi_device_gmscore">Před používáním HyperOS, musíte odsouhlasit naše Podmínky používání a Ochranu soukromí.</string>
     <string name="voice_assist_advice">K ovládání Xiaomi AI můžete využít hlasové ovládání, které však spotřebovává více energie (+1% každou hodinu).</string>
     <string name="voice_assist_condition">"V následujících případech budete moci využít MI AI:r
 1. Když je obrazovka zapnuta.r

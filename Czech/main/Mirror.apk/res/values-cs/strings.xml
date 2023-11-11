@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="actionbar_button_up_description">Zpět</string>
-    <string name="app_name">MIUI+</string>
+    <string name="app_name">HyperOS+</string>
     <string name="cancel">Zrušit</string>
     <string name="cast_mcc_tips_button_cancel">Ignorovat</string>
     <string name="cast_mcc_tips_button_ok">Nastavení</string>
-    <string name="cast_mcc_tips_message">Chcete-li předejít prodlevám při používání MIUI+, připojte obě zařízení ke stejné síti Wi-Fi.</string>
+    <string name="cast_mcc_tips_message">Chcete-li předejít prodlevám při používání HyperOS+, připojte obě zařízení ke stejné síti Wi-Fi.</string>
     <string name="cast_mcc_tips_title">Změnit nastavení Wi-Fi</string>
     <string name="clearable_edittext_clear_description">Vyčistit</string>
     <string name="clipboard_tip">Zkopírované z %1$s</string>
@@ -32,10 +32,10 @@
     <string name="download_succeeded_title">Přijato %1$s</string>
     <string name="downloading">Stahování...</string>
     <string name="enable_wifi_alert_cancel">Zrušit</string>
-    <string name="enable_wifi_alert_message">MIUI+ potřebuje Wi-Fi pro připojení k PC. Chcete zapnout Wi-Fi?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ potřebuje Wi-Fi pro připojení k PC. Chcete zapnout Wi-Fi?</string>
-    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ vám umožňuje plynule přepínat mezi zařízeními, když potřebujete upravit fotografie pořízené telefonem na tabletu. Zapnout Wi-Fi pro spuštění Přenášení?</string>
-    <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ vám umožňuje plynule přepínat mezi zařízeními, když potřebujete upravit fotografie pořízené telefonem na tabletu. Chcete-li použít předávání, zapnout Wi-Fi?</string>
+    <string name="enable_wifi_alert_message">HyperOS+ potřebuje Wi-Fi pro připojení k PC. Chcete zapnout Wi-Fi?</string>
+    <string name="enable_wifi_alert_message_china">HyperOS+ potřebuje Wi-Fi pro připojení k PC. Chcete zapnout Wi-Fi?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">HyperOS+ vám umožňuje plynule přepínat mezi zařízeními, když potřebujete upravit fotografie pořízené telefonem na tabletu. Zapnout Wi-Fi pro spuštění Přenášení?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay_china">HyperOS+ vám umožňuje plynule přepínat mezi zařízeními, když potřebujete upravit fotografie pořízené telefonem na tabletu. Chcete-li použít předávání, zapnout Wi-Fi?</string>
     <string name="enable_wifi_alert_ok">Zapnout</string>
     <string name="enable_wifi_alert_title">Zapnout Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Zapnout Wi-Fi</string>
@@ -78,7 +78,7 @@
     <string name="guide_window_title">Zpět</string>
     <string name="http_buffer_size">Velikost HTTP cache</string>
     <string name="invisible_mode_dialog_cancel">Zrušit</string>
-    <string name="invisible_mode_dialog_message">"V režimu inkognito není možné použít kombinaci obrazovky MIUI+. Nejprve vypněte režim inkognito."</string>
+    <string name="invisible_mode_dialog_message">"V režimu inkognito není možné použít kombinaci obrazovky HyperOS+. Nejprve vypněte režim inkognito."</string>
     <string name="invisible_mode_dialog_positive">Vypnout</string>
     <string name="invisible_mode_dialog_title">„Jste inkognito“</string>
     <string name="invisible_mode_toast">Nejprve vypněte režim inkognito</string>
@@ -91,8 +91,8 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="login_xiaomi_account_goto_login">Přihlásit se</string>
     <string name="login_xiaomi_account_summary_phone">Chcete-li se připojit k jiným tabletům, použijte stejný Xiaomi účet na obou připojených zařízeních. Přihlásit se teď?</string>
     <string name="login_xiaomi_account_title">Přihlaste se do Xiaomi účtu</string>
-    <string name="low_version_dialog_message">Aktualizujte MIUI+ ve vašem PC z plus.miui.com</string>
-    <string name="low_version_dialog_title">Aktualizujte MIUI+</string>
+    <string name="low_version_dialog_message">Aktualizujte HyperOS+ ve vašem PC z plus.miui.com</string>
+    <string name="low_version_dialog_title">Aktualizujte HyperOS+</string>
     <string name="message_log">Záznamy</string>
     <string name="mirror_to_float_window_mode">Přepnout na plovoucí okno</string>
     <string name="mirror_to_full_screen_mode">Přepnout do režimu celé obrazovky</string>
@@ -195,7 +195,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="pad_settings_connect_pad_group">Práce s tabletem</string>
     <string name="pad_settings_connect_pc_group">Práce s počítačem</string>
     <string name="pad_settings_connect_phone_group">Práce s telefonem</string>
-    <string name="pad_settings_connect_summary1">Stáhněte si a nainstalujte MIUI+ do počítače: www.miui.com</string>
+    <string name="pad_settings_connect_summary1">Stáhněte si a nainstalujte HyperOS+ do počítače: www.miui.com</string>
     <string name="pad_settings_connect_summary2">Naskenujte pomocí mobilního zařízení QR kód na obrazovce počítače. K tomu můžete použít několik systémových aplikací (např. Scanner, Camera, Xiaomi Browser).</string>
     <string name="pad_settings_current_device_tip">Automaticky se připojte k dalším tabletům spojeným s vaším účtem Xiaomi</string>
     <string name="pad_settings_feature_characteristics_summary_1">Zkopírujte text do svého mobilního zařízení a vložte jej do počítače, přidejte obrázky a synchronizujte úpravy v dokumentech.</string>
@@ -228,7 +228,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="pad_settings_pc_use_tile">O této funkci</string>
     <string name="pad_settings_phone_handoff_summary">Používejte předávání s aplikacemi, schránkou, videi a dalšími položkami na druhém zařízení přidruženém k vašemu účtu Mi</string>
     <string name="pad_settings_phone_handoff_title">Předávání</string>
-    <string name="pad_settings_scanner_summary">Připojte se k MIUI+ pomocí QR kódu</string>
+    <string name="pad_settings_scanner_summary">Připojte se k HyperOS+ pomocí QR kódu</string>
     <string name="pad_settings_trusted_delete_dialog_msg">"Po odebrání ze seznamu se k tomuto zařízení nebudete moci automaticky připojit."</string>
     <string name="pad_settings_trusted_tips">Připojte se automaticky k vybraným zařízením v okolí, když je zapnuto Bluetooth a Wi-Fi</string>
     <string name="pad_settings_trusted_tips_china">Připojte se automaticky k vybraným zařízením v okolí, když je zapnuto Bluetooth a Wi-Fi</string>
@@ -264,12 +264,12 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="phone_pc_message_introduction_title">Sdílená schránka</string>
     <string name="phone_settings_current_device_tip">Automaticky se připojte k dalším telefonům spojeným s vaším účtem Xiaomi</string>
     <string name="preference_copied">\"%1$s\" zkopírováno do schránky.</string>
-    <string name="privacy_all_purpose">Vítejte v MIUI+! Tato aplikace vám umožňuje přenášet soubory a ovládat váš telefon přes PC.</string>
+    <string name="privacy_all_purpose">Vítejte v HyperOS+! Tato aplikace vám umožňuje přenášet soubory a ovládat váš telefon přes PC.</string>
     <string name="privacy_describe_change_wifi_state">Pro připojení zařízení a přenos souborů přes Wi-Fi</string>
     <string name="privacy_describe_location">Pro vyhledání PC v blízkosti a přenos souborů</string>
     <string name="privacy_describe_record_audio">Pro přesměrování přehrávání zvuků do PC</string>
     <string name="privacy_describe_storage">Pro odesílání a přijímání souborů</string>
-    <string name="privacy_pad_all_purpose">Vítejte v MIUI+! Pomocí této aplikace můžete spojit svá mobilní zařízení do jedné pracovní stanice. MIUI+ vám umožňuje používat aplikace z telefonu na tabletu, přijímat hovory na jiném zařízení, používat sdílenou schránku, přenášet položky a odesílat obsah obrazovky.</string>
+    <string name="privacy_pad_all_purpose">Vítejte v HyperOS+! Pomocí této aplikace můžete spojit svá mobilní zařízení do jedné pracovní stanice. HyperOS+ vám umožňuje používat aplikace z telefonu na tabletu, přijímat hovory na jiném zařízení, používat sdílenou schránku, přenášet položky a odesílat obsah obrazovky.</string>
     <string name="privacy_pad_describe_change_wifi_state">Pro odesílání obsahu obrazovky</string>
     <string name="privacy_pad_describe_record_audio">Pro přenos přehrávání zvuku do jiného zařízení během odesílání</string>
     <string name="privacy_pad_describe_storage">Pro přenos položek mezi zařízeními</string>
@@ -282,7 +282,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
     <string name="save_failed">Nebylo možné uložit</string>
-    <string name="scanner_lower_version_toast">Pro připojení aktualizujte MIUI+ na svém počítači</string>
+    <string name="scanner_lower_version_toast">Pro připojení aktualizujte HyperOS+ na svém počítači</string>
     <string name="scanner_uninstalled_text">Aplikace Skener není nainstalovaná ve vašem zařízení.</string>
     <string name="scanner_uninstalled_title">Instalovat Skener</string>
     <string name="screen_num_over_limit">"Nelze otevřít více oken"</string>
@@ -296,7 +296,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
         <u>Pomoc</u>
     </string>
     <string name="settings_connect_pc_group">Práce s počítačem</string>
-    <string name="settings_connect_summary1">Otevřte \"MiSmart Share\" na vašem PC a vyberte \"MIUI+\". \"Xiaomi Smart Share\" můžete stáhnout z https://pc.mi.com/aiot.</string>
+    <string name="settings_connect_summary1">Otevřte \"MiSmart Share\" na vašem PC a vyberte \"HyperOS+\". \"Xiaomi Smart Share\" můžete stáhnout z https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Načtěte QR kód z vašeho PC mobilním telefonem.</string>
     <string name="settings_connect_title1">Krok 1</string>
     <string name="settings_connect_title2">Krok 2</string>
@@ -313,7 +313,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="settings_feature_dnd_title">Režim Nerušit</string>
     <string name="settings_feature_files_drag_summary">Podržte a přetáhněte položky pro jejich přenesení mezi zařízeními</string>
     <string name="settings_feature_files_drag_title">Přenos souborů</string>
-    <string name="settings_feature_intro">O MIUI+</string>
+    <string name="settings_feature_intro">O HyperOS+</string>
     <string name="settings_feature_keep_screen_summary">Ponechte odemknutý telefon pro zamezení náhodného odpojení</string>
     <string name="settings_feature_keep_screen_title">Nezamykat displej</string>
     <string name="settings_feature_multi_window_summary">Klikněte pravým tlačítkem na displej vašeho telefonu pro otevření dalšího okna</string>
@@ -328,11 +328,11 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="settings_history_none">Žádné položky</string>
     <string name="settings_history_today_connect_time">Dnes %1$s</string>
     <string name="settings_history_yesterday_connect_time">Včera %1$s</string>
-    <string name="settings_home">MIUI+</string>
+    <string name="settings_home">HyperOS+</string>
     <string name="settings_home_device_disconnect">Odpojit</string>
     <string name="settings_home_device_group">Připojené zařízení</string>
     <string name="settings_home_sub_title">Zkombinujte váš telefon a PC do jednoho zařízení</string>
-    <string name="settings_home_tips">MIUI+ zobrazí kopii vašeho telefonu na obrazovce vašeho PC.</string>
+    <string name="settings_home_tips">HyperOS+ zobrazí kopii vašeho telefonu na obrazovce vašeho PC.</string>
     <string name="settings_how_use">Navázání spojení</string>
     <string name="settings_log_options">Záznamy</string>
     <string name="settings_more_help">Pomoc</string>
@@ -341,13 +341,13 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="settings_pc">Počítač</string>
     <string name="settings_pc_history_title">Historie připojení</string>
     <string name="settings_pc_trusted_title">Připojit automaticky</string>
-    <string name="settings_pc_use_tile">O MIUI+</string>
+    <string name="settings_pc_use_tile">O HyperOS+</string>
     <string name="settings_permission_description">Podrobnosti o povoleních</string>
     <string name="settings_phone">Telefon</string>
     <string name="settings_phone_handoff_title">Připojit automaticky</string>
     <string name="settings_privacy_policy">Ochrana soukromí</string>
     <string name="settings_scanner_button">Skenovat</string>
-    <string name="settings_scanner_summary">Připojení MIUI+ prostřednictvím QR kódu</string>
+    <string name="settings_scanner_summary">Připojení HyperOS+ prostřednictvím QR kódu</string>
     <string name="settings_trusted">Připojit automaticky</string>
     <string name="settings_trusted_delete">Odebrat</string>
     <string name="settings_trusted_delete_dialog_msg">Po odstranění ze seznamu se k tomuto zařízení nebudete moci připojit automaticky.</string>
@@ -402,7 +402,7 @@ pokračovat"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="worker_authorization_loading">Načítání...</string>
-    <string name="worker_authorization_message">MIUI+ vám umožňuje přenášet soubory a ovládat váš telefon pomocí PC.</string>
+    <string name="worker_authorization_message">HyperOS+ vám umožňuje přenášet soubory a ovládat váš telefon pomocí PC.</string>
     <string name="worker_authorization_title">Připojit?</string>
     <string name="worker_authorization_trusted">Vždy připojit</string>
     <string name="worker_authorization_trusted_only_once">Připojit jen jednout</string>
@@ -416,11 +416,11 @@ pokračovat"</string>
     <string name="worker_try_join_in_connected_state">Připojeno</string>
     <string name="worker_try_join_in_connecting_state">Připojování zařízení...</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Toto zařízení je nyní připojeno k jinému zařízení. Počkejte minutu nebo dvě a zkuste to znovu.</string>
-    <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k MIUI+"</string>
+    <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k HyperOS+"</string>
     <string name="yesterday">Včera</string>
 	<string name="pad_pc_share_introduction_summary">"Používejte s tímto tabletem myš a klávesnici počítače"</string>
 	<string name="pad_pc_share_introduction_title">Vstupní zařízení</string>
-	<string name="pc_settings_current_device_tip">Automaticky se připojit k počítači s otevřeným MIUI+ a přihlášeným ke stejnému účtu Xiaomi</string>
+	<string name="pc_settings_current_device_tip">Automaticky se připojit k počítači s otevřeným HyperOS+ a přihlášeným ke stejnému účtu Xiaomi</string>
 	<string name="privacy_describe_change_wifi_state_china">Pro připojení zařízení a přenos souborů pomocí Wi-Fi</string>
 	<string name="settings_pc_handoff_title">Připojit k počítači</string>
 	<string name="share_pc_abort_dialog_message_china">Ujistěte se, že jsou na obou zařízeních zapnuty Bluetooth a Wi-Fi a spusťte relaci znovu na počítači.</string>

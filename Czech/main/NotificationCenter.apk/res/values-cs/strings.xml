@@ -135,15 +135,15 @@
     <string name="mune_setting_prefix_category">"Seskupit s "</string>
     <string name="not_sent_recently">Žádná v nedávné době</string>
     <string name="notch_and_status_bar_setting">Výřez a lišta upozornení</string>
-    <string name="notification_aggregate_description1">MIUI může automaticky vytvořit skupinu pro reklamní upozornení.</string>
+    <string name="notification_aggregate_description1">HyperOS může automaticky vytvořit skupinu pro reklamní upozornení.</string>
     <string name="notification_aggregate_description2">Naše algoritmy analyzují obsah upozornění a neaplikují tuto funkci pro důležité upozornení a od chatovacích aplikací.</string>
-    <string name="notification_aggregate_summary">Povolte MIUI automaticky seskupit upozornení</string>
+    <string name="notification_aggregate_summary">Povolte HyperOS automaticky seskupit upozornení</string>
     <string name="notification_aggregate_summary_inner">Povolte pro vytvoření skupiny pro reklamní upozornení</string>
     <string name="notification_aggregate_title">Skupina pro upozornení</string>
     <string name="notification_display_setting">Oznamovací roletka</string>
     <string name="notification_display_style">Styl oznámení</string>
-    <string name="notification_fold_description1">Složka oznámení byla zavedena v MIUI 9. Tato funkce filtruje nedůležitá oznámení a umísťuje je do samostatné složky.</string>
-    <string name="notification_fold_description2">MIUI si zapamatuje, na která oznámení klepnete, a poté pomocí několika kritérií určí, zda jsou důležitá.</string>
+    <string name="notification_fold_description1">Složka oznámení byla zavedena v HyperOS 9. Tato funkce filtruje nedůležitá oznámení a umísťuje je do samostatné složky.</string>
+    <string name="notification_fold_description2">HyperOS si zapamatuje, na která oznámení klepnete, a poté pomocí několika kritérií určí, zda jsou důležitá.</string>
     <string name="notification_fold_description3">"Pokud oznámení, která považujete za důležitá, stále chodí do složky Oznámení, nezapomeňte nám takové problémy nahlásit. Budeme rádi za vaši zpětnou vazbu."</string>
     <string name="notification_fold_footer_icon_summary">Zobrazit ikony aplikací, když jsou seskupena nedůležitá oznámení</string>
     <string name="notification_fold_footer_icon_title">Zobrazit ikony aplikací</string>
@@ -156,7 +156,7 @@
     <string name="notification_setting_menu_feedback_text">"Toto upozornení by nemělo být tady?
 Nahlašte tento problém &gt;"</string>
     <string name="notification_style_android">Android</string>
-    <string name="notification_style_miui">MIUI</string>
+    <string name="notification_style_miui">HyperOS</string>
     <string name="off">Vypnuto</string>
     <string name="on">Zapnuto</string>
     <string name="rule_keyguard_display">Formát</string>
@@ -180,7 +180,7 @@ Nahlašte tento problém &gt;"</string>
     <string name="summary_enable_lockscreen_notification">Oznámení na Zamykací obrazovce jsou povolena</string>
     <string name="summary_enable_show_badge_notification">Bubliny oznámení jsou povoleny</string>
     <string name="summary_float_enable_notification_first">Pro plovoucí oznámení nejprve povolte zobrazování oznámení</string>
-    <string name="summary_fold_importance_default">MIUI bude rozhodovat která upozornění budou zobrazená přímo</string>
+    <string name="summary_fold_importance_default">HyperOS bude rozhodovat která upozornění budou zobrazená přímo</string>
     <string name="summary_fold_importance_important">Upozornění bude zobrazené v roletce</string>
     <string name="summary_fold_importance_unimportant">Upozornění bude zobrazené ve složce</string>
     <string name="summary_lock_screen_enable_notification_first">Pro oznámení na Zamykací obrazovce nejprve povolte zobrazování oznámení</string>

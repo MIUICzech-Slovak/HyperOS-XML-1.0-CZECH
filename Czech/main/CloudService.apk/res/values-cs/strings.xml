@@ -845,7 +845,7 @@ Využito %s | Zbývá %s"</string>
     <string name="month_september_shortest">Z</string>
     <string name="more_activity_in_upgrade_space">Více na &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
     <string name="mx_dspt">Cloud zprávy</string>
-    <string name="mx_dspt_provision">"Cloudové zprávy můžete posílat zdarma mezi uživateli MIUI.
+    <string name="mx_dspt_provision">"Cloudové zprávy můžete posílat zdarma mezi uživateli HyperOS.
 
 Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
     <string name="mx_dspt_provision_privacy">"Tato služba vyžaduje vaše telefonní číslo. Bude odeslána mezinárodní SMS pro aktivaci.
@@ -1135,8 +1135,8 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS a historii hovorů. Přo přístup k zálohovaným údajům navštivte %s.</string>
     <string name="sync_dspt_entrance_provision_2">Více</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívat</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">Aplikace MIUI využívají MiCloud pro zálohu fotografií, kontaktů, poznámek a mnohem více. MiCloud je dostupný zdarma pro všechny.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">MIUI aplikace potřebují Xiaomi Cloud pro zálohování vašich fotografií, SMS, poznámek a více.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Aplikace HyperOS využívají MiCloud pro zálohu fotografií, kontaktů, poznámek a mnohem více. MiCloud je dostupný zdarma pro všechny.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">HyperOS aplikace potřebují Xiaomi Cloud pro zálohování vašich fotografií, SMS, poznámek a více.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Použít MiCloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívat MiCloud?</string>
     <string name="sync_dspt_entrance_provision_network">Tato aplikace vyžaduje připojení k síti pro její správnou funkčnost.</string>

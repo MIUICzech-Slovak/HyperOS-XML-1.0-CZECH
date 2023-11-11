@@ -31,7 +31,7 @@
     <string name="app_name_downloads">Staženo</string>
     <string name="app_name_market">Obchod</string>
     <string name="app_name_midrop">MiDrop</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">HyperOS</string>
     <string name="app_name_miuimusic">Hudba</string>
     <string name="app_name_miuiringtone">Zvonění</string>
     <string name="app_name_miuiwallpaper">Tapety</string>
@@ -286,7 +286,7 @@
     <string name="encrypt_success">Úspěšně skryto</string>
     <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
     <string name="encrypting">Šifrování...</string>
-    <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /MIUI/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
+    <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /HyperOS/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
     <string name="error_filename_contain_illegal_char">„Názvy souborů obsahují speciální znaky“</string>
     <string name="error_filename_contain_space">"Názvy nelze měnit ani odstranit"</string>
     <string name="error_filename_is_null">"Název souboru nemůže být prázdny"</string>
@@ -322,7 +322,7 @@
     <string name="fail_to_rename">Složku nebo soubor nelze přejmenovat, protože již existuje</string>
     <string name="favorite_photo">Fotografie</string>
     <string name="favorite_ringtone">Vyzvánění</string>
-    <string name="favorite_screen_cap">Screenshot MIUI</string>
+    <string name="favorite_screen_cap">Screenshot HyperOS</string>
     <string name="file_already_downlaoded">Soubor uložen do \"%1$s\"</string>
     <string name="file_change_btn_download">Stáhnout</string>
     <string name="file_change_btn_upload">Odeslat</string>
@@ -485,10 +485,10 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="mi_router_label">MiRouter</string>
     <string name="micloud_space_applist_detail">Zálohy rozložení plochy si můžete zobrazit na svém mobilním zařízení.</string>
     <string name="micloud_space_duokan_detail">„Otevřete Duokan na svém telefonu a přejděte do Bookshelf &gt; Cloud storage, kde můžete spravovat úložný prostor.
-Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi."</string>
+Ujistěte se, že jako systémový účet HyperOS používáte aktuální účet Mi."</string>
     <string name="micloud_space_duokan_title">Úložný prostor Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Otevřete na svém mobilním zařízení aplikaci Záznamník a vyberte složku s položkami uloženými v cloudu.
-Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi."</string>
+Ujistěte se, že jako systémový účet HyperOS používáte aktuální účet Mi."</string>
     <string name="micloud_space_soundrecorder_title">Zvukové nahrávky</string>
     <string name="midnight">Noc</string>
     <string name="midrive_network_connect_confirm">MiDrive vyžaduje připojení na internet pro jeho správné fungování.</string>
@@ -617,7 +617,7 @@ Ujistěte se, že jako systémový účet MIUI používáte aktuální účet Mi
     <string name="never_notify_network_connect">Znovu se neptat</string>
     <string name="new_folder_name">Nová složka</string>
     <string name="new_function">O soukromých složkách</string>
-    <string name="new_function_info">"Soukromá složka je nová funkce MIUI.
+    <string name="new_function_info">"Soukromá složka je nová funkce HyperOS.
 Můžete šifrovat vaše soubory
 a uložit je na bezpečném místě.
 

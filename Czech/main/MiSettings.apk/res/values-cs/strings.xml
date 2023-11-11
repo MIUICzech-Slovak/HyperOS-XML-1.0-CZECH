@@ -527,7 +527,7 @@ pro dnešek"</string>
     <string name="usage_app_system_app_summary">Není možné omezit čas pro systémové aplikace</string>
     <string name="usage_app_weekday_limit">Pracovní dny</string>
     <string name="usage_app_weekend_limit">Víkendy</string>
-    <string name="usage_beat_fans">Jste lepší jak %s MIUI uživatelů</string>
+    <string name="usage_beat_fans">Jste lepší jak %s HyperOS uživatelů</string>
     <string name="usage_continuous_days">Série</string>
     <string name="usage_creating_weekly_report">Vytváření týdenního přehledu…</string>
     <string name="usage_cta_desc">"Vítejte! Aby vám tato aplikace mohla poskytovat statistiky času u obrazovky a režimu soustředění, potřebuje shromažďovat následující údaje: počet odemknutí zařízení, seznam vašich aplikací spolu s odpovídající dobou používání, počet rozsvícení obrazovky, a nastavení režimu soustředěni. Shromážděná data budou uložena pouze lokálně na tomto zařízení.

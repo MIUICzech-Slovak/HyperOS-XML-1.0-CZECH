@@ -768,7 +768,7 @@ Další použití datového připojení se může projevit na výši vašeho vy�
     <string name="experimental_validate_progress">Přihlašování...</string>
     <string name="experimental_validate_thanks">Děkujeme!</string>
     <string name="experimental_validate_username">Jméno</string>
-    <string name="experimental_validate_warning">Děkujeme za pomoc vylepšení MIUI!</string>
+    <string name="experimental_validate_warning">Děkujeme za pomoc vylepšení HyperOS!</string>
     <string name="ext_media_badremoval_notification_message">Odpojte USB úložiště před odebráním, aby se zabránilo poškození dat.</string>
     <string name="ext_media_badremoval_notification_title">USB úložiště neočekávaně odebráno</string>
     <string name="ext_media_checking_notification_message">Kontroluji chyby.</string>
@@ -2294,7 +2294,7 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="slider_text">Potáhněte po displeji  dolů pro spuštění kamery</string>
     <string name="sliderpanel_description">Nástroje</string>
     <string name="small_window_guide_title">Plovoucí okno</string>
-    <string name="small_window_notification_text">Dotykem se naučíte více o této funkci MIUI %d</string>
+    <string name="small_window_notification_text">Dotykem se naučíte více o této funkci HyperOS %d</string>
     <string name="small_window_notification_title">Plovoucí okna</string>
     <string name="snooze_option_15_min">15 minut</string>
     <string name="snooze_option_1_hour">1 hodinu</string>

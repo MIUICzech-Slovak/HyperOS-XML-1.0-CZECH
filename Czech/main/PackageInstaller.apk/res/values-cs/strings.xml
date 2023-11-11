@@ -60,7 +60,7 @@ Povolit nyní i v budoucnu?"</string>
     <string name="app_store_missing_message">Xiaomi AppStore není nainstalován na tomto zařízení.</string>
     <string name="app_store_missing_title">Xiaomi AppStore nebyl nalezen</string>
     <string name="app_version">Verze: %1$s</string>
-    <string name="auto_startup_dialog_msg">"MIUI dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie, ale i dat.\nPovolit automatické spuštění?"</string>
+    <string name="auto_startup_dialog_msg">"HyperOS dovolí aplikaci spustit se automaticky. To může zvýšit nejen spotřebu energie, ale i dat.\nPovolit automatické spuštění?"</string>
     <string name="available_via_passpoint">Dostupné přes %1$s</string>
     <string name="battery_info_status_charging">Nabíjení</string>
     <string name="battery_info_status_charging_ac">Nabíjení (AC)</string>
@@ -264,7 +264,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="install_failed_invalid_apk">Zdá se, že je balíček poškozen.</string>
     <string name="install_failed_msg">Aplikaci %1$s nelze nainstalovat do tohoto telefonu.</string>
     <string name="install_failed_older_sdk">Balíček funguje pouze v novějších verzích systému Android.</string>
-    <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s MIUI.</string>
+    <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s HyperOS.</string>
     <string name="install_failed_verify_failed">Balíček neprošel ověřením a nemůže být nainstalován.</string>
     <string name="install_failed_verify_timeout">Při ověřování tohoto balíčku vypršel časový limit. Zkuste jej nainstalovat znovu později.</string>
     <string name="install_from_appstore_hint">Doporučujeme vám nainstalovat si aplikaci z Google Play nebo HyperOS.cz</string>
@@ -348,7 +348,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="miui_failed_insufficient_storage">Nedostatečná kapacita úložiště</string>
     <string name="miui_failed_invalid_apk">Chyba instalačního souboru</string>
     <string name="miui_failed_invalid_uri">Nesprávná ceska instalace</string>
-    <string name="miui_failed_miui_system_incompatible">Instalační balíček není kompatibilní s MIUI</string>
+    <string name="miui_failed_miui_system_incompatible">Instalační balíček není kompatibilní s HyperOS</string>
     <string name="miui_failed_newer_sdk">Verze SDK není podporována</string>
     <string name="miui_failed_older_sdk">Verze SDK je příliš stará</string>
     <string name="miui_failed_other">Ostatní</string>
@@ -424,7 +424,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="perm_privacy_app_installed">Instalace úspěšná!</string>
     <string name="perm_privacy_app_launch">Spustit</string>
     <string name="perm_privacy_app_trust">Věřím této aplikaci</string>
-    <string name="perm_privacy_app_trust_summary">MIUI nebude kontrolovat tuto aplikaci</string>
+    <string name="perm_privacy_app_trust_summary">HyperOS nebude kontrolovat tuto aplikaci</string>
     <string name="perm_sysopt_boost_auto_start">Automatické spuštění</string>
     <string name="perm_sysopt_boost_auto_start_summary">Aplikace se spustí automaticky!</string>
     <string name="permdesc_togglePermissions">Allows the holder to launch the UI for toggling app permissions. Should never be needed for normal apps.</string>
@@ -520,7 +520,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="toast_network_eror">Není možné se připojit k síti</string>
     <string name="track_frame_time">Profile GPU rendering</string>
     <string name="transition_animation_scale_title">Transition animation scale</string>
-    <string name="trust_switch_dialog_msg">"MIUI se nebude ptát na potvrzení operací této aplikace, což může ohrozit Vaši bezpečnost.\nVěříte této aplikaci?"</string>
+    <string name="trust_switch_dialog_msg">"HyperOS se nebude ptát na potvrzení operací této aplikace, což může ohrozit Vaši bezpečnost.\nVěříte této aplikaci?"</string>
     <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
     <string name="tts_default_lang_title">Language</string>
     <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>

@@ -407,17 +407,17 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="new_britem_other">Ostatní</string>
     <string name="new_britem_pic">Obrázky</string>
     <string name="new_britem_video">Videa</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vaším Xiaomi účtem. Pro obnovení dat se budete muset přihlásit ke svému Xiaomi účtu.</string>
+    <string name="new_confirm_enable_encrypt_content">HyperOS spojí zašifrované zálohy s vaším Xiaomi účtem. Pro obnovení dat se budete muset přihlásit ke svému Xiaomi účtu.</string>
     <string name="new_confirm_enable_encrypt_title">Zašifrovat</string>
     <string name="new_local_button_backup">Zálohovat</string>
     <string name="new_local_button_restore">Obnovit</string>
     <string name="new_local_click_to_jump">Zobrazit podrobné informace</string>
     <string name="new_local_detail_description">"Poznámka:
 %1$d. Zkopírujte zálohy do vašeho PC pro případ ztráty dat. %2$s.
-%3$d. Zálohy budou uložené v MIUI-Backup-AllBackup."</string>
+%3$d. Zálohy budou uložené v HyperOS-Backup-AllBackup."</string>
     <string name="new_local_detail_description_global">"Poznámka:
 %1$d. Zkopírujte zálohy do počítače, abyste předešli ztrátě dat. %2$s.
-%3$d. Zálohy se budou ukládat do služky MIUI-Backup-AllBackup úložiště zařízení.
+%3$d. Zálohy se budou ukládat do služky HyperOS-Backup-AllBackup úložiště zařízení.
 %4$d. Některé aplikace nemusí podporovat zálohování."</string>
     <string name="new_local_tab_backup">Zálohování</string>
     <string name="new_local_tab_backup_pad">Zálohování</string>
@@ -427,18 +427,18 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="new_more_settings_label">Další nastavení</string>
     <string name="new_pc_backup_content1">%1$d. Otevřete \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. Počkejte na zálohu všech položek.</string>
-    <string name="new_pc_backup_content3">%d. Najděte zálohu v MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_backup_content3">%d. Najděte zálohu v HyperOS-Backup-AllBackup.</string>
     <string name="new_pc_backup_content4">%d. Zkopírujte ji do vašeho PC.</string>
     <string name="new_pc_backup_restore_link">Mobilní zařízení</string>
     <string name="new_pc_backup_restore_link_pad">Mobilní zařízení</string>
     <string name="new_pc_backup_summary1">Vyberte položky a stlačte \"Zálohovat\".</string>
     <string name="new_pc_backup_summary2">Připojte vaše mobilní zařízení k PC přes USB.</string>
     <string name="new_pc_backup_summary2_pad">Připojte své mobilní zařízení k počítači pomocí kabelu USB.</string>
-    <string name="new_pc_backup_summary4">Poznámka: Můžete také zkopírovat vaše fotografie a videa z MIUI-DCIM.</string>
+    <string name="new_pc_backup_summary4">Poznámka: Můžete také zkopírovat vaše fotografie a videa z HyperOS-DCIM.</string>
     <string name="new_pc_restore_content1">%d. Připojte vaše mobilní zařízení k PC přes USB.</string>
     <string name="new_pc_restore_content1_pad">%d. Připojte vaše zařízení k PC pomocí USB kabelu.</string>
-    <string name="new_pc_restore_content2">%d. Zkopírujte zálohu z vašeho PC do MIUI-Backup-AllBackup.</string>
-    <string name="new_pc_restore_content2_pad">%d. Zkopírujte zálohu z vašeho počítače do MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2">%d. Zkopírujte zálohu z vašeho PC do HyperOS-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content2_pad">%d. Zkopírujte zálohu z vašeho počítače do HyperOS-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Otevřete \"%2$s\" a vyberte položky které chcete obnovit.</string>
     <string name="new_pc_title">Zkopírovat zálohy</string>
     <string name="new_select_file">Zvuk, videa, a soubory</string>

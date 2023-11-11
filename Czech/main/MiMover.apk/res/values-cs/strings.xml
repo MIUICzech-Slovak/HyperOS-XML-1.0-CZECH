@@ -76,7 +76,7 @@
     <string name="cancel_moving_dialog_title">Zastavit import</string>
     <string name="cancel_transfer">Zrušit</string>
     <string name="cannot_use_mi_huanji_button">Rozumím</string>
-    <string name="cannot_use_mi_huanji_summary">Zdá se, že MIUI právě zálohuje některé položky. Pro spuštění Přenosu do nového zařízení (Xiaomi Mover) ukončete zálohování nebo restartujte zařízení.</string>
+    <string name="cannot_use_mi_huanji_summary">Zdá se, že HyperOS právě zálohuje některé položky. Pro spuštění Přenosu do nového zařízení (Xiaomi Mover) ukončete zálohování nebo restartujte zařízení.</string>
     <string name="cannot_use_mi_huanji_title">Nelze přenést</string>
     <string name="clear_old_task_failed">Odstranění starých úkolů se nezdařilo</string>
     <string name="clearable_edittext_clear_description">Smazat</string>
@@ -111,7 +111,7 @@ Pro vypnutí ověření přejděte na https://appleid.apple.com/#!&amp;page=sign
     <string name="connection_tips_other_message_global">Pokud již delší dobu nemůžete hotspot starého zařízení najít, vraťte se na úvodní stránku na novém zařízení, klepněte na \"Jsem odesílatel\" a zkuste to znovu.</string>
     <string name="connection_tips_other_title">Pokud vaše staré zařízení využívá Android jiné třetí strany:</string>
     <string name="connection_tips_other_title_global">Připojte obě zařízení:</string>
-    <string name="connection_tips_owner_message">Aplikace Přesun do nového zařízení je předinstalována na všech zařízeních se systémem MIUI 11. Pokud je MIUI systém vašeho zařízení je starší, aplikaci Přesun do nového zařízení (Xiaomi Mover) si můžete stáhnout z GetApps nebo pomocí tohoto odkazu: %1$s.</string>
+    <string name="connection_tips_owner_message">Aplikace Přesun do nového zařízení je předinstalována na všech zařízeních se systémem HyperOS 11. Pokud je HyperOS systém vašeho zařízení je starší, aplikaci Přesun do nového zařízení (Xiaomi Mover) si můžete stáhnout z GetApps nebo pomocí tohoto odkazu: %1$s.</string>
     <string name="connection_tips_owner_message_global">Ujistěte se, že je verze aplikace Přesun do nového zařízení na vašem zařízení aktuální. Nejnovější verzi můžete kdykoli stáhnout z Play Storu pomocí tohoto odkazu: %1$s.</string>
     <string name="connection_tips_owner_title">Pokud je vaše staré zařízení Xiaomi telefon:</string>
     <string name="connection_tips_owner_title_global">Nainstalujte nejnovější verzi Přesunu do nového zařízení:</string>

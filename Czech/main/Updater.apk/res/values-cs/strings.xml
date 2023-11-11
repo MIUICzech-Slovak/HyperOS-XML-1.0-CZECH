@@ -17,11 +17,11 @@
     <string name="btn_yes">Ano</string>
     <string name="channel_downloading">Průběh stahování</string>
     <string name="channel_service">Služby Aktualizace</string>
-    <string name="channel_update">Dostupná nová verze MIUI</string>
+    <string name="channel_update">Dostupná nová verze HyperOS</string>
     <string name="check_new_version">Zkontrolovat</string>
     <string name="default_filedownloader_notification_content">Probíhá stahování aktualizace...</string>
-    <string name="default_filedownloader_notification_title">Nová verze MIUI</string>
-    <string name="dialog_3g_desc">Stahování nové verze MIUI přes mobilní data může navýšit vaše měsíční poplatky. Doporučujeme připojení k Wi-Fi.</string>
+    <string name="default_filedownloader_notification_title">Nová verze HyperOS</string>
+    <string name="dialog_3g_desc">Stahování nové verze HyperOS přes mobilní data může navýšit vaše měsíční poplatky. Doporučujeme připojení k Wi-Fi.</string>
     <string name="dialog_3g_title">Upozornění!</string>
     <string name="dialog_ab">Vaše zařízení podporuje \"Seamless System Updates\", nezapomeňte vybrat \"Slot A\" při spuštění v TWRP!</string>
     <string name="dialog_btn_3g">Pokračovat</string>
@@ -29,7 +29,7 @@
     <string name="dialog_stop_desc">Jste si jisti, že chcete ukončit stahování?</string>
     <string name="dialog_stop_title">Zastavit stahování?</string>
     <string name="dialog_twrp">Vaše interní úložiště je zašifrované. Po restartu do TWRP, zadejte vaše heslo pro odemknutí zařízení pro dešifrování úložiště.</string>
-    <string name="downgrade_warning">Pokoušíte se nainstalovat starší verzi MIUI! Instalace je zablokována aby nedošlo k poškození systému!</string>
+    <string name="downgrade_warning">Pokoušíte se nainstalovat starší verzi HyperOS! Instalace je zablokována aby nedošlo k poškození systému!</string>
     <string name="download_done">Staženo!</string>
     <string name="download_fail">Nastala chyba při stahování!</string>
     <string name="download_fail_desc">MD5 Sum není shodné...</string>
@@ -55,7 +55,7 @@ Vaše data budou zachována."</string>
     <string name="no_mirror">Server je momentálně nedostupný, zkuste to později...</string>
     <string name="no_network">Žádný přístup v síti.</string>
     <string name="no_update">Není dostupná nová verze nebo nastala chyba serveru. Zkontrolujte HyperOS.cz pro kontrolu nové verze</string>
-    <string name="no_xioamieu">"Nepoužíváte MIUI ROM od HyperOS.cz nebo xiaomi.eu!
+    <string name="no_xioamieu">"Nepoužíváte HyperOS ROM od HyperOS.cz nebo xiaomi.eu!
   Aktualizace pro vás není dostupná!"</string>
     <string name="notif_cancel">Zrušit</string>
     <string name="notif_install">Instalovat</string>
@@ -73,7 +73,7 @@ Vaše data budou zachována."</string>
     <string name="recovery_desc">Zařízení se restartuje do TWRP Recovery. Pokračovat?</string>
     <string name="recovery_mode">Aktualizace je možná prostřednictvím Recovery, instalaci ROM lze provést v aplikaci Aktualizace!</string>
     <string name="server_error">Chyba serveru, aplikace nemusí pracovat správně!</string>
-    <string name="share_desc">MIUI verze byla aktualizována na %1$s, mrkněte na seznam změn na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
+    <string name="share_desc">HyperOS verze byla aktualizována na %1$s, mrkněte na seznam změn na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
     <string name="share_title">Sdílet</string>
     <string name="stable">Stabilní</string>
     <string name="twrp_update_warning">Pro používání OTA aktualizací musíte potvrdit, že máte nainstalované uživatelské Recovery:</string>

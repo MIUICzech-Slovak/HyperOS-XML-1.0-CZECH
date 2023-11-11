@@ -435,7 +435,7 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="install_failed_invalid_apk">Aplikaci nelze nainstalovat, protože balíček zřejmě není platný.</string>
     <string name="install_failed_msg">Aplikaci %1$s do tohoto telefonu nelze nainstalovat.</string>
     <string name="install_failed_msg_tablet">%1$s nemůže být nainstalována do tohoto zařízení.</string>
-    <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s MIUI</string>
+    <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s HyperOS</string>
     <string name="install_finished_notification_summary">Vyčistit</string>
     <string name="install_finished_notification_title">%1$s dokončená instalace. Vyčistěte %2$s</string>
     <string name="install_from_appstore_hint">Doporučujeme vám nainstalovat aplikaci z Google Play</string>
@@ -551,7 +551,7 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="miui_failed_market_code_denied">Požadavek byl zamítnut</string>
     <string name="miui_failed_market_code_download_failed">Nebylo možné stáhnout</string>
     <string name="miui_failed_market_code_user_canceled">Stahování bylo zrušeno</string>
-    <string name="miui_failed_miui_system_incompatible">Instalační soubor není kompatibilní s MIUI</string>
+    <string name="miui_failed_miui_system_incompatible">Instalační soubor není kompatibilní s HyperOS</string>
     <string name="miui_failed_newer_sdk">"SDK verze není podporována</string>
     <string name="miui_failed_older_sdk">SDK verze je příliš stará</string>
     <string name="miui_failed_other">Ostatní</string>

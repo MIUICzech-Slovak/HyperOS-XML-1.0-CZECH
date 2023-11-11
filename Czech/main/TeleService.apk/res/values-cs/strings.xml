@@ -265,7 +265,7 @@ Vzorkovací frekvence"</string>
     <string name="call_record_add_numbers">Přidat čísla</string>
     <string name="call_record_auto_always">Všechna čísla</string>
     <string name="call_record_auto_scenario_title">Nastavení nahrávání</string>
-    <string name="call_record_auto_summary">Všechny nahrávky budou uloženy do složky MIUI/sound_recorder/call_rec</string>
+    <string name="call_record_auto_summary">Všechny nahrávky budou uloženy do složky HyperOS/sound_recorder/call_rec</string>
     <string name="call_record_auto_title">Nahrávat automaticky</string>
     <string name="call_record_auto_unknown_number">Neznámá čísla</string>
     <string name="call_record_auto_whitelist">Seznam</string>

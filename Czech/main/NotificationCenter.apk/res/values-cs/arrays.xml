@@ -16,7 +16,7 @@
         <item>Nezobrazovat upozornění na Zamykací obrazovce</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI</item>
+        <item>HyperOS</item>
         <item>Android</item>
     </string-array>
 </resources>

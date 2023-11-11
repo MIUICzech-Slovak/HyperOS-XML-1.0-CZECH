@@ -279,7 +279,7 @@
     <string name="local_ocr_recognition_str">Přepnuto na offline překlad</string>
     <string name="logistics">Expresní doručení</string>
     <string name="logout_service">Odvolat souhlas</string>
-    <string name="low_version_tip">Skener nemůže být spuštěn na této verzi MIUI. Aktualizujte na nejnovější verzi systému.</string>
+    <string name="low_version_tip">Skener nemůže být spuštěn na této verzi HyperOS. Aktualizujte na nejnovější verzi systému.</string>
     <string name="mihome_goto_install">Instalovat</string>
     <string name="mihome_goto_update">Aktualizovat</string>
     <string name="mihome_install_message">Nejprve si nainstalujte aplikaci Xiaomi Home a přihlaste se do ní.</string>

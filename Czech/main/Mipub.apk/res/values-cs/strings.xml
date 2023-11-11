@@ -117,7 +117,7 @@
     <string name="mx_auto_resend_sms">Poslat jako SMS</string>
     <string name="mx_auto_resend_sms_summary">Poslat jako SMS, pokud cloudové zprávy nejsou k dispozici. Zprávy mohou být zpoplatněny</string>
     <string name="mx_current_status">Stav: Online</string>
-    <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
+    <string name="mx_dspt">Poslat SMS přes internet pomocí HyperOS, pokud odeslání přes operátora selže</string>
     <string name="mx_enable">Zapnout cloudové zprávy</string>
     <string name="mx_msg">Cloudová zpráva</string>
     <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
@@ -155,7 +155,7 @@
     <string name="pref_summary_delivery_reports">Požadovat oznámení o doručení odeslané zprávy</string>
     <string name="pref_summary_hide_festival">Skrýt záložku Doporučené</string>
     <string name="pref_summary_manage_sim_messages">Správa zpráv uložené na SIM kartě</string>
-    <string name="pref_summary_mx_feedback">"Pomozte zlepšit MIUI! 
+    <string name="pref_summary_mx_feedback">"Pomozte zlepšit HyperOS! 
 Nahlaste chyby a odešlete Váš názor přímo do Mi."</string>
     <string name="pref_summary_notification_body_enabled">Zobrazit zprávu na zamykací obrazovce a v notifikační liště</string>
     <string name="pref_summary_show_recent_contacts">Zobrazovat seznam často používaných kontaktů při vytváření nové zprávy</string>
@@ -169,7 +169,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Mi."</string>
     <string name="pref_title_fwd_sender_info">Kdo přeposlal</string>
     <string name="pref_title_hide_festival">Skrýt záložku Doporučené</string>
     <string name="pref_title_manage_sim_messages">Správa zpráv na kartě SIM</string>
-    <string name="pref_title_miui_card">Odeslat jako MIUI vizitku</string>
+    <string name="pref_title_miui_card">Odeslat jako HyperOS vizitku</string>
     <string name="pref_title_notification_body_enabled">Zobrazovat náhledy</string>
     <string name="pref_title_ringtone_repeat">Upozornit na novou zprávu</string>
     <string name="pref_title_show_recent_contacts">Nejčastěji používané kontakty</string>

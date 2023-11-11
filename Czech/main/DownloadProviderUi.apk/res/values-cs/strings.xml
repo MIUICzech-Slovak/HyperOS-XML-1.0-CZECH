@@ -92,7 +92,7 @@
     <string name="download_list_get_hightspeed_flow_pay_ok">Platba dokončena</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Vytvořená Xunlei trial relace</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Užijte si rychlejšího stahování díky Xunlei</string>
-    <string name="download_list_intoAuth">Přístup k autorizaci MIUI</string>
+    <string name="download_list_intoAuth">Přístup k autorizaci HyperOS</string>
     <string name="download_list_intoAuthAlert">Čekejte prosím</string>
     <string name="download_list_open_xl_cancel">Zrušit</string>
     <string name="download_list_open_xl_message">Přístup k Xunlei stahování, neomezenému stahování vysokou rychlostí.</string>
@@ -399,7 +399,7 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_gaosu">Xunlei Highspeed service</string>
     <string name="xunlei_member_annual_fee">Xunlei na jeden rok (platinum)</string>
     <string name="xunlei_member_one_month">Xunlei na jeden měsíc (platinum)</string>
-    <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
+    <string name="xunlei_open_info">Stáhnout tento soubor přes HyperOS správce stahování?</string>
     <string name="xunlei_speed_service">Xunlei stahování</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="yesterday">Včera</string>

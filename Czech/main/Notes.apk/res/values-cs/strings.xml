@@ -76,7 +76,7 @@
     <string name="date_time_picker_has_not_set_alarm">Budík není nastaven</string>
     <string name="date_time_picker_has_set_alarm">Budík je nastaven</string>
     <string name="db_downgrade_clear_button">Vymažte data aplikace</string>
-    <string name="db_downgrade_clear_date_reminder">Změna na jinou verzi MIUI vyžaduje i vymazání dat aplikace Poznámky. Nejprve se ujistěte, že máte povoleno zálohování na MiCloud.</string>
+    <string name="db_downgrade_clear_date_reminder">Změna na jinou verzi HyperOS vyžaduje i vymazání dat aplikace Poznámky. Nejprve se ujistěte, že máte povoleno zálohování na MiCloud.</string>
     <string name="default_folder_name">Poznámky</string>
     <string name="delete_folder_dialog_tile">Vymazat složku</string>
     <string name="dialog_privacy_revoke_tips">Po odmítnutí aurotizace přestane aplikace shromažďovat data a všechna data budou vymazána ze serveru.</string>
@@ -478,7 +478,7 @@
     <string name="sns_desc_image_preview">Náhled zprávy</string>
     <string name="sns_desc_preview_wechat">WeChat message preview</string>
     <string name="sns_desc_preview_weibo">Weibo message preview</string>
-    <string name="sns_footer_text">Vytvořeno s MIUI V6</string>
+    <string name="sns_footer_text">Vytvořeno s HyperOS V6</string>
     <string name="sns_hint_content">Na co myslíte?</string>
     <string name="sns_hint_title">Předmět (Volitelné)</string>
     <string name="sns_message_disconnect">Nelze se připojit k síti. Zkontrolujte nastavení.</string>

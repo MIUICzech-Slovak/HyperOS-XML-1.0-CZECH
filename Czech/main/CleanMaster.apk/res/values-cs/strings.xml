@@ -729,7 +729,7 @@
     <string name="rs_clean_size_storage_size">Obsazené %1$s/%2$s</string>
     <string name="rs_clean_size_storage_title">Úložiště</string>
     <string name="safety_check_detail">%1$d položek, získaných %2$d bodů</string>
-    <string name="safety_rank">Lepší, jak %d%% MIUI uživatelů ve smyslu bezpečnosti</string>
+    <string name="safety_rank">Lepší, jak %d%% HyperOS uživatelů ve smyslu bezpečnosti</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>

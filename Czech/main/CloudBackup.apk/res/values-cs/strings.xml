@@ -86,13 +86,13 @@ Zkuste to znova"</string>
 *  Apl, Rozložení plochy, a tapety 
 *  Budíky, hodiny, a nastavení času 
 *  Nastavení upozornění 
-*  Nastavení systému a MIUI 
+*  Nastavení systému a HyperOS 
 Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud."</string>
     <string name="cloud_back_up_detail_discription_china">"Tyto položky budou zálohované na Xiaomi Cloud když se připojíte na Wi-Fi: 
 *  Aplikace, rozložení plochy a tapety 
 *  Budík, hodiny a nastavení času 
 *  Nastavení upozornění
-*  MIUI a systémové nastavení
+*  HyperOS a systémové nastavení
 Poznámka: Data doinstalovaných aplikací nebudou zálohované na Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Plánování zálohy</string>
     <string name="cloud_back_up_frequence_long">Každých %d dní</string>
@@ -356,7 +356,7 @@ Pošlete tento kód technikovi."</string>
     <string name="query_restore_summary">Nalezena záloha v MiCloud pro toto zařízení. Obnovit nastavení plochy a systému nebo použít toto zařízení jako nové a smazat zálohu v MiCloud?</string>
     <string name="recover_from_micloud">Obnovit pomocí MiCloud</string>
     <string name="recover_home_settings">Obnovit nastavení plochy</string>
-    <string name="recover_miui_settings">Obnovit nastavení MIUI</string>
+    <string name="recover_miui_settings">Obnovit nastavení HyperOS</string>
     <string name="recover_settings_description">Nevypínejte zařízení</string>
     <string name="recovering">Obnovení %s</string>
     <string name="remove_again">Zkuste to znovu</string>
@@ -494,7 +494,7 @@ Pošlete tento kód technikovi."</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="unknown_error_info">Neznámá chyba</string>
     <string name="unselected">Nevybráno</string>
-    <string name="unsupported_home">Aktualizujte na nejnovější verzi MIUI.</string>
+    <string name="unsupported_home">Aktualizujte na nejnovější verzi HyperOS.</string>
     <string name="wait_icon_download">Stahování ikony aplikace</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>

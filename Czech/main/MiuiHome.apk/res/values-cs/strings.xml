@@ -91,7 +91,7 @@
     <string name="app_edit_icon">Upravit ikonu</string>
     <string name="app_install_state">Nainstalováno</string>
     <string name="app_set_icon">Nastavit ikonu</string>
-    <string name="application_name">MIUI Launcher</string>
+    <string name="application_name">HyperOS Launcher</string>
     <string name="apply">Použít</string>
     <string name="apply_action">Použít</string>
     <string name="apply_as_lock_screen">Zámek</string>
@@ -427,7 +427,7 @@ Vylepšené zabezpečení."</string>
     <string name="menu_exit_scene">Opustit Free Desktop</string>
     <string name="menu_finish">Hotovo</string>
     <string name="menu_item_add_item">Přidat na plochu</string>
-    <string name="menu_launcher_setting">Nastavení MIUI Launcher</string>
+    <string name="menu_launcher_setting">Nastavení HyperOS Launcher</string>
     <string name="menu_lock">Uzamknout buňky</string>
     <string name="menu_more">Více nastavení</string>
     <string name="menu_no_word">"Nezobrazovat text"</string>
@@ -445,7 +445,7 @@ Vylepšené zabezpečení."</string>
     <string name="minus_one_screen">Asistent</string>
     <string name="minus_one_screen_google">Google</string>
     <string name="minus_one_screen_none">Žádná</string>
-    <string name="miui_screen_config_title">Nastavení MIUI Launcheru</string>
+    <string name="miui_screen_config_title">Nastavení HyperOS Launcheru</string>
     <string name="miui_widget_menu_replace_text">Změnit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
     <string name="miuix_appcompat_action_mode_select_all">Vše</string>
@@ -544,7 +544,7 @@ Vylepšené zabezpečení."</string>
     <string name="navigation_guide_recent_title">Nedávné</string>
     <string name="navigation_guide_settings">Lekce</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Zrušit</string>
-    <string name="navigation_set_miui_home_as_default_dialog_message">Když nastavíte jiný launcher než MIUI, přestane fungovat ovládání gesty. Chcete pokračovat?</string>
+    <string name="navigation_set_miui_home_as_default_dialog_message">Když nastavíte jiný launcher než HyperOS, přestane fungovat ovládání gesty. Chcete pokračovat?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">Nastavit</string>
     <string name="navigation_set_miui_home_as_default_dialog_title">Upozornění</string>
     <string name="navigation_type_full_screen">Gesta</string>
@@ -612,7 +612,7 @@ Vylepšené zabezpečení."</string>
     <string name="pref_wallpaper_scroll_type_title">Styl posouvání tapety</string>
     <string name="preference_copied">\"%1$s\" zkopírované do schránky.</string>
     <string name="preferences_general_title">Základní nastavení</string>
-    <string name="preferences_title">Nastavení MIUI launcheru</string>
+    <string name="preferences_title">Nastavení HyperOS launcheru</string>
     <string name="preferred_app_settings_not_selected">Žádné</string>
     <string name="privacy_thumbnail_blur_summary">Rozmazat náhledy v nedávných aplikacích</string>
     <string name="privacy_thumbnail_blur_title">Rozmazat náhledy</string>

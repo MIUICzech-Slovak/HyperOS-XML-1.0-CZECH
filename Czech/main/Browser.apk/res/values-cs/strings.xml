@@ -1049,7 +1049,7 @@ Chcete opustit tuto stránku?"</string>
     <string name="suggestion_input_hitory_clear_text">VYMAZAT</string>
     <string name="suggestion_sliding_item_more_text">VÍCE</string>
     <string name="switchText">ANO</string>
-    <string name="switch_proxy_dialog_msg">"Bylo zjištěno napadení vaší sítě. Použijte MIUI aplikaci Optimalizace nebo to nahlaste vašemu operátorovi."</string>
+    <string name="switch_proxy_dialog_msg">"Bylo zjištěno napadení vaší sítě. Použijte HyperOS aplikaci Optimalizace nebo to nahlaste vašemu operátorovi."</string>
     <string name="switch_proxy_dialog_title">Napadení sítě</string>
     <string name="sync_and_backup_bookmark">Synchr. a zálohovat záložky</string>
     <string name="sync_and_backup_history">Synchr. a zálohovat historii</string>

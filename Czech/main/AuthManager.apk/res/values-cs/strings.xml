@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="Dashboard_App">Aplikace</string>
-    <string name="Dashboard_HIPS_Disable_Content">Vypnutí zastaví sledování požadavků od aplikací. Z toho důvodu MIUI přestane chránit Vaši bezpečnost a soukromí. Určitě chcete sledování vypnout?</string>
+    <string name="Dashboard_HIPS_Disable_Content">Vypnutí zastaví sledování požadavků od aplikací. Z toho důvodu HyperOS přestane chránit Vaši bezpečnost a soukromí. Určitě chcete sledování vypnout?</string>
     <string name="Dashboard_HIPS_Disable_Title">Sledování práv</string>
     <string name="Dashboard_Log">Záznamy</string>
     <string name="Dashboard_Log_Clear_Content">Všechny záznamy budou vymazány. Opravdu chcete pokračovat?</string>
@@ -21,9 +21,9 @@
     <string name="Dashboard_Perm_SU">Povolit práva ROOT</string>
     <string name="Dashboard_Perm_SU_Desc">Sledování %1$d aplikací s oprávněními ROOT</string>
     <string name="Dashboard_Perm_SU_Disabled">Práva ROOT jsou zakázána</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT není dostupný ve Stabilní verzi MIUI</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolení práv ROOT aplikacím třetích stran může způsobit nestabilitu systému, ztrátu Vašich osobních dat, nebo poškození telefonu. Pro povolení ROOT přejděte na vývojářskou verzi MIUI."</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stáhnout MIUI</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT není dostupný ve Stabilní verzi HyperOS</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolení práv ROOT aplikacím třetích stran může způsobit nestabilitu systému, ztrátu Vašich osobních dat, nebo poškození telefonu. Pro povolení ROOT přejděte na vývojářskou verzi HyperOS."</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stáhnout HyperOS</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
     <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
     <string name="Generic_Canceling">Ukončování...</string>
@@ -312,16 +312,16 @@
     <string name="Privacy_App_Log">Záznamy</string>
     <string name="Privacy_App_Manage">Detaily</string>
     <string name="Privacy_App_Trust">Důvěřuji této aplikaci</string>
-    <string name="Privacy_App_TrustDialog_Content">MIUI nebude pro tuto aplikaci požadovat žádné potvrzení týkající se bezpečnosti a soukromí.</string>
+    <string name="Privacy_App_TrustDialog_Content">HyperOS nebude pro tuto aplikaci požadovat žádné potvrzení týkající se bezpečnosti a soukromí.</string>
     <string name="Privacy_App_TrustDialog_Title">Důvěřovat této aplikaci</string>
-    <string name="Privacy_App_Trust_Summary_Off">MIUI bude tuto aplikaci sledovat</string>
-    <string name="Privacy_App_Trust_Summary_On">MIUI bude této aplikaci důvěřovat</string>
+    <string name="Privacy_App_Trust_Summary_Off">HyperOS bude tuto aplikaci sledovat</string>
+    <string name="Privacy_App_Trust_Summary_On">HyperOS bude této aplikaci důvěřovat</string>
     <string name="Privacy_App_Uninstall">Odinstalovat</string>
     <string name="Privacy_Perm_Count">Povolen: %1$d Zakázán: %2$d</string>
     <string name="Su_Enable_Dialog">%1$s se pokouší získat práva ROOT, což je z důvodu bezpečnosti standardně zakázáno. Jestliže chcete oprávnění povolit, učiňte tak v nastavení aplikace Povolení.</string>
     <string name="Su_Package_Forbidden">%1$s nemá ROOT práva.</string>
     <string name="Su_Package_Forbidden2">nemá práva ROOT.</string>
-    <string name="Su_Unavailable">ROOT není dostupný ve Stabilní verzi MIUI. Nainstalujte si vývojářskou verzi MIUI pro aktivaci práv ROOT.</string>
+    <string name="Su_Unavailable">ROOT není dostupný ve Stabilní verzi HyperOS. Nainstalujte si vývojářskou verzi HyperOS pro aktivaci práv ROOT.</string>
     <string name="SysOpt_Boost_AutoStart">Oprávnění auto. spuštění</string>
     <string name="SysOpt_Boost_AutoStart_Group">Automatické spuštění</string>
     <string name="SysOpt_Boost_Boot">Boot</string>

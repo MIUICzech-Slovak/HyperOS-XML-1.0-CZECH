@@ -66,8 +66,8 @@ a přehrávat na nich zvuk a video</string>
     <string name="appcirculate_toast_success_2">Přenášení v soukromém režimu…</string>
     <string name="appcirculate_toast_success_3">Přenášení…</string>
     <string name="audio_record_des">Pro přenášení zvuku z vašeho zařízení do externího monitoru</string>
-    <string name="auth_MIUI_and_phone_model">"Tato stránka je dostupná pouze pro
-MIUI 13 Beta testery."</string>
+    <string name="auth_HyperOS_and_phone_model">"Tato stránka je dostupná pouze pro
+HyperOS 13 Beta testery."</string>
     <string name="auth_check_loading">Ještě sekundu…</string>
     <string name="auth_no_user">"Tato stránka je dostupná pouze pro beta testery.
 Přihlaste se ke svému účtu Xiaomi v Nastavení > Xiaomi účet pro synchronizaci oprávnění."</string>
@@ -134,7 +134,7 @@ zrcadlení obrazovky tohoto tabletu"</string>
     <string name="circulate_common_retry_later">Počkejte minutu nebo dvě a zkuste to znovu</string>
     <string name="circulate_cta_agree">Souhlasím</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
-    <string name="circulate_cta_desc_phone">Vítejte v Mi Smart Hubu! Pomocí této aplikace můžete přenášet obsah obrazovky, přenášet přehrávání multimédií mezi zařízeními, používat Mi Smart Play, MIUI+ a předávání aplikací. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
+    <string name="circulate_cta_desc_phone">Vítejte v Mi Smart Hubu! Pomocí této aplikace můžete přenášet obsah obrazovky, přenášet přehrávání multimédií mezi zařízeními, používat Mi Smart Play, HyperOS+ a předávání aplikací. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
     <string name="circulate_cta_exit">Nesouhlasím</string>
     <string name="circulate_cta_premission_sound_subtitle">Pro přenos přehrávání zvuku do připojených zařízení</string>
     <string name="circulate_cta_premission_sound_title">Nahrát zvuk</string>
@@ -287,10 +287,10 @@ V případě potíží s připojením klepněte na Nápovědu."</string>
     <string name="err_toast_msg_mirror_support_support_only">"Toto zařízení podporuje pouze zrcadlení obrazovky. Zkuste kartu přesunout pomocí obrazovky tohoto zařízení."</string>
     <string name="err_toast_msg_not_support">"Tato akce není podporována"</string>
     <string name="err_toast_msg_not_support_audio_protocol">"Přehrávání zvuku nelze přenést do tohoto zařízení"</string>
-    <string name="err_toast_msg_not_support_video_protocol">"Toto zařízení nepodporuje MIUI+"</string>
+    <string name="err_toast_msg_not_support_video_protocol">"Toto zařízení nepodporuje HyperOS+"</string>
     <string name="err_toast_msg_retry_later">"Tuto akci nelze provést. Počkejte minutu nebo dvě a zkuste to znovu."</string>
     <string name="err_toast_msg_try_switch_network">Připojte mobilní zařízení i počítač ke stejné síti Wi-Fi</string>
-    <string name="err_toast_msg_upgrade_pc_version">Aktualizujte MIUI+ ve svém počítači, abyste mohli používat tuto funkci</string>
+    <string name="err_toast_msg_upgrade_pc_version">Aktualizujte HyperOS+ ve svém počítači, abyste mohli používat tuto funkci</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="expand_button_title">Rozšířené</string>
     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>

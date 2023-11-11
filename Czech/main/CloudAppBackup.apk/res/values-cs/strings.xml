@@ -107,7 +107,7 @@ Opravdu chcete ukončit obnovování?"</string>
     <string name="enable_backup">Povolit</string>
     <string name="error_unknown">Nastala chyba</string>
     <string name="explantion_of_data_size">Ušetřené místo použitím MiMarket</string>
-    <string name="intro_v5tov6">"MIUI V6 používá nový způsob zálohování pro zvýšení výkonu. Konverze staré zálohy na nový typ zálohy bude chvíli trvat."</string>
+    <string name="intro_v5tov6">"HyperOS V6 používá nový způsob zálohování pro zvýšení výkonu. Konverze staré zálohy na nový typ zálohy bude chvíli trvat."</string>
     <string name="just_support_op_with_wifi_connected">Dostupné jen při připojení k Wi-Fi</string>
     <string name="latest_backup_time">Poslední záloha: %s</string>
     <string name="latest_backup_time_loading">Načítání...</string>

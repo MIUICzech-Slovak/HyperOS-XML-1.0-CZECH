@@ -716,7 +716,7 @@ poskytována především firmou Ultimate Inc."</string>
     <string name="metered_serious_alert_msg_with_beyond_data">Váš datový limit byl již překročen o %s. Chcete hudbu přesto přehrát s využitím mobilních dat?</string>
     <string name="metered_serious_alert_msg_with_data">Zbývá pouze %s mobilních dat. Chcete hudbu přesto přehrát s využitím mobilních dat?</string>
     <string name="metered_serious_allow">Přesto přehrát</string>
-    <string name="milink_unavaliable_please_update">Xiaomi Link není k dispozici. Aktualizujte MIUI.</string>
+    <string name="milink_unavaliable_please_update">Xiaomi Link není k dispozici. Aktualizujte HyperOS.</string>
     <string name="missing_title">&lt;Neznámý&gt;</string>
     <string name="miui_music">Xiaomi Hudba</string>
     <string name="miuishare_account_activate_confirmation">Vyžadována aktivace</string>
@@ -726,7 +726,7 @@ poskytována především firmou Ultimate Inc."</string>
     <string name="miuishare_account_login_ok">Přihlásit se</string>
     <string name="miuishare_account_need_activate">Pro sdílení přidejte Weibo účet k vašemu aktuálnímu Xiaomi účtu. Zdá se, že váš Xiaomi účet ještě nebyl aktivován. Aktivovat nyní?</string>
     <string name="miuishare_account_need_login">Pro sdílení přidejte Weibo účet k vašemu aktuálnímu Xiaomi účtu. Přihlásit se a sdílet nyní?</string>
-    <string name="miuishare_app_name">MIUI Share</string>
+    <string name="miuishare_app_name">HyperOS Share</string>
     <string name="miuishare_no_network">Nelze se připojit k síti.</string>
     <string name="miuishare_publish">Odeslat</string>
     <string name="miuishare_share_done">Úspěšně sdíleno</string>
@@ -1169,7 +1169,7 @@ poskytována především firmou Ultimate Inc."</string>
     <string name="settings_search_title_main">Hudba</string>
     <string name="settings_search_title_notification">Hudební oznámení</string>
     <string name="settings_search_title_vip_service">Prémiové skladby</string>
-    <string name="share_append_text">Od @MIUI</string>
+    <string name="share_append_text">Od @HyperOS</string>
     <string name="share_chooser_title">Sdílet pomocí</string>
     <string name="share_description">Z Xiaomi Hudby</string>
     <string name="share_end_note">Z Xiaomi Hudby</string>

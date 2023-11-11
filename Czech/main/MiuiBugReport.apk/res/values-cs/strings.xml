@@ -182,7 +182,7 @@ Odešlete tento kód zodpovězedné osobě."</string>
     <string name="err_type_suggestion">Doporučení</string>
     <string name="err_type_system">Systém</string>
     <string name="err_type_system_summary">Paměť, výkon, atd.</string>
-    <string name="err_type_systemapp">MIUI aplikace</string>
+    <string name="err_type_systemapp">HyperOS aplikace</string>
     <string name="err_type_translate">Jazyk</string>
     <string name="err_type_xiaomi_family">Xiaomi Home</string>
     <string name="err_type_xiaomi_service">Zákaznický servis</string>
@@ -217,7 +217,7 @@ Odešlete tento kód zodpovězedné osobě."</string>
 %1$d. Ve které aplikaci nebo na které stránce se vyskytla tato chyba?
 %2$d. Po jakých úkonech se objevila tato chyba?
 %3$d. Poskytněte nám další informace, které by nám mohly pomoci vyřešit problém."</string>
-    <string name="feedback_description_hint_suggestion">Řekněte nám, jak byste chtěli vylepšit MIUI.</string>
+    <string name="feedback_description_hint_suggestion">Řekněte nám, jak byste chtěli vylepšit HyperOS.</string>
     <string name="feedback_description_suggest_hint">Chtěl(a) bych přidat novou funkci (), protože potřebuji ().</string>
     <string name="feedback_detail_copy_toast">Zkopírováno do schránky</string>
     <string name="feedback_detail_feedback_attach">Přílohy</string>
@@ -603,7 +603,7 @@ Odešlete tento kód zodpovězedné osobě."</string>
     <string name="photoPickerNotFoundText">Žádné fotografie.</string>
     <string name="please_agree_protocal">Odsouhlaste prosím Protokol</string>
     <string name="pm">odpo.</string>
-    <string name="post_miui_bbs_failed">Nebylo možné odeslat na MIUI fórum</string>
+    <string name="post_miui_bbs_failed">Nebylo možné odeslat na HyperOS fórum</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="privacy_category_title">Soukromí</string>
     <string name="privacy_policy_title">Zásady ochrany osobních údajů</string>
@@ -669,9 +669,9 @@ Než budete pokračovat, přečtěte si a odsouhlaste novou verzi %3$s."</string
     <string name="stop_full_log_dialog_title">Generují se logy…</string>
     <string name="submit_dialog_cancel">Nesouhlasím</string>
     <string name="submit_dialog_confirm">Souhlasím</string>
-    <string name="submit_dialog_content">Před odesláním zpětné vazby si přečtěte a vyjádřete souhlas s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání. Problémy, které nahlásíte spolu s položkami, které přiložíte (včetně protokolů, které mohou obsahovat osobní informace, jakož i informace o vašem zařízení a síti), se nahrají na servery MIUI. Toto nám pomůže najít a vyřešit problémy, které nahlásíte. Pokud nahlásíte problémy týkající se více zařízení, nahrají se i protokoly z jiných zařízení, kde se používá váš Xiaomi účet.</string>
-    <string name="submit_dialog_content_global">Vaše připomínka, spolu s přílohami (pokud nějaké existují) a logy (nežádoucí položky můžete odznačit) bude odeslána na MIUI servery. Logy mohou obsahovat vaše osobní údaje a údaje o vaší poloze. Zvolením možnosti \"Souhlasím\" vyjadřujete souhlas, že jste si přečetli a souhlasíte s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání.</string>
-    <string name="submit_dialog_content_global_with_contactinfo">Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery MIUI. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi Zásadami ochrany osobních údajů a Uživatelskou smlouvou.</string>
+    <string name="submit_dialog_content">Před odesláním zpětné vazby si přečtěte a vyjádřete souhlas s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání. Problémy, které nahlásíte spolu s položkami, které přiložíte (včetně protokolů, které mohou obsahovat osobní informace, jakož i informace o vašem zařízení a síti), se nahrají na servery HyperOS. Toto nám pomůže najít a vyřešit problémy, které nahlásíte. Pokud nahlásíte problémy týkající se více zařízení, nahrají se i protokoly z jiných zařízení, kde se používá váš Xiaomi účet.</string>
+    <string name="submit_dialog_content_global">Vaše připomínka, spolu s přílohami (pokud nějaké existují) a logy (nežádoucí položky můžete odznačit) bude odeslána na HyperOS servery. Logy mohou obsahovat vaše osobní údaje a údaje o vaší poloze. Zvolením možnosti \"Souhlasím\" vyjadřujete souhlas, že jste si přečetli a souhlasíte s našimi smlouvami Zásady ochrany osobních údajů a Podmínky používání.</string>
+    <string name="submit_dialog_content_global_with_contactinfo">Vaše zpětná vazba bude odeslána spolu s přílohami (pokud existují), logy (můžete zrušit zaškrtnutí příslušných políček u položek, které nechcete nahrávat), telefonním číslem nebo e-mailem na servery HyperOS. Logy mohou obsahovat osobní údaje a údaje o vaší poloze. Výběrem možnosti \"Souhlasím\" potvrzujete, že jste si přečetli a souhlasíte s našimi Zásadami ochrany osobních údajů a Uživatelskou smlouvou.</string>
     <string name="submit_dialog_not_show_again">Více nezobrazovat</string>
     <string name="submit_dialog_title">Odeslat hlášení</string>
     <string name="submit_feedback_info_failed">Nebylo možné odeslat hlášení</string>
@@ -707,8 +707,8 @@ Než budete pokračovat, přečtěte si a odsouhlaste novou verzi %3$s."</string
     <string name="title_frequent_question_feedback_main">Časté dotazy</string>
     <string name="title_mi_family">Xiaomi Home v okolí</string>
     <string name="title_nonsystem_app">Ostatní aplikace</string>
-    <string name="title_same_question_feedback_main">Podobné problémy na MIUI fóru</string>
-    <string name="title_system_app">MIUI aplikace</string>
+    <string name="title_same_question_feedback_main">Podobné problémy na HyperOS fóru</string>
+    <string name="title_system_app">HyperOS aplikace</string>
     <string name="title_user_guide">Uživatelská příručka</string>
     <string name="toast_app_tag_required">Nejprve vyberte chybu</string>
     <string name="toast_catch_full_log_catching">V jednom okamžiku můžete vygenerovat pouze jeden záznam.</string>
@@ -822,7 +822,7 @@ Velikost delta aktualizace: %2$s"</string>
       <string name="permission_imei_disable_desc">Povolit této aplikaci připojení k internetu.</string>
       <string name="permission_imei_enable_desc">Povolte této aplikaci připojení k internetu a udělte povinná oprávnění uvedená výše.</string>
       <string name="permission_location_introduce">Pro zobrazení blízkých servisů</string>
-      <string name="permission_main_purpose">Zobrazování ukázek funkcí MIUI, odesílání zpětné vazby a žádosti o poprodejní služby.</string>
+      <string name="permission_main_purpose">Zobrazování ukázek funkcí HyperOS, odesílání zpětné vazby a žádosti o poprodejní služby.</string>
       <string name="permission_privacy">Zásady ochrany osobních údajů (povinné)</string>
       <string name="permission_region_version_msg">&lt;Data>Před použitím \"Služby &amp;amp; zpětná vazba\" si musíte přečíst naši &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/a>.&lt;/Data></string>
       <string name="permission_select_all">Vybrat vše</string>

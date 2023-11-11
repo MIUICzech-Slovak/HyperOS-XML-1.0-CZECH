@@ -368,7 +368,7 @@
     <string name="incall_show_remove_success">Profilové video odstraněno</string>
     <string name="incall_show_title">Profilová videa</string>
     <string name="incompatible_dialog_cancel">Nepoužít</string>
-    <string name="incompatible_dialog_message">Toto téma není plně kompatibilní s vaší verzí MIUI. Některé její části nemusí být zobrazeny správně nebo mohou způsobit neočekávané chyby.</string>
+    <string name="incompatible_dialog_message">Toto téma není plně kompatibilní s vaší verzí HyperOS. Některé její části nemusí být zobrazeny správně nebo mohou způsobit neočekávané chyby.</string>
     <string name="incompatible_dialog_ok">Rozumím</string>
     <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
     <string name="install_failed">Nepodařilo se nainstalovat</string>
@@ -458,7 +458,7 @@ dd.MM"</string>
     <string name="miuishare_account_login_cancel">Zrušit</string>
     <string name="miuishare_account_login_confirmation">Přihlaste se do Xiaomi účtu</string>
     <string name="miuishare_account_login_ok">Přihlaste se</string>
-    <string name="miuishare_app_name">Sdílení MIUI</string>
+    <string name="miuishare_app_name">Sdílení HyperOS</string>
     <string name="miuishare_mini_program_title">Prohlédněte si tapetu, kterou jsem našel!</string>
     <string name="miuishare_no_network">"Nepodařilo se připojit k síti."</string>
     <string name="miuishare_please_retry">"Nepodařilo se získat informace. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
@@ -598,7 +598,7 @@ dd.MM"</string>
     <string name="online_precust_starry_sky">Vesmír</string>
     <string name="online_search_hint">Vyhledat online informace</string>
     <string name="order_list">Historie objednávek</string>
-    <string name="ota_recovery_theme_dialog_message">Některé prvky dříve použitého tématu nemusí být kompatibilní s novou verzí MIUI. Nekompatibilní prvky budou nahrazeny výchozími možnostmi.</string>
+    <string name="ota_recovery_theme_dialog_message">Některé prvky dříve použitého tématu nemusí být kompatibilní s novou verzí HyperOS. Nekompatibilní prvky budou nahrazeny výchozími možnostmi.</string>
     <string name="ota_recovery_theme_dialog_title">Obnovuje se původní téma</string>
     <string name="ota_recovery_theme_notity_btn">Obnovit</string>
     <string name="ota_recovery_theme_notity_content">"Můžete se vrátit k tématu, které jste používali před aktualizací"</string>
@@ -739,7 +739,7 @@ Toto povolení můžete udělit v části Nastavení &gt; Ochrana osobních úda
     <string name="pull_down_view_title">Co je nového</string>
     <string name="purchased">Objednávky</string>
     <string name="purchased_list">Zakoupeno</string>
-    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_current">HyperOS 8</string>
     <string name="purchased_list_format">Zakoupeno %1$s</string>
     <string name="purchased_list_legacy">Staré témata</string>
     <string name="read_and_agree_account_privacy" />
@@ -857,7 +857,7 @@ Toto povolení můžete udělit v části Nastavení &gt; Ochrana osobních úda
     <string name="resource_exchange_hint">Zadejte kód</string>
     <string name="resource_exchange_purchase_unkown_error">Nastala neznámá chyba. Přihlaste se na http://market.xiaomi.com pro kontrolu stavu platby.</string>
     <string name="resource_exchange_share_code_content">Obdrželi jste kód pro téma %1$s. Kód je: %2$s. Stiskněte %3$s pro jeho použití.</string>
-    <string name="resource_exchange_share_code_dlg_content">Kód pro nákup téma %1$s je: %2$s. Pokud ho odešlete jinému uživateli MIUI, může ho použít pro stáhnutí tohoto tématu.</string>
+    <string name="resource_exchange_share_code_dlg_content">Kód pro nákup téma %1$s je: %2$s. Pokud ho odešlete jinému uživateli HyperOS, může ho použít pro stáhnutí tohoto tématu.</string>
     <string name="resource_exchange_share_code_dlg_title">Odesílání</string>
     <string name="resource_exchange_success">Hotovo! :)</string>
     <string name="resource_exchange_unavailable">Téma pro nákup tímto kódem není dostupné.</string>
@@ -948,7 +948,7 @@ Toto povolení můžete udělit v části Nastavení &gt; Ochrana osobních úda
     <string name="resource_server_alert_dialog_title">Server je momentálně nedostupný</string>
     <string name="resource_server_out_of_service">Promiňte, ale náš server je momentálně nedostupný. Zkuste to později.</string>
     <string name="resource_share_subject">Sdílím téma: %1$s</string>
-    <string name="resource_share_text">Zde je téma pro MIUI, které se Ti může líbit: %1$s! Adresa: %2$s</string>
+    <string name="resource_share_text">Zde je téma pro HyperOS, které se Ti může líbit: %1$s! Adresa: %2$s</string>
     <string name="resource_share_title">Sdílet</string>
     <string name="resource_status_error">"Došlo k chybě. Tuto tapetu nyní nelze zobrazit."</string>
     <string name="resource_system_title">Systémové zdroje</string>
@@ -1145,7 +1145,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="theme_component_title_launcher">Launcher</string>
     <string name="theme_component_title_lockstyle">Zámek</string>
     <string name="theme_component_title_lockwallpaper">Tapeta zám.</string>
-    <string name="theme_component_title_miwallpaper">MIUI Tapeta</string>
+    <string name="theme_component_title_miwallpaper">HyperOS Tapeta</string>
     <string name="theme_component_title_mms">Zprávy</string>
     <string name="theme_component_title_notification">Upozornění</string>
     <string name="theme_component_title_others">Ostatní</string>
@@ -1180,9 +1180,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="theme_not_include_module_desc">Toto téma neobsahuje tyto položky: %s</string>
     <string name="theme_on_the_phone_alert">"Během hovorů nelze hrát"</string>
     <string name="theme_precast_create_notification_content">Zobrazit nová témata.</string>
-    <string name="theme_precast_create_notification_title">Aktualizováno na MIUI 7</string>
+    <string name="theme_precast_create_notification_title">Aktualizováno na HyperOS 7</string>
     <string name="theme_precast_update_notification_content">Zobrazit nová témata.</string>
-    <string name="theme_precast_update_notification_title">Aktualizováno na MIUI 7</string>
+    <string name="theme_precast_update_notification_title">Aktualizováno na HyperOS 7</string>
     <string name="theme_preview">Ukázka témat</string>
     <string name="theme_purchased_list_empty">nebylo zakoupeno žádné téma</string>
     <string name="theme_purchased_non_local">Ne lokální</string>
@@ -1404,7 +1404,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
 	<string name="resource_search_hot_tag">Populární</string>
 	<string name="warning_miui_optimization_closed_dialog_agree">Nastavení</string>
 	<string name="warning_miui_optimization_closed_dialog_disagree">Použít</string>
-	<string name="warning_miui_optimization_closed_dialog_message">Zdá se, že jste nezapnuli optimalizaci MIUI. Bez ní nebude tento motiv při použití správně fungovat. Můžete jej použít stejně nebo zapnout optimalizaci MIUI v Nastaveních.</string>
+	<string name="warning_miui_optimization_closed_dialog_message">Zdá se, že jste nezapnuli optimalizaci HyperOS. Bez ní nebude tento motiv při použití správně fungovat. Můžete jej použít stejně nebo zapnout optimalizaci HyperOS v Nastaveních.</string>
 	<string name="warning_miui_optimization_closed_dialog_title">Pozor</string>
 	<string name="UVI_level_0">Slabé</string>
       <string name="UVI_level_1">Střední</string>

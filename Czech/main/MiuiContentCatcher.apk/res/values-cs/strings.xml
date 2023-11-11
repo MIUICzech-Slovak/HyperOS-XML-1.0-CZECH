@@ -6,7 +6,7 @@
     <string name="auth_fingerprint_content_message">Nebylo možné ověřit otisk prstu, zkuste to znovu.</string>
     <string name="auth_fingerprint_content_message_error">Nebylo možné načíst otisk prstu, zkuste to znova.</string>
     <string name="auth_fingerprint_title">Ověřte svůj otisk prstu</string>
-    <string name="autofill_description">MIUI může zašifrovat a uložit vaše hesla a můžete je zadat automaticky při přihlašování. Xiaomi nemá přístup k vašim zašifrovaným heslům.</string>
+    <string name="autofill_description">HyperOS může zašifrovat a uložit vaše hesla a můžete je zadat automaticky při přihlašování. Xiaomi nemá přístup k vašim zašifrovaným heslům.</string>
     <string name="autofill_hint_email_address">Email</string>
     <string name="autofill_hint_name">Jméno</string>
     <string name="autofill_hint_password">Heslo</string>
@@ -34,7 +34,7 @@
     <string name="search">Vyhledat</string>
     <string name="settings_clear_data_confirmation_description">"Když nyní vymažete heslo, budete ho muset při přihlašování vložit manuálně.</string>
     <string name="settings_clear_data_confirmation_title">Vymazání hesel</string>
-    <string name="using_miui_autofill_message">Pro zadání hesel automaticky, MIUI uloží informace o účtu a heslo do zařízení.</string>
+    <string name="using_miui_autofill_message">Pro zadání hesel automaticky, HyperOS uloží informace o účtu a heslo do zařízení.</string>
 	<string name="hide_password_talkback">Skrýt heslo</string>
 	<string name="show_password_talkback">Zobrazit heslo</string>
 </resources>
