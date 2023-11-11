@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add">Přidat</string>
-    <string name="app_name">Miuios.cz / Xiaomi.eu rozšíření</string>
+    <string name="app_name">HyperOS.cz / Xiaomi.eu rozšíření</string>
     <string name="auto">Automatický</string>
     <string name="confirm_reset">Potvrzení</string>
     <string name="confirm_reset_message">Obnovit předvolené rozložení?</string>
-    <string name="contributors">MIUIos.cz</string>
+    <string name="contributors">HyperOS.cz</string>
     <string name="delete">Vymazat</string>
     <string name="hide_apps_close">Viditelné ikony aplikací</string>
     <string name="hide_apps_open">Skryté ikony aplikací</string>

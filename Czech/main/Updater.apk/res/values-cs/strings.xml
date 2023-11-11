@@ -47,15 +47,15 @@ Vaše data budou zachována."</string>
     <string name="menu_title_recovery">Restartovat do TWRP recovery</string>
     <string name="menu_title_recovery_mode">Aktual. v Recovery režimu</string>
     <string name="menu_title_show_notifications">Zobrazit upozornění</string>
-    <string name="message_checkbox">Nezobrazovat oznámení od miuios.cz</string>
+    <string name="message_checkbox">Nezobrazovat oznámení od HyperOS.cz</string>
     <string name="message_checkbox_device">Více nezobrazovat</string>
     <string name="message_title">Oznámení!</string>
     <string name="new_version">Je dostupná nová verze!</string>
     <string name="no_info">Informace nejsou dostupné</string>
     <string name="no_mirror">Server je momentálně nedostupný, zkuste to později...</string>
     <string name="no_network">Žádný přístup v síti.</string>
-    <string name="no_update">Není dostupná nová verze nebo nastala chyba serveru. Zkontrolujte miuios.cz pro kontrolu nové verze</string>
-    <string name="no_xioamieu">"Nepoužíváte MIUI ROM od miuios.cz nebo xiaomi.eu!
+    <string name="no_update">Není dostupná nová verze nebo nastala chyba serveru. Zkontrolujte HyperOS.cz pro kontrolu nové verze</string>
+    <string name="no_xioamieu">"Nepoužíváte MIUI ROM od HyperOS.cz nebo xiaomi.eu!
   Aktualizace pro vás není dostupná!"</string>
     <string name="notif_cancel">Zrušit</string>
     <string name="notif_install">Instalovat</string>

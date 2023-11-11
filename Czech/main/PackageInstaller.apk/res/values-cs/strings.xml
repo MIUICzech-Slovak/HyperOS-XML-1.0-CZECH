@@ -267,7 +267,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="install_failed_system_incompatible">Tato aplikace není kompatibilní s MIUI.</string>
     <string name="install_failed_verify_failed">Balíček neprošel ověřením a nemůže být nainstalován.</string>
     <string name="install_failed_verify_timeout">Při ověřování tohoto balíčku vypršel časový limit. Zkuste jej nainstalovat znovu později.</string>
-    <string name="install_from_appstore_hint">Doporučujeme vám nainstalovat si aplikaci z Google Play nebo miuios.cz</string>
+    <string name="install_from_appstore_hint">Doporučujeme vám nainstalovat si aplikaci z Google Play nebo HyperOS.cz</string>
     <string name="installing">Probíhá instalace...</string>
     <string name="keep_screen_on">Stay awake</string>
     <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
@@ -330,7 +330,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="menu_show_system">Zobrazit systémové aplikace</string>
     <string name="message_apk_checking">Kontrola apk...</string>
     <string name="message_appstore_verify_has_new_version">Novější verze aplikace je dostupná v Google Play. Chcete ji nainstalovat?</string>
-    <string name="message_appstore_verify_inconsistent">Podpis této aplikace je odlišný od aplikace v Google Play, bezpečnější bude instalovat ji z oficiálního zdroje. Pokud se jedná o přeloženou aplikaci od miuios.cz, toto varování je bezpředmětné."</string>
+    <string name="message_appstore_verify_inconsistent">Podpis této aplikace je odlišný od aplikace v Google Play, bezpečnější bude instalovat ji z oficiálního zdroje. Pokud se jedná o přeloženou aplikaci od HyperOS.cz, toto varování je bezpředmětné."</string>
     <string name="message_appstore_verify_ok">Aplikace v Google play prošla kontrolou virů a jiných škodlivých kódů.</string>
     <string name="message_full_scanning">Kontrola...</string>
     <string name="message_install_in_market">Doporučujeme instalovat aplikaci z Google Play</string>

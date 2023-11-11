@@ -42,7 +42,7 @@
     <string name="congratulation_pre_label">Načítání...</string>
     <string name="congratulation_pre_title">Příprava systému...</string>
     <string name="congratulation_swipe">Přejeďte nahoru pro vstup do systému</string>
-    <string name="congratulation_title">Navštivte miuios.cz</string>
+    <string name="congratulation_title">Navštivte HyperOS.cz</string>
     <string name="content_description_complete">Dokončeno</string>
     <string name="content_description_start">Spustit</string>
     <string name="content_introduction">Centrum obsahu shromažďuje obsah a služby z více kanálů. Kromě čtení nejnovějších článků a odkazů, zde můžete také sledovat videa a získávat doporučení nového obsahu.</string>
@@ -218,7 +218,7 @@ Chcete přizpůsobení reklam přesto vypnout?"</string>
     <string name="other_settings_alarm_assistance_summary">"Informace o své poloze můžete policii odeslat pomocí SMS nebo mobilních dat automaticky, když voláte na číslo 110, 120, 119 nebo 122. Přečtěte si naší &lt;a href=\" %1$s\ ">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobních údajů&lt;/a> před použitím této funkce."</string>
     <string name="other_settings_alarm_assistance_user">Smlouva s uživatelem</string>
     <string name="other_settings_auto_update">Automatické aktualizace systému</string>
-    <string name="other_settings_auto_update_summary">Nové aktualizace MIUI stáhněte na adrese miuios.cz/rom a nainstalujete v aplikací Aktualizace - Menu (3 tečky) - Vybrat zip.</string>
+    <string name="other_settings_auto_update_summary">Nové aktualizace MIUI stáhněte na adrese HyperOS.cz/rom a nainstalujete v aplikací Aktualizace - Menu (3 tečky) - Vybrat zip.</string>
     <string name="other_settings_auto_update_summary_v1">Umožněte MIUI vybrat nejlepší čas na stáhnutí a instalaci aktualizací. Vaše zařízení se pro uplatnění změn automaticky restartuje.</string>
     <string name="other_settings_enhanced_lockscreen">Denní tapeta</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Zásady ochrany osobních údajů</string>
@@ -442,7 +442,7 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Gesta pro celou obrazovku</string>
     <string name="skip_underline">Přeskočit tento krok</string>
-    <string name="start_up_slogan">Navštivte miuios.cz</string>
+    <string name="start_up_slogan">Navštivte HyperOS.cz</string>
     <string name="start_up_slogan_thirteen_china">Tam, kde se všechny věci propojují</string>
     <string name="summary_not_set">Nenastaveno</string>
     <string name="sunday">Neděle</string>
