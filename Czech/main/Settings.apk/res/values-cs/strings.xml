@@ -8238,4 +8238,20 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="view_face_privacy_policy"><Data>Přečtěte si &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Údaje o tváři &amp;#038; a vyjádřete souhlas s nimi lock\" Prohlášení o ochraně osobních údajů&lt;/a>, než budete pokračovat.</Data></string>
       <string name="view_fingerprint_privacy_policy"><Data>Přečtěte si &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Odtisky prstů &amp;#038; zámek obrazovky a vyjádřete s nimi souhlas \" Prohlášení o ochraně osobních údajů&lt;/a> předtím, než budete pokračovat.</Data></string>
       <string name="wifi_validation">Ověřování sítě…</string>
+	  <string name="app_data_sharing_updates_summary">Zkontrolujte aplikace, které změnily způsob sdílení údajů o vaší poloze</string>
+      <string name="app_data_sharing_updates_title">Aktualizace sdílení údajů o poloze</string>
+      <string name="media_controls_lockscreen_description">Chcete-li rychle obnovit přehrávání, přehrávač médií zůstane otevřený na uzamčené obrazovce</string>
+      <string name="media_controls_lockscreen_title">Zobrazit média na uzamčené obrazovce</string>
+      <string name="mic_toggle_description">Pro aplikace a služby. Pokud je toto nastavení vypnuto, data mikrofonu se mohou stále sdílet, když zavoláte na tísňové číslo.</string>
+      <string name="mic_toggle_title">Přístup k mikrofonu</string>
+      <string name="otg_new_tip">Zapněte OTG, abyste mohli své zařízení připojit přímo k jiným zařízením pomocí USB. Tato funkce se automaticky vypne po %d minutách nečinnosti.</string>
+      <string name="privacy_dashboard_title">Soukromí</string>
+      <string name="privacy_header">Soukromí</string>
+      <string name="runtime_permissions_summary_control_app_access">Ovládejte přístup aplikací ke svým údajům</string>
+      <string name="search_history_clear_description">Vymazat historii</string>
+      <string name="search_history_description">Historie vyhledávání</string>
+      <string name="show_clip_access_notification">Zobrazit přístup do schránky</string>
+      <string name="show_clip_access_notification_summary">Zobrazit zprávu, když aplikace přistupují k textu, obrázkům nebo jinému obsahu, který jste zkopírovali</string>
+      <string name="volume_key_launch_camera">Otevřít fotoaparát</string>
+      <string name="volume_key_launch_camera_and_take_photo">Pořídit snímek</string>
 </resources>
