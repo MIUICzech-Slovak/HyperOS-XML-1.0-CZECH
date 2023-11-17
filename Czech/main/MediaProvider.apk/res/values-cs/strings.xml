@@ -46,43 +46,42 @@
      <string name="not_selected">Nevybráno</string>
      <string name="not_set">Nenastaveno</string>
      <string name="password_toggle_content_description">Zobrazit heslo</string>
-     <string name="permission_delete_audio">{count, plural, =1 {Povolit ^1 odstranit tento zvukový soubor?} dalsí {Povolit ^1 odstranit ^2 audio souborů?} }</string>
-     <string name="permission_delete_generic">{count, plural, =1 {Povolit ^1 odstranit tuto položku?} další {Povolit ^1 odstranit ^2 položek?} }</string>
-     <string name="permission_delete_image">{count, plural, =1 {Povolit uživateli ^1 odstranit tuto fotografii?} další {Povolit uživateli ^1 vymazat ^2 fotografie?} }</string>
-     <string name="permission_delete_video">{count, plural, =1 {Povolit uživateli ^1 odstranit toto video?} další {Povolit uživateli ^1 odstranit ^2 videa?} }</string>
-     <string name="permission_more_text">{count, plural, =1 {Plus ^1 dodatečná položka} další {Plus ^1 dodatečných položek} }</string>
-     <string name="permission_more_thumb">{count, plural, =1 {+^1} další {+^1} }</string>
-     <string name="permission_progress_delete_audio">{count, plural, =1 {Odstraňuje se zvukový soubor…} další {Odstraňuje se zvukový soubor ^1…} }</string>
-     <string name="permission_progress_delete_generic">{count, plural, =1 {Mazání položky…} další {Mazání ^1 položek…} }</string>
-     <string name="permission_progress_delete_image">{count, plural, =1 {Odstraňuje se fotka…} další {Odstraňuje se ^1 fotek…} }</string>
-     <string name="permission_progress_delete_video">{count, plural, =1 {Mazání videa…} další {Mazání ^1 videí…} }</string>
-     <string name="permission_progress_trash_audio">{count, plural, =1 {Přesouvám zvukový soubor do koše…} další {Přesouvám zvukové soubory ^1 do koše…} }</string>
-     <string name="permission_progress_trash_generic">{count, plural, =1 {Přesouvám položku do koše…} další {Přesun ^1 položek do koše…} }</string>
-     <string name="permission_progress_trash_image">{count, plural, =1 {Přesouvám fotku do koše…} další {Přesouvám fotky ^1 do koše…} }</string>
-     <string name="permission_progress_trash_video">{count, plural, =1 {Přesun videa do koše…} další {Přesouvání ^1 videí do koše…} }</string>
-     <string name="permission_progress_untrash_audio">{count, plural, =1 {Přesouvám zvukový soubor z koše…} další {Přesouvám zvukové soubory ^1 z koše…} }</string>
-     <string name="permission_progress_untrash_generic">{count, plural, =1 {Přesun položky z koše…} další {Přesun ^1 položek z koše…} }</string>
-     <string name="permission_progress_untrash_image">{count, plural, =1 {Přesouvám fotografii z koše…} další {Přesouvám fotky ^1 z koše…} }</string>
-     <string name="permission_progress_untrash_video">{count, plural, =1 {Přesun videa z koše…} další {Přesouvání ^1 videí z koše…} }</string>
-     <string name="permission_progress_write_audio">{count, plural, =1 {Úprava zvukového souboru…} další {Úprava ^1 zvukových souborů…} }</string>
-     <string name="permission_progress_write_generic">{count, plural, =1 {Úprava položky…} další {Úprava ^1 položek…} }</string>
-     <string name="permission_progress_write_image">{count, plural, =1 {Úprava fotografie…} další {Úprava ^1 fotografií…} }</string>
-     <string name="permission_progress_write_video">{count, plural, =1 {Úprava videa…} další {Úprava ^1 videí…} }</string>
-     <string name="permission_trash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor do koše?} další {Povolit ^1 přesunout ^2 audio souborů do koše?} }</string>
-     <string name="permission_trash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku do koše?} další {Povolit ^1 přesunout ^2 položek do koše?} }</string>
-     <string name="permission_trash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii do koše?} další {Povolit ^1 přesunout ^2 fotografií do koše?} }</string>
-     <string name="permission_trash_video">{count, plural, =1 {Povolit ^1 přesunout toto video do koše?} další {Povolit ^1 přesunouť ^2 videí do koše?} }</string>
-     <string name="permission_untrash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor z koše?} další {Povolit ^1 přesunout ^2 audio souborů z koše?} }</string>
-     <string name="permission_untrash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku z koše?} další {Povolit ^1 přesunout ^2 položek z koše?} }</string>
-     <string name="permission_untrash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii z koše?} další {Povolit ^1 přesunout ^2 fotografií z koše?} }</string>
-     <string name="permission_untrash_video">{count, plural, =1 {Povolit ^1 přesunout toto video z koše?} další {Povolit ^1 přesunout ^2 videa z koše?} }</string>
-     <string name="permission_write_audio">{count, plural, =1 {Povolit ^1 upravovat tento zvukový soubor?} další {Povolit ^1 upravovat ^2 zvukové soubory?} }</string>
-     <string name="permission_write_generic">{count, plural, =1 {Povolit ^1 upravovat tuto položku?} další {Povolit ^1 upravovat ^2 položek?} }</string>
-     <string name="permission_write_image">{count, plural, =1 {Povolit ^1 upravovat tuto fotku?} další {Povolit ^1 upravovat ^2 fotky?} }</string>
-     <string name="permission_write_video">{count, plural, =1 {Povolit uživateli ^1 upravovat toto video?} další {Povolit uživateli ^1 upravovat videa ^2?} }</string>
+     <string name="permission_delete_audio">{count, plural, =1 {Povolit ^1 odstranit tento zvukový soubor?} other {Povolit ^1 odstranit ^2 audio souborů?} }</string>
+     <string name="permission_delete_generic">{count, plural, =1 {Povolit ^1 odstranit tuto položku?} other {Povolit ^1 odstranit ^2 položek?} }</string>
+     <string name="permission_delete_image">{count, plural, =1 {Povolit uživateli ^1 odstranit tuto fotografii?} other {Povolit uživateli ^1 vymazat ^2 fotografie?} }</string>
+     <string name="permission_delete_video">{count, plural, =1 {Povolit uživateli ^1 odstranit toto video?} other {Povolit uživateli ^1 odstranit ^2 videa?} }</string>
+     <string name="permission_more_text">{count, plural, =1 {Plus ^1 dodatečná položka} other {Plus ^1 dodatečných položek} }</string>
+     <string name="permission_progress_delete_audio">{count, plural, =1 {Odstraňuje se zvukový soubor…} other {Odstraňuje se zvukový soubor ^1…} }</string>
+     <string name="permission_progress_delete_generic">{count, plural, =1 {Mazání položky…} other {Mazání ^1 položek…} }</string>
+     <string name="permission_progress_delete_image">{count, plural, =1 {Odstraňuje se fotka…} other {Odstraňuje se ^1 fotek…} }</string>
+     <string name="permission_progress_delete_video">{count, plural, =1 {Mazání videa…} other {Mazání ^1 videí…} }</string>
+     <string name="permission_progress_trash_audio">{count, plural, =1 {Přesouvám zvukový soubor do koše…} other {Přesouvám zvukové soubory ^1 do koše…} }</string>
+     <string name="permission_progress_trash_generic">{count, plural, =1 {Přesouvám položku do koše…} other {Přesun ^1 položek do koše…} }</string>
+     <string name="permission_progress_trash_image">{count, plural, =1 {Přesouvám fotku do koše…} other {Přesouvám fotky ^1 do koše…} }</string>
+     <string name="permission_progress_trash_video">{count, plural, =1 {Přesun videa do koše…} other {Přesouvání ^1 videí do koše…} }</string>
+     <string name="permission_progress_untrash_audio">{count, plural, =1 {Přesouvám zvukový soubor z koše…} other {Přesouvám zvukové soubory ^1 z koše…} }</string>
+     <string name="permission_progress_untrash_generic">{count, plural, =1 {Přesun položky z koše…} other {Přesun ^1 položek z koše…} }</string>
+     <string name="permission_progress_untrash_image">{count, plural, =1 {Přesouvám fotografii z koše…} other {Přesouvám fotky ^1 z koše…} }</string>
+     <string name="permission_progress_untrash_video">{count, plural, =1 {Přesun videa z koše…} other {Přesouvání ^1 videí z koše…} }</string>
+     <string name="permission_progress_write_audio">{count, plural, =1 {Úprava zvukového souboru…} other {Úprava ^1 zvukových souborů…} }</string>
+     <string name="permission_progress_write_generic">{count, plural, =1 {Úprava položky…} other {Úprava ^1 položek…} }</string>
+     <string name="permission_progress_write_image">{count, plural, =1 {Úprava fotografie…} other {Úprava ^1 fotografií…} }</string>
+     <string name="permission_progress_write_video">{count, plural, =1 {Úprava videa…} other {Úprava ^1 videí…} }</string>
+     <string name="permission_trash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor do koše?} other {Povolit ^1 přesunout ^2 audio souborů do koše?} }</string>
+     <string name="permission_trash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku do koše?} other {Povolit ^1 přesunout ^2 položek do koše?} }</string>
+     <string name="permission_trash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii do koše?} other {Povolit ^1 přesunout ^2 fotografií do koše?} }</string>
+     <string name="permission_trash_video">{count, plural, =1 {Povolit ^1 přesunout toto video do koše?} other {Povolit ^1 přesunouť ^2 videí do koše?} }</string>
+     <string name="permission_untrash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor z koše?} other {Povolit ^1 přesunout ^2 audio souborů z koše?} }</string>
+     <string name="permission_untrash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku z koše?} other {Povolit ^1 přesunout ^2 položek z koše?} }</string>
+     <string name="permission_untrash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii z koše?} other {Povolit ^1 přesunout ^2 fotografií z koše?} }</string>
+     <string name="permission_untrash_video">{count, plural, =1 {Povolit ^1 přesunout toto video z koše?} other {Povolit ^1 přesunout ^2 videa z koše?} }</string>
+     <string name="permission_write_audio">{count, plural, =1 {Povolit ^1 upravovat tento zvukový soubor?} other {Povolit ^1 upravovat ^2 zvukové soubory?} }</string>
+     <string name="permission_write_generic">{count, plural, =1 {Povolit ^1 upravovat tuto položku?} other {Povolit ^1 upravovat ^2 položek?} }</string>
+     <string name="permission_write_image">{count, plural, =1 {Povolit ^1 upravovat tuto fotku?} other {Povolit ^1 upravovat ^2 fotky?} }</string>
+     <string name="permission_write_video">{count, plural, =1 {Povolit uživateli ^1 upravovat toto video?} other {Povolit uživateli ^1 upravovat videa ^2?} }</string>
      <string name="picker_add_button_multi_select">Přidat (^1)</string>
      <string name="picker_add_button_multi_select_permissions">Povolit (^1)</string>
-     <string name="picker_album_item_count">{count, plural, =1 {^1 položka} další {^1 položek} }</string>
+     <string name="picker_album_item_count">{count, plural, =1 {^1 položka} other {^1 položek} }</string>
      <string name="picker_album_media_empty_message">Žádné podporované fotografie ani videa</string>
      <string name="picker_albums">Alba</string>
      <string name="picker_albums_empty_message">Žádná alba</string>
@@ -141,7 +140,7 @@
      <string name="recent">Nedávné</string>
      <string name="safety_protection_icon_label">Bezpečnostní ochrana</string>
      <string name="select">Vybrat</string>
-     <string name="select_up_to">{count, plural, =1 {Vyberte nejvýše ^1 položku} další {Vyberte nejvýše ^1 položek} }</string>
+     <string name="select_up_to">{count, plural, =1 {Vyberte nejvýše ^1 položku} other {Vyberte nejvýše ^1 položek} }</string>
      <string name="selected">Vybráno</string>
      <string name="settings_label">Nastavení</string>
      <string name="settingslib_category_personal">Osobní</string>
