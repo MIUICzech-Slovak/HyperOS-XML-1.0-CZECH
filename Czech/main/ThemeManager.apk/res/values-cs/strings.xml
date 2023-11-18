@@ -1438,7 +1438,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
        <string name="restore_default_lock_style_apply_superwallpaper">"Tato šablona uzamčené obrazovky nepodporuje super tapety. Po použití se vaše uzamčená obrazovka vrátí na výchozí nastavení a vaše tapety na ploše a uzamčené obrazovce budou nahrazeny. Použít nyní?"</string>
       <string name="restore_default_lockscreen_when_special_lock_style">"Momentálně používáte šablonu uzamčené obrazovky. Pokud budete pokračovat, vaše uzamčená obrazovka se obnoví na výchozí hodnotu. Použít nyní?"</string>
       <string name="restore_history_lock_screen_when_apply_theme">"Momentálně používáte motiv třetí strany. Pokud změníte tapetu uzamčené obrazovky, může to způsobit, že hodiny na uzamčené obrazovce se obnoví na výchozí hodnoty. Použít nyní?"</string>
-      <string name="somatosensory_temperature_format">Pocit jako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitově %s°</string>
       <string name="sunrise_time_format">Východ slunce %s</string>
       <string name="sunrise_time_format_desc">Doba východu slunce: %s</string>
       <string name="sunrise_time_format_tomorrow_desc">"Zítřejší východ slunce: %s"</string>
@@ -1462,7 +1462,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
       <string name="wind_format">%1$s | Úroveň %2$s</string>
 	  <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Momentálně používáte Super tapetu. Pokud vyberete novou tapetu, použije se na ploše i na uzamčené obrazovce a AOD se obnoví na předchozí nastavení. Použít nyní?"</string>
       <string name="apply_wallpaper_warning_use_super_wallpaper">"Momentálně používáte Super tapetu. Pokud vyberete novou tapetu, bude použita na ploše i na uzamčené obrazovce. Použít nyní?"</string>
-      
      <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
      <string name="miui_magazine_clock_date">d.M</string>
      <string name="miui_magazine_clock_date_content_description">dd.MM</string>

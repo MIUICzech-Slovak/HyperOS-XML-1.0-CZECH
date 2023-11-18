@@ -2824,7 +2824,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
       <string name="quick_settings_wlan_state_change_message_on">Wi-Fi je zapnuta</string>
       <string name="rain_probability_desc">Pravděpodobnost srážek: %s</string>
       <string name="sim_lock_bouncer_hint_msg">Karta SIM je uzamčena. Vyměňte ji nebo pro odemčení zadejte heslo.</string>
-      <string name="somatosensory_temperature_format">Pocit jako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitově %s°</string>
       <string name="strong_toast_charging">Nabíjení</string>
       <string name="strong_toast_quick_charging">Rychlé nabíjení</string>
       <string name="sunrise_time_format">Východ slunce %s</string>
@@ -2847,7 +2847,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
       <string name="wind_direction_7">SZ vítr</string>
       <string name="wind_direction_7_f">SZ vítr</string>
       <string name="wind_format">%1$s | Úroveň %2$s</string>
-      
      <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
      <string name="miui_magazine_clock_date">d.M</string>
      <string name="miui_magazine_clock_date_content_description">dd.MM</string>
