@@ -479,7 +479,7 @@ Před pokračováním si přečtěte a vyjádřete souhlas s novou verzí %2$s."
       <string name="index_item_install_dialog">%1$s bylo úspěšně nainstalováno. Otevřít teď?</string>
       <string name="index_item_install_now">Instalovat nyní</string>
       <string name="index_item_installing">Instaluje se</string>
-      <string name="indices_title_feel_new">Pocit jako</string>
+      <string name="indices_title_feel_new">Pocitově</string>
       <string name="indices_title_pressure_new">Tlak</string>
       <string name="life_index_title">Index počasí</string>
       <string name="main_activity_hourly_forecast_card_more_title">Více</string>

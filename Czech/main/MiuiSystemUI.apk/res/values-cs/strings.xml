@@ -1660,7 +1660,7 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="no_weather_description">Získat info o počasí &gt;</string>
     <string name="not_default_data_content_description">Nenastavené k používání dat</string>
     <string name="not_support_multi_window">Současná aplikace nepodporuje Multi-Window</string>
-    <string name="notch_status_bar_date_format_12">EEEE, d. MMMM</string>
+     <string name="notch_status_bar_date_format_12">EE, dd. MMM</string>
     <string name="notification_aggregate_text">Upozornění od %1$s označit jako nedůležité</string>
     <string name="notification_alert_title">Upozornění</string>
     <string name="notification_all_categories">Všechny kategorie</string>
@@ -2321,8 +2321,8 @@ monitorována"</string>
     <string name="status_bar_airplane">Režim Letadlo</string>
     <string name="status_bar_alarm">Budík</string>
     <string name="status_bar_clear_all_button">Vymazat</string>
-    <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-    <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
+    <string name="status_bar_clock_date_format">EE, dd. MMM</string>
+    <string name="status_bar_clock_date_format_12">EE, dd. MMM</string>
     <string name="status_bar_clock_date_weekday_format">dd.MM. EEE</string>
     <string name="status_bar_clock_date_weekday_format_12">dd.MM. EEE</string>
     <string name="status_bar_date_format">"EEEE
@@ -2824,7 +2824,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
       <string name="quick_settings_wlan_state_change_message_on">Wi-Fi je zapnuta</string>
       <string name="rain_probability_desc">Pravděpodobnost srážek: %s</string>
       <string name="sim_lock_bouncer_hint_msg">Karta SIM je uzamčena. Vyměňte ji nebo pro odemčení zadejte heslo.</string>
-      <string name="somatosensory_temperature_format">Pocit jako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitově %s°</string>
       <string name="strong_toast_charging">Nabíjení</string>
       <string name="strong_toast_quick_charging">Rychlé nabíjení</string>
       <string name="sunrise_time_format">Východ slunce %s</string>
@@ -2847,4 +2847,10 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
       <string name="wind_direction_7">SZ vítr</string>
       <string name="wind_direction_7_f">SZ vítr</string>
       <string name="wind_format">%1$s | Úroveň %2$s</string>
+     <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+     <string name="miui_magazine_clock_date">d.M</string>
+     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+     <string name="miui_smart_frame_clock_date">d.M</string>
+     <string name="format_month_day_style1">d.MMM</string>
+     <string name="format_month_day_style2">d.M</string>     
 </resources>

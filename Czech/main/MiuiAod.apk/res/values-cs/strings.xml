@@ -320,7 +320,7 @@ N e"</string>
       <string name="kg_classic_item_operator">Operátor</string>
       <string name="kg_classic_item_rainfall_probability">Srážky</string>
       <string name="kg_classic_item_sleep">Spánek</string>
-      <string name="kg_classic_item_somatosensory">Pocit jako</string>
+      <string name="kg_classic_item_somatosensory">Pocitově</string>
       <string name="kg_classic_item_stand">Vstávání</string>
       <string name="kg_classic_item_step_number">Kroky</string>
       <string name="kg_classic_item_sunrise_or_sunset">Východ a západ slunce</string>
@@ -404,7 +404,7 @@ N e"</string>
       <string name="miui_clock_city_name_local">Místní</string>
       <string name="miui_clock_city_name_second">Duální hodiny</string>
       <string name="rain_probability_desc">Pravděpodobnost srážek: %s</string>
-      <string name="somatosensory_temperature_format">Pocit jako %s°</string>
+      <string name="somatosensory_temperature_format">Pocitově %s°</string>
       <string name="sunrise_time_format">Východ slunce %s</string>
       <string name="sunrise_time_format_desc">Doba východu slunce: %s</string>
       <string name="sunrise_time_format_tomorrow_desc">"Zítřejší východ slunce: %s"</string>
@@ -426,4 +426,11 @@ N e"</string>
       <string name="wind_direction_7">SZ vítr</string>
       <string name="wind_direction_7_f">SZ vítr</string>
       <string name="wind_format">%1$s | Úroveň %2$s</string>
+      
+     <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+     <string name="miui_magazine_clock_date">d.M</string>
+     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+     <string name="miui_smart_frame_clock_date">d.M</string>
+     <string name="format_month_day_style1">d.MMM</string>
+     <string name="format_month_day_style2">d.M</string>      
 </resources>
