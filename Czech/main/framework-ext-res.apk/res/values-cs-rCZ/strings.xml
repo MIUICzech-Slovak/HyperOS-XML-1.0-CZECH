@@ -527,4 +527,6 @@
       <string name="wallpaper_neon_title">Neon</string>
       <string name="wallpaper_overlapping_space_title">Tvar a stín</string>
       <string name="wallpaper_submerged_wing_title">Textury</string>
+	  <string name="wallpaper_floral_arrangement_title">Květinové aranžmá</string>
+     <string name="wallpaper_gradient_title">Přechod</string>
 </resources>

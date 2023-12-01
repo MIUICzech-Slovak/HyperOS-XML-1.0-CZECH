@@ -1278,4 +1278,8 @@ Jestliže chcete začít, přidejte widgety."</string>
      <string name="pa_widget_menu_edit_stack">Upravit skupinu</string>
      <string name="pa_widget_menu_remove_card_in_stack">Odstranit \"%s\"</string>
 	 <string name="pa_setting_new_simplify_title_bar">Asistent</string>
+	 <string name="pa_widget_menu_improve_edit">Upravit</string>
+     <string name="pa_widget_menu_improve_remove">Odstranit</string>
+     <string name="pa_widget_menu_improve_remove_card_in_stack">Odstranit \"%s\"</string>
+     <string name="pa_widget_menu_improve_replace">Nahradit</string>
 </resources>
