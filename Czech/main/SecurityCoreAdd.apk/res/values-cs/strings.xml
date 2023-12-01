@@ -937,4 +937,5 @@ Dvojitým klepnutím otevřete Nedávné."</string>
       <string name="wake_suppression_title">Malá oblast</string>
       <string name="xspace_account">Účty dvou aplikací</string>
       <string name="xspace_guide_content_bound">Dostupné aplikace</string>
+	  <string name="tutorial_music_song_title_pre">Izolace snu</string>
 </resources>
