@@ -1227,7 +1227,7 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_absVolume_open_dialog_summary">Kvůli problémům s kompatibilitou, mohou mít některé Bluetooth zařízení nesprávnou úroveň hlasitosti, to může být vyřešeno vypnutím této funkce.</string>
     <string name="bt_absVolume_open_dialog_title">Upozornění</string>
-    <string name="bt_absVolume_pre_title">Absolutní hlasitost</string>
+    <string name="bt_absVolume_pre_title">Udržovat konzistentní hlasitost</string>
     <string name="bt_absVolume_summary">Ponechat hlasitost Bluetooth zařízení a telefonu na stejné úrovni</string>
     <string name="bt_always_show_icon">Vždy zobrazovat ikonu bluetooth ve stavovém rádku</string>
     <string name="bt_always_show_icon_summary">Zobrazit ikonu Bluetooth pouze v roletce a ovladačích</string>
