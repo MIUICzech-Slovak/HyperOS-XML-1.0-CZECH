@@ -8254,4 +8254,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="show_clip_access_notification_summary">Zobrazit zprávu, když aplikace přistupují k textu, obrázkům nebo jinému obsahu, který jste zkopírovali</string>
       <string name="volume_key_launch_camera">Otevřít fotoaparát</string>
       <string name="volume_key_launch_camera_and_take_photo">Pořídit snímek</string>
+	  <string name="unused_apps_switch">Pozastavit aplikaci pokud se nepoužívá</string>
+      <string name="unused_apps_switch_summary">Odstranit oprávnění, dočasné soubory a zastavit upozornění</string>
 </resources>
