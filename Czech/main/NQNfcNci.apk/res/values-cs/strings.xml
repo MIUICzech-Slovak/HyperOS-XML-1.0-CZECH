@@ -80,4 +80,6 @@
     <string name="touch">Přenos zahájíte dotykem</string>
     <string name="transaction_failure">Tato transakce nemohla být dokončena s %1$s."</string>
     <string name="wifi_connect">Připojit</string>
+	<string name="sim_wallet">SIM Peněženka</string>
+     <string name="sim_wallet_desc">SIM Peněženka</string>
 </resources>

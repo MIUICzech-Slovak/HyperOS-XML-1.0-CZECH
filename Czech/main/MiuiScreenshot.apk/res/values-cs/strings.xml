@@ -240,4 +240,8 @@ dlouhý screenshot"</string>
 	<string name="copy_success_toast">Zkopírováno</string>
 	<string name="screenshot_detected_multiple_template">Tento screenshot rozpoznalo vícero aplikací včetně %1$s</string>
 	<string name="screenshot_detected_template">Tento screenshot byl rozpoznán %1$s</string>
+	<string name="close">Zavřít</string>
+	<string name="copy_dialog_confirm">Rozumím</string>
+	<string name="copy_dialog_content">Snímky obrazovky budou automaticky přidány do vaší schránky a lze je vložit. Tuto funkci můžete vypnout v Nastavení vyhledáním \"Přidat položky do schránky\".</string>
+	<string name="copy_dialog_title">Pozor</string>
 </resources>
