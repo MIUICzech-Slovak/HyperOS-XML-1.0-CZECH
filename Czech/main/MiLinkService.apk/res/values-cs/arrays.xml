@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Kombinovat aplikace</item>
+        <item>Propojení/kombinovat aplikace</item>
+        <item>Funkce automobilu</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Propojení</item>
+        <item>Propojení/Propojení</item>
+        <item>Propojení zařízení, Služby propojení zařízení, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentní připojení, Mi Smart Hub, Propojení, Duo, Xiaomi telefon, Xiaomi laptop, Více obrazovky, Duet, přenášení obrazu, kombinování aplikací, předání, Předání aplikací, Zrcadlo, ekosystém Xiaomi, připojení zařízení</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Soukromí</item>
+        <item>Propojení/soukromí</item>
+        <item>Soukromí a propojení, soukromí</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Propojení Xiaomi</item>
+        <item>Propojení/Xiaomi propojení</item>
+        <item>Služby propojení Xiaomi/Propojení Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Předání aplikace</item>
+        <item>Propojení/předání aplikace</item>
+        <item>Aplikace přenosu, předání, přenos</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Hovory</item>
+        <item>Propojení/hovory</item>
+        <item>Hovory</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Nápověda se sítí</item>
+        <item>Propojení/Nápověda se sítí</item>
+        <item>Síťová asistence, tethering, sdílení hotspotů</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Domovská obrazovka+</item>
+        <item>Propojení/Domovská obrazovka+</item>
+        <item>Domovská obrazovka, Mi Smart Hub, sdílení obrazovky</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Schránka</item>
+        <item>Propojení/schránka</item>
+        <item>Schránka</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Upozornění napříč zařízení</item>
+        <item>Propojení/upozornění</item>
+        <item>Upozornění napříč zařízení</item>
+    </string-array>
+</resources>

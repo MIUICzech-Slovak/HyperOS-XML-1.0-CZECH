@@ -2398,7 +2398,7 @@ Stiskněte současně vypínač a tlačítko zvýšení hlasitosti."</string>
     <string name="printer_info_desc">Další informace o této tiskárně</string>
     <string name="priority_conversation_count_zero">Žádné prioritní konverzace</string>
     <string name="privacy_dashboard_summary">Oprávnění, aktivita na účtu, osobní údaje</string>
-    <string name="privacy_dashboard_title">Ochrana soukromí</string>
+    <string name="privacy_dashboard_title">Soukromí</string>
     <string name="private_dns_broken">Nelze získat přístup k soukromému serveru DNS</string>
     <string name="private_dns_help_message" />
     <string name="private_dns_mode_off">Vypnuto</string>

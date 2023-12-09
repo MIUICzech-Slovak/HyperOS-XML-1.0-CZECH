@@ -39,4 +39,774 @@
     <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
     <string name="common_open_on_phone">Otevřít v telefonu</string>
     <string name="not_set">Nenastaveno</string>
+	<string name="action_drag_label_move_bottom">"Přesunout na konec"</string>
+      <string name="action_drag_label_move_down">"Přesunout dolů"</string>
+      <string name="action_drag_label_move_top">"Přesunout na začátek"</string>
+      <string name="action_drag_label_move_up">"Přesunout nahoru"</string>
+      <string name="active_calories_burned_lowercase_label">"kalorie spálené během aktivity"</string>
+      <string name="active_calories_burned_read_content_description">"Čtení údajů o kaloriích spálených během aktivity"</string>
+      <string name="active_calories_burned_uppercase_label">"Kalorie spálené během aktivity"</string>
+      <string name="active_calories_burned_write_content_description">"Zapisování údajů o kaloriích spálených během aktivity"</string>
+      <string name="activity_category_lowercase">"aktivita"</string>
+      <string name="activity_category_uppercase">"Aktivita"</string>
+      <string name="activity_type_australian_football">"Austrálský fotbal"</string>
+      <string name="aggregation_total">"Celkově: <xliff:g id="TOTAL_VALUE">%s</xliff:g>"</string>
+      <string name="all_categories_title">"Všechny kategorie"</string>
+      <string name="all_entries_button">"Zobrazit všechny záznamy"</string>
+      <string name="app_access_title">"Přístup k aplikacím"</string>
+      <string name="app_perms_content_provider_24h">"Použito v posledních 24 hodinách"</string>
+      <string name="app_priority_button">"Priorita aplikací"</string>
+      <string name="app_update_needed_banner_button">"Zkontrolovat dostupnost aktualizací"</string>
+      <string name="app_update_needed_banner_description_multiple">"Některé aplikace je třeba aktualizovat, jinak nebudou s Daty o zdraví fungovat"</string>
+      <string name="app_update_needed_banner_description_single">"Aplikaci <xliff:g id="APP_NAME">%1$s</xliff:g> je třeba aktualizovat, jinak nebude s Daty o zdraví fungovat"</string>
+      <string name="app_update_needed_banner_title">"Vyžaduje se aktualizace aplikace"</string>
+      <string name="arm_curl">"Bicepsový zdvih"</string>
+      <string name="auto_delete_button">"Automatické odstraňování"</string>
+      <string name="auto_delete_header">"Mějte kontrolu nad tím, jak dlouho se vaše údaje uchovávají v Datech o zdraví. Naplánujte jejich odstranění po stanovené lhůtě."</string>
+      <string name="auto_delete_learn_more">"Další informace o automatickém odstraňování"</string>
+      <string name="auto_delete_rationale">"Když změníte tato nastavení, Data o zdraví odstraní stávající data, aby zohlednila nové předvolby"</string>
+      <string name="auto_delete_section">"Automatické odstraňování dat"</string>
+      <string name="auto_delete_title">"Automatické odstraňování"</string>
+      <string name="back_button">"Zpět"</string>
+      <string name="back_extension">"Cviky na zádové svalstvo"</string>
+      <string name="badminton">"Badminton"</string>
+      <string name="ball_slam">"Hod medicinbalu o zem"</string>
+      <string name="barbell_shoulder_press">"Tlak na ramena s obouruční činkou"</string>
+      <string name="basal_body_temperature_lowercase_label">"bazální tělesná teplota"</string>
+      <string name="basal_body_temperature_read_content_description">"Čtení údajů o bazální tělesné teplotě"</string>
+      <string name="basal_body_temperature_uppercase_label">"Bazální tělesná teplota"</string>
+      <string name="basal_body_temperature_write_content_description">"Zapisování údajů o bazální tělesné teplotě"</string>
+      <string name="basal_metabolic_rate_lowercase_label">"bazální metabolismus"</string>
+      <string name="basal_metabolic_rate_read_content_description">"Čtení údajů o bazálním metabolismu"</string>
+      <string name="basal_metabolic_rate_uppercase_label">"Bazální metabolismus"</string>
+      <string name="basal_metabolic_rate_write_content_description">"Zapisování údajů o bazálním metabolismu"</string>
+      <string name="baseball">"Baseball"</string>
+      <string name="basketball">"Basketbal"</string>
+      <string name="bench_press">"Tlak s velkou činkou vleže"</string>
+      <string name="bench_sit_up">"Sed-leh na lavičce"</string>
+      <string name="biking">"Cyklistika"</string>
+      <string name="biking_stationary">"Stacionární kolo"</string>
+      <string name="biotin">"Biotin"</string>
+      <string name="blood_glucose_after_meal">"Po jídle"</string>
+      <string name="blood_glucose_before_meal">"Před jídlem"</string>
+      <string name="blood_glucose_fasting">"Nalačno"</string>
+      <string name="blood_glucose_general">"Jako obvykle"</string>
+      <string name="blood_glucose_lowercase_label">"glykémie"</string>
+      <string name="blood_glucose_read_content_description">"Čtení údajů o glykémii"</string>
+      <string name="blood_glucose_uppercase_label">"Glykémie"</string>
+      <string name="blood_glucose_write_content_description">"Zapisování údajů o glykémii"</string>
+      <string name="blood_pressure">"<xliff:g id="SYSTOLIC">%1$s</xliff:g>/<xliff:g id="DIASTOLIC">%2$s</xliff:g> mmHg"</string>
+      <string name="blood_pressure_left_arm">"Levé rameno"</string>
+      <string name="blood_pressure_left_wrist">"Levé zápěstí"</string>
+      <string name="blood_pressure_long">"<xliff:g id="SYSTOLIC">%1$s</xliff:g>/<xliff:g id="DIASTOLIC">%2$s</xliff:g> mm rtuťového sloupce"</string>
+      <string name="blood_pressure_lowercase_label">"krevní tlak"</string>
+      <string name="blood_pressure_read_content_description">"Čtení údajů o krevním tlaku"</string>
+      <string name="blood_pressure_right_arm">"Pravé rameno"</string>
+      <string name="blood_pressure_right_wrist">"Pravé zápěstí"</string>
+      <string name="blood_pressure_uppercase_label">"Krevní tlak"</string>
+      <string name="blood_pressure_write_content_description">"Zapisování údajů o krevním tlaku"</string>
+      <string name="body_fat_lowercase_label">"tělesný tuk"</string>
+      <string name="body_fat_read_content_description">"Čtení údajů o tělesném tuku"</string>
+      <string name="body_fat_uppercase_label">"Tělesný tuk"</string>
+      <string name="body_fat_write_content_description">"Zapisování údajů o tělesném tuku"</string>
+      <string name="body_measurements_category_lowercase">"tělesné míry"</string>
+      <string name="body_measurements_category_uppercase">"Tělesné míry"</string>
+      <string name="body_position_lying_down">"Vleže"</string>
+      <string name="body_position_reclining">"V nakloněné poloze"</string>
+      <string name="body_position_sitting_down">"Vsedě"</string>
+      <string name="body_position_standing_up">"Vestoje"</string>
+      <string name="body_temperature_lowercase_label">"tělesná teplota"</string>
+      <string name="body_temperature_read_content_description">"Čtení údajů o tělesné teplotě"</string>
+      <string name="body_temperature_uppercase_label">"Tělesná teplota"</string>
+      <string name="body_temperature_write_content_description">"Zapisování údajů o tělesné teplotě"</string>
+      <string name="body_water_mass_lowercase_label">"objem tělesné vody"</string>
+      <string name="body_water_mass_read_content_description">"Čtení údajů o objemu tělesné vody"</string>
+      <string name="body_water_mass_uppercase_label">"Objem tělesné vody"</string>
+      <string name="body_water_mass_write_content_description">"Zapisování údajů o objemu tělesné vody"</string>
+      <string name="bone_mass_lowercase_label">"hmotnost kostí"</string>
+      <string name="bone_mass_read_content_description">"Čtení údajů o hmotnosti kostí"</string>
+      <string name="bone_mass_uppercase_label">"Hmotnost kostí"</string>
+      <string name="bone_mass_write_content_description">"Zapisování údajů o hmotnosti kostí"</string>
+      <string name="boot_camp">"Výcvikový tábor"</string>
+      <string name="boxing">"Box"</string>
+      <string name="browse_data_category">"Procházení dat"</string>
+      <string name="burpee">"Dřep s klikem a výskokem"</string>
+      <string name="caffeine">"Kofein"</string>
+      <string name="calcium">"Vápník"</string>
+      <string name="calisthenics">"Kalistenika"</string>
+      <string name="calories">"{count,plural, =1{1 cal}few{# cal}many{# cal}other{# cal}}"</string>
+      <string name="calories_long">"{count,plural, =1{1 kalorie}few{# kalorie}many{# kalorie}other{# kalorií}}"</string>
+      <string name="can_read">"Může číst data typu <xliff:g id="PERMISSION_TYPE">%s</xliff:g>"</string>
+      <string name="can_write">"Může zapisovat data typu <xliff:g id="PERMISSION_TYPE">%s</xliff:g>"</string>
+      <string name="cant_see_all_your_apps_description">"Pokud nainstalovanou aplikaci nevidíte, zřejmě ještě není s Daty o zdraví kompatibilní"</string>
+      <string name="cervical_mucus_lowercase_label">"cervikální hlen"</string>
+      <string name="cervical_mucus_read_content_description">"Čtení údajů o cervikálním hlenu"</string>
+      <string name="cervical_mucus_uppercase_label">"Cervikální hlen"</string>
+      <string name="cervical_mucus_write_content_description">"Zapisování údajů o cervikálním hlenu"</string>
+      <string name="check_for_updates">"Zkontrolovat dostupnost aktualizací"</string>
+      <string name="check_for_updates_description">"Zkontrolujte, zda jsou nainstalované aplikace aktuální"</string>
+      <string name="chloride">"Chlorid"</string>
+      <string name="cholesterol">"Cholesterol"</string>
+      <string name="chromium">"Chrom"</string>
+      <string name="confirming_message_x_months">"{count,plural, =1{Data o zdraví budou automaticky odstraňovat nové údaje po # měsíci. Pokud nastavíte tuto možnost, budou se odstraňovat i existující údaje starší než # měsíc.}few{Data o zdraví budou automaticky odstraňovat nové údaje po # měsících. Nastavíte-li tuto možnost, budou se odstraňovat i stávající údaje starší než # měsíce.}many{Data o zdraví budou automaticky odstraňovat nové údaje po # měsících.Nastavíte-li tuto možnost, budou se odstraňovat i stávající údaje starší než # měsíců.}other{Data o zdraví budou automaticky odstraňovat nové údaje po # měsících. Pokud nastavíte tuto možnost, budou se odstraňovat i existující data starší než # měsíců.}}"</string>
+      <string name="confirming_question_all">"Chcete trvale odstranit všechna data z celého období?"</string>
+      <string name="confirming_question_app_data_all">"Chcete trvale odstranit data aplikace <xliff:g id="APP_DATA">%s</xliff:g> z celého období?"</string>
+      <string name="confirming_question_app_data_one_day">"Chcete trvale odstranit data aplikace <xliff:g id="APP_DATA">%s</xliff:g> z posledních 24 hodin?"</string>
+      <string name="confirming_question_app_data_one_month">"Chcete trvale odstranit data aplikace <xliff:g id="APP_DATA">%s</xliff:g> z posledních 30 dnů?"</string>
+      <string name="confirming_question_app_data_one_week">"Chcete trvale odstranit data aplikace <xliff:g id="APP_DATA">%s</xliff:g> z posledních 7 dnů?"</string>
+      <string name="confirming_question_app_remove_all_permissions">"Odstranit také všechna oprávnění aplikace <xliff:g id="APP_WITH_PERMISSIONS">%s</xliff:g> z Dat o zdraví"</string>
+      <string name="confirming_question_category_all">"Chcete trvale odstranit data kategorie <xliff:g id="CATEGORY">%s</xliff:g> z celého období?"</string>
+      <string name="confirming_question_category_one_day">"Chcete trvale odstranit data kategorie <xliff:g id="CATEGORY">%s</xliff:g> z posledních 24 hodin?"</string>
+      <string name="confirming_question_category_one_month">"Chcete trvale odstranit data kategorie <xliff:g id="CATEGORY">%s</xliff:g> z posledních 30 dnů?"</string>
+      <string name="confirming_question_category_one_week">"Chcete trvale odstranit data kategorie <xliff:g id="CATEGORY">%s</xliff:g> z posledních 7 dnů?"</string>
+      <string name="confirming_question_data_type_all">"Chcete trvale odstranit data typu <xliff:g id="DATA_TYPE">%s</xliff:g> z celého období?"</string>
+      <string name="confirming_question_data_type_from_app_all">"Chcete trvale odstranit data typu <xliff:g id="DATA_TYPE">%1$s</xliff:g> přidána aplikací <xliff:g id="APP_DATA">%2$s </xliff:g>?"</string>
+      <string name="confirming_question_data_type_one_day">"Chcete trvale odstranit data typu <xliff:g id="DATA_TYPE">%s</xliff:g> z posledních 24 hodin?"</string>
+      <string name="confirming_question_data_type_one_month">"Chcete trvale odstranit data typu <xliff:g id="DATA_TYPE">%s</xliff:g> z posledních 30 dnů?"</string>
+      <string name="confirming_question_data_type_one_week">"Chcete trvale odstranit data typu <xliff:g id="DATA_TYPE">%s</xliff:g> z posledních 7 dnů?"</string>
+      <string name="confirming_question_delete_button">"Odstranit"</string>
+      <string name="confirming_question_go_back_button">"Přejít zpět"</string>
+      <string name="confirming_question_message">"Připojené aplikace již nebudou moci získat přístup k těmto údajům v Datech o zdraví"</string>
+      <string name="confirming_question_message_menstruation">"Tímto odstraníte všechny záznamy o menstruaci od <xliff:g id="START_DATE">%1$s</xliff:g> do <xliff:g id="END_DATE">%2$ s</xliff:g>."</string>
+      <string name="confirming_question_one_day">"Chcete trvale odstranit všechna data z posledních 24 hodin?"</string>
+      <string name="confirming_question_one_month">"Chcete trvale odstranit všechna data z posledních 30 dnů?"</string>
+      <string name="confirming_question_one_week">"Chcete trvale odstranit všechna data z posledních 7 dnů?"</string>
+      <string name="confirming_question_single_entry">"Chcete tento záznam trvale odstranit?"</string>
+      <string name="confirming_question_x_months">"{count,plural, =1{Chcete automaticky odstraňovat data po # měsíci?}few{Chcete automaticky odstraňovat data po # měsících?}many{Chcete automaticky odstraňovat data po # měsíci?}other{ Chcete automaticky odstraňovat data po # měsících?}}"</string>
+      <string name="connected_apps_all_apps_connected_subtitle">"Přístup má tento počet aplikací: <xliff:g id="NUM_APPS_CONNECTED">%1$s</xliff:g>"</string>
+      <string name="connected_apps_button_no_permissions_subtitle">"Žádné"</string>
+      <string name="connected_apps_button_subtitle">"Přístup má tento počet aplikací: <xliff:g id="NUM_APPS_CONNECTED">%1$s</xliff:g> z <xliff:g id="NUM_POSSIBLE_APPS">%2$s </xliff:g>"</string>
+      <string name="connected_apps_empty_list_section_title">"Momentálně nemáte nainstalovány žádné kompatibilní aplikace"</string>
+      <string name="connected_apps_one_app_connected_subtitle">"Přístup má <xliff:g id="NUM_APPS_CONNECTED">%1$s</xliff:g> aplikace"</string>
+      <string name="connected_apps_section_title">"Povolen přístup"</string>
+      <string name="connected_apps_subtitle">"Spravovat aplikace a oprávnění"</string>
+      <string name="connected_apps_text">"Ovládejte, které aplikace mají mít přístup k datům uloženým v Datech o zdraví. Po klepnutí na libovolnou aplikaci můžete zkontrolovat, jaké údaje může číst a zapisovat."</string>
+      <string name="connected_apps_title">"Povolení aplikací"</string>
+      <string name="copper">"Měď"</string>
+      <string name="cricket">"Kriket"</string>
+      <string name="crunch">"Zkrácený sed-leh"</string>
+      <string name="cycle_tracking_category_lowercase">"sledování cyklu"</string>
+      <string name="cycle_tracking_category_uppercase">"Sledování cyklu"</string>
+      <string name="cycling_cadence_series_range_long">"od <xliff:g id="MIN">%1$s</xliff:g> do <xliff:g id="MAX">%2$s</xliff:g >"</string>
+      <string name="cycling_rpm">"{count,plural, =1{1 ot./min}few{# ot./min}many{# ot./min}other{# ot./min}}"</string>
+      <string name="cycling_rpm_long">"{count,plural, =1{1 otáčka za minutu}few{# otáčky za minutu}many{# otáčky za minutu}other{# otáček za minutu}}"</string>
+      <string name="dancing">"Tanec"</string>
+      <string name="data_access_empty_message">"Aplikace již nemohou číst ani zapisovat data typu<xliff:g id="DATA_TYPE_0">%1$s</xliff:g>. V Datach o zdraví nejsou uložena žádná data typu <xliff :g id="DATA_TYPE_2">%2$s</xliff:g>."</string>
+      <string name="data_access_exercise_description">"Tyto údaje zahrnují informace jako čas aktivity, typ cvičení, kola, opakování, série nebo plavecká tempa"</string>
+      <string name="data_access_sleep_description">"Tato data zahrnují informace jako fáze a relace spánku"</string>
+      <string name="data_point_action_content_description">"Odstranit záznam dat"</string>
+      <string name="data_title">"Údaje a přístup"</string>
+      <string name="data_type_separator">", "</string>
+      <string name="date_owner_format">"<xliff:g id="DATE">%1$s</xliff:g> • <xliff:g id="APP_NAME">%2$s</xliff:g> "</string>
+      <string name="date_range_long">"od <xliff:g id="START_TIME">%1$s</xliff:g> do <xliff:g id="END_TIME">%2$s</xliff:g >"</string>
+      <string name="day_duration_accessibility">"{count,plural, =1{1 den}few{# dny}many{# dne}other{# dnů}}"</string>
+      <string name="day_hour_duration">"<xliff:g id="DAYS">%1$s</xliff:g> a <xliff:g id="HOURS">%2$s</xliff:g> "</string>
+      <string name="deadlift">"Mrtvý tah"</string>
+      <string name="default_error">"Něco se pokazilo. Zkuste to znovu."</string>
+      <string name="delete_all_data_button">"Odstranit všechna data"</string>
+      <string name="delete_app_data">"Odstranit data aplikace"</string>
+      <string name="delete_button_content_description">"Odstranění dat"</string>
+      <string name="delete_category_data_button">"Odstranit data kategorie <xliff:g id="CATEGORY">%s</xliff:g>"</string>
+      <string name="delete_data_notification_channel_name">"Údaje se odstraňují"</string>
+      <string name="delete_data_notification_ticker_text">"Odstraňují se údaje Dat o zdraví"</string>
+      <string name="delete_data_notification_title">"Odstraňují se údaje Dat o zdraví"</string>
+      <string name="delete_data_point">"Odstranit záznam"</string>
+      <string name="delete_dialog_failure_close_button">"Zavřít"</string>
+      <string name="delete_dialog_failure_message">"Něco se pokazilo a Datům o zdraví se nepodařilo odstranit vaše údaje"</string>
+      <string name="delete_dialog_failure_title">"Údaje se nepodařilo odstranit"</string>
+      <string name="delete_dialog_failure_try_again_button">"Zkusit znovu"</string>
+      <string name="delete_dialog_success_got_it_button">"Hotovo"</string>
+      <string name="delete_dialog_success_message">"Tyto údaje se již v datech o zdraví neukládají."</string>
+      <string name="delete_dialog_success_title">"Údaje byly odstraněny"</string>
+      <string name="delete_permission_type_data_button">"Odstranit tyto údaje"</string>
+      <string name="delete_progress_indicator">"Údaje se odstraňují"</string>
+      <string name="deletion_started_category_list_section">"Údaje pro odstranění z těchto kategorií"</string>
+      <string name="deletion_started_done_button">"Hotovo"</string>
+      <string name="deletion_started_title">"Stávající data budou odstraněna"</string>
+      <string name="deletion_started_x_months">"{count,plural, =1{Data o zdraví odstraní všechny údaje starší než # měsíc. Může trvat den, než se tyto změny zobrazí v připojených aplikacích.}few{Data o zdraví odstraní všechny údaje starší než # měsíce. Může trvat den, než se tyto změny zobrazí v připojených aplikacích.}many{Data o zdraví odstraní všechny údaje starší než # měsíce. zdraví odstraní všechna data starší než # měsíců. Může trvat den, než se tyto změny zobrazí v připojených aplikacích.}}"</string>
+      <string name="denied_apps_banner_button">"Zobrazit podrobnosti"</string>
+      <string name="denied_apps_banner_message_many_apps">"Data o zdraví odstranila oprávnění pro aplikace <xliff:g id="APP_DATA_0">%1$s</xliff:g>, <xliff:g id="APP_DATA_TWO">%2$ s</xliff:g>, <xliff:g id="APP_DATA_THREE">%3$s</xliff:g> a další"</string>
+      <string name="denied_apps_banner_message_one_app">"Data o zdraví odstranila oprávnění pro aplikaci <xliff:g id="APP_DATA">%s</xliff:g>"</string>
+      <string name="denied_apps_banner_message_three_apps">"Data o zdraví odstranila oprávnění pro aplikace <xliff:g id="APP_DATA_0">%1$s</xliff:g>, <xliff:g id="APP_DATA_TWO">%2$ s</xliff:g> a <xliff:g id="APP_DATA_THREE">%3$s</xliff:g>"</string>
+      <string name="denied_apps_banner_message_two_apps">"Data o zdraví odstranila oprávnění pro aplikace <xliff:g id="APP_DATA_0">%1$s</xliff:g> a <xliff:g id="APP_DATA_TWO">%2$ s</xliff:g>"</string>
+      <string name="denied_apps_banner_title">"Odstraněná povolení aplikací"</string>
+      <string name="denied_apps_dialog_got_it_button">"Dobře"</string>
+      <string name="denied_apps_dialog_message">"Pokud bude aplikace zablokována nebo odstraněna ze služby Google Play, Data o zdraví automaticky odstraní její povolení.
+
+Znamená to, že daná aplikace již nebude mít přístup k údajům uloženým v datech o zdraví. Pokud aplikace v minulosti zapsala data, zobrazí se v seznamu neaktivních aplikací."</string>
+      <string name="denied_apps_dialog_title">"Proč Data o zdraví odstraňují povolení aplikací"</string>
+      <string name="dietary_fiber">"Vláknina"</string>
+      <string name="disconnect_all_apps">"Odstranit přístup pro všechny aplikace"</string>
+      <string name="distance_km">"{dist,plural, =1{1 km}few{#km}many{#km}other{#km}}"</string>
+      <string name="distance_km_long">"{dist,plural, =1{1 kilometr}few{# kilometry}many{# kilometru}other{# kilometrů}}"</string>
+      <string name="distance_lowercase_label">"vzdálenost"</string>
+      <string name="distance_miles">"{dist,plural, =1{1 míle}few{# míle}many{# míle}other{# mil}}"</string>
+      <string name="distance_miles_long">"{dist,plural, =1{1 míle}few{# míle}many{# míle}other{# mil}}"</string>
+      <string name="distance_read_content_description">"Čtení dat o vzdálenosti"</string>
+      <string name="distance_unit_kilometers_label">"Kilometry"</string>
+      <string name="distance_unit_miles_label">"Míle"</string>
+      <string name="distance_unit_title">"Vzdálenost"</string>
+      <string name="distance_uppercase_label">"Vzdálenost"</string>
+      <string name="distance_write_content_description">"Zapisování údajů o vzdálenosti"</string>
+      <string name="double_arm_triceps_extension">"Tricepsové extenze oběma rukama"</string>
+      <string name="dumbbell_curl_left_arm">"Bicepsový zdvih levou rukou"</string>
+      <string name="dumbbell_curl_right_arm">"Bicepsový zdvih pravou rukou"</string>
+      <string name="dumbbell_front_raise">"Předpažování s jednoručními činkami"</string>
+      <string name="dumbbell_lateral_raise">"Rozpažování s jednoručními činkami"</string>
+      <string name="dumbbell_row">"Přitahování jednoruční činky"</string>
+      <string name="dumbbell_triceps_extension_left_arm">"Francouzský tlak levou rukou s jednoruční činkou"</string>
+      <string name="dumbbell_triceps_extension_right_arm">"Francouzský tlak pravou rukou s jednoruční činkou"</string>
+      <string name="dumbbell_triceps_extension_two_arm">"Francouzský tlak oběma rukama s jednoruční činkou"</string>
+      <string name="elevation_gained_lowercase_label">"dosažená nadmořská výška"</string>
+      <string name="elevation_gained_read_content_description">"Čtení údajů o dosažené nadmořské výšce"</string>
+      <string name="elevation_gained_uppercase_label">"Dosažená nadmořská výška"</string>
+      <string name="elevation_gained_write_content_description">"Zapisování údajů o dosažené nadmořské výšce"</string>
+      <string name="elevation_meters">"{count,plural, =1{1 m}few{# m}many{# m}other{# m}}"</string>
+      <string name="elevation_meters_long">"{count,plural, =1{1 metr}few{# metry}many{# metra}other{# metrů}}"</string>
+      <string name="elliptical">"Eliptický trenažér"</string>
+      <string name="energy_consumed_from_fat">"Energie z tuků"</string>
+      <string name="energy_consumed_total">"Energie"</string>
+      <string name="energy_unit_calorie_label">"Kalorie"</string>
+      <string name="energy_unit_kilojoule_label">"Kilojouly"</string>
+      <string name="energy_unit_title">"Energie"</string>
+      <string name="entry_details_title">"Podrobnosti o záznamu"</string>
+      <string name="exercise_class">"Skupinová cvičení"</string>
+      <string name="exercise_laps_header">"Kola"</string>
+      <string name="exercise_lowercase_label">"cvičení"</string>
+      <string name="exercise_read_content_description">"Čtení údajů o cvičení"</string>
+      <string name="exercise_route_lowercase_label">"trasa cvičení"</string>
+      <string name="exercise_route_read_content_description">"Číst trasu cvičení"</string>
+      <string name="exercise_route_uppercase_label">"Trasa cvičení"</string>
+      <string name="exercise_route_write_content_description">"Zapisovat trasu cvičení"</string>
+      <string name="exercise_segments_header">"Segmenty cvičení"</string>
+      <string name="exercise_uppercase_label">"Cvičení"</string>
+      <string name="exercise_write_content_description">"Zapisování údajů o cvičení"</string>
+      <string name="export_data_button">"Export dat"</string>
+      <string name="feet_inches_format">"<xliff:g id="FT">%1$s</xliff:g><xliff:g id="IN">%2$s</xliff:g>" </string>
+      <string name="feet_inches_format_long">"<xliff:g id="FT">%1$s</xliff:g> <xliff:g id="IN">%2$s</xliff:g>" </string>
+      <string name="fencing">"Šerm"</string>
+      <string name="floors_climbed">"{count,plural, =1{1 patro}few{# patra}many{# floors}other{# pater}}"</string>
+      <string name="floors_climbed_lowercase_label">"vystoupané patra"</string>
+      <string name="floors_climbed_read_content_description">"Čtení údajů o vystoupaných patrech"</string>
+      <string name="floors_climbed_uppercase_label">"Vystoupané patra"</string>
+      <string name="floors_climbed_write_content_description">"Zapisování údajů o vystoupaných patrech"</string>
+      <string name="flow_heavy">"Silná menstruace"</string>
+      <string name="flow_light">"Slabá menstruace"</string>
+      <string name="flow_medium">"Středně silná menstruace"</string>
+      <string name="flow_spotting">"Špinění"</string>
+      <string name="folate">"Folát"</string>
+      <string name="folic_acid">"Kyselina listová"</string>
+      <string name="football_american">"Americký fotbal"</string>
+      <string name="football_australian">"Austrálský fotbal"</string>
+      <string name="forward_twist">"Otočení dopředu"</string>
+      <string name="free_up_space_button">"Uvolnit prostor"</string>
+      <string name="frisbee_disc">"Frisbee"</string>
+      <string name="front_raise">"Předpažování"</string>
+      <string name="golf">"Golf"</string>
+      <string name="gram_long_format">"{count,plural, =1{1 gram}few{# gramy}many{# gramu}other{# gramů}}"</string>
+      <string name="gram_short_format">"{count,plural, =1{1 g}few{# g}many{# g}other{# g}}"</string>
+      <string name="guided_breathing">"Řízené dýchání"</string>
+      <string name="gymnastics">"Gymnastika"</string>
+      <string name="handball">"Házená"</string>
+      <string name="health_connect_summary">"Správa přístupu aplikace k údajům o zdraví"</string>
+      <string name="health_permission_header_description">"Aplikace s tímto povolením mohou číst a zapisovat údaje o zdraví a kondici."</string>
+      <string name="heart_rate_long_value">"{count,plural, =1{1 úder za minutu}few{# údery za minutu}many{# beats per minute}other{# úderů za minutu}}"</string>
+      <string name="heart_rate_lowercase_label">"puls"</string>
+      <string name="heart_rate_read_content_description">"Čtení údajů o pulzu"</string>
+      <string name="heart_rate_uppercase_label">"Puls"</string>
+      <string name="heart_rate_value">"{count,plural, =1{1 úd./min}few{# úd./min}many{# bpm}other{# úd./min}}"</string>
+      <string name="heart_rate_variability_lowercase_label">"variabilita pulsu"</string>
+      <string name="heart_rate_variability_read_content_description">"Čtení údajů o variabilitě pulsu"</string>
+      <string name="heart_rate_variability_uppercase_label">"Variabilita pulsu"</string>
+      <string name="heart_rate_variability_write_content_description">"Zapisování údajů o variabilitě pulsu"</string>
+      <string name="heart_rate_write_content_description">"Zapisování údajů o pulzu"</string>
+      <string name="height_cm">"{height,plural, =1{1 cm}few{# cm}many{# cm}other{# cm}}"</string>
+      <string name="height_cm_long">"{height,plural, =1{1 centimetr}few{# centimetry}many{# centimetru}other{# centimetrů}}"</string>
+      <string name="height_ft_compacted">"{height,plural, =1{1′}few{#′}many{#′}other{#′}}"</string>
+      <string name="height_ft_long">"{height,plural, =1{1 stopa}few{# stopy}many{# stopy}other{# stop}}"</string>
+      <string name="height_in_compacted">"{height,plural, =1{1″}few{#″}many{#″}other{#″}}"</string>
+      <string name="height_in_long">"{height,plural, =1{1 palec}few{# palce}many{# palce}other{# palců}}"</string>
+      <string name="height_lowercase_label">"výška"</string>
+      <string name="height_read_content_description">"Čtení údajů o výši"</string>
+      <string name="height_unit_centimeters_label">"Centimetry"</string>
+      <string name="height_unit_feet_label">"Stopy a palce"</string>
+      <string name="height_unit_title">"Výška"</string>
+      <string name="height_uppercase_label">"Výška"</string>
+      <string name="height_write_content_description">"Zapisování údajů o výši"</string>
+      <string name="help">"Nápověda"</string>
+      <string name="help_and_feedback">"Nápověda a zpětná vazba"</string>
+      <string name="high_intensity_interval_training">"Vysoce intenzivní intervalová cvičení"</string>
+      <string name="hiking">"Turistika"</string>
+      <string name="hip_circumference_lowercase_label">"obvod boků"</string>
+      <string name="hip_circumference_read_content_description">"Čtení údajů o obvodu boků"</string>
+      <string name="hip_circumference_uppercase_label">"Obvod boků"</string>
+      <string name="hip_circumference_write_content_description">"Zapisování údajů o obvodu boků"</string>
+      <string name="hip_thrust">"Zvedání pánve"</string>
+      <string name="home_subtitle">"Spravujte údaje o zdraví a kondici ve svém telefonu a ovládejte, které aplikace k nim mají mít přístup"</string>
+      <string name="hour_duration">"<xliff:g id="HOUR">%1$s</xliff:g> h"</string>
+      <string name="hour_duration_accessibility">"{count,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodin}}"</string>
+      <string name="hour_minute_duration_accessibility">"<xliff:g id="HOURS">%1$s</xliff:g> <xliff:g id="MINUTES">%2$s</xliff:g>" </string>
+      <string name="hour_minute_duration_short">"<xliff:g id="HOUR">%1$s</xliff:g> h <xliff:g id="MIN">%2$s</xliff:g> min"</string>
+      <string name="hula_hoop">"Obruč"</string>
+      <string name="hydration_lowercase_label">"příjem tekutin"</string>
+      <string name="hydration_read_content_description">"Čtení údajů o příjmu tekutin"</string>
+      <string name="hydration_uppercase_label">"Příjem tekutin"</string>
+      <string name="hydration_write_content_description">"Zapisování údajů o příjmu tekutin"</string>
+      <string name="ice_hockey">"Lední hokej"</string>
+      <string name="ice_skating">"Ledové bruslení"</string>
+      <string name="inactive_apps">"Neaktivní aplikace"</string>
+      <string name="inactive_apps_message">"Tyto aplikace již nemohou zapisovat data typu <xliff:g id="DATA_TYPE">%s</xliff:g>, ale stále mají data uložená v datech o zdraví"</string>
+      <string name="inactive_apps_section_message">"Tyto aplikace již nemají přístup, ale stále mají data uložená v Datech o zdraví"</string>
+      <string name="inactive_apps_section_title">"Neaktivní aplikace"</string>
+      <string name="intermenstrual_bleeding_lowercase_label">"intermenstruační krvácení"</string>
+      <string name="intermenstrual_bleeding_read_content_description">"Číst údaje o intermenstruačním krvácení"</string>
+      <string name="intermenstrual_bleeding_uppercase_label">"Intermenstruační krvácení"</string>
+      <string name="intermenstrual_bleeding_write_content_description">"Zapisovat údaje o intermenstruačním krvácení"</string>
+      <string name="iodine">"Jód"</string>
+      <string name="iron">"Železo"</string>
+      <string name="jump_rope">"Švihadlo"</string>
+      <string name="jumping_jack">"Skákající panák"</string>
+      <string name="kettlebell_swing">"Předpažování s činkou kettlebell"</string>
+      <string name="kilograms_long_label">"{count,plural, =1{1 kilogram}few{# kilogramy}many{# kilogramu}other{# kilogramů}}"</string>
+      <string name="kilograms_short_label">"{count,plural, =1{1 kg}few{# kg}many{# kg}other{# kg}}"</string>
+      <string name="kj">"{count,plural, =1{1 kJ}few{# kJ}many{# kJ}other{# kJ}}"</string>
+      <string name="kj_long">"{count,plural, =1{1 kilojoule}few{# kilojouly}many{# kilojoulu}other{# kilojoulů}}"</string>
+      <string name="lat_pull_down">"Stah"</string>
+      <string name="lateral_raise">"Upažování"</string>
+      <string name="lean_body_mass_lowercase_label">"čistá svalová hmota"</string>
+      <string name="lean_body_mass_read_content_description">"Čtení údajů o čisté svalové hmotě"</string>
+      <string name="lean_body_mass_uppercase_label">"Čistá svalová hmota"</string>
+      <string name="lean_body_mass_write_content_description">"Zapisování údajů o čisté svalové hmotě"</string>
+      <string name="leg_curl">"Zakopávání"</string>
+      <string name="leg_extension">"Předkopávání"</string>
+      <string name="leg_press">"Tlaky na nohy"</string>
+      <string name="leg_raise">"Zvedání nohou ve visu"</string>
+      <string name="litr">"{count,plural, =1{1 l}few{# l}many{# l}other{# l}}"</string>
+      <string name="liter_long">"{count,plural, =1{1 litr}few{# litry}many{# litru}other{# litrů}}"</string>
+      <string name="loading">"Načítá se…"</string>
+      <string name="lunge">"Výpad"</string>
+      <string name="magnesium">"Hořčík"</string>
+      <string name="manage_data_section">"Správa dat"</string>
+      <string name="manage_permissions">"Spravovat oprávnění"</string>
+      <string name="manage_permissions_learn_more">"Zobrazit pravidla ochrany soukromí"</string>
+      <string name="manage_permissions_manage_app_header">"Správa aplikace"</string>
+      <string name="manage_permissions_rationale">"Údaje, které sdílíte s aplikací <xliff:g id="APP_NAME">%1$s</xliff:g>, se řídí vlastními pravidly ochrany soukromí"</string>
+      <string name="manage_permissions_read_header">"Může číst"</string>
+      <string name="manage_permissions_time_frame">"Aplikace <xliff:g id="APP_NAME">%1$s</xliff:g> může číst data přidaná po <xliff:g id="DATA_ACCESS_DATE">%2$s</xliff:g>"</string>
+      <string name="manage_permissions_write_header">"Může zapisovat"</string>
+      <string name="manage_your_settings">"Správa nastavení a ochrany soukromí"</string>
+      <string name="manage_your_settings_description">"Kdykoli můžete změnit oprávnění aplikace a spravovat své údaje"</string>
+      <string name="manganese">"Mangán"</string>
+      <string name="martial_arts">"Bojová umění"</string>
+      <string name="meal_name">"Název"</string>
+      <string name="mealtype_breakfast">"Snídaně"</string>
+      <string name="mealtype_dinner">"Večeře"</string>
+      <string name="mealtype_label">"Typ jídla"</string>
+      <string name="mealtype_lunch">"Oběd"</string>
+      <string name="mealtype_snack">"Občerstvení"</string>
+      <string name="mealtype_unknown">"Neznámé"</string>
+      <string name="meditation">"Meditace"</string>
+      <string name="menstruation_lowercase_label">"menstruace"</string>
+      <string name="menstruation_read_content_description">"Čtení údajů o menstruaci"</string>
+      <string name="menstruation_uppercase_label">"Menstruace"</string>
+      <string name="menstruation_write_content_description">"Zapisování údajů o menstruaci"</string>
+      <string name="migration_app_update_needed_action">"Než budete pokračovat, aktualizujte aplikaci Data o zdraví na nejnovější verzi."</string>
+      <string name="migration_app_update_needed_notification_title">"Vyžaduje se aktualizace Dat o zdraví"</string>
+      <string name="migration_complete_notification_action">"Otevřít"</string>
+      <string name="migration_complete_notification_title">"Integrace Dat o zdraví je dokončena"</string>
+      <string name="migration_in_progress_notification_title">"Data o zdraví se integrují"</string>
+      <string name="migration_in_progress_permissions_dialog_button_got_it">"Dobře"</string>
+      <string name="migration_in_progress_permissions_dialog_content">"Data o zdraví jsou integrována se systémem Android.
+
+Po dokončení integrace obdržíte upozornění a budete moci začít používat <xliff:g id="APP_NAME">%1$s</xliff:g> s Daty o zdraví."</string>
+      <string name="migration_in_progress_permissions_dialog_content_apps">"Data o zdraví se integrují se systémem Android.
+
+Po dokončení integrace obdržíte upozornění a budete je moci používat."</string>
+      <string name="migration_in_progress_permissions_dialog_title">"Data o zdraví se integrují"</string>
+      <string name="migration_in_progress_screen_integration_details">"Data o zdraví se integrují se systémem Android.
+
+Přenos vašich údajů a povolení může chvíli trvat."</string>
+      <string name="migration_in_progress_screen_integration_dont_close">"Nezavírejte aplikaci, dokud nedostanete upozornění, že proces je dokončen."</string>
+      <string name="migration_in_progress_screen_title">"Integruje se"</string>
+      <string name="migration_module_update_needed_action">"Než budete pokračovat, aktualizujte systém telefonu."</string>
+      <string name="migration_module_update_needed_notification_title">"Vyžaduje se aktualizace systému"</string>
+      <string name="migration_module_update_needed_restart">"Pokud jste systém telefonu již aktualizovali, zkuste telefon restartovat a pokračujte v integraci"</string>
+      <string name="migration_more_space_needed_notification_content">"Data o zdraví vyžadují, aby bylo v telefonu <xliff:g id="SPACE_NEEDED">%1$s</xliff:g> prostoru, jinak nebude možné v integraci pokračovat."</string>
+      <string name="migration_more_space_needed_notification_title">"Vyžaduje se více prostoru"</string>
+      <string name="migration_more_space_needed_screen_details">"Data o zdraví vyžadují, aby bylo v telefonu <xliff:g id="SPACE_NEEDED">%1$s</xliff:g> prostoru, jinak nebude možné v integraci pokračovat.
+
+Uvolněte v telefonu prostor a zkuste to znovu."</string>
+      <string name="migration_more_space_needed_screen_title">"Vyžaduje se více prostoru"</string>
+      <string name="migration_not_complete_dialog_button">"Dobře"</string>
+      <string name="migration_not_complete_dialog_content">"Když bude znovu k dispozici, obdržíte upozornění."</string>
+      <string name="migration_not_complete_dialog_title">"Integrace Dat o zdraví nebyla dokončena"</string>
+      <string name="migration_not_complete_notification_action">"Další informace"</string>
+      <string name="migration_not_complete_notification_title">"Integrace Dat o zdraví nebyla dokončena"</string>
+      <string name="migration_paused_notification_content">"Integrace Dat o zdraví do systému Android byla pozastavena. Pokračujte klepnutím."</string>
+      <string name="migration_paused_notification_title">"Integrace byla pozastavena"</string>
+      <string name="migration_paused_screen_details">"Aplikace Data o zdraví byla během integrace se systémem Android zavřena.
+
+Klepnutím na tlačítko Obnovit ji znovu otevřete a pokračujte v přenosu svých údajů a povolení."</string>
+      <string name="migration_paused_screen_details_timeout">"Chcete-li si své údaje Dat o zdraví ponechat, proveďte tento krok do <xliff:g id="TIME_NEEDED">%1$s</xliff:g>"</string>
+      <string name="migration_paused_screen_title">"Integrace byla pozastavena"</string>
+      <string name="migration_pending_permissions_dialog_button_continue">"Pokračovat"</string>
+      <string name="migration_pending_permissions_dialog_button_start_integration">"Spustit integraci"</string>
+      <string name="migration_pending_permissions_dialog_content">"Data o zdraví jsou připravena k integraci se systémem Android. Pokud nyní udělíte aplikaci <xliff:g id="APP_NAME">%1$s</xliff:g> přístup, některé funkce nemusí až do dokončení integrace fungovat."</string>
+      <string name="migration_pending_permissions_dialog_content_apps">"Data o zdraví jsou připravena k integraci se systémem Android. Pokud nyní udělíte přístup k aplikacím, některé funkce nemusí až do dokončení integrace fungovat."</string>
+      <string name="migration_pending_permissions_dialog_title">"Integrace Dat o zdraví"</string>
+      <string name="migration_update_needed_notification_action">"Aktualizovat"</string>
+      <string name="migration_update_needed_notification_content">"Spusťte tuto aktualizaci, aby mohla pokračovat integrace Dat o zdraví s nastaveními systému"</string>
+      <string name="migration_update_needed_screen_details">"Data o zdraví se integrují se systémem Android, abyste k nim měli přístup přímo z nastavení."</string>
+      <string name="migration_update_needed_screen_title">"Vyžaduje se aktualizace"</string>
+      <string name="migration_whats_new_dialog_button">"Dobře"</string>
+      <string name="migration_whats_new_dialog_content">"Nyní máte přístup k Datům o zdraví přímo z nastavení. Aplikaci Data o zdraví můžete kdykoli odinstalovat."</string>
+      <string name="migration_whats_new_dialog_title">"Novinky"</string>
+      <string name="millimoles_per_liter">"{count,plural, =1{1 mmol/l}few{# mmol/l}many{# mmol/l}other{# mmol/l}}"</string>
+      <string name="millimoles_per_liter_long">"{count,plural, =1{1 milimol na litr}few{# milimol na litr}many{# milimol na litr}other{# milimol na litr}}"</string>
+      <string name="milliseconds">"{count,plural, =1{1 ms}few{# ms}many{# ms}other{# ms}}"</string>
+      <string name="milliseconds_long">"{count,plural, =1{1 milisekunda}few{# milisekundy}many{# milisekundy}other{# milisekund}}"</string>
+      <string name="minute_duration">"<xliff:g id="MINUTE">%1$s</xliff:g> min"</string>
+      <string name="minute_duration_accessibility">"{count,plural, =1{1 minuta}few{# minuty}many{# minuty}other{# minut}}"</string>
+      <string name="molybdenum">"Molybden"</string>
+      <string name="monounsaturated_fat">"Mononenasycené tuky"</string>
+      <string name="mountain_climber">"Přitahování kolen k hrudníku v kliku"</string>
+      <string name="mucus_creamy">"Krémový"</string>
+      <string name="mucus_dry">"Suchý"</string>
+      <string name="mucus_egg_white">"Konzistence vaječného bílku"</string>
+      <string name="mucus_heavy">"Těžký"</string>
+      <string name="mucus_light">"Lehký"</string>
+      <string name="mucus_medium">"Střední"</string>
+      <string name="mucus_sticky">"Lepkavý"</string>
+      <string name="mucus_unusual">"Neobvyklý"</string>
+      <string name="mucus_watery">"Vodový"</string>
+      <string name="navigation_next_day">"Následující den"</string>
+      <string name="navigation_previous_day">"Předchozí den"</string>
+      <string name="navigation_selected_day">"Vybraný den"</string>
+      <string name="niacin">"Niacin"</string>
+      <string name="no_apps_allowed">"Žádné povolené aplikace"</string>
+      <string name="no_apps_denied">"Žádné zakázané aplikace"</string>
+      <string name="no_categories">"V Datech o zdraví nemáte žádné údaje"</string>
+      <string name="no_data">"Žádná data"</string>
+      <string name="no_recent_access">"Data o zdraví v poslední době nepoužila žádné aplikace"</string>
+      <string name="no_results">"Žádné výsledky"</string>
+      <string name="not_connected_apps_section_title">"Nepovolený přístup"</string>
+      <string name="nutrient_with_value">"<xliff:g id="NUTRIENT">%1$s</xliff:g>: <xliff:g id="AMOUNT">%2$s</xliff:g> "</string>
+      <string name="nutrition_category_lowercase">"výživa"</string>
+      <string name="nutrition_category_uppercase">"Výživa"</string>
+      <string name="nutrition_lowercase_label">"výživa"</string>
+      <string name="nutrition_read_content_description">"Čtení údajů o výživě"</string>
+      <string name="nutrition_uppercase_label">"Výživa"</string>
+      <string name="nutrition_write_content_description">"Zapisování údajů o výživě"</string>
+      <string name="onboarding_description">"Data o zdraví uchovávají vaše údaje o zdraví a kondici a umožňují vám snadno synchronizovat různé aplikace v telefonu"</string>
+      <string name="onboarding_get_started_button_text">"Začínáme"</string>
+      <string name="onboarding_go_back_button_text">"Přejít zpět"</string>
+      <string name="onboarding_title">"Začínáme s Daty o zdraví"</string>
+      <string name="other_android_permissions">"Chcete-li spravovat další povolení pro Android pro tuto aplikaci, přejděte do sekce Nastavení &gt; Aplikace"</string>
+      <string name="other_android_permissions_content_description">"Pokud chcete spravovat další povolení pro Android, ke kterým má tato aplikace přístup, přejděte do sekce Nastavení a poté Aplikace"</string>
+      <string name="ovulation_high">"Vysoká"</string>
+      <string name="ovulation_inconclusive">"Neprokazatelná"</string>
+      <string name="ovulation_negative">"Negativní"</string>
+      <string name="ovulation_positive">"Pozitivní"</string>
+      <string name="ovulation_test_lowercase_label">"ovulační test"</string>
+      <string name="ovulation_test_read_content_description">"Čtení údajů o ovulačním testu"</string>
+      <string name="ovulation_test_uppercase_label">"Ovulační test"</string>
+      <string name="ovulation_test_write_content_description">"Zapisování údajů o ovulačním testu"</string>
+      <string name="oxygen_saturation_lowercase_label">"saturace kyslíkem"</string>
+      <string name="oxygen_saturation_read_content_description">"Čtení údajů o saturaci kyslíkem"</string>
+      <string name="oxygen_saturation_uppercase_label">"Saturace kyslíkem"</string>
+      <string name="oxygen_saturation_write_content_description">"Zapisování údajů o saturaci kyslíkem"</string>
+      <string name="paddling">"Pádlování"</string>
+      <string name="pantothenic_acid">"Kyselina pantotenová"</string>
+      <string name="paragliding">"Paraglajding"</string>
+      <string name="pause">"Pauza"</string>
+      <string name="procent" formatted="false">"{value,plural, =1{1 %}few{# %}many{# %}other{# %}}"</string>
+      <string name="percent_long">"{value,plural, =1{1 procento}few{# procenta}many{# procenta}other{# procent}}"</string>
+      <string name="period_day">"Den menstruace: <xliff:g id="DAY">%1$d</xliff:g> z <xliff:g id="TOTAL_LENGTH">%2$d</xliff :g>"</string>
+      <string name="permdesc_readCaloriesBurned">"Umožňuje aplikacím číst údaje o spálených kaloriích"</string>
+      <string name="permgroupdesc_health">"přístup k vašim údajům o zdraví"</string>
+      <string name="permgrouplab_health">"Data o zdraví"</string>
+      <string name="permission_types_title">"Vaše data"</string>
+      <string name="permissions_and_data_header">"Povolení a data"</string>
+      <string name="permissions_disconnect_all_dialog_disconnect">"Odstranit všechny"</string>
+      <string name="permissions_disconnect_all_dialog_message">"Žádné aplikace již nebudou mít přístup k datům Dat o zdraví ani do nich nebudou moci přidávat nová data. Žádná existující data se tím neodstraní.
+
+Neovlivní to další povolení, která tato aplikace může mít, jako je poloha, kamera nebo mikrofon."</string>
+      <string name="permissions_disconnect_all_dialog_title">"Chcete odebrat přístup všech aplikací?"</string>
+      <string name="permissions_disconnect_dialog_checkbox">"Odstranit z Dat o zdraví i data aplikace <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
+      <string name="permissions_disconnect_dialog_disconnect">"Odstranit všechny"</string>
+      <string name="permissions_disconnect_dialog_message">"<xliff:g id="APP_NAME">%1$s</xliff:g> již nebude moci číst údaje z Dat o zdraví ani je do nich zapisovat.
+
+Neovlivní to další povolení, která tato aplikace může mít, jako je poloha, kamera nebo mikrofon."</string>
+      <string name="permissions_disconnect_dialog_title">"Chcete odstranit všechna povolení?"</string>
+      <string name="permlab_readCaloriesBurned">"Čít. údajů o spál. kaloriích"</string>
+      <string name="phosphorus">"Fosfor"</string>
+      <string name="pilates">"Pilates"</string>
+      <string name="plank">"Břišní můstek"</string>
+      <string name="playstore_app_title">"Obchod Play"</string>
+      <string name="polyunsaturated_fat">"Polynenasycené tuky"</string>
+      <string name="potassium">"Draslík"</string>
+      <string name="pounds_long_label">"{count,plural, =1{1 libra}few{# libry}many{# libry}other{# liber}}"</string>
+      <string name="pounds_short_label">"{count,plural, =1{1 lb}few{# lb}many{# lb}other{# lb}}"</string>
+      <string name="power_lowercase_label">"výkon"</string>
+      <string name="power_read_content_description">"Čtení údajů o výkonu"</string>
+      <string name="power_uppercase_label">"Výkon"</string>
+      <string name="power_write_content_description">"Zapisování údajů o výkonu"</string>
+      <string name="priority_dialog_message">"Pokud data typu <xliff:g id="DATA_TYPE">%s</xliff:g> přidá více aplikací, Data o zdraví upřednostní aplikaci, která je v tomto seznamu nejvyšší. Pořadí aplikací změníte přesunutím."</string>
+      <string name="priority_dialog_positive_button">"Uložit"</string>
+      <string name="priority_dialog_title">"Nastavení priority aplikací"</string>
+      <string name="protein">"Bílkoviny"</string>
+      <string name="pull_up">"Zdvihy"</string>
+      <string name="punch">"Údery"</string>
+      <string name="racquetball">"Raketbal"</string>
+      <string name="range_after_x_months">"{count,plural, =1{Po # měsíci}few{Po # měsících}many{Po # měsíce}other{Po # měsících}}"</string>
+      <string name="range_never">"Nikdy"</string>
+	  <string name="range_off">"Vypnuto"</string>
+      <string name="read_data_access_label">"Čte: %s"</string>
+      <string name="read_permission_category">"Povolení aplikaci <xliff:g id="APP_NAME">%1$s</xliff:g> číst"</string>
+      <string name="recent_access_header">"Nedávný přístup"</string>
+      <string name="recent_access_screen_description">"Zjistěte, které aplikace získaly přístup k vašim údajům za posledních 24 hodin."</string>
+      <string name="repetitions">"{count,plural, =1{1 opak.}few{# opak.}many{# reps}other{# opak.}}"</string>
+      <string name="repetitions_long">"{count,plural, =1{1 opakování}few{# opakování}many{# repetitions}other{# opakování}}"</string>
+      <string name="request_permissions_allow">"Povolit"</string>
+      <string name="request_permissions_allow_all">"Povolit vše"</string>
+      <string name="request_permissions_cancel">"Zrušit"</string>
+      <string name="request_permissions_dont_allow">"Nepovolit"</string>
+      <string name="request_permissions_header_desc">"Vyberte data, která chcete povolit této aplikaci číst nebo zapisovat do Dat o zdraví"</string>
+      <string name="request_permissions_header_time_frame_desc">"Pokud udělíte přístup ke čtení, tato aplikace může číst nová data i ta z posledních 30 dnů"</string>
+      <string name="request_permissions_header_title">"Chcete povolit aplikaci <xliff:g id="APP_NAME">%1$s</xliff:g> přístup k Datům o zdraví?"</string>
+      <string name="request_permissions_privacy_policy">"pravidlech ochrany soukromí"</string>
+      <string name="request_permissions_rationale">"Způsob, jakým <xliff:g id="APP_NAME">%1$s</xliff:g> zpracovává vaše údaje, zjistíte v <xliff:g id="PRIVACY_POLICY_LINK">%2 $s</xliff:g> příslušného vývojáře"</string>
+      <string name="request_route_disclaimer_notice">"Tato aplikace bude moci číst vaši předchozí polohu na trase"</string>
+      <string name="request_route_header_title">"Chcete aplikaci <xliff:g id="APP_NAME">%1$s</xliff:g> povolit přístup k této trase cvičení ve službě Health Connect?"</string>
+      <string name="request_route_info_access_management_summary">"Přístup aplikace k trasám cvičení můžete spravovat v nastavení Dat o zdraví"</string>
+      <string name="request_route_info_access_management_title">"Jak mohu spravovat přístup?"</string>
+      <string name="request_route_info_header_title">"Trasy cvičení zahrnují informace o poloze"</string>
+      <string name="request_route_info_who_can_see_data_summary">"Pouze aplikace, kterým povolíte přístup k trasám cvičení"</string>
+      <string name="request_route_info_who_can_see_data_title">"Kdo vidí tyto údaje?"</string>
+      <string name="respiratory_rate_lowercase_label">"rychlost dýchání"</string>
+      <string name="respiratory_rate_read_content_description">"Čtení údajů o rychlosti dýchání"</string>
+      <string name="respiratory_rate_uppercase_label">"Rychlost dýchání"</string>
+      <string name="respiratory_rate_value">"{count,plural, =1{1 nad./min}few{# nad./min}many{# nad./min}other{# nad./min}}"</string>
+      <string name="respiratory_rate_value_long">"{count,plural, =1{1 nádech za minutu}few{# nádechy za minutu}many{# nádechu za minutu}other{# nádechů za minutu}}"</string>
+      <string name="respiratory_rate_write_content_description">"Zapisování údajů o rychlosti dýchání"</string>
+      <string name="rest">"Odpočinek"</string>
+      <string name="resting_heart_rate_lowercase_label">"klidový puls"</string>
+      <string name="resting_heart_rate_read_content_description">"Čtení údajů o klidovém pulzu"</string>
+      <string name="resting_heart_rate_uppercase_label">"Klidový puls"</string>
+      <string name="resting_heart_rate_write_content_description">"Zapisování údajů o klidovém pulzu"</string>
+      <string name="resume_button">"Obnovit"</string>
+      <string name="resume_migration_banner_button">"Pokračovat"</string>
+      <string name="resume_migration_banner_description">"Klepnutím pokračujte v integraci Dat o zdraví se systémem Android. Chcete-li si své údaje ponechat, proveďte tento krok do <xliff:g id="TIME_NEEDED">%1$s</xliff:g >."</string>
+      <string name="resume_migration_banner_description_fallback">"Klepnutím pokračujte v integraci Dat o zdraví se systémem Android."</string>
+      <string name="resume_migration_banner_title">"Obnovte integraci"</string>
+      <string name="resume_migration_notification_content">"Chcete-li si své údaje ponechat, proveďte tento krok do <xliff:g id="TIME_NEEDED">%1$s</xliff:g>."</string>
+      <string name="resume_migration_notification_title">"Obnovte integraci Dat o zdraví"</string>
+      <string name="riboflavin">"Riboflavin"</string>
+      <string name="rock_climbing">"Horolezectví"</string>
+      <string name="roller_hockey">"Hokej na kolečkových bruslích"</string>
+      <string name="rowing">"Veslování"</string>
+      <string name="rowing_machine">"Veslovací trenažér"</string>
+      <string name="rugby">"Ragby"</string>
+      <string name="running">"Běh"</string>
+      <string name="running_treadmill">"Běh na běžeckém pásu"</string>
+      <string name="sailing">"Jachting"</string>
+      <string name="saturated_fat">"Nasycené tuky"</string>
+      <string name="scuba_diving">"Sportovní potápění"</string>
+      <string name="search_breadcrumbs_data">"Data o zdraví &gt; Údaje a přístup"</string>
+      <string name="search_breadcrumbs_permissions">"Data o zdraví &gt; Povolení aplikace"</string>
+      <string name="search_connected_apps">"Hledat aplikace"</string>
+      <string name="search_keywords_data">"data o zdraví, údaje o zdraví, kategorie zdravotních informací, přístup k údajům, aktivita, tělesné míry, sledování cyklu, výživa, spánek, životní funkce"</string>
+      <string name="search_keywords_home">"kondice, zdravý životní styl"</string>
+      <string name="search_keywords_permissions">"povolení"</string>
+      <string name="see_all_categories">"Zobrazit všechny kategorie"</string>
+      <string name="see_all_compatible_apps">"Zobrazit všechny kompatibilní aplikace"</string>
+      <string name="see_all_compatible_apps_description">"Vyhledat aplikace na Google Play"</string>
+      <string name="select_all_apps_title">"Všechny aplikace"</string>
+      <string name="selenium">"Selen"</string>
+      <string name="send_feedback">"Odeslat zpětnou vazbu"</string>
+      <string name="send_feedback_description">"Řekněte nám, které zdravotní a kondiční aplikace mají spolupracovat s Daty o zdraví"</string>
+      <string name="set_auto_delete_button">"Nastavit automatické odstraňování"</string>
+      <string name="set_units_label">"Nastavit datové jednotky"</string>
+      <string name="settings_and_help_header">"Nastavení a nápověda"</string>
+      <string name="sexual_activity_lowercase_label">"sexuální aktivita"</string>
+      <string name="sexual_activity_protected">"S ochranou"</string>
+      <string name="sexual_activity_read_content_description">"Čtení údajů o sexuální aktivitě"</string>
+      <string name="sexual_activity_unprotected">"Bez ochrany"</string>
+      <string name="sexual_activity_uppercase_label">"Sexuální aktivita"</string>
+      <string name="sexual_activity_write_content_description">"Zapisování údajů o sexuální aktivitě"</string>
+      <string name="share_data">"Sdílení dat s aplikacemi"</string>
+      <string name="share_data_description">"Vyberte, které údaje budou moci jednotlivé aplikace v Datech o zdraví číst nebo zapisovat"</string>
+      <string name="shoulder_press">"Tlaky na ramena"</string>
+      <string name="show_recent_access_entries_button_title">"Zobrazit všechny nedávné přístupy"</string>
+      <string name="single_arm_triceps_extension">"Tricepsové extenze jednou rukou"</string>
+      <string name="sit_up">"Sed-leh"</string>
+      <string name="skating">"Bruslení"</string>
+      <string name="skiing">"Lyžování"</string>
+      <string name="sleep_category_lowercase">"Spánek"</string>
+      <string name="sleep_category_uppercase">"Spánek"</string>
+      <string name="sleep_lowercase_label">"Spánek"</string>
+      <string name="sleep_read_content_description">"Čtení údajů o spánku"</string>
+      <string name="sleep_session_default">"<xliff:g id="DURATION"> %1$s</xliff:g> spánek"</string>
+      <string name="sleep_stage_awake">"Bdění"</string>
+      <string name="sleep_stage_awake_in_bed">"V posteli v bdělém stavu"</string>
+      <string name="sleep_stage_deep">"Hluboký spánek"</string>
+      <string name="sleep_stage_default">"<xliff:g id="DURATION">%1$s</xliff:g> <xliff:g id="NAME">%2$s</xliff:g>" </string>
+      <string name="sleep_stage_light">"Snadný spánek"</string>
+      <string name="sleep_stage_out_of_bed">"Mimo postel"</string>
+      <string name="sleep_stage_rem">"REM spánek"</string>
+      <string name="sleep_stage_sleeping">"Spaní"</string>
+      <string name="sleep_stage_unknown">"Neznámé"</string>
+      <string name="sleep_uppercase_label">"Spánek"</string>
+      <string name="sleep_write_content_description">"Zapisování údajů o spánku"</string>
+      <string name="snowboarding">"Snowboarding"</string>
+      <string name="snowshoeing">"Chůze na sněžnicích"</string>
+      <string name="soccer">"Fotbal"</string>
+      <string name="sodium">"Sodík"</string>
+      <string name="softball">"Softbal"</string>
+      <string name="specimen_source_capillary_blood">"Kapilární krev"</string>
+      <string name="specimen_source_interstitial_fluid">"Tkáňový mok"</string>
+      <string name="specimen_source_plasma">"Plazma"</string>
+      <string name="specimen_source_serum">"Sérum"</string>
+      <string name="specimen_source_tears">"Slzy"</string>
+      <string name="specimen_source_whole_blood">"Celá krev"</string>
+      <string name="speed_lowercase_label">"Rychlost"</string>
+      <string name="speed_read_content_description">"Čtení údajů o rychlosti"</string>
+      <string name="speed_uppercase_label">"Rychlost"</string>
+      <string name="speed_write_content_description">"Zapisování údajů o rychlosti"</string>
+      <string name="spotting">"Vyhledávání"</string>
+      <string name="spotting_lowercase_label">"Vyhledávání"</string>
+      <string name="spotting_read_content_description">"Čtení údajů o vyhledávání"</string>
+      <string name="spotting_uppercase_label">"Vyhledávání"</string>
+      <string name="spotting_write_content_description">"Zapisování údajů o vyhledávání"</string>
+      <string name="squash">"Squash"</string>
+      <string name="squat">"Dřep"</string>
+      <string name="stair_climbing">"Běh po schodech"</string>
+      <string name="stair_climbing_machine">"Trenažér běhu po schodech"</string>
+      <string name="steps_lowercase_label">"kroky"</string>
+      <string name="steps_per_minute">"{value,plural, =1{1 krok/min}few{# kroky/min}many{# kroku/min}other{# kroků/min}}"</string>
+      <string name="steps_per_minute_long">"{value,plural, =1{1 krok za minutu}few{# kroky za minutu}many{# kroku za minutu}other{# kroků za minutu}}"</string>
+      <string name="steps_read_content_description">"Čtení údajů o krocích"</string>
+      <string name="steps_uppercase_label">"Kroky"</string>
+      <string name="steps_value">"{count,plural, =1{1 krok}few{# kroky}many{# kroka}other{# kroků}}"</string>
+      <string name="steps_write_content_description">"Zapisování údajů o krocích"</string>
+      <string name="stone_long_label">"{count,plural, =1{1 kámen}few{# kameny}many{# kamene}other{# kamenů}}"</string>
+      <string name="stone_pound_long_label">"{stone_part} {pound_part}"</string>
+      <string name="stone_pound_short_label">"{stone_part} {pound_part}"</string>
+      <string name="stone_short_label">"{count,plural, =1{1 kam.}few{# kam.}many{# kam.}other{# kam.}}"</string>
+      <string name="strength_training">"Posilování"</string>
+      <string name="stretching">"Strečink"</string>
+      <string name="sugar">"Cukry"</string>
+      <string name="surfing">"Surfování"</string>
+      <string name="swimming_backstroke">"Znak"</string>
+      <string name="swimming_breaststroke">"Nadra"</string>
+      <string name="swimming_butterfly">"Motýlek"</string>
+      <string name="swimming_freestyle">"Volný způsob"</string>
+      <string name="swimming_mixed">"Smíšené"</string>
+      <string name="swimming_open_water">"Plavání v otevřené vodě"</string>
+      <string name="swimming_other">"Jiné"</string>
+      <string name="swimming_pool">"Plavání v bazénu"</string>
+      <string name="table_tennis">"Stolní tenis"</string>
+      <string name="temperature_celsius">"{value,plural, =1{1 ℃}few{# ℃}many{# ℃}other{# ℃}}"</string>
+      <string name="temperature_celsius_long">"{value,plural, =1{1 stupeň Celsia}few{# stupně Celsia}many{# stupně Celsia}other{# stupňů Celsia}}"</string>
+      <string name="temperature_fahrenheit">"{value,plural, =1{1 ℉}few{# ℉}many{# ℉}other{# ℉}}"</string>
+      <string name="temperature_fahrenheit_long">"{value,plural, =1{1 stupeň Fahrenheita}few{# stupně Fahrenheita}many{# stupně Fahrenheita}other{# stupňů Fahrenheita}}"</string>
+      <string name="temperature_kelvin">"{value,plural, =1{1 K}few{# K}many{# K}other{# K}}"</string>
+      <string name="temperature_kelvin_long">"{value,plural, =1{1 kelvin}few{# kelviny}many{# kelvina}other{# kelvinů}}"</string>
+      <string name="temperature_location_armpit">"Podpaží"</string>
+      <string name="temperature_location_ear">"Ucho"</string>
+      <string name="temperature_location_finger">"Prst"</string>
+      <string name="temperature_location_forehead">"Čelo"</string>
+      <string name="temperature_location_mouth">"Ústa"</string>
+      <string name="temperature_location_rectum">"Konečník"</string>
+      <string name="temperature_location_temporal_artery">"Spánková tepna"</string>
+      <string name="temperature_location_toe">"Prst na noze"</string>
+      <string name="temperature_location_vagina">"Vagína"</string>
+      <string name="temperature_location_wrist">"Zápěstí"</string>
+      <string name="temperature_unit_celsius_label">"Celzius"</string>
+      <string name="temperature_unit_fahrenheit_label">"Fahrenheit"</string>
+      <string name="temperature_unit_kelvin_label">"Kelvin"</string>
+      <string name="temperature_unit_title">"Teplota"</string>
+      <string name="tennis">"Tenis"</string>
+      <string name="thiamin">"Tiamin"</string>
+      <string name="things_to_try">"Můžete vyzkoušet"</string>
+      <string name="time_range_all">"Odstranit všechna data"</string>
+      <string name="time_range_long">"od <xliff:g id="START_TIME">%1$s</xliff:g> do <xliff:g id="END_TIME">%2$s</xliff:g >"</string>
+      <string name="time_range_message_all">"Tímto trvale odstraníte všechny údaje přidané do Dat o zdraví ve vybraném období"</string>
+      <string name="time_range_message_app_data">"Tímto natrvalo odstraníte data aplikace <xliff:g id="APP_DATA">%s</xliff:g> přidána do Dat o zdraví ve vybraném období"</string>
+      <string name="time_range_message_category">"Tímto trvale odstraníte údaje kategorie <xliff:g id="CATEGORY">%s</xliff:g> přidáno do Dat o zdraví ve vybraném období"</string>
+      <string name="time_range_message_data_type">"Tímto trvale odstraníte data typu <xliff:g id="DATA_TYPE">%s</xliff:g> přidána do Dat o zdraví ve vybraném období"</string>
+      <string name="time_range_next_button">"Další"</string>
+      <string name="time_range_one_day">"Odstranit posledních 24 hodin"</string>
+      <string name="time_range_one_month">"Odstranit posledních 30 dní"</string>
+      <string name="time_range_one_week">"Odstranit posledních 7 dní"</string>
+      <string name="time_range_title">"Výběr dat k odstranění"</string>
+      <string name="today_header">"Dnes"</string>
+      <string name="total_calories_burned_lowercase_label">"celkový počet spálených kalorií"</string>
+      <string name="total_calories_burned_read_content_description">"Čtení údajů o celkovém počtu spálených kalorií"</string>
+      <string name="total_calories_burned_uppercase_label">"Celkový počet spálených kalorií"</string>
+      <string name="total_calories_burned_write_content_description">"Zapisování údajů o celkovém počtu spálených kalorií"</string>
+      <string name="total_carbohydrate">"Celkový obsah sacharidů"</string>
+      <string name="total_fat">"Celkový obsah tuku"</string>
+      <string name="trans_fat">"Transmastné kyseliny"</string>
+      <string name="try_again_button">"Zkusit znovu"</string>
+      <string name="units_cancel">"Zrušit"</string>
+      <string name="units_title">"Jednotky"</string>
+      <string name="unsaturated_fat">"Nenasycené tuky"</string>
+      <string name="update_button">"Aktualizovat"</string>
+      <string name="upper_twist">"Otáčení trupem vsedě"</string>
+      <string name="velocity_speed_km">"{value,plural, =1{1 km/h}few{#km/h}many{#km/h}other{#km/h}}"</string>
+      <string name="velocity_speed_km_long">"{value,plural, =1{1 kilometr za hodinu}few{# kilometry za hodinu}many{# kilometru za hodinu}other{# kilometrů za hodinu}}"</string>
+      <string name="velocity_speed_miles">"{value,plural, =1{1 mi/h}few{# mi/h}many{# mi/h}other{# mi/h}}"</string>
+      <string name="velocity_speed_miles_long">"{value,plural, =1{1 míle za hodinu}few{# míle za hodinu}many{# míle za hodinu}other{# mil za hodinu}}"</string>
+      <string name="vitals_category_lowercase">"životní funkce"</string>
+      <string name="vitals_category_uppercase">"Životní funkce"</string>
+      <string name="vitamin_a">"Vitamin A"</string>
+      <string name="vitamin_b12">"Vitamin B12"</string>
+      <string name="vitamin_b6">"Vitamin B6"</string>
+      <string name="vitamin_c">"Vitamin C"</string>
+      <string name="vitamin_d">"Vitamin D"</string>
+      <string name="vitamin_e">"Vitamin E"</string>
+      <string name="vitamin_k">"Vitamin K"</string>
+      <string name="vo2_cooper_test">"Cooperův test"</string>
+      <string name="vo2_heart_rate_ratio">"Poměr pulsu"</string>
+      <string name="vo2_max">"{value,plural, =1{1 ml/(kg min)}few{# ml/(kg min)}many{# ml/(kg min)}other{# ml/ (kg min)}}"</string>
+      <string name="vo2_max_long">"{value,plural, =1{1 mililitr kyslíku na kilogram tělesné hmotnosti za minutu}few{# mililitry kyslíku na kilogram tělesné hmotnosti za minutu}many{# mililitru kyslíku na kilogram tělesné hmotnosti za minutu }other{# mililitrů kyslíku na kilogram tělesné hmotnosti za minutu}}"</string>
+      <string name="vo2_max_lowercase_label">"Maximální využití kyslíku"</string>
+      <string name="vo2_max_read_content_description">"Čtení údajů VO2 max"</string>
+      <string name="vo2_max_uppercase_label">"Maximální využití kyslíku"</string>
+      <string name="vo2_max_write_content_description">"Zapisování údajů VO2 max"</string>
+      <string name="vo2_metabolic_cart">"Přístroj pro měření metabolismu"</string>
+      <string name="vo2_multistage_fitness_test">"Vícestupňový test kondice"</string>
+      <string name="vo2_other">"Jiné"</string>
+      <string name="vo2_rockport_fitness_test">"Rockportův test kondice"</string>
+      <string name="volleyball">"Volejbal"</string>
+      <string name="waist_circumference_lowercase_label">"obvod pasu"</string>
+      <string name="waist_circumference_read_content_description">"Čtení údajů o obvodu pasu"</string>
+      <string name="waist_circumference_uppercase_label">"Obvod pasu"</string>
+      <string name="waist_circumference_write_content_description">"Zapisování údajů o obvodu pasu"</string>
+      <string name="walking">"Chůze"</string>
+      <string name="water_polo">"Vodní pólo"</string>
+      <string name="watt_format">"{value,plural, =1{1 W}few{# W}many{# W}other{# W}}"</string>
+      <string name="watt_format_long">"{value,plural, =1{1 watt}few{# watty}many{# wattu}other{# wattů}}"</string>
+      <string name="weight_lowercase_label">"hmotnost"</string>
+      <string name="weight_read_content_description">"Čtení údajů o hmotnosti"</string>
+      <string name="weight_unit_kilogram_label">"Kilogramy"</string>
+      <string name="weight_unit_pound_label">"Libry"</string>
+      <string name="weight_unit_stone_label">"Kameny"</string>
+      <string name="weight_unit_title">"Hmotnost"</string>
+      <string name="weight_uppercase_label">"Hmotnost"</string>
+      <string name="weight_write_content_description">"Zapisování údajů o hmotnosti"</string>
+      <string name="weightlifting">"Vzpírání"</string>
+      <string name="wheelchair">"Invalidní vozík"</string>
+      <string name="wheelchair_pushes">"{count,plural, =1{1 potlačení invalidního vozíku}few{# potlačení invalidního vozíku}many{# potlačení invalidního vozíku}other{# potlačení invalidního vozíku}}"</string>
+      <string name="wheelchair_pushes_lowercase_label">"potlačení invalidního vozíku"</string>
+      <string name="wheelchair_pushes_read_content_description">"Čtení údajů o potlačení invalidního vozíku"</string>
+      <string name="wheelchair_pushes_uppercase_label">"Potlačení invalidního vozíku"</string>
+      <string name="wheelchair_pushes_write_content_description">"Zapisování údajů o potlačení invalidního vozíku"</string>
+      <string name="workout">"Cvičení"</string>
+      <string name="write_data_access_label">"Zapisuje: %s"</string>
+      <string name="write_permission_category">"Povolení aplikaci <xliff:g id="APP_NAME">%1$s</xliff:g> zapisovat"</string>
+      <string name="yesterday_header">"Včera"</string>
+      <string name="yoga">"Jóga"</string>
+      <string name="zinc">"Zinek"</string>
 </resources>

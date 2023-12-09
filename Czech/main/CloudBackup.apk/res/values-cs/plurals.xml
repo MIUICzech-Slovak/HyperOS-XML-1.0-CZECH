@@ -104,4 +104,12 @@
         <item quantity="other">Zůstáva okolo %s min</item>
         <item quantity="one">Zůstáva okolo %s min</item>
     </plurals>
+	<plurals name="days_and_size_without_backup">
+         <item quantity="other">%1$d dnů od poslední zálohy | Nová data: %2$s</item>
+         <item quantity="one">%1$d den od poslední zálohy | Nová data: %2$s</item>
+      </plurals>
+      <plurals name="days_without_backup">
+         <item quantity="other">%d dnů od poslední zálohy</item>
+         <item quantity="one">%d den od poslední zálohy</item>
+      </plurals>
 </resources>             

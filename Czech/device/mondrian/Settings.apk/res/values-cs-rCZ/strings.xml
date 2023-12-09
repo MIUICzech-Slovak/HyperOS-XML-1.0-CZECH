@@ -3904,7 +3904,7 @@ Stiskněte současně vypínač a tlačítko zvýšení hlasitosti."</string>
     <string name="privacy_advanced_settings">Další nastavení ochrany soukromí</string>
     <string name="privacy_controls_title">Ovládací prvky</string>
     <string name="privacy_dashboard_summary">Oprávnění, aktivita na účtu, osobní údaje</string>
-    <string name="privacy_dashboard_title">Ochrana soukromí</string>
+    <string name="privacy_dashboard_title">Soukromí</string>
     <string name="privacy_header">Ochrana soukromí</string>
     <string name="privacy_settings_title">Zálohování</string>
     <string name="private_dns_broken">Nelze získat přístup k soukromému serveru DNS</string>
