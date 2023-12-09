@@ -2044,4 +2044,6 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
       <string name="smart_dual_sim_available_title">Smart dual SIM</string>
       <string name="volte_switch_globalization_prompt">Tato mobilní síť nebyla ověřena pro VoLTE na tomto zařízení. Zapnutí této funkce může ovlivnit výdrž baterie, hovory, zprávy, hlasovou schránku a spotřebu mobilních dat.</string>
       <string name="volte_switch_globalization_prompt_title">Pozor</string>
+	  <string name="dial_settings_screen_title">Nastavení volání</string>
+	  <string name="other_settings_screen_title">Ostatní nastavení</string>
 </resources>
