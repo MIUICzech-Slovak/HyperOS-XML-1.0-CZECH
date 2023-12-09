@@ -6127,7 +6127,7 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="blur_phone_book">Kontakty</string>
       <string name="blur_phone_record">Historie hovorů</string>
       <string name="blur_picture_video">Fotografie a videa</string>
-      <string name="blur_place">Umístění</string>
+      <string name="blur_place">Poloha</string>
       <string name="blur_read_storage">Povolení k úložišti</string>
       <string name="blur_read_write_storage">Přístup k úložišti</string>
       <string name="blur_schedule">Události</string>
@@ -6193,7 +6193,7 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="group_head_data_location_service">Služby určování polohy</string>
       <string name="group_head_data_mic_desc">Vypnutím omezíte přístup k mikrofonu pro všechny aplikace</string>
       <string name="group_image_video">Fotografie a videa</string>
-      <string name="group_location">Umístění</string>
+      <string name="group_location">Poloha</string>
       <string name="group_microphone">Mikrofon</string>
       <string name="group_nearby_device">Zařízení v blízkosti</string>
       <string name="group_other">Jiná povolení</string>
@@ -6205,7 +6205,7 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="invisible_mode_open_summary_compact">Aktuální verze systému podporuje pouze současné vypnutí povolení pro fotoaparát, polohu a mikrofon pro všechny aplikace. Vypnutím jednoho z těchto povolení se vypnou všechna.</string>
       <string name="invisible_mode_open_title_compact">Připomenutí povolení</string>
       <string name="layoutDirection">rtl</string>
-      <string name="location">Umístění</string>
+      <string name="location">Poloha</string>
       <string name="mic">Mikrofon</string>
       <string name="miui_blur_location">Přibližná poloha</string>
       <string name="new_result_sound_only">Zvuk</string>
