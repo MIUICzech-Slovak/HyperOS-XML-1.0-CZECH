@@ -1174,11 +1174,11 @@ Bylo přičteno dalších %1$s"</string>
       <string name="permission_group_description_storage_space">Přístup k položkám a jejich přidávání</string>
       <string name="permission_group_name_phone">Telefon</string>
       <string name="permission_group_name_storage_space">Úložiště</string>
-      <string name="positive_order">Poslat dále</string>
+      <string name="positive_order">Vzestupně</string>
       <string name="recent_file_by_source">Zdroj souboru</string>
       <string name="recent_file_sort_by_date">Datum</string>
       <string name="recent_file_sort_type">Seřadit podle</string>
-      <string name="reverse_order">Obrácené</string>
+      <string name="reverse_order">Sestupně</string>
       <string name="search_category_type">Hledat podle kategorie</string>
       <string name="search_text_hint">Hledat soubory</string>
       <string name="sort_mode">Pořadí řazení</string>
