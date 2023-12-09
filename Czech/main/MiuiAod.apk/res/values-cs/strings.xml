@@ -426,11 +426,11 @@ N e"</string>
       <string name="wind_direction_7">SZ vítr</string>
       <string name="wind_direction_7_f">SZ vítr</string>
       <string name="wind_format">%1$s | Úroveň %2$s</string>
-      
      <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
      <string name="miui_magazine_clock_date">d.M</string>
      <string name="miui_magazine_clock_date_content_description">dd.MM</string>
      <string name="miui_smart_frame_clock_date">d.M</string>
      <string name="format_month_day_style1">d.MMM</string>
-     <string name="format_month_day_style2">d.M</string>      
+     <string name="format_month_day_style2">d.M</string>
+	<string name="aod_notification_use_app_icon">Použít ikony aplikací pro upozornění</string> 
 </resources>

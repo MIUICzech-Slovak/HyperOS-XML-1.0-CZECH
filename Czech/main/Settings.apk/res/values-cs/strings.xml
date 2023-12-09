@@ -1680,9 +1680,9 @@ Chcete-li telefon nadále používat, je nutné v něm obnovit tovární nastave
     <string name="current_use_default_wallet">Vybráno automaticky</string>
     <string name="current_use_ese">Použít vnitřní zabezpečovací prvek</string>
     <string name="current_use_ese_wallet">Používáte MiWallet</string>
-    <string name="current_use_hce_wallet">Používáte HCE Peněženku</string>
+    <string name="current_use_hce_wallet">Používáte HCE Wallet</string>
     <string name="current_use_uicc_se">Použít zabezpečovací prvek SIM karty</string>
-    <string name="current_use_uicc_wallet">Používáte SIM %1$s Peněženku</string>
+    <string name="current_use_uicc_wallet">Používáte SIM %1$s Wallet</string>
     <string name="current_zone">(současná)</string>
     <string name="custom_carrier_title">Upravit název operátora</string>
     <string name="custom_color">Vlastní</string>
@@ -5657,7 +5657,7 @@ Postup připnutí obrazovky:
     <string name="se_route_ese">Vestavěné zabezpečení</string>
     <string name="se_route_uicc">Zabezpečení na SIM kartě</string>
     <string name="se_wallet_ese">MiWallet (pouze v Číně)</string>
-    <string name="se_wallet_hce">HCE Peněženku</string>
+    <string name="se_wallet_hce">HCE Wallet</string>
     <string name="search_about">O programu</string>
     <string name="search_accelerometer">akcelerometr</string>
     <string name="search_access_control">řízení přístupu</string>
@@ -8191,8 +8191,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="not_connected_to_wifi">Nejste připojeni k síti Wi-Fi</string>
       <string name="notice_broadcast_audio_stoppped">Vysílání zvuku se zastavilo</string>
       <string name="notification_app_permissions">Povolení upozornění</string>
-      <string name="notification_control_center_new">Upozornění &amp; stavový řádek</string>
-      <string name="notification_status_bar">Upozornění &amp; stavový řádek</string>
+      <string name="notification_control_center_new">Upozornění &amp; Stavový řádek</string>
+      <string name="notification_status_bar">Upozornění &amp; Stavový řádek</string>
       <string name="notification_style_settings">Styl upozornění</string>
       <string name="os_version">Verze OS</string>
       <string name="outer_screen_and_resolution_title">Velikost a rozlišení vnější obrazovky</string>
