@@ -1808,7 +1808,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="permission_custom_cta_network_button_negative">"Nesouhlasím"</string>
     <string name="permission_custom_cta_network_button_positive">Souhlasím</string>
     <string name="permission_custom_cta_network_title">Pozor</string>
-    <string name="permission_location">Umístění</string>
+    <string name="permission_location">Poloha</string>
     <string name="permission_location_desc">Pro zobrazení fotografií a videí na mapě</string>
     <string name="permission_optional_category">Volitelné povolení</string>
     <string name="permission_phone_desc">Pro požadavky sítě</string>

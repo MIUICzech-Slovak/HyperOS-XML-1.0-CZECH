@@ -1181,8 +1181,8 @@ Bylo přičteno dalších %1$s"</string>
       <string name="reverse_order">Sestupně</string>
       <string name="search_category_type">Hledat podle kategorie</string>
       <string name="search_text_hint">Hledat soubory</string>
-      <string name="sort_mode">Pořadí řazení</string>
-      <string name="sort_type">Filtr</string>
+      <string name="sort_mode">Pořadí</string>
+      <string name="sort_type">Řazení podle</string>
       <string name="view_mode_grid">Mřížka</string>
       <string name="view_mode_list">Seznam</string>
       <string name="view_type_mode">Rozložení</string>

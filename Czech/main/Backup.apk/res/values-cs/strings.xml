@@ -933,4 +933,7 @@ Velikost aktualizace delta: %2$s"</string>
 	<string name="new_usb_unwritable_storage_content">"Položky se nepodařilo uložit na externí úložné zařízení. Zkuste jej znovu připojit."</string>
 	<string name="new_usb_unwritable_storage_title">"Nepodařilo se uložit"</string>
 	<string name="password_toggle_content_description">Zobrazit heslo</string>
+	<string name="restore_data_title">Obnovení dat</string>
+	<string name="restore_from_this_device">Obnovení dat</string>
+	<string name="restore_home_screen_apps_options">Obnovení dat</string>
 </resources>
