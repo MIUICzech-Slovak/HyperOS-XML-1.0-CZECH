@@ -2555,7 +2555,6 @@ Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v 
       <string name="pref_cv_watermark_time_title">Čas</string>
       <string name="pref_true_colour_video_mode_setting_dec">"Zachyťte realistické detaily, úžasné barvy a pozoruhodný kontrast v režimech Video a Pro. Zaostření sledování pohybu a kódování H.264 nejsou podporovány. Tato funkce nemusí být kompatibilní s některými aplikacemi třetích stran."</string>
       <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
-	  <string name="pref_camera_volumekey_function_entryvalue_timer">Časovač</string>
       <string name="pref_camera_volumekey_function_timer_desc">"Nebude fungovat s videi"</string>
       <string name="pref_camera_volumekey_function_zoom_desc">Funguje pouze v režimech, které podporují zoom</string>
       <string name="pref_camera_watermark_film">Filmový rámeček</string>
