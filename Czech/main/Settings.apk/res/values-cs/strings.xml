@@ -59,7 +59,7 @@ Chcete-li začít, přejděte do nastavení usnadnění a vyberte funkci. Klepn�
 Chcete-li začít, přejděte do nastavení usnadnění a vyberte funkci. Klepněte na zástupce a vyberte tlačítko usnadnění.
 
 Chcete-li místo toho použít tlačítko usnadnění na navigačním panelu, přepněte na navigaci 2 nebo 3 tlačítky."</string>
-    <string name="accessibility_button_gesture_title">Tlačítko usnadnění &amp; gesta</string>
+    <string name="accessibility_button_gesture_title">Tlačítko usnadnění &amp; Gesta</string>
     <string name="accessibility_button_high_label">Neprůhledný</string>
     <string name="accessibility_button_intro">Použíjte tlačítko usnadnění. Gesto není k dispozici u navigace pomocí 3 tlačítek.</string>
     <string name="accessibility_button_location_title">Umístění</string>
@@ -2280,9 +2280,9 @@ You can view generated logs in File Manager."</string>
     <string name="emergency_gesture_sound_setting_summary">Přehrát hlasitý zvuk při spuštění nouzového SOS</string>
     <string name="emergency_gesture_sound_setting_title">Přehrát budík s odpočítáváním</string>
     <string name="emergency_gesture_switchbar_title">Použít nouzové SOS</string>
-    <string name="emergency_info_summary">Informace &amp; kontakty pro %1$s</string>
+    <string name="emergency_info_summary">Informace &amp; Kontakty pro %1$s</string>
     <string name="emergency_info_title">Nouzové informace</string>
-    <string name="emergency_settings_preference_title">Nebezpečí &amp; stav nouze</string>
+    <string name="emergency_settings_preference_title">Nebezpečí &amp; Stav nouze</string>
     <string name="emergency_sos_title">Nouzové SOS</string>
     <string name="emergency_tone_alert">Upozornění</string>
     <string name="emergency_tone_silent">Tichý režim</string>
@@ -8127,14 +8127,14 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="dark_mode_settings">Možnosti tmavého režimu</string>
       <string name="default_font_title_global">Výchozí</string>
       <string name="device_details_leaudio_toggle_summary">Experimentálně. Zlepšuje kvalitu zvuku.</string>
-      <string name="display_settings_new">Obrazovka &amp; Jas</string>
+      <string name="display_settings_new">Obrazovka a jas</string>
       <string name="doublepress_summary">Přehrát a pozastavit přehrávání</string>
       <string name="doublepress_title">Proveďte pohyb dvojím stisknutím</string>
       <string name="easymode_hint_summary">Vypnete klepnutím</string>
       <string name="easymode_hint_title">Zjednodušený režim je zapnut</string>
       <string name="enable_angle_as_system_driver">Povolit ANGLE</string>
       <string name="enable_angle_as_system_driver_summary">Povolit ANGLE jako systémový ovladač OpenGL ES</string>
-      <string name="face_password_unlock_new">Údaje o tváři &amp; zámek obrazovky</string>
+      <string name="face_password_unlock_new">Údaje o tváři a zámek obrazovky</string>
       <string name="financed_device_info">Informace o financovaném zařízení</string>
       <string name="fingerprint_face_password_unlock_new">Odtisky prstů, údaje o tváři a zámek obrazovky</string>
       <string name="focus_summary">Použijte vlastní formát upozornění ke zvýraznění důležitých informací</string>
@@ -8191,8 +8191,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="not_connected_to_wifi">Nejste připojeni k síti Wi-Fi</string>
       <string name="notice_broadcast_audio_stoppped">Vysílání zvuku se zastavilo</string>
       <string name="notification_app_permissions">Povolení upozornění</string>
-      <string name="notification_control_center_new">Upozornění &amp; Stavový řádek</string>
-      <string name="notification_status_bar">Upozornění &amp; Stavový řádek</string>
+      <string name="notification_control_center_new">Upozornění a stavový řádek</string>
+      <string name="notification_status_bar">Upozornění a stavový řádek</string>
       <string name="notification_style_settings">Styl upozornění</string>
       <string name="os_version">Verze OS</string>
       <string name="outer_screen_and_resolution_title">Velikost a rozlišení vnější obrazovky</string>
@@ -8203,7 +8203,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="please_connect_to_the_wifi">Chcete-li dokončit vymazání dat eSIM, připojte se k síti Wi-Fi.</string>
       <string name="please_stop_broadcast_audio">Nejprve dokončete vysílání místního zvuku</string>
       <string name="please_stop_listen_broadcast_audio">Dokončete poslech aktuálního vysílání</string>
-      <string name="privacy_and_security">Ochrana osobních údajů &amp; bezpečnost</string>
+      <string name="privacy_and_security">Ochrana osobních údajů a bezpečnost</string>
       <string name="privacy_input_mode">Bezpečný vstup</string>
       <string name="privacy_input_mode_img_detail">Funguje s klávesnicemi autorizovanými společností Xiaomi</string>
       <string name="reboot_dialog_enable_angle_as_system_driver">Ke změně systémového ovladače OpenGL ES je zapotřebí restart</string>

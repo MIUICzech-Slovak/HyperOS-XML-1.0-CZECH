@@ -6474,4 +6474,6 @@ Vaše zařízení se může zahřívat a spotřebovat více energie."</string>
       <string name="permission_usage_deny_storage_once">"%1$s｜Nepovolil přístup k fotkám, videím, zvuku a souborům"</string>
       <string name="permission_usage_projection_screen_once">%1$s｜Zpřístupněný nebo zaznamenaný obsah obrazovky</string>
       <string name="permission_usage_projection_screen_use">Získejte přístup k obsahu obrazovky nebo jej zaznamenejte</string>
+	  <string name="beauty_fc_assistant_summary_common">Použití dalších funkcí s přední kamerou</string>
+      <string name="beauty_fc_auto_brightness">Automatická úprava jasu výplně</string>
 </resources>
