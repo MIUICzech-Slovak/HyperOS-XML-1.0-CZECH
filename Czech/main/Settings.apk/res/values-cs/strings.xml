@@ -1680,9 +1680,9 @@ Chcete-li telefon nadále používat, je nutné v něm obnovit tovární nastave
     <string name="current_use_default_wallet">Vybráno automaticky</string>
     <string name="current_use_ese">Použít vnitřní zabezpečovací prvek</string>
     <string name="current_use_ese_wallet">Používáte MiWallet</string>
-    <string name="current_use_hce_wallet">Používáte HCE Wallet</string>
+    <string name="current_use_hce_wallet">Používáte HCE Peněženku</string>
     <string name="current_use_uicc_se">Použít zabezpečovací prvek SIM karty</string>
-    <string name="current_use_uicc_wallet">Používáte SIM %1$s Wallet</string>
+    <string name="current_use_uicc_wallet">Používáte SIM Peněženku</string>
     <string name="current_zone">(současná)</string>
     <string name="custom_carrier_title">Upravit název operátora</string>
     <string name="custom_color">Vlastní</string>
@@ -5657,7 +5657,7 @@ Postup připnutí obrazovky:
     <string name="se_route_ese">Vestavěné zabezpečení</string>
     <string name="se_route_uicc">Zabezpečení na SIM kartě</string>
     <string name="se_wallet_ese">MiWallet (pouze v Číně)</string>
-    <string name="se_wallet_hce">HCE Wallet</string>
+    <string name="se_wallet_hce">HCE Peněženka</string>
     <string name="search_about">O programu</string>
     <string name="search_accelerometer">akcelerometr</string>
     <string name="search_access_control">řízení přístupu</string>
@@ -8268,4 +8268,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="private_dns_mode_provider_exposed_hostname">Zjistitelné</string>
       <string name="private_dns_mode_provider_failure">"Nelze se připojit"</string>
       <string name="private_dns_mode_provider_hostname_hint">Zadejte název hostitele poskytovatele DNS</string>
+	  <string name="sim_wallet">SIM Peněženka</string>
+    <string name="sim_wallet_desc">SIM Peněženka</string>
 </resources>
