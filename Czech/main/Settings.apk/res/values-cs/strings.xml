@@ -6049,8 +6049,8 @@ Zbývá:"</string>
     <string name="sim_status_summary">Údaje související se SIM kartou</string>
     <string name="sim_status_title">Stav SIM</string>
     <string name="sim_status_title_sim_softbank">Stav SIM %1$d</string>
-    <string name="sim_wallet">Peněženka SIM</string>
-    <string name="sim_wallet_desc">Peněženka SIM</string>
+    <string name="sim_wallet">SIM Peněženka</string>
+    <string name="sim_wallet_desc">SIM Peněženka</string>
     <string name="simulate_color_space">Simulovat barevný prostor</string>
     <string name="single_key_use">Režim jediného tlačítka</string>
     <string name="single_key_use_summary">Použít tlačítko Domů, místo ostatních dvou tlačítek</string>
@@ -8268,6 +8268,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="private_dns_mode_provider_exposed_hostname">Zjistitelné</string>
       <string name="private_dns_mode_provider_failure">"Nelze se připojit"</string>
       <string name="private_dns_mode_provider_hostname_hint">Zadejte název hostitele poskytovatele DNS</string>
-	  <string name="sim_wallet">SIM Peněženka</string>
-    <string name="sim_wallet_desc">SIM Peněženka</string>
 </resources>
