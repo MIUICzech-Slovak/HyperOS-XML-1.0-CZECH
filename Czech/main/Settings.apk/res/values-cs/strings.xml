@@ -8268,4 +8268,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="private_dns_mode_provider_exposed_hostname">Zjistitelné</string>
       <string name="private_dns_mode_provider_failure">"Nelze se připojit"</string>
       <string name="private_dns_mode_provider_hostname_hint">Zadejte název hostitele poskytovatele DNS</string>
+	  <string name="gxzw_quick_open_select_summary">· Jakmile se zobrazí zkratka, přejeďte prstem a použijte ji.</string>
+      <string name="gxzw_quick_open_show_summary">· Po odemknutí zařízení podržte prst na ikoně otisku prstu, abyste otevřeli nabídku zástupců.</string>
 </resources>
