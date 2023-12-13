@@ -112,7 +112,7 @@
     <string name="input_method_category">Vyberte výchozí klávesnici, kterou budete používat pro psaní zpráv, poznámek a pro další činnosti. Později si můžete také nainstalovat další klávesnice od jiných poskytovatelů.</string>
     <string name="input_method_setting">Vybrat klávesnici</string>
     <string name="install_preinstall_app">Načítání aplikací…</string>
-    <string name="interconnection_communication_introduction">Služby internetové komunikace Xiaomi vám umožňují objevovat, připojovat se a komunikovat s jinými zařízeními Xiaomi.</string>
+    <string name="interconnection_communication_introduction">Služby Xiaomi Interconnectivity vám umožňují objevovat, připojovat se a komunikovat s jinými zařízeními Xiaomi.</string>
     <string name="item_contents_wwarning">Jestliže ztratíte své zařízení, nebudete moci zabránit jeho zneužití. Přesto chcete přeskočit?</string>
     <string name="item_facerecognition">Odemknutí tváří</string>
     <string name="item_fingerprint">Otisk prstu</string>
@@ -551,7 +551,7 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
       <string name="font_use_case_text_example">Text</string>
       <string name="font_use_case_title_example">Název</string>
       <string name="get_imei_information">Přístup k IMEI</string>
-      <string name="interconnection_service_summary_china">"Služby propojení Xiaomi umožňují vašim zařízením vzájemnou bezdrátovou interakci. Služby Xiaomi Interconnectivity Services můžete použít k ovládání zařízení, přenosu zvuku a přehrávání videa, kombinování funkcí zařízení nebo spouštění úloh na jednom zařízení a pokračování s nimi ve stejné aplikaci na jiných připojených zařízeních Tato aplikace se musí připojit k internetu a vyžaduje následující povolení:
+      <string name="interconnection_service_summary_china">"Služby Xiaomi Interconnectivity umožňují vašim zařízením vzájemnou bezdrátovou interakci. Služby Xiaomi Interconnectivity můžete použít k ovládání zařízení, přenosu zvuku a přehrávání videa, kombinování funkcí zařízení nebo spouštění úloh na jednom zařízení a pokračování s nimi ve stejné aplikaci na jiných připojených zařízeních Tato aplikace se musí připojit k internetu a vyžaduje následující povolení:
 \u0009\u0009Mi Share:
 \u0009\u0009Přistupujte k fotografiím a souborům uloženým v zařízení
 \u0009\u0009Na odesílání a přijímání přeneseného obsahu
@@ -653,4 +653,5 @@ Dostupné služby propojení se mohou lišit v závislosti na verzi vašeho syst
       <string name="media_storage_devices">Zařízení pro ukládání médií</string>
       <string name="media_storage_introduction">Tato služba umožňuje aplikacím přistupovat k fotkám, videím, zvukům a souborům a ukládat je.</string>
       <string name="permission_media_storage_summary">Pro kontrolu způsobu, jakým aplikace využívají povolení související s ochranou osobních údajů při přístupu k souborům</string>
+	  <string name="interconnection_service_title">Služby Xiaomi Interconnectivity</string>
 </resources>

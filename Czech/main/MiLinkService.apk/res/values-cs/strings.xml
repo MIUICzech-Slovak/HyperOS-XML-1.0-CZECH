@@ -203,36 +203,36 @@ přetáhněte kartu do jiného zařízení"</string>
     <string name="circulate_controlphone_title">Manage device</string>
     <string name="circulate_cta_agree">Souhlasím</string>
     <string name="circulate_cta_app_name">Xiaomi Interconnectivity</string>
-    <string name="circulate_cta_desc_lite_phone">Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. To be able to work normally, these services need to connect to the internet and require the following permissions:</string>
-    <string name="circulate_cta_desc_phone">Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. To be able to work normally, these services need to connect to the internet and require the following permissions:</string>
+    <string name="circulate_cta_desc_lite_phone">Služby Xiaomi Interconnectivity umožňují vašim zařízením bezdrátově komunikovat. Aby tyto služby mohly normálně fungovat, musí se připojit k internetu a vyžadovat následující oprávnění:</string>
+    <string name="circulate_cta_desc_phone">Služba Xiaomi Interconnectivity umožňují vašim zařízením bezdrátově komunikovat. Aby tyto služby mohly normálně fungovat, musí se připojit k internetu a vyžadovat následující oprávnění:</string>
     <string name="circulate_cta_exit">Nesouhlasím</string>
-    <string name="circulate_cta_premission_bluetooth_subtitle">For connecting devices and transferring data between them</string>
-    <string name="circulate_cta_premission_get_installed_apps_subtitle">For accessing the list of apps installed on a mobile device and screen mirroring on computers</string>
-    <string name="circulate_cta_premission_mac_address_subtitle">For discovering nearby devices</string>
-    <string name="circulate_cta_premission_obtain_information_subtitle">While recording or casting, the service providing this feature can capture any sensitive information that is displayed on your screen or played from your device, including sensitive information such as audio, passwords, payment info, photos, and messages</string>
-    <string name="circulate_cta_premission_read_call_log_subtitle">For transferring calls across devices during screen mirrorring</string>
-    <string name="circulate_cta_premission_sound_subtitle">For recording local audio during casting and screen mirrorring</string>
+    <string name="circulate_cta_premission_bluetooth_subtitle">Pro připojení zařízení a přenos dat mezi nimi</string>
+    <string name="circulate_cta_premission_get_installed_apps_subtitle">Pro přístup k seznamu aplikací nainstalovaných v mobilním zařízení a zrcadlení obrazovky v počítačích</string>
+    <string name="circulate_cta_premission_mac_address_subtitle">Pro objevování zařízení v okolí</string>
+    <string name="circulate_cta_premission_obtain_information_subtitle">Během nahrávání nebo odesílání může služba poskytující tuto funkci zachytit jakékoli citlivé informace, které se zobrazují na vaší obrazovce nebo přehrávají z vašeho zařízení, včetně citlivých informací, jako jsou zvuk, hesla, platební údaje, fotografie a zprávy</string>
+    <string name="circulate_cta_premission_read_call_log_subtitle">Pro přepojování hovorů mezi zařízeními během zrcadlení obrazovky</string>
+    <string name="circulate_cta_premission_sound_subtitle">Pro nahrávání místního zvuku během odesílání a zrcadlení obrazovky</string>
     <string name="circulate_cta_premission_sound_title">Nahrávat zvuk</string>
     <string name="circulate_cta_premission_storage_pad_title">Přístup k úložišti a ukládání položek do úložiště</string>
-    <string name="circulate_cta_premission_storage_subtitle">For casting and transferring content from this device</string>
+    <string name="circulate_cta_premission_storage_subtitle">Pro odesílání a přenos obsahu z tohoto zařízení</string>
     <string name="circulate_cta_premission_storage_title">Přístup k úložišti a ukládání položek do úložiště</string>
-    <string name="circulate_cta_premission_transferring_data_subtitle">For transferring data between connected devices</string>
-    <string name="circulate_cta_premission_wlan_subtitle_china">For transferring items and connecting devices via WLAN</string>
+    <string name="circulate_cta_premission_transferring_data_subtitle">Pro přenos dat mezi připojenými zařízeními</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Pro přenos položek a připojení zařízení přes WLAN</string>
     <string name="circulate_cta_premission_wlan_title">开启或关闭WLAN</string>
     <string name="circulate_cta_user_agreement">Před pokračováním si přečtěte a souhlaste s našimi &lt;txt href=\"%1$s\">Smluvními podmínkami&lt;/txt> a &lt;txt href=\"%2$s\">Zásadami ochrany osobních údajů&lt;/txt>.</string>
     <string name="circulate_device_type_name_mijia">Chytrá zařízení pro domácnost</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
-    <string name="circulate_device_type_name_pc">Computer</string>
-    <string name="circulate_device_type_name_phone">Phone</string>
+    <string name="circulate_device_type_name_pc">Počítač</string>
+    <string name="circulate_device_type_name_phone">Telefon</string>
     <string name="circulate_device_type_name_tv">TV</string>
-    <string name="circulate_device_type_name_wifi_speaker">Speaker</string>
+    <string name="circulate_device_type_name_wifi_speaker">reproduktor</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Touch screen speaker</string>
     <string name="circulate_headset_back_to_box_desc">"1. Vložte obě sluchátka do pouzdra.
 2. Stiskněte a přidržte tlačítko na pouzdře.
 3. Dokončete párování na cílovém zařízení."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Pro přenos přehrávání mezi zařízeními nejprve spárujte sluchátka s vaší televizí.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"1. Press the Power button on the TV remote to disconnect speakers.
-2. Try to connect earphones again once the screen lights up."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Stisknutím tlačítka zapnutí na dálkovém ovladači televizoru odpojíte reproduktory.
+2. Jakmile se obrazovka rozsvítí, zkuste znovu připojit sluchátka."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Vložte obě sluchátka do pouzdra.
 2. Přidržte tlačítko na pouzdře.
 3. Dokončete spárování v nastavení Bluetooth nebo pomocí vyskakovacího okna."</string>
@@ -250,7 +250,7 @@ přetáhněte kartu do jiného zařízení"</string>
     <string name="circulate_headset_back_to_box_title_phone">Spárujte sluchátka s tímto zařízením</string>
     <string name="circulate_headset_back_to_box_title_tv">Párování sluchátek</string>
     <string name="circulate_headset_control_anc_clear">Transparentnost</string>
-    <string name="circulate_headset_control_anc_disable_hint">Your earphones are connected to two devices. You can only adjust volume from this device.</string>
+    <string name="circulate_headset_control_anc_disable_hint">Vaše sluchátka jsou připojena ke dvěma zařízením. Hlasitost můžete upravit pouze z tohoto zařízení.</string>
     <string name="circulate_headset_control_anc_noise_cancel">Potlačení hluku</string>
     <string name="circulate_headset_control_anc_off">Vyp.</string>
     <string name="circulate_headset_control_battery_case">Pouzdro</string>
@@ -267,13 +267,13 @@ přetáhněte kartu do jiného zařízení"</string>
     <string name="circulate_headset_error_device_not_support">Sluchátka nelze připojit k tomuto zařízení</string>
     <string name="circulate_headset_error_ear_phone_not_support">Tato sluchátka nepodporují přenos přehrávání zvuku</string>
     <string name="circulate_headset_error_headset_not_support">Sluchátka nelze připojit k tomuto počítači</string>
-    <string name="circulate_headset_error_headset_not_worn">Put in both earphones and try again</string>
-    <string name="circulate_headset_error_headset_not_worn_both">Put in both earphones and try again</string>
+    <string name="circulate_headset_error_headset_not_worn">Nasaďte si obě sluchátka a zkuste to znovu</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Nasaďte si obě sluchátka a zkuste to znovu</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Zapněte Bluetooth na vaší televizi
 a přihlaste se ke svému Xiaomi účtu"</string>
-    <string name="circulate_headset_error_self_upgrade">"Couldn't complete this action. Update the app first."</string>
+    <string name="circulate_headset_error_self_upgrade">"Tuto akci nelze dokončit. Nejprve aktualizujte aplikaci."</string>
     <string name="circulate_headset_error_timeout">Spojení vypršelo</string>
-    <string name="circulate_headset_error_upgrade">Update the app on your target device first</string>
+    <string name="circulate_headset_error_upgrade">Nejprve aktualizujte aplikaci na cílovém zařízení</string>
     <string name="circulate_help_button_content_description">Nápověda</string>
     <string name="circulate_help_card_subtitle">Zobrazit nápovědu</string>
     <string name="circulate_help_card_title">"Nemůžete své
@@ -282,8 +282,8 @@ zařízení najít?"</string>
     <string name="circulate_help_exit_button_content_description">Ukončit</string>
     <string name="circulate_help_feedback_button">Zpětná vazba</string>
     <string name="circulate_jump_to_mijia">Otevřít Xiaomi Home</string>
-    <string name="circulate_local_pad_name">My tablet</string>
-    <string name="circulate_local_phone_name">My phone</string>
+    <string name="circulate_local_pad_name">Můj tablet</string>
+    <string name="circulate_local_phone_name">Můj telefon</string>
     <string name="circulate_more_button_content_description">更多</string>
     <string name="circulate_more_device">Více zařízení</string>
     <string name="circulate_more_setting">Další nastavení</string>
@@ -396,11 +396,11 @@ zařízení najít?"</string>
     <string name="date_time_picker_dialog_title">Nastavte datum a čas</string>
     <string name="device_busy">Zařízení je zaneprázdněno. Počkejte chvíli a zkuste to znovu.</string>
     <string name="device_desc_trust">Důvěryhodná zařízení</string>
-    <string name="device_permission_authorize_dialog_message">Once this permission is granted, this device will be able to use %s for taking photos and recording videos.</string>
-    <string name="device_permission_authorize_dialog_title">Grant camera permissions on %s</string>
-    <string name="device_permission_dialog_message">Open Settings > Interconnectivity > Interconnectivity and permissions on %s and grant camera permissions first.</string>
-    <string name="device_permission_dialog_positive_button">Got it</string>
-    <string name="device_permission_dialog_title">Grant permissions on %s</string>
+    <string name="device_permission_authorize_dialog_message">Jakmile bude toto oprávnění uděleno, bude toto zařízení moci používat %s k pořizování fotografií a nahrávání videí.</string>
+    <string name="device_permission_authorize_dialog_title">Udělte oprávnění k fotoaparátu %s</string>
+    <string name="device_permission_dialog_message">Otevřete Nastavení > Propojitelnost > Propojitelnost a oprávnění na %s a nejprve udělte oprávnění ke kameře.</string>
+    <string name="device_permission_dialog_positive_button">Rozumím</string>
+    <string name="device_permission_dialog_title">Udělte oprávnění %s</string>
     <string name="device_type_name_pad">Tablet</string>
     <string name="device_type_name_phone">Telefon</string>
     <string name="dialog_can_not_find_device">Nalezení zařízení v okolí se nezdařilo</string>
