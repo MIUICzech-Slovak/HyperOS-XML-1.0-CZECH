@@ -1680,7 +1680,7 @@ Chcete-li telefon nadále používat, je nutné v něm obnovit tovární nastave
     <string name="current_use_default_wallet">Vybráno automaticky</string>
     <string name="current_use_ese">Použít vnitřní zabezpečovací prvek</string>
     <string name="current_use_ese_wallet">Používáte MiWallet</string>
-    <string name="current_use_hce_wallet">Používáte HCE Peněženku</string>
+    <string name="current_use_hce_wallet">Používáte HCE Wallet</string>
     <string name="current_use_uicc_se">Použít zabezpečovací prvek SIM karty</string>
     <string name="current_use_uicc_wallet">Používáte SIM Peněženku</string>
     <string name="current_zone">(současná)</string>
@@ -5453,7 +5453,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhledávání je zapnuté</string>
     <string name="scheduled_style">Naplánované</string>
     <string name="screen">Displej</string>
-    <string name="screen_brightness">Jas obrazovky</string>
+    <string name="screen_brightness">Jas displeje</string>
     <string name="screen_button">Tlačítka na displeji</string>
     <string name="screen_button_tips">Posuňte dolů pro skrytí tlačítek na displeji</string>
     <string name="screen_cancel">Zrušit</string>
@@ -5657,7 +5657,7 @@ Postup připnutí obrazovky:
     <string name="se_route_ese">Vestavěné zabezpečení</string>
     <string name="se_route_uicc">Zabezpečení na SIM kartě</string>
     <string name="se_wallet_ese">MiWallet (pouze v Číně)</string>
-    <string name="se_wallet_hce">HCE Peněženka</string>
+    <string name="se_wallet_hce">HCE Wallet</string>
     <string name="search_about">O programu</string>
     <string name="search_accelerometer">akcelerometr</string>
     <string name="search_access_control">řízení přístupu</string>
@@ -8127,7 +8127,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="dark_mode_settings">Možnosti tmavého režimu</string>
       <string name="default_font_title_global">Výchozí</string>
       <string name="device_details_leaudio_toggle_summary">Experimentálně. Zlepšuje kvalitu zvuku.</string>
-      <string name="display_settings_new">Obrazovka a jas</string>
+      <string name="display_settings_new">Displej a jas</string>
       <string name="doublepress_summary">Přehrát a pozastavit přehrávání</string>
       <string name="doublepress_title">Proveďte pohyb dvojím stisknutím</string>
       <string name="easymode_hint_summary">Vypnete klepnutím</string>
