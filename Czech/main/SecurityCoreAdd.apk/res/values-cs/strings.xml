@@ -938,4 +938,7 @@ Dvojitým klepnutím otevřete Nedávné."</string>
       <string name="xspace_account">Účty dvou aplikací</string>
       <string name="xspace_guide_content_bound">Dostupné aplikace</string>
 	  <string name="tutorial_music_song_title_pre">Izolace snu</string>
+	  <string name="long_press_power_key_half_of_second">Google Asistenta zapnete stisknutím a podržením zapínacího tlačítka po dobu 0,5 s</string>
+      <string name="long_press_power_key_half_second">Stiskněte a podržte zapínací tlačítko pro %ss</string>
+      <string name="long_press_power_key_tips">&lt;Data>Dlouhé stisknutí zapinacího tlačítka je &lt;font color=#999999>rychlejší a pohodlnější&lt;/font>&lt;/Data></string>
 </resources>
