@@ -380,4 +380,5 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="config_restrict_function_description_new">Ukončení aplikace po %d minutách aktivity na pozadí</string>
 </resources>
