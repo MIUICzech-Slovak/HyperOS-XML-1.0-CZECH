@@ -835,4 +835,8 @@ Vylepšené zabezpečení."</string>
       <string name="setting_no_word">Kdekoli</string>
       <string name="setting_only_widget_no_word">Na widgetech</string>
       <string name="start_new_window">Nové okno</string>
+	  <string name="common_home_search_delete_cancle">Zrušit</string>
+      <string name="common_home_search_delete_confirm">Odstranit</string>
+      <string name="common_home_search_delete_content">"Po odstranění vyhledávacího pole z domovské obrazovky nebudete moci používat rychlé vyhledávání. Přesto odstranit?"</string>
+	  <string name="system_shortcuts_icon_remove">Odstranit</string>
 </resources>
