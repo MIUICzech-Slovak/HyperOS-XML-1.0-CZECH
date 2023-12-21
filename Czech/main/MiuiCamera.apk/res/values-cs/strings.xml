@@ -1917,7 +1917,7 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="spaceIsLow_content_primary_storage_priority">Na úložišti dochází volné místo</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority">Zdá se, že vám došlo místo na úložišti. Snímání obrázků bylo zastaveno.</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Zastaví se z důvodu nedostatečného úložiště…</string>
-    <string name="speech_shutter_open_tip">Řekněte \"Pāizhào\" nebo \"Qiézi\" pro vyfocení</string>
+    <string name="speech_shutter_open_tip">Řekněte \"Cheese\" pro vyfocení</string>
     <string name="speech_shutter_tip">Hlasová spoušť</string>
     <string name="start_capture">Zavřít</string>
     <string name="sticker_tab1">Roztomilý</string>
