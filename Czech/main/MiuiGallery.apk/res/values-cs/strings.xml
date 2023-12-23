@@ -3183,4 +3183,26 @@ Nejlepší záběry byly vybrány automaticky. Další fotografie můžete přid
 	  <string name="ai_image_privacy_message"><Data>" Vítejte v portrétech AI!&lt;br/>Abychom vám mohli poskytovat služby, potřebujeme shromáždit potřebné osobní informace:&lt;br/>1. Chcete-li vytvořte portréty umělé inteligence, budete muset na naše servery nahrát &lt;b>fotografie lidí&lt;/b>.Shromáždíme a zpracujeme informace o jejich &lt;b>tvářích&lt;/b> k vytvoření modelu umělé inteligence. &lt;br/>2. Když nahrajete &lt;b>fotografie lidí&lt;/b>, sesynchronizujeme &lt;b>jejich jména a profilové fotografie&lt;/b> z příslušných alb a přiřadíme tyto informace k obrázkům AI .&lt;br/>3. Když vytvoříte obrázky AI založené na textu, shromáždíme vámi poskytnutý &lt;b>popis&lt;/b>, abychom mohli vygenerovat obrázky.&lt;br/>Shromažďujeme pouze osobní informace, které je nezbytný pro specifické funkce našich produktů a služeb, které používáte.Informace o tom, jak shromažďujeme a zpracováváme osobní údaje , naleznete v &lt;a href=\"%1$s\">Zásadách ochrany osobních údajů pro portréty AI&lt;/a>. &lt;br/>Přečtěte si &lt;a href=\"%2$s\">Smlouvu s uživatelem portrétů AI&lt;/a> a &lt;a href=\"%3$s\">Zásady ochrany osobních údajů týkající se se portrétů AI a vyjádřete s nimi souhlas&lt; ;/a> než budete pokračovat. "</Data></string>
       <string name="hdr_switch_show_hint">Použijte HDR k zobrazení detailů ve světle a stínu</string>
       <string name="hdr_switch_show_title">Pro HDR displej</string>
+	  <string name="ai_continue_upload_photo">Pokračovat</string>
+      <string name="ai_create_image_fail_by_illegal_photo">"Zdá se, že fotografie, které jste předali, porušují naše standardy komunity.
+Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
+      <string name="ai_create_image_fail_by_net">"Nepodařilo se vytvořit obraz AI. Naše servery jsou nyní příliš zaneprázdněné. Zkuste to znovu."</string>
+      <string name="ai_cta_agree_btn">Povolit</string>
+      <string name="ai_cta_dialog_message">Povolte Galerii připojit se k internetu, abyste mohli vytvářet portréty umělé inteligence.</string>
+      <string name="ai_cta_dialog_title">Jsou vyžadována povolení</string>
+      <string name="ai_cta_refuse_btn">Ne, děkuji</string>
+      <string name="ai_download_filter_photo_so_confirm_btn">Stáhnout</string>
+      <string name="ai_download_filter_photo_so_downloading">Stahování doplňku…</string>
+      <string name="ai_download_filter_photo_so_message">Chcete-li používat všechny funkce AI na výšku, nejprve si stáhněte doplněk.</string>
+      <string name="ai_download_filter_photo_so_title">Stáhnout doplněk</string>
+      <string name="ai_download_filter_so_fail_toast">"Nepodařilo se stáhnout doplněk. Zkuste to znovu."</string>
+      <string name="ai_free_creation_illegal_text_toast">Tento text porušuje pravidla naší komunity. Přepište svou zprávu.</string>
+      <string name="ai_input_name_hint">Zadejte jméno</string>
+      <string name="ai_photos_upload_fail_tip">"Fotografie uživatele %s ještě nebyla předána. Nyní můžete pokračovat v předávání fotografií."</string>
+      <string name="ai_recreate_image_cancel_text_btn">Pokračovat</string>
+      <string name="ai_recreate_image_confirm_text_btn">Vybrat</string>
+      <string name="ai_recreate_image_dialog_msg">Můžete pokračovat v předávání fotografií nebo vybrat nové.</string>
+      <string name="ai_recreate_image_dialog_title">"Fotografie uživatele %s nebyla předána"</string>
+      <string name="ai_select_photo_no_result_toast">"Na základě těchto fotografií nelze vytvořit obrázek umělé inteligence. Místo toho vyberte jiné fotografie."</string>
+      <string name="burst_photo_preview_thumbnail_content_description">Fotka %d</string>
 </resources>

@@ -654,4 +654,11 @@ Dostupné služby propojení se mohou lišit v závislosti na verzi vašeho syst
       <string name="media_storage_introduction">Tato služba umožňuje aplikacím přistupovat k fotkám, videím, zvukům a souborům a ukládat je.</string>
       <string name="permission_media_storage_summary">Pro kontrolu způsobu, jakým aplikace využívají povolení související s ochranou osobních údajů při přístupu k souborům</string>
 	  <string name="interconnection_service_title">Služby Xiaomi Interconnectivity</string>
+	  <string name="aquire_device_info">Přístup k informacím o zařízení</string>
+      <string name="permission_application_scope_description">"Tato povolení používáme pouze při provádění ověření zabezpečení a nepoužijeme je k žádnému jinému účelu."</string>
+      <string name="read_application_info">Přístup k informacím o aplikaci</string>
+      <string name="safe_open_service">Zabezpečené otevřené služby</string>
+      <string name="safe_open_service_introduction">Zabezpečené otevřené služby pomáhají vývojářům a poskytují možnosti zabezpečení na úrovni systému k ochraně uživatelů a jejich soukromí.</string>
+      <string name="verify_application_security">Pro ověření zabezpečení aplikace</string>
+      <string name="verify_device_security">Pro ověření zabezpečení zařízení</string>
 </resources>

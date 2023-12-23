@@ -8270,4 +8270,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="private_dns_mode_provider_hostname_hint">Zadejte název hostitele poskytovatele DNS</string>
 	  <string name="gxzw_quick_open_select_summary">· Jakmile se zobrazí zkratka, přejeďte prstem a použijte ji.</string>
       <string name="gxzw_quick_open_show_summary">· Po odemknutí zařízení podržte prst na ikoně otisku prstu, abyste otevřeli nabídku zástupců.</string>
+	  <string name="gaze_lock_screen_summary">Zařízení zůstane odemčeno, když se zjistí vaše přítomnost, a uzamkne se, když se vzdálíte od obrazovky</string>
+      <string name="gaze_lock_screen_title">Zjistit přítomnost</string>
 </resources>
