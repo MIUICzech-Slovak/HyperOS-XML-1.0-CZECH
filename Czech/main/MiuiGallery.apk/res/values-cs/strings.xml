@@ -3197,7 +3197,6 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
       <string name="ai_download_filter_photo_so_title">Stáhnout doplněk</string>
       <string name="ai_download_filter_so_fail_toast">"Nepodařilo se stáhnout doplněk. Zkuste to znovu."</string>
       <string name="ai_free_creation_illegal_text_toast">Tento text porušuje pravidla naší komunity. Přepište svou zprávu.</string>
-      <string name="ai_input_name_hint">Zadejte jméno</string>
       <string name="ai_photos_upload_fail_tip">"Fotografie uživatele %s ještě nebyla předána. Nyní můžete pokračovat v předávání fotografií."</string>
       <string name="ai_recreate_image_cancel_text_btn">Pokračovat</string>
       <string name="ai_recreate_image_confirm_text_btn">Vybrat</string>
