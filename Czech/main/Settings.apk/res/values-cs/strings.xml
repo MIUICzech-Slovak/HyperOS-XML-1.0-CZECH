@@ -8272,4 +8272,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="gxzw_quick_open_show_summary">· Po odemknutí zařízení podržte prst na ikoně otisku prstu, abyste otevřeli nabídku zástupců.</string>
 	  <string name="gaze_lock_screen_summary">Zařízení zůstane odemčeno, když se zjistí vaše přítomnost, a uzamkne se, když se vzdálíte od obrazovky</string>
       <string name="gaze_lock_screen_title">Zjistit přítomnost</string>
+	  <string name="auto_silent_info">Tato funkce přestane fungovat, pokud ručně přepnete do režimu Nerušit</string>
 </resources>

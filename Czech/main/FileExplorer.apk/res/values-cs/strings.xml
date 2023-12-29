@@ -1186,4 +1186,6 @@ Bylo přičteno dalších %1$s"</string>
       <string name="view_mode_grid">Mřížka</string>
       <string name="view_mode_list">Seznam</string>
       <string name="view_type_mode">Rozložení</string>
+	  <string name="operation_delete_confirm_dcim_message_folder">DCIM je složka Galerie. Pokud tuto složku odstraníte, všechny položky v ní budou také trvale odstraněny z Galerie. Chcete přesto tuto složku smazat?</string>
+      <string name="operation_not_support_directory_rename">"Tuto složku nelze přejmenovat."</string>
 </resources>
