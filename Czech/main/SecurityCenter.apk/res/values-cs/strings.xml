@@ -5351,11 +5351,11 @@ Respektujeme a chráníme vaše soukromí."</string>
     <string name="tether_custom_dialog_title">Limit mobilních dat</string>
     <string name="tether_limit_dialog_title">Limit mobilních dat</string>
     <string name="tether_limit_value_custom">Vlastní</string>
-    <string name="tether_over_limit_dialog_cancle_btn">Resetovat hot-spot</string>
-    <string name="tether_over_limit_dialog_message">Byl dosažen limit dat hot-spotu.</string>
+    <string name="tether_over_limit_dialog_cancle_btn">Resetovat hotspot</string>
+    <string name="tether_over_limit_dialog_message">Byl dosažen limit dat hotspotu.</string>
     <string name="tether_over_limit_dialog_title">Upozornění mobilních dat</string>
-    <string name="tether_over_limit_warning_notify_message">Deaktivovat hot-spot.</string>
-    <string name="tether_over_limit_warning_notify_title">Byl dosažen limit dat hot-spotu</string>
+    <string name="tether_over_limit_warning_notify_message">Deaktivovat hotspot.</string>
+    <string name="tether_over_limit_warning_notify_title">Byl dosažen limit dat hotspotu</string>
     <string name="text_antivirus">Použít online virovou databází</string>
     <string name="text_button">Rozumím</string>
     <string name="text_day">". den"</string>

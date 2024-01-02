@@ -2683,7 +2683,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="wifi_check_password_try_again">Zkontrolujte heslo a zkuste to znovu</string>
     <string name="wifi_connected_no_internet">Připojeno, žádný Internet</string>
     <string name="wifi_coverage_extend">Povolit rozšířené Wi-Fi pokrytí</string>
-    <string name="wifi_coverage_extend_summary">Rozšířit Wi-Fi pokrytí pomocí hot-spotu</string>
+    <string name="wifi_coverage_extend_summary">Rozšířit Wi-Fi pokrytí pomocí hotspotu</string>
     <string name="wifi_disabled_by_recommendation_provider">Nejste připojeni, protože síť je příliš slabá</string>
     <string name="wifi_disabled_generic">Deaktivováno</string>
     <string name="wifi_disabled_network_failure">Chyba nastavení IP</string>

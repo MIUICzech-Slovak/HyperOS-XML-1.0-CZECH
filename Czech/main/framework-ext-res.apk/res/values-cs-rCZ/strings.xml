@@ -441,7 +441,7 @@
     <string name="status_bar_toggle_torch">Svítilna</string>
     <string name="status_bar_toggle_vibrate">Vibrace</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="stoneskimming_preview">Světlé kroky</string>
     <string name="stop_operate_camera_frequently">Přepínáte mezi kamera příliš rychle.</string>
     <string name="sunlight_notification_content">Přizpůsobit jas displeje silnému slunečnímu světlu</string>
@@ -529,4 +529,5 @@
       <string name="wallpaper_submerged_wing_title">Textury</string>
 	  <string name="wallpaper_floral_arrangement_title">Květinové aranžmá</string>
      <string name="wallpaper_gradient_title">Přechod</string>
+	 <string name="softap_stat_toast">Hotspot je zapnutý</string>
 </resources>

@@ -2365,7 +2365,7 @@ Připojení zařízení přes hotspot může být spolehlivější, protože ext
       <string name="friend_mode_intro_2_title">%d. Připojte zařízení k sobě</string>
       <string name="friend_mode_intro_3_content">"Vyberte zařízení, ke kterému se chcete připojit, odešlete pozvánku a přijměte ji na druhém zařízení.
 Použijte Asistenční kameru ve stabilním síťovém prostředí; jinak může dojít ke zpoždění.
-Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v Nastavení > Hot-spot > Nastavit hotspot sítě Wi-Fi."</string>
+Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v Nastavení > Hotspot > Nastavit hotspot sítě Wi-Fi."</string>
       <string name="friend_mode_intro_3_title">%d. Začněte relaci</string>
       <string name="friend_mode_introduction_content">Asistenční kamera umožňuje sdílet živé ukázky mezi dvěma zařízeními a fotografovat pomocí jednoho zařízení z druhého.</string>
       <string name="friend_mode_introduction_title">O Asistenční kameře</string>
