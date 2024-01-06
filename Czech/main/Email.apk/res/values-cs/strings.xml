@@ -1329,4 +1329,5 @@ Pro okamžitou synchronizaci, klepněte na "<b>Synchronizovat</b> nebo <b>Změni
     <string name="yesterday">Včera</string>
     <string name="you_are_in_mobile_network">Použít mobilní data k nahrání dat?</string>
 	<string name="quick_translation">Přeložit</string>
+	<string name="notification_mutli_message_content">Klepnutím zobrazíte</string>
 </resources>
