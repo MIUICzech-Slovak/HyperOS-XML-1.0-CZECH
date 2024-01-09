@@ -6676,7 +6676,7 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
     <string name="tether_auto_disable_title">Automaticky ukončit hotspot</string>
     <string name="tether_custom_dialog_title">Limit mobilních dat</string>
     <string name="tether_data_usage_limit">Jednorázový limit dat</string>
-    <string name="tether_data_usage_limit_summary">Limit dat bude aplikován při opětovném spuštění hotspot</string>
+    <string name="tether_data_usage_limit_summary">Limit dat bude aplikován při opětovném spuštění hotspotu</string>
     <string name="tether_devices_management_title">Spravovat zařízení</string>
     <string name="tether_devices_max_number">Limit připojených zařízení</string>
     <string name="tether_limit_dialog_title">Limit mobilních dat</string>
