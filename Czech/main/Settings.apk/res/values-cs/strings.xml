@@ -8276,5 +8276,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	  <string name="display_notification_icon_0">Žádné</string>
       <string name="display_notification_icon_1">%d ikona</string>
       <string name="display_notification_icon_3">%d ikony</string>
+	    <string name="display_notification_icon_5">%d ikon</string>
+    <string name="display_notification_icon_7">%d ikon</string>	
       <string name="title_show_notification_icon_count">Počet zobrazených ikon upozornění</string>
 </resources>
