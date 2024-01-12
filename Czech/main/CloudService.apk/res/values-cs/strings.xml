@@ -1254,5 +1254,6 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
 	<string name="privacy_runtime_perm_notification_desc">Pro odesílání upozornění Xiaomi Cloud Služeb</string>
-	<string name="privacy_runtime_perm_notification_title">Upozornění</string>	
+	<string name="privacy_runtime_perm_notification_title">Upozornění</string>
+	<string name="browser_sync_settings_preference">Synchr. automaticky</string>
 </resources>

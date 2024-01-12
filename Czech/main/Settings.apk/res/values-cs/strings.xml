@@ -8273,4 +8273,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	  <string name="gaze_lock_screen_summary">Zařízení zůstane odemčeno, když se zjistí vaše přítomnost, a uzamkne se, když se vzdálíte od obrazovky</string>
       <string name="gaze_lock_screen_title">Zjistit přítomnost</string>
 	  <string name="auto_silent_info">Tato funkce přestane fungovat, pokud ručně přepnete do režimu Nerušit</string>
+	  <string name="display_notification_icon_0">Žádné</string>
+      <string name="display_notification_icon_1">%d ikona</string>
+      <string name="display_notification_icon_3">%d ikony</string>
+      <string name="title_show_notification_icon_count">Počet zobrazených ikon upozornění</string>
 </resources>

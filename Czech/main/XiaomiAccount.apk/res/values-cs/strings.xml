@@ -970,4 +970,27 @@ Zkontrolujte také složku SPAM."</string>
 	  <string name="empty_device_list">Zatím zde nic není</string>
       <string name="user_agreement_read_phone_permission_desc">Pro přihlášení pomocí telefonního čísla</string>
       <string name="user_agreement_read_phone_permission_title">Přečíst telefonní čísla</string>
+	  <string name="account_auth_failed_message">"Platnost přihlašovacích pověření účtu Xiaomi %1$s vypršela. Zkuste to znovu."</string>
+      <string name="fido2_client_for_fingerprint_auth">Klepnutím ověříte pomocí otisku prstu</string>
+      <string name="fido2_close_fingerprint_auth">Vypíná se</string>
+      <string name="fido2_close_fingerprint_auth_desc">Chcete nyní vypnout ověřování otiskem prstu?</string>
+      <string name="fido2_err_already_registered">Tento účet již tuto funkci zapnul</string>
+      <string name="fido2_err_def">Vyskytla se chyba. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+      <string name="fido2_err_not_regisetered">"Tento účet ještě tuto funkci nezapnul"</string>
+      <string name="fido2_err_not_support">"Tato funkce není na tomto zařízení podporována"</string>
+      <string name="fido2_err_security">"Byla zjištěna bezpečnostní rizika. Tuto funkci nelze použít."</string>
+      <string name="fido2_err_service_exception">Došlo k chybě serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+      <string name="fido2_err_timeout">Časový limit žádosti vypršel. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+      <string name="fido2_fingerprint_auth">Ověření otiskem prstu</string>
+      <string name="fido2_fingerprint_auth_desc"><Data>Použijte otisk prstu k přihlášení do svého účtu Xiaomi a ověření identity &lt;a href=>Více informací&lt;/a></Data></string>
+      <string name="fido2_fingerprint_changed_and_afresh_register">Odtisk vašeho zařízení se změnil. Znovu ověřte svůj účet, abyste mohli zapnout ověření otiskem prstu.</string>
+      <string name="fido2_fingerprint_verify">Ověření otiskem prstu</string>
+      <string name="fido2_psw_changed_and_afresh_register">Vaše heslo se změnilo. Ověřte znovu svůj otisk prstu.</string>
+      <string name="fido2_setting_ps_notify">„Abyste mohli používat ověření otiskem prstu, musíte si nastavit heslo účtu. Můžete tak učinit v Nastavení > Xiaomi účet > Zabezpečení účtu > Heslo.“</string>
+      <string name="fido2_verify_fingerprint">Ověřit otisk prstu</string>
+      <string name="go_to_setting">Nastavení</string>
+      <string name="input_ps">Zadejte heslo</string>
+      <string name="login_or_register_by_other_way">Použijte jinou metodu</string>
+      <string name="reopen">Zapnout</string>
+      <string name="setting_ps">Nastavení hesla</string>
 </resources>

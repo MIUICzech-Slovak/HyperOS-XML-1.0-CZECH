@@ -244,4 +244,5 @@ dlouhý screenshot"</string>
 	<string name="copy_dialog_confirm">Rozumím</string>
 	<string name="copy_dialog_content">Snímky obrazovky budou automaticky přidány do vaší schránky a lze je vložit. Tuto funkci můžete vypnout v Nastavení vyhledáním \"Přidat položky do schránky\".</string>
 	<string name="copy_dialog_title">Pozor</string>
+	<string name="screenshot succeed">Screenshot byl pořízen</string>
 </resources>

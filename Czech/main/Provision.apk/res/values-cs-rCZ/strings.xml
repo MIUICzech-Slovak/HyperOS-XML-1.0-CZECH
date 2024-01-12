@@ -661,4 +661,15 @@ Dostupné služby propojení se mohou lišit v závislosti na verzi vašeho syst
       <string name="safe_open_service_introduction">Zabezpečené otevřené služby pomáhají vývojářům a poskytují možnosti zabezpečení na úrovni systému k ochraně uživatelů a jejich soukromí.</string>
       <string name="verify_application_security">Pro ověření zabezpečení aplikace</string>
       <string name="verify_device_security">Pro ověření zabezpečení zařízení</string>
+	  <string name="access_calendar">Přístup ke kalendáři</string>
+      <string name="application_extension_service">Služby rozšíření aplikace</string>
+      <string name="application_extension_service_introduction">Služby rozšíření aplikace vám poskytnou funkce přihlášení a ověření. K poskytování základních služeb potřebuje tato aplikace následující povolení:</string>
+      <string name="calendar_storage">Úložiště kalendáře</string>
+      <string name="disagree_unable_serve">„Pokud nesouhlasíte s výše uvedenými povoleními, nebudete moci tuto službu používat.“</string>
+      <string name="permission_not_agree_service_not_working">"Pokud nesouhlasíte s výše uvedenými požadovanými povoleními, nebudete moci tuto službu používat."</string>
+      <string name="permission_sms_verification_code_login">Poskytování ověření SMS pro rychlé přihlášení</string>
+      <string name="provide_date_management_service">Tato služba vám umožňuje kontrolovat datum a spravovat události.</string>
+      <string name="read_sms_and_mms">Přístup k SMS a MMS</string>
+      <string name="require_statement">Pro poskytování základních služeb potřebujeme následující povolení:</string>
+      <string name="used_date_viewing">Pro kontrolu data</string>
 </resources>
