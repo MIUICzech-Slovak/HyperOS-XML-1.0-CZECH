@@ -616,7 +616,7 @@ d.MM."</string>
 	<string name="snooze_alarm_alert">Odloženo do %s</string>
     <string name="timer_alert_pause">Časovač je pozastavený</string>
     <string name="timer_alert_running">Časovač je spuštěný</string>
-	<string name="alarm_repeat_self_define_button">Přizpůsobyt</string>
+	<string name="alarm_repeat_self_define_button">Přizpůsobit</string>
      <string name="look_sleep_data">Údaje o spánku</string>
      <string name="notification_permission_dialog_content">Povolte této aplikaci odesílat upozornění, abyste mohli dostávat upozornění na alarmy. Toto povolení můžete udělit v Nastavení.</string>
      <string name="notification_permission_dialog_not_open">Později</string>
@@ -680,4 +680,6 @@ d.MM."</string>
       <string name="password_toggle_content_description">Zobrazit heslo</string>
 	  <string name="alarm_repeat_self_define">Přizpůsobit</string>
       <string name="read_device_internal_storage">Přístup k úložišti</string>
+	  <string name="alarm_alert_close_entrance">Vypnout</string>
+	  <string name="alarm_permanent_alert">Zvoní</string>
 </resources>
