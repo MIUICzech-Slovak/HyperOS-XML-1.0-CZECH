@@ -245,4 +245,10 @@ dlouhý screenshot"</string>
 	<string name="copy_dialog_content">Snímky obrazovky budou automaticky přidány do vaší schránky a lze je vložit. Tuto funkci můžete vypnout v Nastavení vyhledáním \"Přidat položky do schránky\".</string>
 	<string name="copy_dialog_title">Pozor</string>
 	<string name="screenshot succeed">Screenshot byl pořízen</string>
+	<string name="long_screenshot_content_auto">Vytváří se snímek obrazovky…</string>
+	<string name="long_screenshot_content_loading">Načítání...</string>
+	<string name="long_screenshot_content_manual">Ručně upravte koncový bod snímku obrazovky a potom klepněte na \"Hotovo\".</string>
+	<string name="long_screenshot_done">Hotovo</string>
+	<string name="long_screenshot_title">Dlouhý screenshot</string>
+	<string name="screenshot_succeed">Screenshot byl zhotoven</string>
 </resources>
