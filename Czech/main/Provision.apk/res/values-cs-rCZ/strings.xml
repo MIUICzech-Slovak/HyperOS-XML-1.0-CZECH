@@ -672,4 +672,7 @@ Dostupné služby propojení se mohou lišit v závislosti na verzi vašeho syst
       <string name="read_sms_and_mms">Přístup k SMS a MMS</string>
       <string name="require_statement">Pro poskytování základních služeb potřebujeme následující povolení:</string>
       <string name="used_date_viewing">Pro kontrolu data</string>
+	  <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
+      <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Interconnectivity umožňuje vašim zařízením vzájemně bezdrátově komunikovat. Zapnutím tohoto přepínače vyjadřujete souhlas s &lt;a href=%1$s>ochranou osobních údajů&lt;/a > služby Xiaomi Interconnectivity.&lt;/Data>"</string>
+      <string name="interconnection_service_summary_global">"Funkce Xiaomi Interconnectivity se mohou lišit v závislosti na modelu zařízení a verzi systému. Další informace naleznete na oficiálních stránkách systému."</string>
 </resources>
