@@ -809,4 +809,6 @@ pro dnešek"</string>
 	<string name="app_use">Doba používání aplikace</string>
 	<string name="mi_transfer_banner_summary">Podporováno je více značek zařízení</string>
 	<string name="mi_transfer_banner_title">Přeneste položky ze starého zařízení</string>
+	<string name="footer_global_fps">"
+%1$d. Když zapnete Výkonný režim, obnovovací frekvence se přepne na systémové maximum %2$d Hz."</string>
 </resources>
