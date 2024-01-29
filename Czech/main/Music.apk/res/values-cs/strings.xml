@@ -1396,4 +1396,13 @@ Klepněte na %s
 	  <string name="individuation_setting_summary">Získávejte doporučení obsahu na základě vašich zájmů</string>
       <string name="individuation_setting_title">Personalizovaná doporučení</string>
 	  <string name="hint_search_songs_playlists_artists">Vyhledávejte skladby, seznamy skladeb a interprety</string>
+	  <string name="app_notify_dialog_btn_desc">Nastavení</string>
+      <string name="app_notify_dialog_check_desc">"Zapněte widget Panel oznámení, ale nepovolte trvalá oznámení"</string>
+      <string name="app_notify_dialog_path">Nastavení > Upozornění a stavový řádek > Spravovat upozornění > Hudba</string>
+      <string name="app_notify_dialog_path_10">Nastavení > Upozornění a stavový řádek > Spravovat upozornění > Hudba</string>
+      <string name="app_notify_dialog_path_8">Nastavení > Upozornění a stavový řádek > Spravovat upozornění > Hudba</string>
+      <string name="app_notify_dialog_subtitle">Zapněte upozornění pro Hudbu, abyste mohli ovládat přehrávání hudby na panelu oznámení.</string>
+      <string name="app_notify_dialog_title">Vyžadována oprávnění</string>
+      <string name="app_resident_push_switch">Povolit trvalá upozornění</string>
+      <string name="app_third_privacy">Zásady ochrany osobních údajů třetích stran</string>
 </resources>
