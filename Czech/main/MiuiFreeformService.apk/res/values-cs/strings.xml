@@ -147,4 +147,5 @@ pak se přesuňte tažením“</string>
       <string name="pin_toast_nav">Stiskněte &amp; podržením tlačítek zpět a náhledu tuto aplikaci odepnete</string>
       <string name="split_operation_guide_title">Jak používat rozdělenou obrazovku</string>
       <string name="tablet_screen_settings">Funkce pro tablety</string>
+	  <string name="freeform_recommend_open_switch_title">Chytré doporučení</string>
 </resources>
