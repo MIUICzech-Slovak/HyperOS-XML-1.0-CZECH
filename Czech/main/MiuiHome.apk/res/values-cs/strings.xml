@@ -839,4 +839,10 @@ Vylepšené zabezpečení."</string>
       <string name="common_home_search_delete_confirm">Odstranit</string>
       <string name="common_home_search_delete_content">"Po odstranění vyhledávacího pole z domovské obrazovky nebudete moci používat rychlé vyhledávání. Přesto odstranit?"</string>
 	  <string name="system_shortcuts_icon_remove">Odstranit</string>
+	<string name="abc_search_hint">Hledání…</string>
+      <string name="abc_searchview_description_clear">Vymazat dotaz</string>
+      <string name="abc_searchview_description_query">Vyhledat dotaz</string>
+      <string name="abc_searchview_description_search">Hledat</string>
+      <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+      <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
 </resources>
