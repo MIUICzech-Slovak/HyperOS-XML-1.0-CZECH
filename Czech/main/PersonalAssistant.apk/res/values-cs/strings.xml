@@ -1282,4 +1282,10 @@ Jestliže chcete začít, přidejte widgety."</string>
      <string name="pa_widget_menu_improve_remove">Odstranit</string>
      <string name="pa_widget_menu_improve_remove_card_in_stack">Odstranit \"%s\"</string>
      <string name="pa_widget_menu_improve_replace">Nahradit</string>
+	<string name="abc_search_hint">Hledání…</string>
+      <string name="abc_searchview_description_clear">Vymazat dotaz</string>
+      <string name="abc_searchview_description_query">Vyhledat dotaz</string>
+      <string name="abc_searchview_description_search">Hledat</string>
+      <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+      <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
 </resources>
