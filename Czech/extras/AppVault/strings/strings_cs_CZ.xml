@@ -146,4 +146,10 @@
     <string name="widget_weather_realtime_desc">Zobrazit aktuální informace o počasí</string>
     <string name="widget_weather_today">Počasí</string>
     <string name="widget_weather_today_desc">Zobrazit podrobné informace o počasí</string>
+	<string name="app_mivideo">Mi Video</string>
+	<string name="app_music">Hudba</string>
+	<string name="widget_mivideo_local">Místní videa</string>
+	<string name="widget_mivideo_local_desc">Rychlý přístup k místním audio a video souborům</string>
+	<string name="widget_music_play">Přehrávač</string>
+	<string name="widget_music_play_desc">Rychlé ovládání přehrávání hudby</string>
 </resources>
