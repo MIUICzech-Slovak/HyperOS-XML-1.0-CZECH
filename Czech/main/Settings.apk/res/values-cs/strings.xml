@@ -8282,15 +8282,15 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="talkback_watermark_enable">TalkBack vodoznak</string>
 	<string name="flash_notifications_about_title">O světelných upozorněních</string>
 	<string name="flash_notifications_description">O této funkci</string>
-	<string name="flash_notifications_summary">Použijte při příchozím oznámení nebo vyzvánění zařízení blesk fotoaparátu nebo barevné blikání displeje</string>
-	<string name="flash_notifications_intro">Blikání blesku fotoaparátu nebo displeje, když obdržíte oznámení nebo když zazní budík</string>
-	<string name="flash_notifications_intro_without_camera_flash">Blikání displeje, když obdržíte oznámení nebo když zazní budík</string>
+	<string name="flash_notifications_summary">Použijte při příchozím oznámení nebo vyzvánění zařízení blesk fotoaparátu nebo barevné blikání obrazovky</string>
+	<string name="flash_notifications_intro">Blikání blesku fotoaparátu nebo obrazovky, když obdržíte oznámení nebo když zazní budík</string>
+	<string name="flash_notifications_intro_without_camera_flash">Blikání obrazovky, když obdržíte oznámení nebo když zazní budík</string>
 	<string name="flash_notifications_keywords">blesk, světlo, nedoslýchavé, ztráta sluchu</string>
-	<string name="flash_notifications_note">"\"Světelná oznámení\" vizualizuje zvuky oznámení a vyzváněcí tóny pomocí blesku fotoaparátu a displeje. Pokud jste citliví na světlo, používejte tuto funkci opatrně."</string>
+	<string name="flash_notifications_note">"\"Světelná oznámení\" vizualizuje zvuky oznámení a vyzváněcí tóny pomocí blesku fotoaparátu a obrazovky. Pokud jste citliví na světlo, používejte tuto funkci opatrně."</string>
 	<string name="flash_notifications_preview">Náhled</string>
 	<string name="flash_notifications_summary_off">Vypnuto</string>
 	<string name="flash_notifications_summary_on_camera">Zapnuto / Blikání fotoaparátu</string>
-	<string name="flash_notifications_summary_on_camera_and_screen">Zapnuto / Blikání fotoaparátu a displeje</string>
-	<string name="flash_notifications_summary_on_screen">Zapnuto / Blikání displeje</string>
+	<string name="flash_notifications_summary_on_camera_and_screen">Zapnuto / Blikání fotoaparátu a obrazovky</string>
+	<string name="flash_notifications_summary_on_screen">Zapnuto / Blikání obrazovky</string>
 	<string name="flash_notifications_title">Světelná oznámení</string>
 </resources>

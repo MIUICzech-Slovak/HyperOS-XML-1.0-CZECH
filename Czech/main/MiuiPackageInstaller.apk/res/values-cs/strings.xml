@@ -1129,4 +1129,19 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
       <string name="bundle_app_sure_no_market_tip">Klepnutím sem pokračujte v instalaci \"%1$s\"</string>
       <string name="bundle_app_sure_title">Tato aplikace nemusí být \"%1$s\"</string>
       <string name="bundle_app_tip_test">"Na základě kontroly a zpětné vazby od uživatelů jsme zjistili, že tato aplikace spojuje nebo si vynucuje instalaci jiných aplikací. \"%1$s\" nemusí být aplikace, kterou hledáte." </string>
+	  <string name="actionbar_button_up_description">Zpět</string>
+      <string name="aleady_this_install">Povolená jednorázová instalace</string>
+      <string name="aleady_understand_the_app_is_hight_risk">uvědomte si, že tato aplikace může představovat bezpečnostní rizika.</string>
+      <string name="allow_current_install">Povolit jednou</string>
+      <string name="allowed_this_time">Povolit jednou</string>
+	  <string name="app_installing_not_allow_1">" %1$s jsou zakázány pro instalaci aplikací. "</string>
+	  <string name="auth_type_face">Obličej</string>
+      <string name="auth_type_finger">Otisk prstu</string>
+      <string name="auth_type_screen_lock">Zámek obrazovky</string>
+      <string name="auth_type_security_verify">Ověření identity</string>
+      <string name="authorize_this_once_install">povolit nyní</string>
+      <string name="authorize_to_install">povolit</string>
+      <string name="background_install_task_create">Instalace \"%1$s\"</string>
+      <string name="background_install_task_create_failed">"Nelze nainstalovat"</string>
+      <string name="background_install_task_create_failed_already_new">"Nelze nainstalovat. Používáte nejnovější verzi."</string>
 </resources>
