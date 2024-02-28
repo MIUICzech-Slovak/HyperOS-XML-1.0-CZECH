@@ -44,12 +44,12 @@
     <string name="apply_font_btn_exclude">Neměnit písmo</string>
     <string name="apply_font_btn_reboot">Restartovat</string>
     <string name="apply_font_tip">Téma obsahuje nové písmo. Pro aplikování je nutné restartovat telefon.</string>
-    <string name="apply_not_support_aod">"Ambientního displeje není na tomto zařízení podporován"</string>
+    <string name="apply_not_support_aod">"Always On Displeje není na tomto zařízení podporován"</string>
     <string name="apply_not_support_in_second_space">"Tuto položku nelze použít ve druhém prostoru"</string>
-    <string name="apply_not_support_maml_aod">"Na tomto zařízení nelze kombinovat témata Ambientního displeje"</string>
+    <string name="apply_not_support_maml_aod">"Na tomto zařízení nelze kombinovat témata Always On Displeje"</string>
     <string name="apply_succeed">Použito</string>
-    <string name="apply_success_not_enable_aod">Nejprve povolte Always-on displej</string>
-    <string name="apply_success_not_support_aod">"Always On displej nelze na tomto zařízení zkombinovat s tématy. Ostatní součásti tohoto tématu byly úspěšně použity."</string>
+    <string name="apply_success_not_enable_aod">Nejprve povolte Always On Displej</string>
+    <string name="apply_success_not_support_aod">"Always On Displej nelze na tomto zařízení zkombinovat s tématy. Ostatní součásti tohoto tématu byly úspěšně použity."</string>
     <string name="apply_theme_with_ringtones">Použít téma se zvoněním</string>
     <string name="apply_warning_get_device_dialog_message">Chcete-li používat stažený obsah, nejprve povolte této funkci přístup k ID vašeho zařízení. Toto povolení můžete udělit v části Nastavení &gt; Soukromí.</string>
     <string name="apply_warning_tip_get_device_status">Nejprve povolte této aplikaci přístup k ID zařízení v Profil &gt; Nastavení.</string>
@@ -125,7 +125,7 @@
     <string name="component_title_wallpaper">Tapeta</string>
     <string name="component_title_widget_suit">Widgety</string>
     <string name="concentration_old_period">Více</string>
-    <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Always On displej pro použití tématu.</string>
+    <string name="configure_success_not_enable_aod">Nastaveno. Zapněte Always On Displej pro použití tématu.</string>
     <string name="copy">Kopírovat</string>
     <string name="count_down_tip">zůstává %ds</string>
     <string name="create_home_icon">Zkratka na ploše</string>
@@ -164,7 +164,7 @@
     <string name="de_mix_mode_lockscreen">Zámek</string>
     <string name="de_mix_mode_lockscreen_desc">Tapeta a hodiny</string>
     <string name="de_mix_mode_superwallpaper">Super tapeta</string>
-    <string name="de_mix_mode_superwallpaper_with_aod_desc">Always On displej, uzamčená obrazovka a plocha</string>
+    <string name="de_mix_mode_superwallpaper_with_aod_desc">Always On Displej, uzamčená obrazovka a plocha</string>
     <string name="de_mix_mode_superwallpaper_without_aod_desc">Uzamčená obrazovka a plochu</string>
     <string name="de_more_info">Více</string>
     <string name="de_more_resource">Potažením zobrazíte více</string>
@@ -231,7 +231,7 @@
     <string name="dynamic_large_icon_not_support_current_type">"%s není pro tuto dynamickou ikonu podporováno"</string>
     <string name="dynamic_video_wallpaper">24H tapeta</string>
     <string name="enable_all_free_mode">Jen zdarma</string>
-    <string name="enable_aod_list">Zapněte Always On displej</string>
+    <string name="enable_aod_list">Zapněte Always On Displej</string>
     <string name="enable_transparent_wallpaper">Použít průhledné pozadí</string>
     <string name="enabling_all_free_mode">Načítání...</string>
     <string name="error_icon_content_description">Chyba</string>
@@ -606,7 +606,7 @@ dd.MM"</string>
     <string name="password_toggle_content_description">Zobrazit heslo</string>
     <string name="personalize">Přizpůsobení</string>
     <string name="personalize_alarm_ringtone_title">Budíky</string>
-    <string name="personalize_aod_title">AOD</string>
+    <string name="personalize_aod_title">Always On Displej</string>
     <string name="personalize_call_ringtone_title">Zvonění</string>
     <string name="personalize_charge_style_title">Nabíjení</string>
     <string name="personalize_default_font">Písmo</string>
@@ -1087,9 +1087,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="support_theme_store_title">Podpořte naše výtvarníky</string>
     <string name="swipe_find_more">Přejetím prstem doleva zobrazíte více</string>
     <string name="switch_orientation_desc">Orientace obrazovky</string>
-    <string name="system_aod_dialog_message">Nejprve povolte Always-on displej.</string>
+    <string name="system_aod_dialog_message">Nejprve povolte Always On Displej.</string>
     <string name="system_aod_dialog_positive_button">Nastavení</string>
-    <string name="system_aod_dialog_title">Always-on displej je vypnutý</string>
+    <string name="system_aod_dialog_title">Always On Displej je vypnutý</string>
     <string name="system_cta_agree_desc">Povolte této aplikaci připojení k internetu a udělte výše uvedená oprávnění.</string>
     <string name="system_cta_all_purpose">Vítejte v Tématech! Pomocí této aplikace můžete spravovat témata, tapety, vyzváněcí tóny a písma. </string>
     <string name="system_cta_main_purpose">Spravujte a používejte online a offline témata, tapety, vyzváněcí tóny, písma a video tapety</string>

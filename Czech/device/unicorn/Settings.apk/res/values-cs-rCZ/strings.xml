@@ -38,7 +38,7 @@
     <string name="gesture_silence_title">Gesto ke ztišení upozornění</string>
     <string name="gesture_skip_title">Přeskočit gesto</string>
     <string name="header_category_system">Systém</string>
-    <string name="keywords_ambient_display_screen">Ambientní displej, vzhled obrazovky uzamčení</string>
+    <string name="keywords_ambient_display_screen">Always On Displej, vzhled obrazovky uzamčení</string>
     <string name="keywords_auto_rotate">fotoaparát, kamera, smart, chytré, automatické otáčení, otočení, překlopení, rotace, na výšku, na šířku, orientace, vertikální, horizontální</string>
     <string name="keywords_color_mode">jasné, RGB, sRGB, barva, přirozené, standardní</string>
     <string name="keywords_display">displej, dotyková obrazovka</string>
@@ -637,7 +637,7 @@ Pokud přístup zrušíte, bude vás aplikace muset požádat o povolení ke sh
     <string name="ambient_camera_battery_saver_off">Vypnutí spořiče baterie</string>
     <string name="ambient_camera_summary_battery_saver_on">Dočasně deaktivováno spořičem baterie</string>
     <string name="ambient_display_pickup_summary">Zvednutím telefonu si zobrazíte čas, oznámení a další informace.</string>
-    <string name="ambient_display_screen_title">Ambientní displej</string>
+    <string name="ambient_display_screen_title">Zapnout Always On Displej</string>
     <string name="ambient_display_summary">Chcete-li zobrazit čas, oznámení a další informace, dvakrát klepněte na obrazovku.</string>
     <string name="ambient_display_tap_screen_summary">Klepnutím na obrazovku si zobrazíte čas, oznámení a další informace.</string>
     <string name="ambient_display_wake_screen_footer"><annotation link="link">Předvolby</annotation></string>

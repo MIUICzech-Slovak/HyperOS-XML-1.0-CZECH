@@ -74,7 +74,7 @@
     <string name="apply_to_screenlock">Nastavit jako uzamčenou obrazovku</string>
     <string name="apply_to_wallpaper">Nastavit jako domovskou obrazovku</string>
     <string name="apply_warning_content">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce. Použít nyní?</string>
-    <string name="apply_warning_content_with_aod">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce a Always On displej se může obnovit na výchozí hodnotu. Použít nyní?</string>
+    <string name="apply_warning_content_with_aod">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce a Always On Displej se může obnovit na výchozí hodnotu. Použít nyní?</string>
     <string name="apply_warning_content_with_maml">Používáte motiv třetí strany. Pokud změníte tapetu, hodiny na uzamčené obrazovce se mohou obnovit na výchozí. Použít nyní?</string>
     <string name="apply_warning_title">Použít tapetu</string>
     <string name="article_item_hot">Viz %s+ populárních článků</string>

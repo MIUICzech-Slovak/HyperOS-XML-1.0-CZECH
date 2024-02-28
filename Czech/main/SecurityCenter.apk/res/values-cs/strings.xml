@@ -3475,7 +3475,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="positive_confirm">Ok</string>
     <string name="power_20s_enter_mode">Režim %2$s za %1$d sekund</string>
     <string name="power_20s_shutdown">Zařízení se vypne za %d sekund</string>
-    <string name="power_ambient_display">Always On displej</string>
+    <string name="power_ambient_display">Always On Displej</string>
     <string name="power_analysis_consume_title">Využití baterie</string>
     <string name="power_analysis_suggestion_need_optimize">Zjištěn problém s využitím baterie.</string>
     <string name="power_autorun_apps_empty">Žádné aplikace</string>
@@ -3677,7 +3677,7 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="power_optimize_darkmode_summary">Tmavý režim spotřebuje méně energie</string>
     <string name="power_optimize_disable_5g">Zakázat 5G připojení</string>
     <string name="power_optimize_disable_5g_summary">5G připojení spotřebuje více energie</string>
-    <string name="power_optimize_disable_aod">Vypnout Always-on displej</string>
+    <string name="power_optimize_disable_aod">Vypnout Always On Displej</string>
     <string name="power_optimize_disable_app_autostart">Zabraňte auto. spouštění apl.</string>
     <string name="power_optimize_disable_gps">Vypnout GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Vypnout GPS</string>
@@ -3708,8 +3708,8 @@ Vaše zařízení je nyní %s rychlejší."</string>
     <string name="power_save_mode_auto_exit_summary">Vypnout, když má baterie 60% - 100%</string>
     <string name="power_save_mode_auto_exit_summary_new">Vypnout pokud je bateria na %s nebo plně nabitá</string>
     <string name="power_save_mode_auto_exit_title">Vypnout při nabité baterii</string>
-    <string name="power_save_mode_close_aod_display_summary">Vypnout Always-on displej pokud je aktivní Šetření baterie</string>
-    <string name="power_save_mode_close_aod_display_title">Vypnout Always-on displej</string>
+    <string name="power_save_mode_close_aod_display_summary">Vypnout Always On Displej pokud je aktivní Šetření baterie</string>
+    <string name="power_save_mode_close_aod_display_title">Vypnout Always On Displej</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funguje když je povolené šetření baterie</string>
     <string name="power_save_mode_close_notification_screenon_title">Nerozsvěcovat displej upozorněními</string>
     <string name="power_save_mode_close_warn_text">Spořič baterie omezuje procesy na pozadí a synchronizaci. Pokud má být použit při nabité baterii, některé funkce jako chaty, e-maily, facebook nemusí fungovat správně. Chcete zapnout spořič baterie, když je zařízení plně nabito?</string>
@@ -5189,7 +5189,7 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
     <string name="superpower_savemode_description_title">Ultra šetřič baterie aktivuje tato omezení:</string>
     <string name="superpower_savemode_limit1">tmavé téma</string>
     <string name="superpower_savemode_limit2">Omezit aktivity na pozadí</string>
-    <string name="superpower_savemode_limit3">Omezení náročných aktivit (synchr., GPS, vibrace, Always On displej, atd.)</string>
+    <string name="superpower_savemode_limit3">Omezení náročných aktivit (synchr., GPS, vibrace, Always On Displej, atd.)</string>
     <string name="superpower_savemode_limit4">Povolit vybrané aplikace aby fungovaly normálně</string>
     <string name="superpower_settings">Ultra šetřící režim</string>
     <string name="superpower_settins_autoenter_summary">Povolit Ultra šetřící režim automaticky když je baterie pod 10%</string>
@@ -5286,7 +5286,7 @@ Respektujeme a chráníme vaše soukromí."</string>
     <string name="task_summary_close_nfc">Vypnout NFC</string>
     <string name="task_summary_close_rotate_lock">Vypnout Zámek otáčení</string>
     <string name="task_summary_close_save_battery">Vypnout šetřič baterie</string>
-    <string name="task_summary_close_screen_display">Vypnout Always On displej</string>
+    <string name="task_summary_close_screen_display">Vypnout Always On Displej</string>
     <string name="task_summary_close_system_touch">Vypnout hmatovou odezvu</string>
     <string name="task_summary_close_wlan">Vypnout Wi-Fi</string>
     <string name="task_summary_close_zen_mode">Vypnout režim Nerušit</string>
@@ -5307,7 +5307,7 @@ Respektujeme a chráníme vaše soukromí."</string>
     <string name="task_summary_open_nfc">Zapnout NFC</string>
     <string name="task_summary_open_rotate_lock">Zapnout Zámek otáčení</string>
     <string name="task_summary_open_save_battery">Zapnout Šetrení baterie</string>
-    <string name="task_summary_open_screen_display">Zapnout Always On displej</string>
+    <string name="task_summary_open_screen_display">Zapnout Always On Displej</string>
     <string name="task_summary_open_system_touch">Zapnout hmatovou odezvu</string>
     <string name="task_summary_open_wlan">Zapnout Wi-Fi</string>
     <string name="task_summary_open_zen_mode">Zapnout režim Nerušit</string>
@@ -5495,7 +5495,7 @@ Respektujeme a chráníme vaše soukromí."</string>
     <string name="title_result_rotate_off">Orientace obrazovky</string>
     <string name="title_result_save_battery">Šetrič baterie</string>
     <string name="title_result_screen_brightness">Jas obrazovky</string>
-    <string name="title_result_screen_display">Always On displej</string>
+    <string name="title_result_screen_display">Always On Displej</string>
     <string name="title_result_start_activity">Spustit aplikaci</string>
     <string name="title_result_switch">Vypnout</string>
     <string name="title_result_touch">Hmatová odezva</string>

@@ -9,8 +9,8 @@
     <string name="align_type">Zarovnat</string>
     <string name="always_style">Vždy</string>
     <string name="always_style_symmary">Spotřebuje více energie</string>
-    <string name="ambient_display_screen_title">Always-on displej</string>
-    <string name="ambient_display_screen_title_sp">Always On displej</string>
+    <string name="ambient_display_screen_title">Always On Displej</string>
+    <string name="ambient_display_screen_title_sp">Always On Displej</string>
     <string name="animation_clock_panel">Vlny</string>
     <string name="aod_close_color_inversion">Tato funkce nemůže být kombinována s funkcí invertních barev.</string>
     <string name="aod_component">Zobrazené položky</string>
@@ -27,11 +27,11 @@ d. MMMM"</string>
     <string name="aod_mode_summary">Zobrazit čas, datum a SMS když je displej vypnutý.</string>
     <string name="aod_mode_time_summary">Naplánujte čas kdy se má vaše zařízení přepnout do ambientní režimu</string>
     <string name="aod_mode_time_title">Naplánovat čas</string>
-    <string name="aod_mode_title">Always On displej</string>
+    <string name="aod_mode_title">Always On Displej</string>
     <string name="aod_show_date_and_time">Datum a čas</string>
     <string name="aod_show_style_title">Zobrazit položky</string>
     <string name="aod_style">Téma</string>
-    <string name="aod_theme_store">Always-on displej témata</string>
+    <string name="aod_theme_store">Always On Displej témata</string>
     <string name="aod_to_close">Vypnout</string>
     <string name="apply">Použít</string>
     <string name="apply_succeed">Nastaveno</string>
@@ -202,7 +202,7 @@ d. MMMM"</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
-    <string name="scheduled_mode_dialog_msg">Položky budou zobrazeny na vašem Always-on displeji během tohoto období: %s.</string>
+    <string name="scheduled_mode_dialog_msg">Položky budou zobrazeny na vašem Always On Displeji během tohoto období: %s.</string>
     <string name="scheduled_mode_msg">Aktivní období: %s</string>
     <string name="scheduled_style">Plánovaně</string>
     <string name="scheduled_style_summary">Nastavit vlastní čas</string>
@@ -252,7 +252,7 @@ N e"</string>
     <string name="time_location">Pozice hodin</string>
     <string name="time_style">Styl</string>
     <string name="time_style_layout">Rozložení</string>
-    <string name="tip_to_open_aod_mode">Always-on displej je vypnutý. Chcete ho povolit?</string>
+    <string name="tip_to_open_aod_mode">Always On Displej je vypnutý. Chcete ho povolit?</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
     <string name="tuesday">Úterý</string>
@@ -281,7 +281,7 @@ N e"</string>
       <string name="UVI_level_2">Silné</string>
       <string name="UVI_level_3">Velmi silné</string>
       <string name="UVI_level_4">Závažné</string>
-      <string name="aod_app_name">Always-on displej a editor zamčené obrazovky</string>
+      <string name="aod_app_name">Always On Displej a editor zamčené obrazovky</string>
       <string name="aqi_format_desc">Index kvality ovzduší: %s</string>
       <string name="format_day_desc">Den v měsíci: %s</string>
       <string name="format_day_week_desc">Den v měsíci: %1$s, %2$s</string>
@@ -301,7 +301,7 @@ N e"</string>
       <string name="kg_apply">Použít</string>
       <string name="kg_apply_to_aod_alert_dialog_negative_text">Ne, děkuji</string>
       <string name="kg_apply_to_aod_alert_dialog_positive_text">Zapnout</string>
-      <string name="kg_apply_to_aod_alert_dialog_title">Chcete vždy zapnout i Always-on displej?</string>
+      <string name="kg_apply_to_aod_alert_dialog_title">Chcete vždy zapnout i Always On Displej?</string>
       <string name="kg_applying">Uplatňování…</string>
       <string name="kg_cancel">Ukončit</string>
       <string name="kg_capsule_button_text_finish">Hotovo</string>
