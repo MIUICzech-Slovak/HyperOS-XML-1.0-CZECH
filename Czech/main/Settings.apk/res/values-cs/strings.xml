@@ -8322,4 +8322,21 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	<string name="tare_off">Vypnuto</string>
 	<string name="tether_preference_summary_off">Vypnuto</string>
 	<string name="wifi_hotspot_switch_off_text">Vypnuto</string>
+	<string name="screen_pinning_dialog_message">"Připnuté aplikace umí:
+
+• Přístup k vašim osobním údajům
+(např. kontakty a e-maily)
+• Otevřít další aplikace
+
+Při sdílení tohoto zařízení s ostatními používejte tuto funkci opatrně."</string>
+	<string name="screen_pinning_guest_user_description">"Když je aplikace připnutá, může připnutá aplikace otevřít další aplikace a mohou být přístupné osobní údaje.
+
+Pokud chcete své zařízení s někým bezpečně sdílet, zkuste místo toho použít hosta.
+
+Použití připnutí aplikace: \u0009
+1. Zapněte připínání aplikací \u0009
+2. Otevřete Přehled \u0009
+3. Klepněte na ikonu aplikace v horní části obrazovky a poté klepněte na Připnout"</string>
+	<string name="screen_pinning_summary">Připnuté aplikace zůstanou ve složce Nedávné, dokud je neuvolníte</string>
+	<string name="screen_pinning_switch_on_text">Zapnuto</string>
 </resources>

@@ -430,4 +430,15 @@ a umístěte balón do modré oblasti"</string>
       <string name="satellite_state">Nehýbejte zařízením</string>
       <string name="satellite_state_connected">"Připojeno k satelitu. Nehýbejte zařízením."</string>
       <string name="satellite_state_connected_floating">Nehýbejte zařízením</string>
+	  <string name="call_progress_info_call_forwarding">Tento hovor byl přesměrován</string>
+      <string name="call_progress_info_call_rejected">Druhá osoba je nyní zaneprázdněna. Zavolejte prosím později.</string>
+      <string name="call_progress_info_call_waiting">Druhá osoba právě hovoří. Prosím vyčkejte…</string>
+      <string name="call_progress_info_no_answer_from_user">"Váš hovor nebyl přijat"</string>
+      <string name="call_progress_info_no_user_responding">"Číslo, které jste vytočili, není dočasně k dispozici"</string>
+      <string name="call_progress_info_nonuser_call_rejected">"Číslo, které jste vytočili, je momentálně mimo provoz"</string>
+      <string name="call_progress_info_remote_available">Druhá osoba bude upozorněna na váš hovor. Prosím vyčkejte…</string>
+      <string name="call_progress_info_subscriber_absent">"Číslo, které jste vytočili, není dostupné"</string>
+      <string name="call_progress_info_unallocated_number">"Číslo, které jste vytočili, neexistuje"</string>
+      <string name="call_progress_info_user_busy">Druhá osoba je nyní zaneprázdněna. Zavolejte prosím později.</string>
+      <string name="call_progress_info_user_call_rejected">Vaše číslo je momentálně mimo provoz</string>
 </resources>

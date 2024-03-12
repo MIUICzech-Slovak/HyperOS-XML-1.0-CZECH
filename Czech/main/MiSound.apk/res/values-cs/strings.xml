@@ -430,4 +430,5 @@
       <string name="ear_scan_redo_dialog_title">Skenovat znovu?</string>
       <string name="ear_scan_right_ear">Vpravo</string>
       <string name="ear_scan_scan_done">Hotovo</string>
+	  <string name="spatial_audio">Pohlcující zvuk</string>
 </resources>

@@ -3204,4 +3204,5 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
       <string name="ai_recreate_image_dialog_title">"Fotografie uživatele %s nebyla předána"</string>
       <string name="ai_select_photo_no_result_toast">"Na základě těchto fotografií nelze vytvořit obrázek umělé inteligence. Místo toho vyberte jiné fotografie."</string>
       <string name="burst_photo_preview_thumbnail_content_description">Fotka %d</string>
+	  <string name="media_type_cinematic">Filmový režim</string>
 </resources>
