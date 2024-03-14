@@ -1191,4 +1191,12 @@ Postupujte dle pokynů"</item>
          <item>Smart Home</item>
          <item>Žádný</item>
       </string-array>
+	  <string-array name="nfc_notification_mode_summaries">
+         <item>Platební, přístupové a karty chytré domácnosti</item>
+         <item>Párování Bluetooth, bezdrátové připojení a karty chytré domácnosti</item>
+      </string-array>
+      <string-array name="nfc_notification_mode_titles">
+         <item>Všechny karty</item>
+         <item>Karty rozpoznané systémem</item>
+      </string-array>
 </resources>

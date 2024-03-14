@@ -8339,4 +8339,9 @@ Použití připnutí aplikace: \u0009
 3. Klepněte na ikonu aplikace v horní části obrazovky a poté klepněte na Připnout"</string>
 	<string name="screen_pinning_summary">Připnuté aplikace zůstanou ve složce Nedávné, dokud je neuvolníte</string>
 	<string name="screen_pinning_switch_on_text">Zapnuto</string>
+	<string name="nfc_notification_mode_title">Připomenutí čtení NFC karet</string>
+	<string name="international_lyra_account_ap_summary">"Povolit tabletům a počítačům v okolí přihlášeným k vašemu účtu automaticky se zapínat a připojovat k hotspotu tohoto zařízení"</string>
+	<string name="international_lyra_account_ap_title">Synchronizace se sítí</string>
+	<string name="international_lyra_auto_connect_summary">"Je-li zařízení v okolí přihlášeno k vašemu účtu a potřebuje se připojit k internetu, zapne se a připojí k hotspotu tohoto zařízení automaticky"</string>
+	<string name="international_lyra_auto_connect_title">Automaticky se připojit k hotspotu</string>
 </resources>
