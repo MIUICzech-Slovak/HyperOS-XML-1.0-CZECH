@@ -21,6 +21,7 @@
     <string name="friday_shortest">Pá</string>
     <string name="galleryplus_video_circulate_quit">Klepnutím ukončíte</string>
     <string name="lv_local_folder">Složky</string>
+	<string name="lv_use_notch">Obraz přes fotoaparát</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
     <string name="miuix_appcompat_action_mode_select_all">Vše</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrat položky</string>

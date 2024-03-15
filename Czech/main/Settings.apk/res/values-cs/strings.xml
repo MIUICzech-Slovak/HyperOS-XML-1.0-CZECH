@@ -8344,4 +8344,7 @@ Použití připnutí aplikace: \u0009
 	<string name="international_lyra_account_ap_title">Synchronizace se sítí</string>
 	<string name="international_lyra_auto_connect_summary">"Je-li zařízení v okolí přihlášeno k vašemu účtu a potřebuje se připojit k internetu, zapne se a připojí k hotspotu tohoto zařízení automaticky"</string>
 	<string name="international_lyra_auto_connect_title">Automaticky se připojit k hotspotu</string>
+	<string name="bluetooth_active_battery_level">Aktivní, %1$s Baterie</string>
+     <string name="bluetooth_active_battery_level_untethered">Aktivní, L: %1$s, R: %2$s</string>
+     <string name="bluetooth_active_no_battery_level">Aktivní</string>
 </resources>
