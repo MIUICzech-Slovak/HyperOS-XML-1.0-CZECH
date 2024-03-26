@@ -3213,5 +3213,4 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
       <string name="ai_image_manager_empty_msg">"Fotografie použité k vytváření obrázků AI ve starších verzích této služby nelze zobrazit na jiném zařízení"</string>
       <string name="ai_image_manager_empty_msg_net">Tady nejsou žádné fotografie</string>
       <string name="ai_image_over_limit_title_update">"Nyní nelze aktualizovat obrázky AI"</string>
-      <string name="ai_input_name_hint">Zadejte jméno</string>
 </resources>
