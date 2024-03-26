@@ -2046,4 +2046,5 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
       <string name="volte_switch_globalization_prompt_title">Pozor</string>
 	  <string name="dial_settings_screen_title">Nastavení volání</string>
 	  <string name="other_settings_screen_title">Ostatní nastavení</string>
+	  <string name="fiveg_sa_switch_title">Použít 5G SA síť</string>
 </resources>

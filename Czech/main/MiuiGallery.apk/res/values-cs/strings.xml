@@ -3186,9 +3186,9 @@ Nejlepší záběry byly vybrány automaticky. Další fotografie můžete přid
 	  <string name="ai_continue_upload_photo">Pokračovat</string>
       <string name="ai_create_image_fail_by_illegal_photo">"Zdá se, že fotografie, které jste předali, porušují naše standardy komunity.
 Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
-      <string name="ai_create_image_fail_by_net">"Nepodařilo se vytvořit obraz AI. Naše servery jsou nyní příliš zaneprázdněné. Zkuste to znovu."</string>
+      <string name="ai_create_image_fail_by_net">"Nepodařilo se vytvořit obrázek AI. Naše servery jsou nyní příliš zaneprázdněné. Zkuste to znovu."</string>
       <string name="ai_cta_agree_btn">Povolit</string>
-      <string name="ai_cta_dialog_message">Povolte Galerii připojit se k internetu, abyste mohli vytvářet portréty umělé inteligence.</string>
+      <string name="ai_cta_dialog_message">Povolte Galerii připojit se k internetu, abyste mohli vytvářet AI portréty.</string>
       <string name="ai_cta_dialog_title">Jsou vyžadována povolení</string>
       <string name="ai_cta_refuse_btn">Ne, děkuji</string>
       <string name="ai_download_filter_photo_so_confirm_btn">Stáhnout</string>
@@ -3205,4 +3205,13 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
       <string name="ai_select_photo_no_result_toast">"Na základě těchto fotografií nelze vytvořit obrázek umělé inteligence. Místo toho vyberte jiné fotografie."</string>
       <string name="burst_photo_preview_thumbnail_content_description">Fotka %d</string>
 	  <string name="media_type_cinematic">Filmový režim</string>
+	  <string name="ai_creation_record_footer_tips">Můžete zobrazit pouze položky vytvořené na tomto zařízení. Po odhlášení ze svého účtu Xiaomi budou smazány.</string>
+      <string name="ai_free_creation_text_container_tips">"Náš generátor obrázků AI se neustále zlepšuje. Pokud nejste spokojeni s výsledky, můžete to zkusit znovu o něco později!"</string>
+      <string name="ai_image_creation_over_limit_title">„Nelze vytvořit více portrétů“</string>
+      <string name="ai_image_invalid">"Obrázek AI uživatele %s byl úspěšně smazán"</string>
+      <string name="ai_image_invalid_in_update">"Probíhá aktualizace %s obrazku AI. Počkejte, dokud nebude aktualizován, a zkuste to znovu."</string>
+      <string name="ai_image_manager_empty_msg">"Fotografie použité k vytváření obrázků AI ve starších verzích této služby nelze zobrazit na jiném zařízení"</string>
+      <string name="ai_image_manager_empty_msg_net">Tady nejsou žádné fotografie</string>
+      <string name="ai_image_over_limit_title_update">"Nyní nelze aktualizovat obrázky AI"</string>
+      <string name="ai_input_name_hint">Zadejte jméno</string>
 </resources>

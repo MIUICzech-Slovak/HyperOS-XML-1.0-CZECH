@@ -8345,6 +8345,12 @@ Použití připnutí aplikace: \u0009
 	<string name="international_lyra_auto_connect_summary">"Je-li zařízení v okolí přihlášeno k vašemu účtu a potřebuje se připojit k internetu, zapne se a připojí k hotspotu tohoto zařízení automaticky"</string>
 	<string name="international_lyra_auto_connect_title">Automaticky se připojit k hotspotu</string>
 	<string name="bluetooth_active_battery_level">Aktivní, %1$s Baterie</string>
-     <string name="bluetooth_active_battery_level_untethered">Aktivní, L: %1$s, R: %2$s</string>
-     <string name="bluetooth_active_no_battery_level">Aktivní</string>
+	<string name="bluetooth_active_battery_level_untethered">Aktivní, L: %1$s, R: %2$s</string>
+	<string name="bluetooth_active_no_battery_level">Aktivní</string>
+	<string name="accessibility_hearing_device_control">Ovládací prvky naslouchacího zařízení</string>
+	<string name="lockscreen_privacy_controls_setting_toggle">Zobrazit ovládací prvky zařízení</string>
+	<string name="lockscreen_trivial_controls_setting_toggle">Použití ovládacích prvků zařízení</string>
+	<string name="lockscreen_trivial_disabled_controls_summary">Pro použití nejprve zapněte \"Zobrazit ovládací prvky zařízení\"</string>
+	<string name="miui_device_control_description">Zobrazit aplikace, které podporují ovládání zařízení, abyste mohli ovládat kompatibilní zařízení pro chytrou domácnost</string>
+	<string name="title_device_control">Ovládací prvky zařízení</string>
 </resources>
