@@ -646,7 +646,7 @@ Než budete pokračovat, přečtěte si a odsouhlaste novou verzi %3$s."</string
     <string name="saturday_shortest">So</string>
     <string name="search_menu_title">Hledat</string>
     <string name="section_description">Popis</string>
-    <string name="section_screenshot">Snímek obrazovky</string>
+    <string name="section_screenshot">Screenshot</string>
     <string name="send">Odeslat</string>
     <string name="send_diagnosis_log">Odeslat záznamy</string>
     <string name="send_email_activate_message">Ověřovací e-mail úspěšně odeslán</string>

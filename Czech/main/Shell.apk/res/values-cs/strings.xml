@@ -16,9 +16,9 @@
     <string name="bugreport_info_title">Název chyby</string>
     <string name="bugreport_intent_chooser_title">Sdílet zprávu o chybě</string>
     <string name="bugreport_notification_channel">Hlášení chyb</string>
-    <string name="bugreport_screenshot_action">Snímek obrazovky</string>
-    <string name="bugreport_screenshot_failed">Nepodařilo se vytvořit snímek obrazovky.</string>
-    <string name="bugreport_screenshot_taken">Snímek obrazovky byl úspešně vytvořen.</string>
+    <string name="bugreport_screenshot_action">Screenshot</string>
+    <string name="bugreport_screenshot_failed">Nepodařilo se vytvořit screenshot.</string>
+    <string name="bugreport_screenshot_taken">Screenshot byl úspešně vytvořen.</string>
     <string name="bugreport_storage_title">Hlášení chyb</string>
     <string name="bugreport_unnamed">Bez názvu</string>
     <string name="bugreport_unreadable_text">Soubor hlášení chyby se nepodařilo přečíst</string>

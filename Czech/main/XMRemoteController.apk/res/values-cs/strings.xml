@@ -570,12 +570,12 @@ přímo z vaší zamykací obrazovky"</string>
     <string name="scaning">Vyhledávám…</string>
     <string name="scanning_milink">Vyhledávání zařízení…</string>
     <string name="scene_default">Výchozí</string>
-    <string name="screenshot">Snímek obrazovky</string>
-    <string name="screenshot_failed">Snímek obrazovky se nezdařil</string>
-    <string name="screenshot_failed_and_check_connection">Snímek obrazovky se nezdařil, zkontrolujte připojená zařízení</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="screenshot_failed">Screenshot se nezdařil</string>
+    <string name="screenshot_failed_and_check_connection">Screenshot se nezdařil, zkontrolujte připojená zařízení</string>
     <string name="screenshot_not_support_adb_devices">Toto zařízení nepodporuje snímky obrazovky</string>
     <string name="screenshot_not_support_video">Snímání obrazovky, není momentálně podporováno</string>
-    <string name="screenshoting">Snímek obrazovky…</string>
+    <string name="screenshoting">Screenshot…</string>
     <string name="search">Vyhledat</string>
     <string name="search_failed">Hledání se nezdrařilo</string>
     <string name="search_history">Historie vyhledávání</string>

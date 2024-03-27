@@ -649,7 +649,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
     <string name="assist_access_context_summary">Povolte pomocné aplikaci přístup k obsahu obrazovky jako k textu</string>
     <string name="assist_access_context_title">Použít text z obrazovky</string>
     <string name="assist_access_screenshot_summary">Povolte pomocné aplikaci přístup ke snímku obrazovky</string>
-    <string name="assist_access_screenshot_title">Použít snímek obrazovky</string>
+    <string name="assist_access_screenshot_title">Použít screenshot</string>
     <string name="assist_and_voice_input_title">Asistence a hlasový vstup</string>
     <string name="assist_footer">Pomocné aplikace vám pomáhají na základě informací ze zobrazené obrazovky. Některé aplikace podpprují spouštět i služby hlasového vstupu, aby vám poskytly integrovanou pomoc.</string>
     <string name="assistance_category_title">Ulehčení přístupu</string>

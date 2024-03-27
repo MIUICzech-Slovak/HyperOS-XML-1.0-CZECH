@@ -268,7 +268,7 @@
     <string name="second_position">3#</string>
     <string name="section_description">Popis</string>
     <string name="section_err_type">Typ chyby</string>
-    <string name="section_screenshot">Snímek obrazovky</string>
+    <string name="section_screenshot">Screenshot</string>
     <string name="select_system_app_tag">Vyberte štítky</string>
     <string name="submit_dialog_cancel">Zrušit</string>
     <string name="submit_dialog_confirm">Odeslat</string>

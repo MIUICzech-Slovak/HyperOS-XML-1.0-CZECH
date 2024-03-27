@@ -239,7 +239,7 @@ Zavřete tuto stránku a zkuste to znova."</string>
     <string name="pc_cooperate_guide_keyboard">Klávesnice</string>
     <string name="pc_cooperate_guide_quit">Ukončit</string>
     <string name="pc_cooperate_guide_save">Uložit (Ctrl+S)</string>
-    <string name="pc_cooperate_guide_screenshot">Snímek obrazovky</string>
+    <string name="pc_cooperate_guide_screenshot">Screenshot</string>
     <string name="pc_cooperate_guide_task">Zobrazit úkoly</string>
     <string name="pc_cooperate_guide_undo">Vrátit zpět (Ctrl+Z)</string>
     <string name="pcmode_not_support_multi_window">PC režim nepodporuje zobrazení více oken.</string>

@@ -1189,10 +1189,10 @@ Již staženo"</string>
     <string name="feedback_contact_tips">Zadejte e-mailovou adresu, abychom vás mohli kontaktovat, aby jste se dověděli více o tomto problému.</string>
     <string name="feedback_content_max_length">"Zpětná vazba nesmí přesáhnout 1000 znaků"</string>
     <string name="feedback_error">"Nelze poslat zpětnou vazbu"</string>
-    <string name="feedback_image_upload_error">"Nelze odeslat snímek obrazovky"</string>
+    <string name="feedback_image_upload_error">"Nelze odeslat screenshot"</string>
     <string name="feedback_input_contact">Zadejte kontaktní informace</string>
     <string name="feedback_input_content">Napište svůj názor</string>
-    <string name="feedback_shotscreen">Snímek obrazovky (Povinné)</string>
+    <string name="feedback_shotscreen">Screenshot (Povinné)</string>
     <string name="feedback_succ">Zpětná vazba byla odeslána</string>
     <string name="feedbacking">Odesílání zpětné vazby…</string>
     <string name="file_action_none_selected">"Nevybrali jste žádné soubory"</string>

@@ -168,7 +168,7 @@ přetáhněte kartu do jiného zařízení"</string>
     <string name="circulate_card_sticker_remote_control_center">OK</string>
     <string name="circulate_card_sticker_remote_control_coordination_input">Zadávání textu</string>
     <string name="circulate_card_sticker_remote_control_coordination_input_subtitle">Na tomto zařízení zadejte text, který bude použit k vyhledávání ve vaší TV</string>
-    <string name="circulate_card_sticker_remote_control_cut">Snímek obrazovky</string>
+    <string name="circulate_card_sticker_remote_control_cut">Screenshot</string>
     <string name="circulate_card_sticker_remote_control_home">Země</string>
     <string name="circulate_card_sticker_remote_control_keyboard">Klávesnice</string>
     <string name="circulate_card_sticker_remote_control_left">Zleva</string>
@@ -331,7 +331,7 @@ zařízení najít?"</string>
     <string name="circulate_tv_power_alter_text">Nastavili jste vypnutí televize nebo vypnutí obrazu. Po vypnutí zde nebudou televize ani její ovladače zobrazeny.</string>
     <string name="circulate_tv_power_alter_title">Upozornění</string>
     <string name="circulate_video_capture_fail">Vytvoření snímku obrazovky se nezdařilo</string>
-    <string name="circulate_video_capture_success">Snímek obrazovky byl vytvořen</string>
+    <string name="circulate_video_capture_success">Screenshot byl vytvořen</string>
     <string name="circulate_video_retry_later">Pokus o ovládání televize…</string>
     <string name="clear_text_end_icon_content_description">Vymazat text</string>
     <string name="clearable_edittext_clear_description">Smazat</string>

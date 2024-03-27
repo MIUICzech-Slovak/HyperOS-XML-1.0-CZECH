@@ -300,7 +300,7 @@
     <string name="package_delete_confirm_step_1">Vymazat %s?</string>
     <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu celého systému.</string>
     <string name="package_delete_confirm_step_3">Po vymazaní nebudete moci tuto aplikaci znovu otevřít.</string>
-    <string name="partial_screen_shot">Částečný snímek obrazovky</string>
+    <string name="partial_screen_shot">Částečný screenshot</string>
     <string name="passionflower">Vášeň</string>
     <string name="paste">Vložit</string>
     <string name="pc_device_model_name">Počítač</string>
