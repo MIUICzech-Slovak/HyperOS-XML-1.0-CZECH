@@ -329,4 +329,17 @@
     <string name="writer_wordcounts_tips_selection">Výběr: %d</string>
     <string name="writer_words">Slova</string>
     <string name="writer_words_exceeds_not_operated">Operaci nelze dokončit. Bylo dosaženo maximálního počtu slov.</string>
+	<string name="public_2pic">Exportovat do obrázku</string>
+	<string name="public_display_privacy_policy">Zobrazit zásady ochrany osobních údajů</string>
+	<string name="public_pdf2word">PDF do Wordu</string>
+	<string name="public_pdfFillForm">Vyplnit formulář</string>
+	<string name="public_privacy_policy">Zásady ochrany osobních údajů</string>
+	<string name="public_privacy_update">&lt;Data>Abyste plně porozuměli vašim právům jako uživatele a také způsobům, jakými vaše data používáme, přečtěte si a odsouhlaste novou verzi našich &lt;a href=\"%s \">Zásady ochrany osobních údajů&lt;/a>, než budete pokračovat.&lt;/Data></string>
+	<string name="public_revoke">Odebrat %s</string>
+	<string name="public_revoke_privacy_content">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Mi Doc Viewer (Powered by WPS). Přestaneme shromažďovat vaše osobní údaje a již shromážděné a uchované osobní údaje Pokud nebude požadováno jinak, budou během konkrétní doby smazány v souladu s platnými zákony a předpisy. Vaše odvolání souhlasu bude považováno za odmítnutí přijmout služby poskytované Mi Doc Viewer (Powered by WPS)."</string>
+	<string name="public_revoke_privacy_desc">Odvoláte svůj souhlas se Zásadami ochrany osobních údajů aplikace Mi Doc Viewer (Powered by WPS)</string>
+	<string name="public_revoke_privacy_title">Odvolání souhlasu</string>
+	<string name="public_share">Sdílet</string>
+	<string name="public_wps_name">WPS</string>
+	<string name="public_writer2pic">Exportovat do souboru pouze pro obrázek</string>
 </resources>
