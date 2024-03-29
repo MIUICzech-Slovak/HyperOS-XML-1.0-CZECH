@@ -3244,4 +3244,12 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
       <string name="google_setting_turn_off_backup">Vypnout zálohování a synchronizaci</string>
       <string name="sync_off_global_title">Uchovávejte své fotografie a videa v bezpečí</string>
       <string name="sync_global_metadata_title">Synchronizace dat s cloudem…</string>
+	  <string name="global_trash_vip_info_text_login_medium_or_low_level">"Smazané položky, které byly zálohovány, mohou zůstat v cloudu až %1$s dní. Položky, které nebyly zálohovány, budou uchovány až %2$s dní."</string>
+      <string name="search_edit_hint">Vyhledat soubory nebo alba</string>
+      <string name="search_no_smart_sort_tag">Identifikujte objekty na fotografiích, abyste získali více výsledků vyhledávání</string>
+      <string name="search_no_sync_tag">Zapnutím synchronizace získáte více výsledků vyhledávání</string>
+      <string name="search_title_daily">Čas</string>
+      <string name="search_wait_msg">Vyhledávám…</string>
+      <string name="trash_high_occupied_tip_banner">Nedávno odstraněné položky zabírají %1$s. Pro uvolnění místa je smažte.</string>
+      <string name="trash_high_occupied_tip_toast">Nedávno odstraněné položky zabírají %1$s. Pro uvolnění místa je smažte.</string>
 </resources>
