@@ -8353,4 +8353,8 @@ Použití připnutí aplikace: \u0009
 	<string name="lockscreen_trivial_disabled_controls_summary">Pro použití nejprve zapněte \"Zobrazit ovládací prvky zařízení\"</string>
 	<string name="miui_device_control_description">Zobrazit aplikace, které podporují ovládání zařízení, abyste mohli ovládat kompatibilní zařízení pro chytrou domácnost</string>
 	<string name="title_device_control">Ovládací prvky zařízení</string>
+	<string name="loading_eid_error_message">"Nepodařilo se získat informace EID. Počkejte minutu nebo dvě a zkuste to znovu."</string>
+	<string name="loading_eid_error_ok">Rozumím</string>
+	<string name="loading_eid_error_title">"Nelze načíst"</string>
+	<string name="loading_eid_tip">Získávání informací o EID…</string>
 </resources>

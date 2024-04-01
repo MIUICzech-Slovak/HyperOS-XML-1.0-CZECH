@@ -6502,4 +6502,14 @@ Vaše zařízení se může zahřívat a spotřebovat více energie."</string>
       <string name="summary_virus_scan_model">Co nejdříve odstraňte tato bezpečnostní rizika</string>
       <string name="vb_mv_style_close_toast">Styl je vypnutý</string>
       <string name="vb_vison_dynamic_enhance_close_toast">Vylepšené animace jsou vypnuty</string>
+	  <string name="pc_emergency_call">Nouzový stav</string>
+      <string name="pc_fast_charge_switch_summary_new">Připomenout zvýšit rychlost nabíjení, když je připojena vhodná nabíječka a baterie klesne pod nastavenou úroveň</string>
+      <string name="pc_high_temp_protection_noti_bt_text">Rozumím</string>
+      <string name="pc_high_temp_protection_noti_summary">"Nyní nelze používat hotspoty, mobilní data a služby určování polohy"</string>
+      <string name="pc_high_temp_protection_noti_tile">Vaše zařízení je přehřáté</string>
+      <string name="pc_remind_close_cover_to_charge_summary">Před nabíjením zařízení složte pro rychlejší a stabilnější nabíjení.</string>
+      <string name="pc_remind_close_cover_to_charge_title">Nabijení po složení</string>
+      <string name="pc_temperature_too_high">Zařízení je přehřáté</string>
+      <string name="pc_wait_device_cools_down">Abyste tuto funkci mohli používat, počkejte, až zařízení vychladne.</string>
+      <string name="pc_xiaoai_create_auto_task">Nový úkol od Mi AI</string>
 </resources>

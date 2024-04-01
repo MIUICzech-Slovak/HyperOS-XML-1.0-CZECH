@@ -3252,4 +3252,8 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
       <string name="search_wait_msg">Vyhledávám…</string>
       <string name="trash_high_occupied_tip_banner">Nedávno odstraněné položky zabírají %1$s. Pro uvolnění místa je smažte.</string>
       <string name="trash_high_occupied_tip_toast">Nedávno odstraněné položky zabírají %1$s. Pro uvolnění místa je smažte.</string>
+	  <string name="abc_capital_off">VYP</string>
+     <string name="abc_capital_on">ZAP</string>
+	 <string name="abc_capital_off">VYP</string>
+     <string name="abc_capital_on">ZAP</string>
 </resources>
