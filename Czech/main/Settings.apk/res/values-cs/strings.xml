@@ -8136,7 +8136,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="enable_angle_as_system_driver_summary">Povolit ANGLE jako systémový ovladač OpenGL ES</string>
       <string name="face_password_unlock_new">Údaje o tváři a zámek obrazovky</string>
       <string name="financed_device_info">Informace o financovaném zařízení</string>
-      <string name="fingerprint_face_password_unlock_new">Odtisky prstů, údaje o tváři a zámek obrazovky</string>
+      <string name="fingerprint_face_password_unlock_new">Otisky prstů, údaje o tváři a zámek obrazovky</string>
       <string name="focus_summary">Použijte vlastní formát upozornění ke zvýraznění důležitých informací</string>
       <string name="focus_title">Zvýraznění upozornění</string>
       <string name="gesture_supported_title">Dostupná gesta</string>
@@ -8236,7 +8236,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="valid_net_result_fail">"Nepodařilo se získat informace. Počkejte minutu nebo dvě a zkuste to znovu."</string>
       <string name="valid_net_result_title">Výsledek</string>
       <string name="view_face_privacy_policy"><Data>Přečtěte si &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Údaje o tváři &amp;#038; a vyjádřete souhlas s nimi lock\" Prohlášení o ochraně osobních údajů&lt;/a>, než budete pokračovat.</Data></string>
-      <string name="view_fingerprint_privacy_policy"><Data>Přečtěte si &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Odtisky prstů &amp;#038; zámek obrazovky a vyjádřete s nimi souhlas \" Prohlášení o ochraně osobních údajů&lt;/a> předtím, než budete pokračovat.</Data></string>
+      <string name="view_fingerprint_privacy_policy"><Data>Přečtěte si &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Otisky prstů &amp;#038; zámek obrazovky a vyjádřete s nimi souhlas \" Prohlášení o ochraně osobních údajů&lt;/a> předtím, než budete pokračovat.</Data></string>
       <string name="wifi_validation">Ověřování sítě…</string>
 	  <string name="app_data_sharing_updates_summary">Zkontrolujte aplikace, které změnily způsob sdílení údajů o vaší poloze</string>
       <string name="app_data_sharing_updates_title">Aktualizace sdílení údajů o poloze</string>
