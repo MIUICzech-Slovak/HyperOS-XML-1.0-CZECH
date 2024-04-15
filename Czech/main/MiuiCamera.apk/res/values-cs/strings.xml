@@ -2592,11 +2592,11 @@ Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v 
       <string name="cinematic_guide_item2_des">S podporou standardních i širokoúhlých efektů rozostření můžete upravit intenzitu rozostření, aby vaše videa měla filmový efekt hloubky ostrosti.</string>
       <string name="cinematic_guide_item2_title">Rozostření</string>
 	<string name="portrait_cvtype_item_title1">Styl portrétu: Leica portrét</string>
-	<string name="portrait_cvtype_item_title2">Styl portrétu: Základní portrét</string>
+	<string name="portrait_cvtype_item_title2">Styl portrétu: Mistrovský portrét</string>
 	<string name="portrait_mode_confirm_text">Potvrdit</string>
 	<string name="portrait_mode_hint_title">Vyberte styl na výšku</string>
 	<string name="portrait_mode_item_item1">Elegantní a decentní</string>
 	<string name="portrait_mode_item_item2">Přirozený a realistický</string>
-	<string name="portrait_mode_item_title1">Základní portrét</string>
+	<string name="portrait_mode_item_title1">Mistrovský portrét</string>
 	<string name="portrait_mode_item_title2">Leica portrét</string>
 </resources>
