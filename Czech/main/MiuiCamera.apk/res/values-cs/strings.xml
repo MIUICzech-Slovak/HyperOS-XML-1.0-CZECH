@@ -2585,4 +2585,18 @@ Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v 
 	<string name="pref_switch_camera_heic_image_desc">"Efektivnější formát fotografií, který šetří úložný prostor. Podporuje režim Ultra HD, ale nepodporuje dynamické záběry, odstraňování běžných vodoznaků a některé aplikace třetích stran."</string>
 	<string name="pref_true_colour_video_mode_description">Nahrávejte videa pomocí Dolby Vision, abyste zachytili realistické detaily, úžasné barvy a výrazný kontrast (tato funkce nemusí být kompatibilní s některými aplikacemi třetích stran)</string>
 	<string name="pref_true_colour_video_mode_introduction">Ohromující vizuální zážitek, realistické detaily a výrazný kontrast</string>
+	<string name="cinematic_focus_view_bg_tip">Sledování automatického ostření je uzamčeno</string>
+      <string name="cinematic_guide_item1_des">Fotoaparát během natáčení automaticky zaostří na předmět videa. Když se objekt změní, automaticky se také změní zaostření.</string>
+      <string name="cinematic_guide_item1_des_new">Zaostřeno bude automaticky na předmět videa a bude se přepínat podle změny scény. Dvojitým klepnutím na objekt uzamknete zaostření. Uzamčené zaostření můžete přepnout dvojitým klepnutím na jiný objekt.</string>
+      <string name="cinematic_guide_item1_title">Automatické ostření</string>
+      <string name="cinematic_guide_item2_des">S podporou standardních i širokoúhlých efektů rozostření můžete upravit intenzitu rozostření, aby vaše videa měla filmový efekt hloubky ostrosti.</string>
+      <string name="cinematic_guide_item2_title">Rozostření</string>
+	<string name="portrait_cvtype_item_title1">Styl portrétu: Leica portrét</string>
+	<string name="portrait_cvtype_item_title2">Styl portrétu: Základní portrét</string>
+	<string name="portrait_mode_confirm_text">Potvrdit</string>
+	<string name="portrait_mode_hint_title">Vyberte styl na výšku</string>
+	<string name="portrait_mode_item_item1">Elegantní a decentní</string>
+	<string name="portrait_mode_item_item2">Přirozený a realistický</string>
+	<string name="portrait_mode_item_title1">Základní portrét</string>
+	<string name="portrait_mode_item_title2">Leica portrét</string>
 </resources>

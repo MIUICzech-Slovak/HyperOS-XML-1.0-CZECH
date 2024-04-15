@@ -1789,4 +1789,5 @@ Chcete ji zavřít?"</string>
     <string name="years">lety</string>
     <string name="yes">OK</string>
     <string name="zen_mode_forever">Na dobu neurčitou</string>
+	<string name="private_dns_broken_detailed">Nelze získat přístup k soukromému serveru DNS</string>
 </resources>

@@ -218,7 +218,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="find_device_service_title">Vyhledat zařízení</string>
     <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.com</string>
     <string name="find_device_status_ok_international">Najděte své zařízení na www.mi.com/micloud</string>
-    <string name="find_device_status_summary">Vyhledat a uzamknouz vaše zařízení nebo vymazat data na dálku.</string>
+    <string name="find_device_status_summary">Vyhledat a uzamknout vaše zařízení nebo vymazat data na dálku.</string>
     <string name="find_device_status_title_pad">Vyhledat zařízení</string>
     <string name="find_device_status_title_phone">Vyhledat zařízení</string>
     <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
