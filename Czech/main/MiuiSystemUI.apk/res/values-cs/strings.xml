@@ -2852,5 +2852,23 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="miui_magazine_clock_date_content_description">dd.MM</string>
      <string name="miui_smart_frame_clock_date">d.M</string>
      <string name="format_month_day_style1">d.MMM</string>
-     <string name="format_month_day_style2">d.M</string>     
+     <string name="format_month_day_style2">d.M</string>
+	<string name="bluetooth_active_battery_level">Aktivní, %1$s baterie</string>
+	<string name="bluetooth_active_battery_level_untethered">Aktivní, L: %1$s baterie, R: %2$s baterie</string>
+	<string name="bluetooth_active_no_battery_level">Aktivní</string>
+	<string name="bluetooth_battery_level_untethered">L: %1$s baterie, R: %2$s baterie</string>
+	<string name="bluetooth_hearing_aid_left_active">Aktivní, pouze levé</string>
+	<string name="bluetooth_hearing_aid_left_and_right_active">Aktivní, levé a pravé</string>
+	<string name="bluetooth_hearing_aid_right_active">Aktivní, pouze pravé</string> 
+	<string name="kg_face_sensor_privacy_enabled">Chcete-li použít Odemknutí obličejem, zapněte v Nastavení přístup k fotoaparátu</string>
+	<string name="kg_password_default_pin_message">{count, plural, =1 {Zadejte PIN SIM karty. Máte # zbývající pokusy, než budete muset kontaktovat svého operátora, aby odemkl zařízení.} other {Zadejte PIN SIM karty. Zbývají # pokusy.} }</string>
+	<string name="kg_password_default_puk_message">{count, plural, =1 {SIM je nyní zamčena. Pokračujte zadáním kódu PUK. Zbývá # pokusy, než se SIM karta trvale stane nepoužitelnou. Podrobnosti vám sdělí operátor.} other {SIM je nyní zamčena. Pokračujte zadáním kódu PUK. Máte # zbývajících pokusů, než bude SIM karta trvale nepoužitelná. Podrobnosti vám sdělí operátor.} }</string>
+	<string name="kg_password_wrong_pin_code">{count, plural, =1 {Nesprávný kód PIN SIM karty, zbývá vám # pokusy, než budete muset kontaktovat svého operátora, aby zařízení odemkl.} other {Nesprávný kód PIN SIM karty, zbývá # pokusy.} }</string>
+	<string name="kg_password_wrong_puk_code">{count, plural, =1 {Nesprávný kód PUK SIM karty, zbývá # pokusy, než bude SIM karta trvale nepoužitelná.} other {Nesprávný kód PUK SIM karty, zbývá # pokusy, než bude SIM karta trvale nepoužitelná.} }</string>
+	<string name="kg_prompt_after_update_password">Zařízení bylo aktualizováno. Pokračujte zadáním hesla.</string>
+	<string name="kg_prompt_after_update_pin">Zařízení bylo aktualizováno. Pokračujte zadáním kódu PIN.</string>
+	<string name="kg_prompt_after_user_lockdown_password">Po uzamčení je vyžadováno heslo</string>
+	<string name="kg_prompt_after_user_lockdown_pin">Po uzamčení je vyžadován kód PIN</string>
+	<string name="kg_prompt_unattended_update_password">Pro pozdější instalaci aktualizace zadejte heslo</string>
+	<string name="kg_prompt_unattended_update_pin">Pro pozdější instalaci aktualizace zadejte PIN</string> 
 </resources>
