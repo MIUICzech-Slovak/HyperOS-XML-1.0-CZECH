@@ -8360,4 +8360,6 @@ Použití připnutí aplikace: \u0009
 	<string name="private_dns_broken">Nelze získat přístup k soukromému serveru DNS</string>
 	<string name="private_dns_help_message"><annotation id="url">Více informací</annotation> o funkcích soukromého DNS</string>
 	<string name="select_private_dns_configuration_title">Soukromé DNS</string>
+	<string name="private_dns_host_name">Název hostitele soukromého poskytovatele DNS</string>
+	<string name="private_dns_title">Soukromé DNS</string>
 </resources>

@@ -1505,4 +1505,26 @@ Klepněte na %s
 	<string name="tt_feedback_submit_text">"Odeslali jste zpětnou vazbu! Už ji prosím neodesílejte."</string>
 	<string name="tt_feedback_thank_text">Děkujeme za váš názor!</string>
 	<string name="video_report_toast">Děkujeme za váš názor</string>
+	<string name="lyric_ai_apply_fail">"Nelze použít. Zkuste to znovu."</string>
+	<string name="lyric_ai_button_text">Texty AI</string>
+	<string name="lyric_ai_dialog_three">•Průběh můžete zkontrolovat na panelu nástrojů pro texty.</string>
+	<string name="lyric_ai_dialog_two">"•Rozpoznání bude trvat několik minut. Jakmile bude dokončeno, text se automaticky vyplní."</string>
+	<string name="lyric_ai_fail_toast">Soubor je příliš velký na rozpoznání</string>
+	<string name="lyric_ai_identify_success">Text byl úspěšně rozpoznán</string>
+	<string name="lyric_ai_song">Aktuální skladba</string>
+	<string name="lyric_ai_song_list">Skladby</string>
+	<string name="lyric_ai_state_apply">Použití textů</string>
+	<string name="lyric_ai_state_default">Skladba nebyla rozpoznána</string>
+	<string name="lyric_ai_state_fail">"Nelze rozpoznat text"</string>
+	<string name="lyric_ai_state_identify">Rozpoznat</string>
+	<string name="lyric_ai_state_identifying">Ještě sekundu…</string>
+	<string name="lyric_ai_state_use">Použít</string>
+	<string name="lyric_ai_title">Rozpoznávání textů AI</string>
+	<string name="lyrics_guide_button_text">Vyzkoušet</string>
+	<string name="lyrics_guide_four">Pro zobrazení se vraťte na stránku s texty písní</string>
+	<string name="lyrics_guide_one">Klepnutím na výsledek vyhledávání jej vyberte</string>
+	<string name="lyrics_guide_three">Upravte a uložte texty</string>
+	<string name="lyrics_guide_title">Jak vyhledávat a ukládat texty</string>
+	<string name="lyrics_guide_two">Vyberte požadované texty a zkopírujte je</string>
+	<string name="lyrics_popup_title">Klepnutím vyhledáte texty</string>
 </resources>
