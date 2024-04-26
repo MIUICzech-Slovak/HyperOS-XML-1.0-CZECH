@@ -3257,5 +3257,4 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
 	 <string name="v7_preference_off">VYP</string>
      <string name="v7_preference_on">ZAP</string>
 	 <string name="sync_global_metatata_wait_title">Čekání na zahájení synchronizace…</string>
-     <string name="sync_global_metadata_title">Synchronizace dat s cloudem…</string>
 </resources>
