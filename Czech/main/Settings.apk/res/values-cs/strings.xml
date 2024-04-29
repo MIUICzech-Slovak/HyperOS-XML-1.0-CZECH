@@ -359,7 +359,7 @@ Mezi funkcemi můžete přepínat přejetím nahoru třemi prsty a podržením."
     <string name="add_device_admin_msg">Aktivovat správce zařízení?</string>
     <string name="add_facerecoginition_text">Přidat tvář</string>
     <string name="add_fingerprint_cancel_button_text">Zpět</string>
-    <string name="add_fingerprint_dirty_fingerprint">Ujistěte se, že je povrch displeje čistý. Zkuste nastavit otisk prtu znovu.</string>
+    <string name="add_fingerprint_dirty_fingerprint">Ujistěte se, že je povrch displeje čistý. Zkuste nastavit otisk prstu znovu.</string>
     <string name="add_fingerprint_done_msg">Nyní můžete odemknout vaše zařízení otiskem prstu.</string>
     <string name="add_fingerprint_done_title">Hotovo!</string>
     <string name="add_fingerprint_edge_instruction_msg">Pohněte prstem tak, aby senzor zaznamenal i kraje prstu.</string>
