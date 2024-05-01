@@ -338,4 +338,5 @@
 	<string name="pc_going_to_exit_extreme_mode">Ukončení režimu hibernace</string>
 	<string name="pc_going_to_exit_extreme_mode_summary">Vaše zařízení se nabíjí. Režim hibernace je vypnutý.</string>
 	<string name="retry_action">Zkuste to znovu</string>
+	<string name="ew_share_title">Sdílet</string>
 </resources>

@@ -721,4 +721,28 @@
          <item quantity="other">Nalezeno %d položek</item>
          <item quantity="one">Nalezena %d položka</item>
       </plurals>
+	  <plurals name="album_member">
+         <item kvantita="other">%s lidí může zobrazit toto album</item>
+         <item kvantita="one">%s osoba může zobrazit toto album</item>
+      </plurals>
+      <plurals name="backup_pause_dialog_message">
+         <item kvantita="other">Pozastavena synchronizace fotek, videí, kontaktů, poznámek a dalších položek s cloudem na %d minut.</item>
+         <item kvantita="one">Pozastavena synchronizace fotek, videí, kontaktů, poznámek a dalších položek s cloudem na %d minutu.</item>
+      </plurals>
+      <plurals name="global_cloud_storage_warn_title_link">
+         <item kvantita="other">"Nepodařilo se zálohovat %d položky z důvodu nedostatečného cloudového úložiště"</item>
+         <item kvantita="one">"Nepodařilo se zálohovat %d položku z důvodu nedostatečného cloudového úložiště"</item>
+      </plurals>
+      <plurals name="global_sync_error_title">
+         <item kvantita="other">"Nezálohovali jste %d položek"</item>
+         <item kvantita="one">"Nezálohovali jste %d položku"</item>
+      </plurals>
+      <plurals name="global_syncing_gprs_title_link">
+         <item kvantita="other">Zálohování %d položek pomocí mobilních dat…</item>
+         <item kvantita="one">Zálohování %d položky pomocí mobilních dat…</item>
+      </plurals>
+      <plurals name="global_syncing_title_link">
+         <item kvantita="other">Zálohování %d položek…</item>
+         <item kvantita="one">Zálohování %d položky…</item>
+      </plurals>
 </resources>

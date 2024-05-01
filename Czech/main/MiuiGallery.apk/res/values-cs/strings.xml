@@ -3257,5 +3257,9 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
      <string name="abc_capital_off">VYP</string>
      <string name="abc_capital_on">ZAP</string>
 	 <string name="v7_preference_off">VYP</string>
-     <string name="v7_preference_on">ZAP</string>	 
+     <string name="v7_preference_on">ZAP</string>
+	<string name="invite_user_activity_title">Sdílet</string>
+	<string name="share_album_family_invite_default">Sdílet</string>
+	<string name="share_album_family_invite_title">Sdílet</string>
+	<string name="share_album_family_share_to_friend_and_family">Sdílet s přáteli a rodinou</string>
 </resources>

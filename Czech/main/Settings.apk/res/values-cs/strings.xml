@@ -3795,7 +3795,7 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="menu_proc_stats_type_foreground">Na popředí</string>
     <string name="menu_restore">Obnovit výchozí</string>
     <string name="menu_save">Uložit</string>
-    <string name="menu_share">Share</string>
+    <string name="menu_share">Sdílet</string>
     <string name="menu_show_percentage">Zobrazit procenta</string>
     <string name="menu_show_system">Zobrazit systémové</string>
     <string name="menu_stats_last_unplugged">Při posledním odpojení pro %1$s</string>
@@ -8362,4 +8362,24 @@ Použití připnutí aplikace: \u0009
 	<string name="select_private_dns_configuration_title">Soukromé DNS</string>
 	<string name="private_dns_host_name">Název hostitele soukromého poskytovatele DNS</string>
 	<string name="private_dns_title">Soukromé DNS</string>
+	<string name="downloaded_sim_category_title">eSIM</string>
+      <string name="downloaded_sims_category_title">eSIM karty</string>
+      <string name="doze_always_on_summary">Větší využití baterie</string>
+      <string name="doze_always_on_title">Always On Displej</string>
+      <string name="dpp_qrcode_generator_summary">Naskenujte tento QR kód pomocí zařízení, které podporuje snadné připojení</string>
+      <string name="dream_complications_toggle_summary">Zobrazení věcí, jako je čas, počasí nebo jiné informace na spořiči obrazovky</string>
+      <string name="dream_complications_toggle_title">Zobrazit další informace</string>
+      <string name="dream_home_controls_toggle_summary">Zobrazit tlačítko ovládání plochy ze spořiče obrazovky</string>
+      <string name="dream_home_controls_toggle_title">Zobrazit ovládání domácnosti</string>
+      <string name="dream_more_settings_category">Další nastavení</string>
+      <string name="dream_picker_category">Vyberte spořič obrazovky</string>
+      <string name="dream_preview_button_title">Náhled</string>
+      <string name="dream_setup_description">Vyberte, co uvidíte na obrazovce, když bude tablet v doku. Při použití spořiče obrazovky může vaše zařízení spotřebovat více energie.</string>
+      <string name="dream_setup_title">Vyberte si spořič obrazovky</string>
+      <string name="dropdown_menu">Rozbalovací nabídka</string>
+	  <string name="more_settings_button">Další nastavení</string>
+	  <string name="notif_listener_more_settings">Další nastavení</string>
+     <string name="notif_listener_more_settings_desc">V této aplikaci jsou k dispozici další nastavení</string>
+	 <string name="share">Sdílet</string>
+	 <string name="share_remote_bugreport_action">Sdílet</string>
 </resources>

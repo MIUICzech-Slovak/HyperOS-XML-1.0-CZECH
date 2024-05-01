@@ -1527,4 +1527,5 @@ Klepněte na %s
 	<string name="lyrics_guide_title">Jak vyhledávat a ukládat texty</string>
 	<string name="lyrics_guide_two">Vyberte požadované texty a zkopírujte je</string>
 	<string name="lyrics_popup_title">Klepnutím vyhledáte texty</string>
+	<string name="share_song">Sdílet</string>
 </resources>

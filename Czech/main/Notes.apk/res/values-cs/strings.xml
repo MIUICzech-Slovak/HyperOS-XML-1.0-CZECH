@@ -700,4 +700,5 @@ http://www.HyperOS.cz/rom
      <string name="pad_dialog_take_photo_by_device">Focení pomocí %1$s</string>
      <string name="permission_xiaoai_desc_m"><Data>Pro poskytování služeb přepisu řeči na text potřebuje Mi AI shromažďovat zvukový vstup a IMEI vašeho zařízení. Než budete pokračovat, přečtěte si &lt;a href=\"%1$s\">Prohlášení o sdílení údajů třetí strany v aplikaci Poznámky a vyjádřete s ním souhlas&lt;/a>. Více se můžete dozvědět také v &lt;a href=\"%2$s\">Zásadách ochrany osobních údajů&lt;/a> Mi AI.</Data></string>
      <string name="to_view_alarm_content">Zobrazit</string>
+	 <string name="option_menu_share">Sdílet</string>
 </resources>
