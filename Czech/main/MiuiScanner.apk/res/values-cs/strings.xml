@@ -687,4 +687,8 @@
     <string name="word_translation">Překlad slova</string>
     <string name="yesterday">Včera</string>
     <string name="you_id">"Vaše ID: "</string>
+	<string name="location_permission_message">Pro připojení k Wi-Fi</string>
+	<string name="location_permissions_text">Abyste tuto funkci mohli používat, povolte v Nastavení přístup k poloze.</string>
+	<string name="not_permissions_hint">Abyste tuto funkci mohli používat, povolte přístup ke kameře.</string>
+	<string name="not_permissions_title">Vyžadována oprávnění</string>
 </resources>
