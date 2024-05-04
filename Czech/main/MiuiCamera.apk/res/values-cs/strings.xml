@@ -2635,14 +2635,12 @@ Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v 
 	<string name="pref_camera_tele_depth_entryvalue_simple">jednoduché</string>
 	<string name="pref_camera_tilt_shift_entryvalue_circle">kruh</string>
 	<string name="pref_camera_tilt_shift_entryvalue_parallel">paralelní</string>
-	<string name="pref_camera_volumekey_function_entryvalue_timer">časovač</string>
 	<string name="pref_camera_zoom_mode_entry_telex_abbr">Externí</string>
 	<string name="pref_camera_zoom_mode_title_abbr">OBJEKTIV</string>
 	<string name="pref_cv_film_watermark_summary">Náhledy jsou poskytovány pouze pro vaši informaci. Vodoznaky se zobrazí na fotografiích pořízených v režimech \"Fotoaparát\" a \"PRO\".</string>
 	<string name="pref_cv_film_watermark_title">Vlastní vodoznak filmu</string>
 	<string name="pref_dir_audio_type">Typy záznamu zvuku</string>
 	<string name="pref_focus_view_bg_tip">AE/AF uzamčen</string>
-	<string name="pref_live_volumekey_function_default">hlasitost</string>
 	<string name="pref_motioon_detection">Detekce pohybu</string>
 	<string name="pref_pro_video_volumekey_function_default">závěrka</string>
 	<string name="pref_sdsr_summary">Nechte umělou inteligenci zlepšit jasnost přiblížených obrázků</string>
@@ -2651,5 +2649,4 @@ Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v 
 	<string name="pref_video_ai_audio_mics_blocking_desc_tip">Mikrofon je blokován</string>
 	<string name="pref_video_quality_entry_1080p_24fps">Full high-definition, 1080p, 24 snímků za sekundu</string>
 	<string name="pref_video_quality_entry_4kuhd_24fps">Ultra high-definition, 4K, 24 snímků za sekundu</string>    
-	<string name="pref_video_volumekey_function_default">závěrka</string>
 </resources>
