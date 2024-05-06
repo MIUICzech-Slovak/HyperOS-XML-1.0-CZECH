@@ -1528,4 +1528,26 @@ Klepněte na %s
 	<string name="lyrics_guide_two">Vyberte požadované texty a zkopírujte je</string>
 	<string name="lyrics_popup_title">Klepnutím vyhledáte texty</string>
 	<string name="share_song">Sdílet</string>
+	<string name="youtube_delete_dialog_cancel">Zrušit</string>
+      <string name="youtube_delete_dialog_desc">Odebrat nyní tuto skladbu z oblíbených?</string>
+      <string name="youtube_delete_dialog_ok">Odebrat</string>
+      <string name="youtube_delete_dialog_title">Odebrat z oblíbených</string>
+      <string name="youtube_download_canl">Zrušit</string>
+      <string name="youtube_download_fail_net">"Nelze se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
+      <string name="youtube_download_fail_source">Došlo k chybě. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+      <string name="youtube_download_fail_space">"Nelze stáhnout. Nedostatek úložného prostoru."</string>
+      <string name="youtube_download_fail_unknown">Došlo k chybě. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+      <string name="youtube_download_hint">Zvuk z tohoto videa bude uložen ve vašem zařízení ve formátu MP3 s názvem videa jako názvem souboru. Stáhnout nyní?</string>
+      <string name="youtube_download_ing">Ještě sekundu…</string>
+      <string name="youtube_download_start">Stáhnout</string>
+      <string name="youtube_download_suc">Úspěšně staženo</string>
+      <string name="youtube_play_history">Historie přehrávání</string>
+      <string name="youtube_share_guide_tip">Nyní můžete sdílet videa s přáteli</string>
+      <string name="youtube_store_dialog_desc">„Zde najdete online videa, která jste přidali mezi oblíbená. Pokud bylo video načteno již dříve, nebudete k jeho dalšímu sledování muset používat mobilní data.“</string >
+      <string name="youtube_store_dialog_ok">Rozumím</string>
+      <string name="youtube_tab_explore">Objevujte</string>
+      <string name="youtube_tab_radar">Radar</string>
+      <string name="youtube_tab_shorts">Shorts</string>
+      <string name="youtube_tab_tiktok">TikTok</string>
+      <string name="youtube_tab_trend">Populární</string>
 </resources>
