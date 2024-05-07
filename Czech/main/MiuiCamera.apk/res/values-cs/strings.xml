@@ -3161,7 +3161,6 @@ Bez ohledu na vybraný poměr stran bude výstup RAW/Ultra RAW zobrazí obrázky
      <string name="sdsr_capture_reprocess_toast">Zpracovává se Ultra zoom…</string>
      <string name="security_line">Mezera mezi snímky</string>
      <string name="send">Odeslat</string>
-     <string name="settings_camera_near_range_fallback_description">Automatické přepnutí na ultraširokoúhlý objektiv, který zamezí vzniku bokeh efektu při snímání plochých objektů zblízka</string>
      <string name="softlight_fragment_lighting_mode_brightness">Jas</string>
      <string name="softlight_fragment_lighting_mode_candle">Svíčka</string>
      <string name="softlight_fragment_lighting_mode_color_temp">Teplota</string>
