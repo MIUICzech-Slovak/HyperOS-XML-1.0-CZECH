@@ -882,4 +882,6 @@ Velikost delta aktualizace: %2$s"</string>
 	 <string name="thin">Podváha</string>
 	 <string name="fat">Nadváha</string>
 	 <string name="empty_history">Zatím zde nejsou žádné položky</string>
+	<string name="pull_to_refresh">Potažením dolů zobrazíte historii</string>
+	<string name="release_to_refresh">Uvolněním zobrazíte historii</string>
 </resources>
