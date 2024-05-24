@@ -414,10 +414,10 @@ musíte nejprve vytvořit iCloudovou zálohu."</string>
     <string name="new_local_click_to_jump">Zobrazit podrobné informace</string>
     <string name="new_local_detail_description">"Poznámka:
 %1$d. Zkopírujte zálohy do vašeho PC pro případ ztráty dat. %2$s.
-%3$d. Zálohy budou uložené v HyperOS-Backup-AllBackup."</string>
+%3$d. Zálohy budou uložené v MIUI-Backup-AllBackup."</string>
     <string name="new_local_detail_description_global">"Poznámka:
 %1$d. Zkopírujte zálohy do počítače, abyste předešli ztrátě dat. %2$s.
-%3$d. Zálohy se budou ukládat do služky HyperOS-Backup-AllBackup úložiště zařízení.
+%3$d. Zálohy se budou ukládat do složky MIUI-Backup-AllBackup úložiště zařízení.
 %4$d. Některé aplikace nemusí podporovat zálohování."</string>
     <string name="new_local_tab_backup">Zálohování</string>
     <string name="new_local_tab_backup_pad">Zálohování</string>
