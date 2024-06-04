@@ -99,8 +99,8 @@
     <string name="auto_answer_summary_delay">(zpoždění: %ss)</string>
     <string name="auto_answer_summary_not_enabled">Není povoleno</string>
     <string name="auto_record_yellowpage">Zlaté stránky (pouze Čína)</string>
-    <string name="auto_redial_pref_summary">Automaticky volat zpět, pokud je linka obsazená</string>
-    <string name="auto_redial_pref_title">Automaticky volat zpět</string>
+    <string name="auto_redial_pref_summary">Je-li linka obsazena, automaticky se vytočit znova</string>
+    <string name="auto_redial_pref_title">Automaticky opakovat vytáčení</string>
     <string name="auto_retry_mode_summary">Aktivovat režim Automaticky zkusit znovu</string>
     <string name="auto_retry_mode_title">Automaticky zkusit znovu</string>
     <string name="autoip">Automatické IP vytáčení</string>
