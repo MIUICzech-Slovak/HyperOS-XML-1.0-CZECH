@@ -845,4 +845,6 @@ Vylepšené zabezpečení."</string>
       <string name="abc_searchview_description_search">Hledat</string>
       <string name="abc_searchview_description_submit">Odeslat dotaz</string>
       <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+	  <string name="global_shelf">Vyhledávání aplikací</string>
+	<string name="home_gesture_global_shelf">Vyhledávání aplikací</string>
 </resources>

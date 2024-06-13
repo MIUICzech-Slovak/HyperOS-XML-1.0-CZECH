@@ -1550,4 +1550,23 @@ Klepněte na %s
       <string name="youtube_tab_shorts">Shorts</string>
       <string name="youtube_tab_tiktok">TikTok</string>
       <string name="youtube_tab_trend">Populární</string>
+	  <string name="asm_account_exception">Došlo k chybě účtu</string>
+	<string name="asm_batch_download_failed">"Nelze stáhnout"</string>
+	<string name="asm_buy_member_success">Úspěšně zakoupeno VIP členství</string>
+	<string name="asm_check_video_playing">"Přehrávání videa. Nelze přidat položku do seznamu videí."</string>
+	<string name="asm_delete_all">Vymazat</string>
+	<string name="asm_delete_all_data">Vymazat všechna data</string>
+	<string name="asm_delete_all_data_failed">"Data nelze vymazat. Zkuste to znovu."</string>
+	<string name="asm_delete_all_data_loading">Jen vteřinu…</string>
+	<string name="asm_delete_all_data_no_net">Pro ověření vaší identity a vymazání dat je vyžadováno připojení k síti. Připojte se k síti a zkuste to znovu.</string>
+	<string name="asm_delete_all_data_success">Úspěšně vymazaná data</string>
+	<string name="asm_delete_all_data_tips">"Pokud budete pokračovat, vymažete všechna data aplikace, včetně skladeb, seznamů skladeb a historie procházení.
+Všechny členské výhody a placené skladby budou vymazány. Za stávající členství vám nebudou vráceny peníze, ale nebudou vám nic účtovány.
+Jakmile se rozhodnete trvale vymazat všechna data, budete z aplikace odhlášeni. Vymazat všechna data?"</string>
+	<string name="asm_delete_data">Vymazat data</string>
+	<string name="asm_delete_data_local_and_online">Vymazání dat offline a streamovacích služeb</string>
+	<string name="passport_third_sns_service_unavailable">"Služba není dostupná. Ujistěte se, že je aplikace nainstalována a není blokována."</string>
+	<string name="ytb_turn_on_sound">Klepnutím zapnete zvuk</string>
+	<string name="song_quality_category">Hudba</string>
+	<string name="song_swipe_navigation">Přejetím prstem doleva nebo doprava přepnete skladbu</string>
 </resources>

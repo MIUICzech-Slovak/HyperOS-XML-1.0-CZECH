@@ -1081,4 +1081,5 @@ To může způsobit dodatečné poplatky."</string>
       <string name="share_dlg_wechat_moment">Momenty WeChat</string>
       <string name="share_dlg_weibo">Odeslat do Weibo</string>
       <string name="wallpaper_added_success_toast">Tapeta byla úspěšně přidána</string>
+	  <string name="surprise_wallpaper_auth_failed_tip">Nepodařilo se zpracovat informace o vašem Xiaomi účtu. Zkontrolujte si čas a zda jste přihlášeni ke svému Xiaomi účtu.</string>
 </resources>
