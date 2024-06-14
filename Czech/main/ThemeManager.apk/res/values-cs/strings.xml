@@ -1469,4 +1469,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="format_month_day_style1">d.MMM</string>
      <string name="format_month_day_style2">d.M</string>
 	 <string name="find_more_free_theme">Zobrazit více</string>
+	 <string name="local_mode_close_tip">K nastavení této tapety je vyžadováno připojení k internetu. To vyžaduje vypnutí Offline režimu. Chcete tento režim vypnout nyní?</string>
 </resources>

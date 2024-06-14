@@ -530,4 +530,6 @@
 	  <string name="wallpaper_floral_arrangement_title">Květinové aranžmá</string>
      <string name="wallpaper_gradient_title">Přechod</string>
 	 <string name="softap_stat_toast">Hotspot je zapnutý</string>
+	 <string name="car_share_return_status">"Nelze odeslat"</string>
+	<string name="car_share_view_content">Odeslat uživateli %s</string>
 </resources>
