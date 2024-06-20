@@ -2047,4 +2047,24 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
 	  <string name="dial_settings_screen_title">Nastavení volání</string>
 	  <string name="other_settings_screen_title">Ostatní nastavení</string>
 	  <string name="fiveg_sa_switch_title">Použít 5G SA síť</string>
+	<string name="mobile_data_activate_button">PŘIDAT DATA</string>
+	<string name="mobile_data_activate_cancel_button">ZRUŠIT</string>
+	<string name="mobile_data_activate_diag_message">Možná budete muset přidat data prostřednictvím %s</string>
+	<string name="mobile_data_activate_diag_title">Přidat data?</string>
+	<string name="mobile_data_activate_footer">Můžete přidat mobilní data nebo roamingový tarif prostřednictvím svého operátora %s.</string>
+	<string name="mobile_data_activate_prepaid">Nezbývají žádná mobilní data</string>
+	<string name="mobile_data_activate_prepaid_summary">Přidat mobilní data prostřednictvím %s</string>
+	<string name="mobile_data_activate_roaming_plan">Žádný roamingový tarif</string>
+	<string name="mobile_data_activate_roaming_plan_summary">Přidat roamingový tarif prostřednictvím %s</string>
+	<string name="mobile_data_alert">Na sekundární kartě může být vytvořen datový provoz</string>
+	<string name="mobile_data_settings_summary">Přístup k datům pomocí mobilní sítě</string>
+	<string name="mobile_data_settings_title">Mobilní data</string>
+	<string name="mobile_data_status_no_plan_subtext">Nezbývají žádná mobilní data</string>
+	<string name="mobile_data_status_roaming_turned_off_subtext">Datový roaming je vypnutý</string>
+	<string name="mobile_data_status_roaming_turned_on_subtext">Datový roaming je zapnut</string>
+	<string name="mobile_data_status_roaming_with_plan_subtext">Aktuálně je roaming, datový tarif je aktivní</string>
+	<string name="mobile_data_status_roaming_without_plan_subtext">Aktuálně je roaming, potřebujete datový tarif</string>
+	<string name="mobile_geo_location_config_summary">Označte místa, kde dochází k abnormalitám síťového signálu, abyste zlepšili kvalitu hovoru</string>
+	<string name="mobile_geo_location_config_title">Optimalizace sítě s pevným bodem</string>
+	<string name="mobile_settings_screen_title">Mobilní data</string>
 </resources>
