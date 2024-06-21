@@ -811,4 +811,10 @@ pro dnešek"</string>
 	<string name="mi_transfer_banner_title">Přeneste položky ze starého zařízení</string>
 	<string name="footer_global_fps">"
 %1$d. Když zapnete Výkonný režim, obnovovací frekvence se přepne na systémové maximum %2$d Hz."</string>
+	<string name="crazy_mode">Ultra režim</string>
+	<string name="footer_global_fps_new">"
+%1$d. %2$s zvýší obnovovací frekvenci na systémové maximum %3$d Hz. Nastavení aplikace s vysokou obnovovací frekvencí budou dočasně nedostupná."</string>
+	<string name="performance_mode">Výkonný režim</string>
+	<string name="search_anti_flicker_mode">DC stmívání</string>
+	<string name="search_low_flicker_mode">DC stmívání</string>
 </resources>

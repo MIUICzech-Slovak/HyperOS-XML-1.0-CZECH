@@ -718,4 +718,13 @@ http://www.HyperOS.cz/rom
 	<string name="toast_show_xiaomi_account">Přihlaste se pomocí účtu Xiaomi a zkuste to znovu.</string>
 	<string name="pref_title_excerpt_summary_remind">Přehled</string>
 	<string name="to_be_read_list">Přehled</string>
+	<string name="add_pic_excerpt_summary">Přidat souhrn obrázku</string>
+	<string name="excerpt_image_ares_limit">Vážíme si vašeho nadšení, ale v současné době zaznamenáváme vysokou návštěvnost. Podívejte se prosím na původní obrázek nebo to zkuste znovu později.</string>
+	<string name="excerpt_image_summary_fail">Analyzace obsahu se nezdařila. Zkontrolujte prosím původní obrázek nebo to zkuste znovu později.</string>
+	<string name="excerpt_image_summary_huangfan">Obsah je citlivý, podívejte se prosím na původní obrázek.</string>
+	<string name="excerpt_original_image">Původní obrázek:</string>
+	<string name="excerpt_original_text">Původní text:</string>
+	<string name="excerpt_text_min">Na vytvoření souhrnu je příliš málo textu. Podívejte se prosím na původní obrázek.</string>
+	<string name="single_link_pic_excerpt_summary_saving">Probíhá generování souhrnu obrázku</string>
+	<string name="to_be_read_image_list">Přehled obrázků</string>
 </resources>
