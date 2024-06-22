@@ -8417,4 +8417,6 @@ Použití připnutí aplikace: \u0009
       <string name="photography_handle_long_press_camera_key_enter_camera">Pro provedení akce podržte tlačítko spouště</string>
       <string name="photography_handle_quick_launch_camera_title">Rychlé spuštění</string>
       <string name="photography_handle_title">Fotografický grip</string>
+	  <string name="rhythmic_mode_enable_summary">Dosáhněte optimálního pohodlí automatickým nastavením barev na základě typů aplikací a časů východu/západu slunce</string>
+	  <string name="rhythmic_mode_enable_title">Cyklus</string>
 </resources>
