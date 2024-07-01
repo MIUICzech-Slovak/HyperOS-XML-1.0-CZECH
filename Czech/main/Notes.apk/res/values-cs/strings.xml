@@ -701,7 +701,7 @@ http://www.HyperOS.cz/rom
      <string name="permission_xiaoai_desc_m"><Data>Pro poskytování služeb přepisu řeči na text potřebuje Mi AI shromažďovat zvukový vstup a IMEI vašeho zařízení. Než budete pokračovat, přečtěte si &lt;a href=\"%1$s\">Prohlášení o sdílení údajů třetí strany v aplikaci Poznámky a vyjádřete s ním souhlas&lt;/a>. Více se můžete dozvědět také v &lt;a href=\"%2$s\">Zásadách ochrany osobních údajů&lt;/a> Mi AI.</Data></string>
      <string name="to_view_alarm_content">Zobrazit</string>
 	 <string name="option_menu_share">Sdílet</string>
-	 <string name="add_excerpt_summary">Přidat souhrn</string>
+	 <string name="add_excerpt_summary">Přidat do souhrnu</string>
  	<string name="ai_chat_declare_double_link"><Data>Než budete pokračovat, přečtěte si a přijměte &lt;a href=\"%1$s\">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%2$ s \">Zásady ochrany osobních údajů&lt;/a>.</Data></string>
 	<string name="ai_chat_dlg_content">Pomocí této funkce můžete rychle shromažďovat informace z různých zdrojů (např. odkazy nebo text z prohlížečů, WeChat nebo jiných aplikací) a vytvářet jejich souhrn.</string>
 	<string name="ai_watermark">Vygenerováno AI:</string>
@@ -726,4 +726,7 @@ http://www.HyperOS.cz/rom
 	<string name="excerpt_text_min">Na vytvoření souhrnu je příliš málo textu. Podívejte se prosím na původní obrázek.</string>
 	<string name="single_link_pic_excerpt_summary_saving">Probíhá generování souhrnu obrázku</string>
 	<string name="to_be_read_image_list">Přehled obrázků</string>
+	<string name="add_text_excerpt_summary">Přidat textový souhrn</string>
+	<string name="ai_createing_text">AI generování...</string>
+	<string name="to_be_read_text_list">Textový souhrn</string>
 </resources>

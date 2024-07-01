@@ -682,4 +682,6 @@ d.MM."</string>
       <string name="read_device_internal_storage">Přístup k úložišti</string>
 	  <string name="alarm_alert_close_entrance">Vypnout</string>
 	  <string name="alarm_permanent_alert">Zvoní</string>
+	  <string name="miuix_navigator_category_group_collapse">Sbalit</string>
+	  <string name="miuix_navigator_category_group_expand">Rozbalit</string>
 </resources>

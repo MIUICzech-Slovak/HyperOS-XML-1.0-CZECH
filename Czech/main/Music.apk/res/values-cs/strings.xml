@@ -1569,4 +1569,26 @@ Jakmile se rozhodnete trvale vymazat všechna data, budete z aplikace odhlášen
 	<string name="ytb_turn_on_sound">Klepnutím zapnete zvuk</string>
 	<string name="song_quality_category">Hudba</string>
 	<string name="song_swipe_navigation">Přejetím prstem doleva nebo doprava přepnete skladbu</string>
+	<string name="app_closed_toast">Dynamické obaly jsou vypnuté</string>
+	<string name="app_opened_toast">Dynamické obaly jsou zapnuté</string>
+	<string name="asm_download_all_start_label">Obnovit vše</string>
+	<string name="asm_download_all_stop_label">Pozastavit vše</string>
+	<string name="asm_download_allow_abort">Zrušit</string>
+	<string name="asm_download_allow_always">Vždy povolit</string>
+	<string name="asm_download_allow_oneshot">Povolit jednou</string>
+	<string name="asm_download_delete">Chcete toto stažení nyní smazat?</string>
+	<string name="asm_download_delete_all">Smazat nyní všechna stažená data?</string>
+	<string name="asm_download_error">"Nelze stáhnout. Klepnutím to zkuste znovu."</string>
+	<string name="asm_download_mobile_net_dialog_content">"Nejste připojeni k Wi-Fi. Stáhnout pomocí mobilních dat?"</string>
+	<string name="asm_download_mobile_net_dialog_title">Připomenutí využití dat</string>
+	<string name="asm_download_paused">Pozastaveno. Klepnutím obnovíte.</string>
+	<string name="asm_download_queue_waiting">Čekání</string>
+	<string name="asm_download_setting_mobile">Povolit stahování přes mobilní data</string>
+	<string name="asm_download_setting_mobile_open_tips">Umožněte svému zařízení stahovat položky přes mobilní data, když není připojeno k Wi-Fi</string>
+	<string name="asm_download_storage_not_enough">Nedostatek úložiště v zařízení</string>
+	<string name="asm_download_title">Spravovat stahování</string>
+	<string name="asm_message">Oznámení</string>
+	<string name="nowplaying_menu_item_gif_close">Zapnout dynamické obaly</string>
+	<string name="nowplaying_menu_item_gif_open">Vypnout dynamické obaly</string>
+	<string name="swipe_to_exit">Opětovným přejetím prstem ukončíte</string>
 </resources>

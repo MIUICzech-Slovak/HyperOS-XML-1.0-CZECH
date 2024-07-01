@@ -236,4 +236,16 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">Stř</string>
     <string name="yesterday">Včera</string>
+	<string name="AI_version_number">Verze: %d</string>
+	<string name="about_MiAI_engine">O Mi AI Engine</string>
+	<string name="copywriting_scheduleToRegularCloseLightOther_description">"Vypnout světlo %2$s každý den v %1$s"</string>
+	<string name="copywriting_scheduleToRegularClose_description">Vypnout %2$s každý den v %1$s</string>
+	<string name="copywriting_scheduleToRegularOpenLightOther_description">"Zapnout světlo %2$s každý den v %1$s"</string>
+	<string name="copywriting_scheduleToRegularOpen_description">Zapnout %2$s každý den v %1$s</string>
+	<string name="download_done">Hotovo</string>
+	<string name="download_notification_title">Zlepšete stabilitu a optimalizujte své prostředí</string>
+	<string name="download_notification_update">Klepnutím aktualizujete</string>
+	<string name="download_process_content_wenshengtu_title">Stahování Mi AI Image Creator modelu…</string>
+	<string name="privacy_cta_url">https://privacy.mi.com/AIEngine/cs_CZ/</string>
+	<string name="user_agreement_url">https://terms.miui.com/doc/eula/cs_CZ.html</string>	
 </resources>

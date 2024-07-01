@@ -361,4 +361,8 @@ Poznámka: Soubory budou smazány také ze zařízení."</item>
         <item quantity="other">%d souborů bylo přidáno dříve</item>
         <item quantity="one">%d soubor byl přidán dříve</item>
     </plurals>
+	<plurals name="asm_download_tasks">
+        <item quantity="other">Probíhá %d stahování</item>
+        <item quantity="one">Probíhá %d stahování</item>
+	</plurals>
 </resources>

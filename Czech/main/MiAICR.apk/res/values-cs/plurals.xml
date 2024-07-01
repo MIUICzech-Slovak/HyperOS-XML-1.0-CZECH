@@ -102,4 +102,8 @@
         <item quantity="few">Před %d minutami</item>
         <item quantity="many">Před %d minutou</item>
     </plurals>
+	<plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">Provedeno %d vzorů</item>
+        <item quantity="one">Provedeno %d vzor</item>
+	</plurals>
 </resources>
