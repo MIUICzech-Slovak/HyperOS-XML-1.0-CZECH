@@ -830,7 +830,7 @@ pro dnešek"</string>
 	<string name="pcl_app_is_launching">Spouštění aplikace…</string>
 	<string name="pcl_app_list">Aplikace</string>
 	<string name="pcl_app_name">Rodičovská kontrola</string>
-	<string name="pcl_bind_account_dialog_content">„Pokud zapomenete heslo, nebudete mít přístup k uzamčeným aplikacím. Pokud však nyní přidáte svou e-mailovou adresu, budete si moci obnovit heslo prostřednictvím e-mailu.“</ řetězec>
+	<string name="pcl_bind_account_dialog_content">„Pokud zapomenete heslo, nebudete mít přístup k uzamčeným aplikacím. Pokud však nyní přidáte svou e-mailovou adresu, budete si moci obnovit heslo prostřednictvím e-mailu.“</string>
 	<string name="pcl_bind_email">Přidat e-mail</string>
 	<string name="pcl_bind_email_button_back">Zpět</string>
 	<string name="pcl_bind_email_button_ok">OK</string>
