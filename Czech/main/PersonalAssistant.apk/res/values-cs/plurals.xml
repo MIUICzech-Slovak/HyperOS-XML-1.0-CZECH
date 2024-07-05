@@ -218,4 +218,16 @@
         <item quantity="other">Před %dmin</item>
         <item quantity="one">Před %dmin</item>
     </plurals>
+	<plurals name="pa_travel_departure_date_tip_other">
+        <item quantity="other">Odlétá za %d dnů</item>
+        <item quantity="one">Odlétá za %d den</item>
+	</plurals>
+	<plurals name="pa_travel_select_title">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybráno %d zboží</item>
+	</plurals>
+	<plurals name="pa_travel_train_tip_delay_min">
+        <item quantity="other">Vlak má zpoždění %d minut</item>
+        <item quantity="one">Vlak má zpoždění %d minutu</item>
+	</plurals>
 </resources>             

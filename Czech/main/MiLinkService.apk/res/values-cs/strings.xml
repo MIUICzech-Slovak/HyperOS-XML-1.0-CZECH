@@ -1157,4 +1157,13 @@ Před přenosem her ověřte, že máte zapnutou funkci Game Turbo."</string>
     <string name="wifi_username_et_hint">ID účtu</string>
     <string name="window_card_ml_find_null">Toto zařízení nemusí být v dosahu</string>
     <string name="yesterday">Včera</string>
+	<string name="car_camera_associate_connecting">Připojování k EV kameře</string>
+	<string name="car_camera_associate_disconnecting">Odpojení od EV kamery</string>
+	<string name="car_camera_device_name">%1$s přední kamera</string>
+	<string name="car_camera_unavailable_dialog_message">"Je zapnutý režim nízké spotřeby nebo režim soukromí. Na vašem mobilním zařízení momentálně nelze zobrazit zdroj přední kamery vozidla."</string>
+	<string name="car_camera_unavailable_dialog_positive_button">Rozumím</string>
+	<string name="car_camera_unavailable_dialog_title">„Nelze použít kameru“</string>
+	<string name="circulate_car_card_use_camera">Použít EV kameru</string>
+	<string name="circulate_car_card_using_camera">Používání EV kamery</string>
+	<string name="device_permission_dialog_message_car">Přístup ke kameře můžete povolit v Nastavení > Systém > Spravovat aplikace > Zvláštní oprávnění > Propojení na %s.</string>	
 </resources>

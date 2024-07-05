@@ -165,4 +165,60 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+	<plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Teď ne (%ds)</item>
+        <item quantity="one">Teď ne (%ds)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Odpočítávání: %d s</item>
+        <item quantity="one">Odpočítávání: %d s</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Zadejte alespoň %d znaků</item>
+        <item quantity="one">Zadejte alespoň %d znak</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">%d aplikací uzamčeno</item>
+        <item quantity="one">%d aplikace uzamčena</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d aplikací není uzamčeno</item>
+        <item quantity="one">%d aplikace není uzamčena</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Zadejte alespoň %d číslic</item>
+        <item quantity="one">Zadejte alespoň %d číslici</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Odeslat znovu (%ds)</item>
+        <item quantity="one">Odeslat znovu (%ds)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Výběr (%ds)</item>
+        <item quantity="one">Výběr (%ds)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Spojte alespoň %d bodů</item>
+        <item quantity="one">Připojte alespoň %d tečku</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Spojte alespoň %s bodů</item>
+        <item quantity="one">Připojte alespoň %s tečku</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">Zadejte %s číslic</item>
+        <item quantity="one">Zadejte %s číslici</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Počkejte %d sekund a zkuste to znovu.</item>
+        <item quantity="one">Počkejte %d sekundu a zkuste to znovu.</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Odebrat (%ds)</item>
+        <item quantity="one">Odebrat (%ds)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Spojte alespoň %s bodů</item>
+        <item quantity="one">Připojte alespoň %s tečku</item>
+    </plurals>
 </resources>
