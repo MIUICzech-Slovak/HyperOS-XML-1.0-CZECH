@@ -847,4 +847,5 @@ Vylepšené zabezpečení."</string>
       <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
 	  <string name="global_shelf">Vyhledávání aplikací</string>
 	<string name="home_gesture_global_shelf">Vyhledávání aplikací</string>
+	<string name="home_gesture_content_center_settings">Nastavení Centra obsahu</string>
 </resources>

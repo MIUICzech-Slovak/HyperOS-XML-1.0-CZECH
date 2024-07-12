@@ -1082,4 +1082,20 @@ To může způsobit dodatečné poplatky."</string>
       <string name="share_dlg_weibo">Odeslat do Weibo</string>
       <string name="wallpaper_added_success_toast">Tapeta byla úspěšně přidána</string>
 	  <string name="surprise_wallpaper_auth_failed_tip">Nepodařilo se zpracovat informace o vašem Xiaomi účtu. Zkontrolujte si čas a zda jste přihlášeni ke svému Xiaomi účtu.</string>
+	  <string name="ai_wallpaper_declare_double_link"><Data>Přečtěte si a odsouhlaste naši &lt;a href=\"%1$s\">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%2$s\" >Zásady ochrany osobních údajů&lt;/a> než budete pokračovat.</Data></string>
+    <string name="sst_ai_wallpaper_Activity_title">Vytváření AI tapet</string>
+    <string name="sst_ai_wallpaper_desc">Ručně kreslené obrázky lze použít k výrobě tapet s vysokým rozlišením v několika stylech pomocí umělé inteligence</string>
+    <string name="sst_ai_wallpaper_title">Tvůrce AI tapety</string>
+    <string name="sst_surprise_wallpaper">Tapeta s překvapením</string>
+    <string name="sst_surprise_wallpaper_desc">Generujte personalizované tapety pomocí AI</string>
+    <string name="surprise_wallpaper_can_not_open_tip">Otevřete prosím nejprve otočení obrázku</string>
+    <string name="surprise_wallpaper_empty_dlg_content">Tapety s překvapením vygenerují přizpůsobené tapety na základě tapet, které si sami vybrali (pokud jsou povoleny) nebo na základě náhodné strategie a frekvence střídání obrázků bude omezena na 1 den. Když se generování nezdaří, tapeta bude aktualizována pomocí původního obrázku.</string>
+    <string name="surprise_wallpaper_empty_dlg_title">Tapeta s překvapením</string>
+    <string name="surprise_wallpaper_generate_failed_toast">Toto vygenerování tapety s překvapením se nezdařilo</string>
+    <string name="surprise_wallpaper_goto_prompts_error">Došlo k výjimce sítě. Zkuste to znovu později.</string>
+    <string name="surprise_wallpaper_prompts_null">Výběrem původního obrázku se nepřidá mezi oblíbené</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Uložení se nezdařilo, zkuste to prosím znovu.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Úspěšně uloženo!</string>
+    <string name="surprise_wallpaper_prompts_sending">Odesílání vašich předvoleb…</string>
+    <string name="wallpaper_creator_empty_dlg_content">Jednoduché kroky, okamžitá tvorba. Importujte ručně nakreslený obrázek/jiný obrázek, zadejte několik výzev a okamžitě vygenerujte čtyři stylizované obrázky tapety prostřednictvím velkých modelů AI. Vyberte ten, který vám nejvíce vyhovuje, a uložte jej do alba.</string>
 </resources>

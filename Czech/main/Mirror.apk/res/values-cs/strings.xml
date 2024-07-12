@@ -438,7 +438,7 @@ pokračovat"</string>
       <string name="app_not_support_subscreen">"Toto okno nelze maximalizovat"</string>
       <string name="cancel_button">Zrušit</string>
       <string name="circulate_cta_all_purpose">Domovská obrazovka+ je součástí služeb propojení Xiaomi. Umožňuje vám prohlížet si domovské obrazovky jiných připojených zařízení a pracovat s nimi. Aby tato služba mohla normálně fungovat, musí se připojit k internetu a vyžaduje následující povolení:</string>
-      <string name="circulate_cta_desc_phone_miui15_14">Vítejte v propojení Xiaomi! Pomocí této aplikace můžete přenášet obsah obrazovky, přenášet přehrávání multimédií mezi zařízeními, používat Mi Smart Play, funkce propojení zařízení a předávání aplikací. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
+      <string name="circulate_cta_desc_phone_miui15_14">Vítejte v propojení Xiaomi! Pomocí této aplikace můžete přenášet obsah obrazovky, přenášet přehrávání multimédií mezi zařízeními, používat Xiaomi Smart Play, funkce propojení zařízení a předávání aplikací. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
       <string name="circulate_cta_new_app_name">Domovská obrazovka+</string>
       <string name="circulate_cta_premission_bluetooth">Pro připojení zařízení a přenos dat mezi nimi přes Bluetooth</string>
       <string name="circulate_cta_premission_microphone">Pro přenos zvuku do jiných zařízení během přenášení a zrcadlení obrazovky</string>
@@ -529,4 +529,7 @@ pokračovat"</string>
       <string name="share_to_settings_title">Zapnout služby propojení</string>
       <string name="switch_wlan_tips_desc_pad_china">Pro lepší zážitek se můžete připojit ke stejné síti Wi-Fi jako druhé zařízení. Připojit nyní?</string>
       <string name="to_settings">Nastavení</string>
+	<string name="device_screen_fold_switch_tip">Tuto akci místo toho proveďte z vnitřní obrazovky</string>
+	<string name="fold_photograph_prompt_message">Použití fotoaparátu z vnitřní obrazovky</string>
+	<string name="fold_photograph_prompt_notification_title">Použít pro Poznámky fotoaparát pro různá zařízení</string>
 </resources>

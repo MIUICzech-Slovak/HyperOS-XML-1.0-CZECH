@@ -2870,5 +2870,7 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
 	<string name="kg_prompt_after_user_lockdown_password">Po uzamčení je vyžadováno heslo</string>
 	<string name="kg_prompt_after_user_lockdown_pin">Po uzamčení je vyžadován kód PIN</string>
 	<string name="kg_prompt_unattended_update_password">Pro pozdější instalaci aktualizace zadejte heslo</string>
-	<string name="kg_prompt_unattended_update_pin">Pro pozdější instalaci aktualizace zadejte PIN</string> 
+	<string name="kg_prompt_unattended_update_pin">Pro pozdější instalaci aktualizace zadejte PIN</string>
+	<string name="bluetooth_connected_no_a2dp">Připojeno (žádná média)%1$s</string>
+	<string name="bluetooth_connected_no_headset">Připojeno (žádný telefon)%1$s</string>
 </resources>
