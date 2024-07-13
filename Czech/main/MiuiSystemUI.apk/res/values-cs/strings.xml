@@ -404,9 +404,7 @@
     <string name="bluetooth_a2dp_profile_summary_use_for">Umožňuje připojení zvukového média</string>
     <string name="bluetooth_connected">Připojeno</string>
     <string name="bluetooth_connected_battery_level">Připojeno, baterie: %1$s</string>
-    <string name="bluetooth_connected_no_a2dp">Připojeno (žádná média)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Připojeno (žádná média), baterie: %1$s</string>
-    <string name="bluetooth_connected_no_headset">Připojeno (žádný telefon)</string>
     <string name="bluetooth_connected_no_headset_battery_level">Připojeno (žádný telefon), baterie: %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Připojeno (žádný telefon nebo média)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Připojeno (žádný telefon ani média), baterie: %1$s</string>
