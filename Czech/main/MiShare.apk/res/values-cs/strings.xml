@@ -102,7 +102,7 @@
     <string name="error_p2p_create_group_failure_china">"Připojení se nezdařilo. Znovu se připojte k síti WLAN na obou zařízeních a zkuste to znovu."</string>
     <string name="error_p2p_recv_connect_timeout">Připojení se nezdařilo. Připojte se k Wi-Fi znovu na obou zařízeních a zkuste to znovu.</string>
     <string name="error_p2p_recv_connect_timeout_china">"Připojení se nezdařilo. Znovu se připojte k síti WLAN na obou zařízeních a zkuste to znovu."</string>
-    <string name="error_permission_denied">Pro využití této funkce nejprve udělte aplikaci Mi Share všechna požadovaná oprávnění v Nastavení.</string>
+    <string name="error_permission_denied">Pro využití této funkce nejprve udělte aplikaci Xiaomi Share všechna požadovaná oprávnění v Nastavení.</string>
     <string name="error_receive_file_cannot_read">Přijetí souboru se nezdařilo</string>
     <string name="error_receive_file_changed">Nelze přijmout. Položka byla změněna.</string>
     <string name="error_receive_file_file_opened">Přijetí této položky se nezdařilo. Zdá se, že tato položka je právě využívána.</string>
@@ -121,8 +121,8 @@
     <string name="error_send_file_service_disabled">Odchozí přenos byl zrušen</string>
     <string name="error_send_transfer_error">Odeslání položek se nezdařilo. Počkejte chvíli a zkuste to znovu.</string>
     <string name="error_send_transfer_pc_error">Transfer timed out. Update Xiaomi PC Manager to the latest version and try again.</string>
-    <string name="error_slave_wifi_in_use">Při zapnutí duální Wi-Fi nelze Mi Share využít. Vypněte duální Wi-Fi v Nastavení a zkuste to znovu.</string>
-    <string name="error_slave_wifi_in_use_china">Při zapnutí duální Wi-Fi nelze Mi Share využít. Vypněte duální Wi-Fi v Nastavení a zkuste to znovu.</string>
+    <string name="error_slave_wifi_in_use">Při zapnutí duální Wi-Fi nelze Xiaomi Share využít. Vypněte duální Wi-Fi v Nastavení a zkuste to znovu.</string>
+    <string name="error_slave_wifi_in_use_china">Při zapnutí duální Wi-Fi nelze Xiaomi Share využít. Vypněte duální Wi-Fi v Nastavení a zkuste to znovu.</string>
     <string name="error_timeout">Čas relace vypršel. Počkejte chvíli a zkuste to znovu.</string>
     <string name="error_user_refuse">Nelze odeslat. Přenos byl odmítnut.</string>
     <string name="error_wifi_display_in_use">Soubory nelze přenést, pokud je spuštěn přenos obrazu</string>
@@ -201,17 +201,17 @@
     <string name="go_to_settings">Nastavení</string>
     <string name="guide_summary_1">Druhá osoba může klepnout na přepínač v Oznamovací roletce</string>
     <string name="guide_summary_2">Zvolte zařízení, do kterého chcete položky odeslat a klepněte na jeho ikonu</string>
-    <string name="guide_title_1">Zapněte Mi Share na obou zařízeních</string>
+    <string name="guide_title_1">Zapněte Xiaomi Share na obou zařízeních</string>
     <string name="guide_title_2">Vyberte zařízení pro sdílení</string>
     <string name="help">Zařízení nelze najít?</string>
-    <string name="help_content">Pokud nemůžete zařízení najít, požádejte druhou osobu aby zapnula Mi Share.</string>
+    <string name="help_content">Pokud nemůžete zařízení najít, požádejte druhou osobu aby zapnula Xiaomi Share.</string>
     <string name="hide">Skrýt</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Rozumím</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="location_enabled">Aplikace Mi Share zapnula služby určování polohy pro nalezení zařízení v okolí</string>
+    <string name="location_enabled">Aplikace Xiaomi Share zapnula služby určování polohy pro nalezení zařízení v okolí</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">Podrobnosti oprávnění</string>
@@ -231,7 +231,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Xiaomi Share</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -240,13 +240,13 @@
     <string name="midnight">Noc</string>
     <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
     <string name="mishare_folder_in_file_explorer">File Manager > MiShare</string>
-    <string name="mishare_service_channel_desc">Oznámení o přesunech pomocí Mi Share</string>
-    <string name="mishare_settings_summary_international">"Pomocí aplikace Mi Share můžete bezdrátově sdílet soubory se zařízeními ve vašem okolí.
+    <string name="mishare_service_channel_desc">Oznámení o přesunech pomocí Xiaomi Share</string>
+    <string name="mishare_settings_summary_international">"Pomocí aplikace Xiaomi Share můžete bezdrátově sdílet soubory se zařízeními ve vašem okolí.
 Tuto funkci podporuje velké množství výrobců chytrých telefonů, mimo jiné např. OPPO, vivo a realme. Úplný seznam podporovaných zařízení naleznete na oficiálních stránkách dané značky."</string>
-    <string name="mishare_state_protection">Zapnout Mi Share automaticky</string>
-    <string name="mishare_state_protection_summary">Zapnout Mi Share automaticky, když je Bluetooth a Wi-Fi zařízení znovu zapnuto</string>
-    <string name="mishare_state_protection_summary_china">Zapnout Mi Share automaticky, jakmile jsou Bluetooth a Wi-Fi znovu zapnuty</string>
-    <string name="mishare_transefer_channel_desc">Oznámení o položkách odeslaných nebo přijatých pomocí aplikace Mi Share</string>
+    <string name="mishare_state_protection">Zapnout Xiaomi Share automaticky</string>
+    <string name="mishare_state_protection_summary">Zapnout Xiaomi Share automaticky, když je Bluetooth a Wi-Fi zařízení znovu zapnuto</string>
+    <string name="mishare_state_protection_summary_china">Zapnout Xiaomi Share automaticky, jakmile jsou Bluetooth a Wi-Fi znovu zapnuty</string>
+    <string name="mishare_transefer_channel_desc">Oznámení o položkách odeslaných nebo přijatých pomocí aplikace Xiaomi Share</string>
     <string name="miuix_access_state_desc">Vybráno</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_action_mode_select_all">Vybrat vše</string>
@@ -317,8 +317,8 @@ Tuto funkci podporuje velké množství výrobců chytrých telefonů, mimo jin�
     <string name="nfc_check_the_touch_device">Abyste mohli zařízení připojit, musí být zapnuté Wi-Fi a Bluetooth i na ostatních zařízeních. Zkontrolujte, zda je povolené připojení dalšího zařízení v Nastavení > Připojení a sdílení > Připojená zařízení a zkuste to znovu.</string>
     <string name="nfc_check_the_touch_device_china">Abyste mohli zařízení připojit, musí být zapnuté WLAN a Bluetooth i na ostatních zařízeních. Zkontrolujte, zda je povolené připojení dalšího zařízení v Nastavení > Připojení a sdílení > Připojená zařízení a zkuste to znovu.</string>
     <string name="nfc_connect_fail">Připojení se nezdařilo. Počkejte chvíli a zkuste to znovu.</string>
-    <string name="nfc_connect_fail_lyra_secure">Funkci Mi Share můžete zapnout v Centru ovládání ve svém zařízení.</string>
-    <string name="nfc_connect_fail_lyra_secure_title">Funkce Mi Share je vypnutá</string>
+    <string name="nfc_connect_fail_lyra_secure">Funkci Xiaomi Share můžete zapnout v Centru ovládání ve svém zařízení.</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Funkce Xiaomi Share je vypnutá</string>
     <string name="nfc_connect_fail_pad">Připojení se nezdařilo</string>
     <string name="nfc_connecting">Připojování…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Abyste mohli zařízení připojit, musíte na svém zařízení nejdříve zapnout Wi-Fi a Bluetooth. Zapnout nyní?</string>
@@ -344,16 +344,16 @@ Tuto funkci podporuje velké množství výrobců chytrých telefonů, mimo jin�
     <string name="pc_device_model_name">Počítač</string>
     <string name="pc_redmi_device_model_name">Redmi notebook</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi notebook</string>
-    <string name="permission_apply_purpose">Povolte aplikaci Mi Share vyhledání zařízení v okolí a připojení k nim, aby mohla přenášet soubory.</string>
-    <string name="permission_denied_hint">Pro použití aplikace Mi Share nejprve udělte vyžadovaná oprávnění</string>
+    <string name="permission_apply_purpose">Povolte aplikaci Xiaomi Share vyhledání zařízení v okolí a připojení k nim, aby mohla přenášet soubory.</string>
+    <string name="permission_denied_hint">Pro použití aplikace Xiaomi Share nejprve udělte vyžadovaná oprávnění</string>
     <string name="permission_related">Oprávnění</string>
     <string name="pm">odp.</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="privacy_authorize">Oprávnění</string>
     <string name="progress_ratio">%1$d%%</string>
-    <string name="purpose">"Vítejte v aplikaci Mi Share! Pomocí této aplikace můžete odesílat a přijímat soubory z různých zařízení. Vaše osobní údaje budou chráněny v souladu s platnými zákony a nařízeními.
-Před použitím aplikace Mi Share musíte aplikaci udělit vyžadovaná oprávnění. Zároveň je nutné povolit aplikaci shromažďování nezbytných osobních informací:"</string>
-    <string name="purpose_v12">Vítejte v aplikaci Mi Share! Pomocí této aplikace můžete přenášet soubory mezi zařízeními.</string>
+    <string name="purpose">"Vítejte v aplikaci Xiaomi Share! Pomocí této aplikace můžete odesílat a přijímat soubory z různých zařízení. Vaše osobní údaje budou chráněny v souladu s platnými zákony a nařízeními.
+Před použitím aplikace Xiaomi Share musíte aplikaci udělit vyžadovaná oprávnění. Zároveň je nutné povolit aplikaci shromažďování nezbytných osobních informací:"</string>
+    <string name="purpose_v12">Vítejte v aplikaci Xiaomi Share! Pomocí této aplikace můžete přenášet soubory mezi zařízeními.</string>
     <string name="queue_full">Před zahájením nových přenosů počkejte na dokončení těch probíhajících.</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -435,7 +435,7 @@ Před použitím aplikace Mi Share musíte aplikaci udělit vyžadovaná oprávn
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_title_mishare_switch">Tato funkce se po %d minutách automaticky vypne</string>
     <string name="sub_title_turbo_mode">Super frychlé přenosy mezi telefony a tablety Xiaomi. V průběhu přenosu bude síť odpojena.</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">Odebrání souhlasu se Zásadami ochrany osobních údajů rovněž způsobí vypnutí funkce Mi Share</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Odebrání souhlasu se Zásadami ochrany osobních údajů rovněž způsobí vypnutí funkce Xiaomi Share</string>
     <string name="success_receive_much_file_from_pc">Příjem více než %2$d souborů ze zařízení %1$s byl dokončen. Klepněte pro zobrazení.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Neděle</string>
@@ -495,22 +495,22 @@ Před použitím aplikace Mi Share musíte aplikaci udělit vyžadovaná oprávn
     <string name="time_picker_label_minute">M</string>
     <string name="tips_p2p_support_use5g">Pro lepší výsledek použijte 5G Wi-Fi síť.</string>
     <string name="tips_p2p_support_use5g_china">Pro lepší výsledek použijte 5G Wi-Fi síť.</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="to_feedback">Nahlásit</string>
-    <string name="toast_auto_close_in_minutes">Mi Share se vypne automaticky za %d minut</string>
+    <string name="toast_auto_close_in_minutes">Xiaomi Share se vypne automaticky za %d minut</string>
     <string name="toast_transfering">Probíhá přenos položek. Zkuste to znovu později.</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
     <string name="transfer_intercept_to_remote">Nelze odeslat: %1$s</string>
-    <string name="transfer_to_pc_summary">Nejnovější verze softwaru AIoT nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Mi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI. Pokud je váš notebook na seznamu, ale AIoT na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste AIoT stáhnout znovu.</string>
-    <string name="transfer_to_pc_summary_new">&lt;Data>Nejnovější verze softwaru MIUI+ nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Mi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Pokud je váš notebook na seznamu, ale MIUI+ na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste MIUI+ stáhnout znovu.&lt;/Data></string>
-    <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager nyní podporuje Mi Share! Seznam podporovaných modelů počítačů můžete najít &lt;a href=%1$s>zde&lt;/a>.&lt;/Data></string>
+    <string name="transfer_to_pc_summary">Nejnovější verze softwaru AIoT nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Xiaomi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI. Pokud je váš notebook na seznamu, ale AIoT na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste AIoT stáhnout znovu.</string>
+    <string name="transfer_to_pc_summary_new">&lt;Data>Nejnovější verze softwaru MIUI+ nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Xiaomi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Pokud je váš notebook na seznamu, ale MIUI+ na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste MIUI+ stáhnout znovu.&lt;/Data></string>
+    <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager nyní podporuje Xiaomi Share! Seznam podporovaných modelů počítačů můžete najít &lt;a href=%1$s>zde&lt;/a>.&lt;/Data></string>
     <string name="transfer_to_pc_title">Odeslání souborů do počítače</string>
-    <string name="transfer_to_phone_summary">Mi Share můžete zapnout klepnutím na přepínač v Oznamovací roletce. Po zapnutí budete moci najít viditelná zařízení v okolí a sdílet s nimi soubory či fotografie z vašeho zařízení. Pro sdílení klepněte na ikonu zástupce zařízení, kterému chcete položky odeslat.</string>
-    <string name="transfer_to_phone_summary_new">Pro rychlý a snadný přenos a příjem souborů zapněte Mi Share v Centru ovládání. Po zapnutí této funkce můžete sdílet položky se zařízeními ve vašem okolí po dobu %d minut. Poté bude tato funkce automaticky vypnuta.</string>
+    <string name="transfer_to_phone_summary">Xiaomi Share můžete zapnout klepnutím na přepínač v Oznamovací roletce. Po zapnutí budete moci najít viditelná zařízení v okolí a sdílet s nimi soubory či fotografie z vašeho zařízení. Pro sdílení klepněte na ikonu zástupce zařízení, kterému chcete položky odeslat.</string>
+    <string name="transfer_to_phone_summary_new">Pro rychlý a snadný přenos a příjem souborů zapněte Xiaomi Share v Centru ovládání. Po zapnutí této funkce můžete sdílet položky se zařízeními ve vašem okolí po dobu %d minut. Poté bude tato funkce automaticky vypnuta.</string>
     <string name="transfer_to_phone_title">Odeslání souborů do telefonu</string>
-    <string name="transfer_to_summary">Mi Share můžete zapnout klepnutím na přepínač v Oznamovací roletce. Po zapnutí budete moci najít viditelná zařízení v okolí a sdílet s nimi soubory či fotografie z vašeho zařízení. Pro sdílení klepněte na ikonu zástupce zařízení, kterému chcete položky odeslat.</string>
-    <string name="transfer_to_summary_new">Pro rychlý a snadný přenos a příjem souborů zapněte Mi Share v Centru ovládání. Po zapnutí této funkce můžete sdílet položky se zařízeními ve vašem okolí po dobu %d minut. Poté bude tato funkce automaticky vypnuta.</string>
+    <string name="transfer_to_summary">Xiaomi Share můžete zapnout klepnutím na přepínač v Oznamovací roletce. Po zapnutí budete moci najít viditelná zařízení v okolí a sdílet s nimi soubory či fotografie z vašeho zařízení. Pro sdílení klepněte na ikonu zástupce zařízení, kterému chcete položky odeslat.</string>
+    <string name="transfer_to_summary_new">Pro rychlý a snadný přenos a příjem souborů zapněte Xiaomi Share v Centru ovládání. Po zapnutí této funkce můžete sdílet položky se zařízeními ve vašem okolí po dobu %d minut. Poté bude tato funkce automaticky vypnuta.</string>
     <string name="transfer_to_title">Odesílání souborů do mobilních zařízení</string>
     <string name="tuesday">Úterý</string>
     <string name="tuesday_short">Úte</string>
@@ -519,8 +519,8 @@ Před použitím aplikace Mi Share musíte aplikaci udělit vyžadovaná oprávn
     <string name="unrecognized_manufacture">Neznámé</string>
     <string name="unrecognized_model">Neznámé zařízení</string>
     <string name="user_instructions">Upozornění</string>
-    <string name="uwb_guide_summary_1">Pokud nemůžete hledané zařízení najít, požádejte příjemce, aby klepnul na přepínač Mi Share v Centru ovládání.</string>
-    <string name="uwb_guide_title_1">Požádejte příjemce, aby zapnul Mi Share</string>
+    <string name="uwb_guide_summary_1">Pokud nemůžete hledané zařízení najít, požádejte příjemce, aby klepnul na přepínač Xiaomi Share v Centru ovládání.</string>
+    <string name="uwb_guide_title_1">Požádejte příjemce, aby zapnul Xiaomi Share</string>
     <string name="uwb_guide_title_2">Rychlejší nalezení cílového zařízení pomocí Beam</string>
     <string name="uwb_setting_guide">Zjistit více</string>
     <string name="uwb_setting_guide_summary">Beam využívá k bezdrátovému rozpoznávání cílových zařízení technologii UWB. Jakmile je cílové zařízení rozpoznáno, jeho ikona se objeví v popředí.</string>
@@ -542,7 +542,7 @@ Před použitím aplikace Mi Share musíte aplikaci udělit vyžadovaná oprávn
     <string name="wifi_is_not_enabled">Nejprve zapněte Wi-Fi</string>
     <string name="wifi_is_not_enabled_china">Nejprve zapněte Wi-Fi</string>
     <string name="withdraw">Odebrat</string>
-    <string name="withdraw_consent_message">Pokračováním odeberete souhlas se Zásadami ochrany osobních údajů pro služby Mi Share. Dříve shromážděné osobní údaje budou vymazány ve stanovené lhůtě v souladu s platnými zákony a předpisy, pokud není vyžadováno jinak. Protože služby Mi Share jsou založeny na základě shromažďování nezbytných osobních údajů, odebrání souhlasu bude považováno za odmítnutí přijetí služeb Mi Share.</string>
+    <string name="withdraw_consent_message">Pokračováním odeberete souhlas se Zásadami ochrany osobních údajů pro služby Xiaomi Share. Dříve shromážděné osobní údaje budou vymazány ve stanovené lhůtě v souladu s platnými zákony a předpisy, pokud není vyžadováno jinak. Protože služby Xiaomi Share jsou založeny na základě shromažďování nezbytných osobních údajů, odebrání souhlasu bude považováno za odmítnutí přijetí služeb Xiaomi Share.</string>
     <string name="withdraw_consent_title">Odebrání souhlasu</string>
     <string name="withdraw_with_time">Odebrat (%1$ds)</string>
     <string name="xiaomi">Mi</string>
@@ -596,4 +596,8 @@ Před použitím aplikace Mi Share musíte aplikaci udělit vyžadovaná oprávn
     <string name="yesterday">Včera</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+	<string name="international_privacy_dialog_agree">Souhlasím</string>
+	<string name="international_privacy_dialog_content">"Při používání této aplikace potřebujeme shromáždit potřebné informace, abychom se mohli připojit k zařízením a přenášet soubory. Pokud se rozhodnete tyto informace neposkytnout, nemusíme být schopni poskytnout vám s odpovídajícími službami nebo odpovědět na vaše dotazy můžete kdykoli podat žádost o odvolání vašeho souhlasu v části Ochrana osobních údajů > Odvolání souhlasu.“</string>
+	<string name="international_privacy_dialog_disagree">"Nesouhlasím"</string>
+	<string name="international_privacy_dialog_title">Xiaomi Share</string>
 </resources>

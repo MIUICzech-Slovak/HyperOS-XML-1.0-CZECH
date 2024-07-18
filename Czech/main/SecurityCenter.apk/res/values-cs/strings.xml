@@ -6569,4 +6569,84 @@ Super šetření baterie"</string>
       <string name="pc_low_temp_charge_title">Nabíjení při nízké teplotě</string>
       <string name="pc_power_mode_has_berserk">Je zapnutý Ultimátní režim</string>
       <string name="pc_satellite_auto_enter_super_power">Zapnuto Super šetření baterie, aby byla zajištěna satelitní komunikace</string>
+	  <string name="audio_optimization_summary_new">Optimalizace kvality zvuku sluchátek při hraní her a snížení hluku během hovorů</string>
+      <string name="cs_close_vt_camera_first_tips">"Tuto funkci nelze použít při používání kamery napříč zařízeními"</string>
+      <string name="cs_conversation_record_using">Nahrávání</string>
+      <string name="cs_func_unavailable_tips">Používejte tuto funkci během hovorů</string>
+      <string name="cs_light_enhance_physical_options">Teplota barev</string>
+      <string name="cs_light_enhance_physical_title">Jas</string>
+      <string name="cs_open_camera_first_tips">Chcete-li použít tuto funkci, otevřete Fotoaparát</string>
+      <string name="cs_privacy_camera_global_settings_title">Soukromí hovorů</string>
+      <string name="cs_tool_box_max_screen_guide_case_1">Vyzkoušejte simultánní tlumočení a další nástroje pro konferenční hovory v nové sadě nástrojů pro volání</string>
+      <string name="cs_tool_box_max_screen_guide_case_2">Vyzkoušejte řadu funkcí pro konferenční hovory v novém panelu nástrojů pro volání</string>
+      <string name="cs_tool_box_phone_guide_case_1">Vyzkoušejte simultánní tlumočení a další funkce v nové sadě nástrojů pro volání</string>
+      <string name="cs_tool_box_phone_guide_case_2">Vyzkoušejte řadu funkcí v nové sadě nástrojů pro volání</string>
+      <string name="cs_voice_print">Zaznamenat hlasový otisk</string>
+      <string name="cs_vt_camera_toast_case1">Otevřít fotoaparát v aktuální aplikaci</string>
+      <string name="cs_vt_camera_toast_case2">V okolí nejsou žádná kompatibilní zařízení</string>
+      <string name="ew_monitor_join">Zapojte se do programu sledování zemětřesení</string>
+      <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Nelze přepnout do vyváženého režimu ve hře Game Turbo, když je zapnutý režim Ultimate pro celý systém. Nastavení baterie můžete změnit v části Zabezpečení.&lt;br>&lt;a href=\" #\">Otevřít Zabezpečení&lt;/a></a></Data></string>
+      <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nelze přepnout do vyváženého režimu v Game Turbo, když je zapnutý režim Ultimate pro celý systém. Nastavení baterie můžete změnit v Zabezpečení. &lt;br>&lt;a href=\" #\">Otevřít Zabezpečení&lt;/a></a></Data></string>
+      <string name="gb_setting_dock_toast">Funkce asistenta přední kamery jsou nyní k dispozici v sadě nástrojů pro volání</string>
+      <string name="gb_setting_dock_toast_2">Funkce asistenta přední kamery jsou nyní k dispozici v sadě nástrojů pro volání</string>
+      <string name="gb_vision_enhance_frme_insertion_new_tips">"Vylepšená snímková frekvence
+%dFPS"</string>
+      <string name="gd_setting_dock_activity_title">Postranní panel nástrojů</string>
+      <string name="gd_setting_dock_call_summary">Funkce pro hlasové hovory a videohovory (např. podsvícení)</string>
+      <string name="gd_setting_dock_call_title">Soubor nástrojů pro volání</string>
+      <string name="gd_setting_dock_game_summary">Vylepšete zobrazení a výkon při hraní her</string>
+      <string name="gd_setting_dock_game_summary_new">Vylepšete zobrazení a výkon při hraní her</string>
+      <string name="gd_setting_dock_summary">Otevírat další aplikace v plovoucích oknech při používání aplikace na celou obrazovku</string>
+      <string name="gd_setting_dock_title">Postranní panel</string>
+      <string name="gd_setting_dock_video_summary">Při sledování videí používejte efekty, jako je Dolby Atmos</string>
+      <string name="gd_setting_dock_video_summary_new">Používejte nástroje a efekty při sledování videí</string>
+      <string name="gd_setting_group_custom_conversation_apps">Zaznamenat hlasový záznam pro hovory</string>
+      <string name="gd_setting_group_custom_gtb_apps_new">Správa herních aplikací</string>
+      <string name="gd_setting_group_custom_vtb_apps_new">Spravovat videoaplikace</string>
+      <string name="global_dock_guide_desc_pad">Stisknutím a podržením indikátoru můžete okno posouvat</string>
+      <string name="global_dock_guide_desc_with_split_screen_new">"· Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně.
+· Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně nebo do strany, chcete-li použít rozdělenou obrazovku.
+· Stisknutím a podržením indikátoru posunete okno."</string>
+      <string name="global_dock_guide_desc_without_split_screen_new">"Přejetím otevřete postranní panel a klepnutím na aplikaci ji otevřete v plovoucím okně.
+Stisknutím a podržením indikátoru posunete okno."</string>
+      <string name="pc_fast_charge_temp_remider">"Zapnutím nastavíte automatickou regulaci rychlosti nabíjení. Tato funkce funguje pouze s nabíječkami dodávanými Xiaomi. Vaše zařízení se může během nabíjení zahřívat."</string>
+      <string name="pc_smart_charge_button_summary">Aby se prodloužila životnost baterie, systém se naučí, jak nabíjet zařízení, a přestane nabíjet, když úroveň baterie dosáhne %1$s</string>
+      <string name="pc_smart_charge_notify_summary_high_temp">Vaše zařízení se zahřálo. Nabíjení bude zastaveno, jakmile úroveň baterie dosáhne %1$s</string>
+      <string name="pc_smart_charge_notify_summary_navagition">Probíhá navigace… Nabíjení bude zastaveno, jakmile úroveň baterie dosáhne %1$s</string>
+      <string name="pc_smart_charge_notify_summary_night_charge">Nabíjení se zastaví na %s</string>
+      <string name="pc_smart_charge_pogo_project_dialog_content">"Aby se prodloužila životnost baterie, baterie tohoto zařízení se při připojení k automobilu nepřekročí aktuální úroveň."</string>
+      <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Příště nezobrazovat"</string>
+      <string name="pc_smart_charge_pogo_project_dialog_title">Ochrana baterie</string>
+      <string name="pc_smart_charge_pogo_project_notification_content">„Aby se prodloužila životnost baterie, baterie tohoto zařízení nepřekročí aktuální úroveň, když je připojeno k autu“</string>
+      <string name="pc_smart_charge_pogo_project_notification_title">Ochrana baterie</string>
+      <string name="pc_smart_charge_title">Chytré nabíjení</string>
+      <string name="pc_this_time_charge_full">Tentokrát plně nabijte</string>
+      <string name="pc_this_time_charge_full_work">Téměř plně nabito</string>
+      <string name="performance_frame_enhance_super_display_tips">"Vylepšená snímková frekvence a super rozlišení nemohou fungovat současně. Zapnutím jedné z nich vypnete druhou."</string>
+      <string name="permission_risk_app_for_desc">Tato aplikace může představovat bezpečnostní rizika. Přesto udělit oprávnění?</string>
+      <string name="permission_risk_app_for_title">Zjištěna rizika</string>
+      <string name="permission_warning_for_cancel">Zrušit</string>
+      <string name="permission_warning_for_ensure">Udělit</string>
+      <string name="permission_warning_for_risk">Pokud se rozhodnete udělit oprávnění, budou se do aplikace vracet prázdné zprávy, aby bylo chráněno vaše soukromí.</string>
+      <string name="privacy_extra_provision_positive_btn">Souhlasím</string>
+      <string name="privacy_extra_provision_title">Rozšiřující služby</string>
+      <string name="privacy_provison_no_network">Nejprve se připojte k síti.</string>
+      <string name="search_keyword_apply">Aplikace</string>
+      <string name="search_keyword_applybar">Dok aplikace</string>
+      <string name="search_keyword_call">Volat</string>
+      <string name="search_keyword_sidebar">Postranní panel</string>
+      <string name="search_keyword_tool">Nástroje</string>
+      <string name="search_keyword_tools">Panel nástrojů</string>
+      <string name="search_keyword_voice">Hlas</string>
+      <string name="toast_gamembox_unenable_pad">Nejprve zapněte Game Turbo v Optimalizace</string>
+      <string name="toast_gamembox_unenable_phone">Nejprve zapněte Game Turbo v Optimalizace</string>
+      <string name="wakepath_manager_allow_list">Povoleno</string>
+      <string name="wakepath_manager_allow_start">Povoleno</string>
+      <string name="wakepath_manager_checkbox_desc">Povolit aplikaci %1$s spouštět další aplikace</string>
+      <string name="wakepath_manager_checkbox_title">Povolit spuštění řetězce</string>
+      <string name="wakepath_manager_empty_list">Žádné aplikace se nesmějí spouštět</string>
+      <string name="wakepath_manager_reject_list">Omezeno</string>
+      <string name="wakepath_manager_reject_toast">Vyhledejte v Nastavení \"Spravovat spuštění řetězce\" a povolte této aplikaci spouštět další aplikace</string>
+      <string name="warningcenter_accurate_area_title">Dotčená oblast</string>
+      <string name="warningcenter_disaster_service_area">Rozsah služby</string>
 </resources>

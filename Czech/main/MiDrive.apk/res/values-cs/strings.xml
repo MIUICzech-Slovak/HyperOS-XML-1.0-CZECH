@@ -1125,4 +1125,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
+	<string name="creation_dialog_message">Zobrazte plátna na tabletu.</string>
+	<string name="creation_dialog_positive_btn">Rozumím</string>
+	<string name="creation_dialog_title">Pozor</string>
 </resources>

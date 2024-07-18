@@ -435,4 +435,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
       <string name="toast_exit_silent_mode">Nahrávání je dokončeno. Tichý režim je vypnutý.</string>
       <string name="trash_delete">Odstranit</string>
 	  <string name="toast_stop">Nahrávání dokončeno</string>
+	  <string name="miuix_appcompat_cloud_state_encrypt_disabled">Zapněte komplexní ochranu pro synchronizaci položek</string>
 </resources>

@@ -684,4 +684,11 @@ d.MM."</string>
 	  <string name="alarm_permanent_alert">Zvoní</string>
 	  <string name="miuix_navigator_category_group_collapse">Sbalit</string>
 	  <string name="miuix_navigator_category_group_expand">Rozbalit</string>
+	  <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> minuta</string>
+     <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> minut</string>
+     <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> minut</string>
+     <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> minut</string>
+     <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> minut</string>
+     <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> minut</string>
+     <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> minut</string>
 </resources>

@@ -1392,4 +1392,12 @@ Dejte si pauzu!"</item>
          <item quantity="other">aplikace %s</item>
          <item quantity="one">aplikace %s</item>
       </plurals>
+	  <plurals name="gb_vision_enhance_desc_detail_new">
+         <item quantity="other">"Poznámka:
+· Vylepšený obraz nebude k dispozici, když je zapnutý Spořič baterie nebo je vaše zařízení přehřáté.
+· Vylepšená snímková frekvence ukazuje nejlepší výsledky, když je vaše hra nastavena na zobrazení alespoň %d snímků za sekundu."</item>
+         <item quantity="one">"Poznámka:
+· Vylepšený obraz nebude k dispozici, když je zapnutý Spořič baterie nebo je vaše zařízení přehřáté.
+· Vylepšená snímková frekvence ukazuje nejlepší výsledky, když je vaše hra nastavena tak, aby zobrazovala alespoň %d snímků za sekundu."</item>
+      </plurals>
 </resources>             

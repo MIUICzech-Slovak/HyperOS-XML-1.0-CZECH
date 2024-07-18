@@ -3262,4 +3262,14 @@ Zkuste vytvořit obrázek AI s různými fotografiemi."</string>
 	<string name="share_album_family_invite_default">Sdílet</string>
 	<string name="share_album_family_invite_title">Sdílet</string>
 	<string name="share_album_family_share_to_friend_and_family">Sdílet s přáteli a rodinou</string>
+	<string name="pic_to_pdf_install_dialog_content">Nainstalujte si aplikaci Mi Doc Viewer, abyste mohli generovat soubory PDF. Instalovat nyní?</string>
+	<string name="pic_to_pdf_install_dialog_positive">Instalovat</string>
+	<string name="pic_to_pdf_install_dialog_title">Instalovat Mi Doc Viewer</string>
+	<string name="pic_to_pdf_permission_dialog_content">"Povolte aplikaci Mi Doc Viewer přístup k fotkám a videím tohoto zařízení, aby bylo možné ukládat soubory PDF. Toto oprávnění můžete udělit v Nastavení."</string>
+	<string name="pic_to_pdf_permission_dialog_positive">Nastavení</string>
+	<string name="pic_to_pdf_permission_dialog_title">Vyžadována oprávnění</string>
+	<string name="pic_to_pdf_update_dialog_content">Aktualizujte Mi Doc Viewer na nejnovější verzi, abyste mohli generovat soubory PDF. Aktualizovat nyní?</string>
+	<string name="pic_to_pdf_update_dialog_positive">Aktualizovat</string>
+	<string name="pic_to_pdf_update_dialog_title">Aktualizovat aplikaci Mi Doc Viewer</string>
+	<string name="toast_pdf_create_failed">"Nelze vygenerovat. Zkuste to znovu."</string>
 </resources>

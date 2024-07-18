@@ -189,4 +189,28 @@
         <item quantity="other">%d nových upozornění</item>
         <item quantity="one">%d nové upozornění</item>
 	</plurals>
+	<plurals name="snooze_duration_minute">
+        <item quantity="other">Každou %1$d minutu</item>
+        <item quantity="one">Každých %1$d min</item>
+     </plurals>
+     <plurals name="snooze_duration_time">
+        <item quantity="other">Vypnout po %1$d</item>
+        <item quantity="one">Vypnout po %1$d</item>
+     </plurals>
+	 <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d hodin</item>
+        <item quantity="one">%1$d hodina</item>
+	 </plurals>		
+		<plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+    </plurals>
+	<plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+%1$d hodin</item>
+        <item quantity="one">+%1$d hodina</item>
+    </plurals>
+	<plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">-%1$d hodin</item>
+        <item quantity="one">-%1$d hodina</item>
+    </plurals>
 </resources>             
