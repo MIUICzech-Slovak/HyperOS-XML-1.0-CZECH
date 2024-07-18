@@ -6585,7 +6585,6 @@ Super šetření baterie"</string>
       <string name="cs_vt_camera_toast_case1">Otevřít fotoaparát v aktuální aplikaci</string>
       <string name="cs_vt_camera_toast_case2">V okolí nejsou žádná kompatibilní zařízení</string>
       <string name="ew_monitor_join">Zapojte se do programu sledování zemětřesení</string>
-      <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Nelze přepnout do vyváženého režimu ve hře Game Turbo, když je zapnutý režim Ultimate pro celý systém. Nastavení baterie můžete změnit v části Zabezpečení.&lt;br>&lt;a href=\" #\">Otevřít Zabezpečení&lt;/a></a></Data></string>
       <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nelze přepnout do vyváženého režimu v Game Turbo, když je zapnutý režim Ultimate pro celý systém. Nastavení baterie můžete změnit v Zabezpečení. &lt;br>&lt;a href=\" #\">Otevřít Zabezpečení&lt;/a></a></Data></string>
       <string name="gb_setting_dock_toast">Funkce asistenta přední kamery jsou nyní k dispozici v sadě nástrojů pro volání</string>
       <string name="gb_setting_dock_toast_2">Funkce asistenta přední kamery jsou nyní k dispozici v sadě nástrojů pro volání</string>
