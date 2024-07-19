@@ -5952,7 +5952,7 @@ Zkuste zvětšit rozlišení!"</string>
 	<string name="app_manager_as_dlg_msg_new">"Povolení automatického spuštění aplikace může zvýšit množství paměti a výdrž baterie, kterou využívá. HyperOS optimalizuje povolení automatického spuštění aplikací, které často nepoužíváte, aby se zlepšil výkon vašeho zařízení."</string >
 	<string name="auto_start_tips">"HyperOS optimalizuje povolení automatického spuštění aplikací, které často nepoužíváte, aby se zlepšil výkon zařízení."</string>
 	<string name="dialog_btn_yes_install_icon">Instalovat</string>
-	<string name="dialog_msg_install_manager_content">Chcete znovu nainstalovat zabezpečení?</string>
+	<string name="dialog_msg_install_manager_content">Chcete znovu nainstalovat Optimalizaci?</string>
 	<string name="gb_vision_enhance">Vylepšený vizuál</string>
 	<string name="gb_vision_enhance_desc">Zlepšení kvality obrazu a výkonu</string>
 	<string name="gb_vision_enhance_smart_frame_insertion">Inteligentní snímková frekvence</string>
@@ -5964,7 +5964,7 @@ Zkuste zvětšit rozlišení!"</string>
 	<string name="pc_no_more_remind">Nepřipomínat</string>
 	<string name="pc_wireless_charge_adjust_position_summary">Položte jej na bezdrátovou nabíječku</string>
 	<string name="pc_wireless_charge_adjust_position_title">Nabíjejte své zařízení rychleji</string>
-	<string name="support_app_name_securitycenter">Nástroje zabezpečení</string>
+	<string name="support_app_name_securitycenter">Nástroje Optimalizace</string>
 	<string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Tento efekt se použije pouze na oblast přehrávání videa.
 
 Tato funkce nefunguje s vylepšenými videi.
@@ -5987,7 +5987,7 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="app_management_for_install_desc">Zabránit této aplikaci ve stahování nebo instalaci jiných aplikací</string>
       <string name="app_management_measures">Správa aplikací</string>
       <string name="app_manager_thumbnail_shield_summary">Maskovat náhledy aplikací v nedávnéch aplikacích</string>
-      <string name="app_name_securitycenter_new">Zabezpečení</string>
+      <string name="app_name_securitycenter_new">Optimalizace</string>
       <string name="autostart_now_tip">"Zablokované otevření \"%1$s\" \"%2$s\" "</string>
       <string name="blur_location_title">Přibližná poloha</string>
       <string name="chainstart_desc_for_exemption">Nezkontrolovaná aplikace \"%1$s\" se otevírá \"%2$s\". Buďte opatrní při platbách.</string>
@@ -5999,12 +5999,12 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="gb_vision_enhance_frme_insertion_tips">"Inteligentní snímková frekvence
 %dFPS"</string>
       <string name="input_hint_search_app">Vyhledávání aplikací</string>
-      <string name="overlay_permission_dialog_comment">Povolte zabezpečení zobrazovat položky přes jiné aplikace.</string>
-      <string name="overlay_permission_dialog_comment_pad">Povolte zabezpečení zobrazovat položky přes jiné aplikace.</string>
-      <string name="overlay_permission_dialog_comment_security_service">Povolit \"Nástrojům zabezpečení\" zobrazovat položky přes jiné aplikace. Toto povolení můžete udělit v Nastaveních.</string>
-      <string name="overlay_permission_dialog_message">Zabezpečení potřebuje oprávnění, aby mohlo normálně fungovat.</string>
-      <string name="overlay_permission_dialog_message_pad">Zabezpečení potřebuje oprávnění, aby mohlo normálně fungovat.</string>
-      <string name="overlay_permission_dialog_message_security_service">Zabezpečení potřebuje k normálnímu fungování určitá povolení.</string>
+      <string name="overlay_permission_dialog_comment">Povolte Optimalizaci zobrazovat položky přes jiné aplikace.</string>
+      <string name="overlay_permission_dialog_comment_pad">Povolte Optimalizaci zobrazovat položky přes jiné aplikace.</string>
+      <string name="overlay_permission_dialog_comment_security_service">Povolit \"Nástrojům Optimalizace\" zobrazovat položky přes jiné aplikace. Toto povolení můžete udělit v Nastaveních.</string>
+      <string name="overlay_permission_dialog_message">Optimalizace potřebuje oprávnění, aby mohlo normálně fungovat.</string>
+      <string name="overlay_permission_dialog_message_pad">Optimalizace potřebuje oprávnění, aby mohlo normálně fungovat.</string>
+      <string name="overlay_permission_dialog_message_security_service">Optimalizace potřebuje k normálnímu fungování určitá povolení.</string>
       <string name="overlay_permission_dialog_open">Nastavení</string>
       <string name="overlay_permission_dialog_title">Jsou vyžadována povolení</string>
       <string name="precise_location_title">Přesná poloha</string>
@@ -6101,7 +6101,7 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="HIPS_Perm_Intl_group_name_contact">Kontakty</string>
       <string name="HIPS_Perm_process_outgoing_calls">Přístup k aplikaci Telefon</string>
       <string name="about_securitycenter_phne">Horká linka služeb zákazníkům: 400–100–5678</string>
-      <string name="about_securitycenter_title">O zabezpečení</string>
+      <string name="about_securitycenter_title">O Optimalizaci</string>
       <string name="app_manager_permission_backgroundstart_title">Automatické spuštění na pozadí</string>
       <string name="app_manager_systemapp_setting">Nastavení systémové aplikace</string>
       <string name="auto_start_cancel">Zrušit</string>
@@ -6585,7 +6585,7 @@ Super šetření baterie"</string>
       <string name="cs_vt_camera_toast_case1">Otevřít fotoaparát v aktuální aplikaci</string>
       <string name="cs_vt_camera_toast_case2">V okolí nejsou žádná kompatibilní zařízení</string>
       <string name="ew_monitor_join">Zapojte se do programu sledování zemětřesení</string>
-      <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nelze přepnout do vyváženého režimu v Game Turbo, když je zapnutý režim Ultimate pro celý systém. Nastavení baterie můžete změnit v Zabezpečení. &lt;br>&lt;a href=\"#\">Otevřít Zabezpečení&lt;/a>"</Data></string>
+      <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nelze přepnout do vyváženého režimu v Game Turbo, když je zapnutý režim Ultimate pro celý systém. Nastavení baterie můžete změnit v Optimalizace. &lt;br>&lt;a href=\"#\">Otevřít Optimalizace&lt;/a>"</Data></string>
       <string name="gb_setting_dock_toast">Funkce asistenta přední kamery jsou nyní k dispozici v sadě nástrojů pro volání</string>
       <string name="gb_setting_dock_toast_2">Funkce asistenta přední kamery jsou nyní k dispozici v sadě nástrojů pro volání</string>
       <string name="gb_vision_enhance_frme_insertion_new_tips">"Vylepšená snímková frekvence
