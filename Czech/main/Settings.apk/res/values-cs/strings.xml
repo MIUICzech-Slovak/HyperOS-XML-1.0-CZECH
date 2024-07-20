@@ -8419,4 +8419,5 @@ Použití připnutí aplikace: \u0009
       <string name="photography_handle_title">Fotografický grip</string>
 	  <string name="rhythmic_mode_enable_summary">Dosáhněte optimálního pohodlí automatickým nastavením barev na základě typů aplikací a časů východu/západu slunce</string>
 	  <string name="rhythmic_mode_enable_title">Cyklus</string>
+	  <string name="parental_control_title">Rodičovská kontrola</string>
 </resources>

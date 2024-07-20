@@ -171,4 +171,5 @@
 	<string name="operation_redo">Znovu</string>
 	<string name="operation_undo">Zpět</string>
 	<string name="refocus_relighting_dianying">Film</string>
+	<string name="acc_refocus_slider">Úprava rozostření pozadí. Aktuální úroveň: %s</string>
 </resources>

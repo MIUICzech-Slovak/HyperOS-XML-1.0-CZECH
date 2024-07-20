@@ -1144,4 +1144,5 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
       <string name="background_install_task_create">Instalace \"%1$s\"</string>
       <string name="background_install_task_create_failed">"Nelze nainstalovat"</string>
       <string name="background_install_task_create_failed_already_new">"Nelze nainstalovat. Používáte nejnovější verzi."</string>
+	  <string name="app_installing_not_allow_2">Instalace byla zablokována. Chcete-li změnit své předvolby, vyhledejte ve vyhledávání v Nastavení \"Instalace neznámých aplikací\".</string>
 </resources>

@@ -729,4 +729,6 @@ http://www.HyperOS.cz/rom
 	<string name="add_text_excerpt_summary">Přidat textový souhrn</string>
 	<string name="ai_createing_text">AI generování...</string>
 	<string name="to_be_read_text_list">Textový souhrn</string>
+	<string name="excerpt_ares_block">Vícenásobná porušení a funkce byly zakázány.</string>
+	<string name="excerpt_ares_block_tmp">Vícenásobné porušení, funkce je dočasně zakázána.</string>
 </resources>

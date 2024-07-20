@@ -1098,4 +1098,5 @@ To může způsobit dodatečné poplatky."</string>
     <string name="surprise_wallpaper_prompts_send_succeed">Úspěšně uloženo!</string>
     <string name="surprise_wallpaper_prompts_sending">Odesílání vašich předvoleb…</string>
     <string name="wallpaper_creator_empty_dlg_content">Jednoduché kroky, okamžitá tvorba. Importujte ručně nakreslený obrázek/jiný obrázek, zadejte několik výzev a okamžitě vygenerujte čtyři stylizované obrázky tapety prostřednictvím velkých modelů AI. Vyberte ten, který vám nejvíce vyhovuje, a uložte jej do alba.</string>
+	<string name="surprise_wallpaper_can_not_support_tip">Vaše zařízení tuto funkci v současnosti nepodporuje!</string>
 </resources>
