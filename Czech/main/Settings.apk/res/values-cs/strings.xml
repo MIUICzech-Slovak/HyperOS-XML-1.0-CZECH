@@ -8420,4 +8420,30 @@ Použití připnutí aplikace: \u0009
 	  <string name="rhythmic_mode_enable_summary">Dosáhněte optimálního pohodlí automatickým nastavením barev na základě typů aplikací a časů východu/západu slunce</string>
 	  <string name="rhythmic_mode_enable_title">Cyklus</string>
 	  <string name="parental_control_title">Rodičovská kontrola</string>
+	  <string name="miui_sos_around_photo_summary">Připojte %d fotografii z předního a zadního fotoaparátu k textové zprávě odeslané vašim nouzovým kontaktům</string>
+	  <string name="miui_sos_around_photo_title">Připojit fotografie</string>
+	  <string name="miui_sos_around_voice_summary">Připojte %dsekundový zvukový záznam k textové zprávě odeslané vašim nouzovým kontaktům</string>
+	  <string name="miui_sos_around_voice_title">Připojit %d-sekundový zvuk</string>
+	  <string name="miui_sos_call_fire">Spustit</string>
+	  <string name="miui_sos_call_hospital">Ambulance</string>
+	  <string name="miui_sos_call_police">Policie</string>
+	  <string name="miui_sos_emergency_title">Nouzové SOS</string>
+	  <string name="miui_sos_exit_emergency_title">Vypnout</string>
+	  <string name="miui_sos_exit_send_location_title">Sdílení polohy s nouzovými kontakty v reálném čase</string>
+	  <string name="miui_sos_hospital_card">Zdravotní průkaz</string>
+	  <string name="miui_sos_hospital_card_important_info">Vaše důležité zdravotní informace pro první zasahující pracovníky</string>
+	  <string name="miui_sos_unknow_contract">Neznámý kontakt</string>
+	  <string name="sos_privacy_dialog_message_old_version">"Nouzové SOS umožňuje sdílet svou polohu v reálném čase a odesílat textové zprávy nouzovým kontaktům.
+Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásadami ochrany osobních údajů.
+Upozorňujeme, že tato aplikace se potřebuje připojit k internetu a ke shromažďování vašich osobních údajů vyžaduje následující oprávnění:
+• Přístup k úložišti
+Pro uložení nouzových kontaktů
+• Přístup ke kontaktům
+Pro označení kontaktů jako nouzové kontakty
+• Odesílání SMS
+Pro odesílání textových zpráv nouzovým kontaktům
+• Přístup k poloze
+Pro sdílení vaší polohy s nouzovými kontakty
+Pokud nesouhlasíte s udělením takových oprávnění nebo se sdílením a nahráváním svých osobních údajů, nebudete moci tuto aplikaci používat. V takových případech můžete nouzové SOS vypnout nebo nepoužívat.
+Před použitím našich služeb si přečtěte a odsouhlaste naše %s."</string>
 </resources>
