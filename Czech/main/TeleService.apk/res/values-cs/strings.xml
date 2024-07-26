@@ -2067,4 +2067,5 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
 	<string name="mobile_geo_location_config_summary">Označte místa, kde dochází k abnormalitám síťového signálu, abyste zlepšili kvalitu hovoru</string>
 	<string name="mobile_geo_location_config_title">Optimalizace sítě s pevným bodem</string>
 	<string name="mobile_settings_screen_title">Mobilní data</string>
+	<string name="wfcmode_ims_preferred">Preferovat IMS</string>
 </resources>
