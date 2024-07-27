@@ -52,37 +52,10 @@
         <item>Synchronizace dat aplikace</item>
         <item>Najít zařízení</item>
     </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
-        <item>Pro identifikaci vašeho zařízení</item>
-        <item>Pro získání polohy vašeho zařízení</item>
-    </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm_desc">
-        <item>Pro synch. událostí</item>
-        <item>Pro synch. zpráv</item>
-        <item>Pro synch. zpráv</item>
-        <item>Pro synch. kontaktů</item>
-        <item>Pro synch. kontaktů</item>
-        <item>Pro ukládání souborů do vašeho zařízení</item>
-    </string-array>
-    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
-        <item>Pro identifikaci vašeho zařízení</item>
-        <item>Pro získání polohy vašeho zařízení</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>Pro synch. událostí</item>
-        <item>Pro synch. zpráv</item>
-        <item>Pro synch. zpráv</item>
-        <item>Pro synch. kontaktů</item>
-        <item>Pro synch. kontaktů</item>
-        <item>Pri ukládání souborů do vašeho zařízení</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_title">
-        <item>Přístup k událostem</item>
-        <item>Odeslat SMS</item>
-        <item>Číst MMS</item>
-        <item>Přístup ke kontaktům</item>
-        <item>Upravit kontakty</item>
-        <item>Přístup k souborům v zařízení</item>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Pro určení polohy vašeho zařízení a přepnutí do režimu Ztráty zařízení</item>
+        <item>Pro určení polohy zařízení, pokud zařízení není připojeno k internetu</item>
+        <item>Pro přístup k telefonnímu číslu za účelem určení polohy zařízení, pokud zařízení není připojeno k internetu</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Zálohy</item>
@@ -128,11 +101,6 @@
         <item>Synchronizace galerie s Xiaomi Cloudem</item>
         <item>Zapněte/nastavte synchronizaci</item>
         <item>Galerie;Fotky;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>Synchronizace hudby s Xiaomi Cloudem</item>
-        <item>Zapněte synchronizaci</item>
-        <item>Music;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
         <item>Synchronizace poznámek s Xiaomi Cloudem</item>
@@ -213,6 +181,43 @@
         <item>Synchr. Wi-Fi nastavení s Xiaomi Cloudem</item>
         <item>Povolit synchr.</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Pro identifikaci vašeho zařízení</item>
+        <item>Pro získání polohy vašeho zařízení</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Pro synch. událostí</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro ukládání souborů do vašeho zařízení</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Pro identifikaci vašeho zařízení</item>
+        <item>Pro získání polohy vašeho zařízení</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Pro synch. událostí</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pri ukládání souborů do vašeho zařízení</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Přístup k událostem</item>
+        <item>Odeslat SMS</item>
+        <item>Číst MMS</item>
+        <item>Přístup ke kontaktům</item>
+        <item>Upravit kontakty</item>
+        <item>Přístup k souborům v zařízení</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Synchronizace hudby s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Music;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Zobrazit synchr. položky</item>

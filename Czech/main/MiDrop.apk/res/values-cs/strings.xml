@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Perm_External_Storage">Přístup a změna souborů na úložišti</string>
     <string name="HIPS_Perm_Location">Získat polohu</string>

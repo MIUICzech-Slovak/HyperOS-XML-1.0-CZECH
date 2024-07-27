@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acousticguitar">Akustická kytara</string>
     <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
@@ -142,7 +142,7 @@
     <string name="file_sending">Přenos souborů...</string>
     <string name="fingerprint_double_tap">Dvakrát klepněte na snímač otisků prstů</string>
     <string name="fireflies">Světlušky</string>
-    <string name="first_back_long_press_message">"Chcete ukončovat aktivní aplikace dlouhým stiskem klávesy Zpět? \nFunkci zapnete v Nastavení systému &gt; Tlačítka"</string>
+    <string name="first_back_long_press_message">"Chcete ukončovat aktivní aplikace dlouhým stiskem klávesy Zpět? \nFunkci zapnete v Nastavení systému > Tlačítka"</string>
     <string name="flip_screen_camera_tip">Pro používání fotoaparátu otočte zařízení</string>
     <string name="flute">Flétna</string>
     <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
@@ -150,7 +150,7 @@
     <string name="force_exit_message">Aplikace \"%1$s\" byla úspěšně ukončena"</string>
     <string name="force_exit_skip_message">%1$s je systémová aplikace a nemůže být ukončena.</string>
     <string name="fourhours">2 hodiny</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Můžete se vrátit na domácí plochu podržením tlačítka Domů. Můžete si nastavit návrat na domácí plochu jen stiskem tlačítka Domů. Tuto funkci můžete nastavit v Nastavení &gt; Další nastavení &gt; Tlačítka.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Můžete se vrátit na domácí plochu podržením tlačítka Domů. Můžete si nastavit návrat na domácí plochu jen stiskem tlačítka Domů. Tuto funkci můžete nastavit v Nastavení > Další nastavení > Tlačítka.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, děkuji.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upravit</string>
     <string name="fp_nav_center_action_choose_dlg_title">Upravit tlačítko Domů</string>
@@ -510,26 +510,26 @@
     <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
     <string name="xspace_head">Klonovaná aplikace</string>
     <string name="xspace_resolver_activity_title">Vybrat apl.</string>
-	<string name="hovermode_text_confirm">Rozumím</string>
-      <string name="hovermode_text_doubleclick">Dvojitým klepnutím pozastavíte/přehrajete</string>
-      <string name="hovermode_text_drag">Posunutím přiblížíte</string>
-      <string name="hovermode_text_help">Nápověda</string>
-      <string name="hovermode_text_left">Upravit jas</string>
-      <string name="hovermode_text_prompt">Když je zapnut režim vznášení, používejte gesta v dolní polovině obrazovky. Mezi aplikacemi mohou existovat rozdíly.</string>
-      <string name="hovermode_text_right">Upravte hlasitost</string>
-      <string name="no_avaliable_application">Nejsou k dispozici žádné aplikace</string>
-      <string name="open_system_optimization">Nejprve zapněte optimalizaci systému</string>
-      <string name="tof_music_support_scene_des">Podporuje ovládací prvky přehrávače hudby</string>
-      <string name="tof_office_support_scene_des">Podporuje dokumenty aplikace Word a prezentace aplikace PowerPoint</string>
-      <string name="tof_short_video_support_scene_des">Podporuje přepínání mezi videi</string>
-      <string name="tof_video_support_scene_des">Podporuje ovládání přehrávače videa na celou obrazovku</string>
-      <string name="wallpaper_geometrically_irregular_title">Abstraktní geometrie</string>
-      <string name="wallpaper_neon_title">Neon</string>
-      <string name="wallpaper_overlapping_space_title">Tvar a stín</string>
-      <string name="wallpaper_submerged_wing_title">Textury</string>
-	  <string name="wallpaper_floral_arrangement_title">Květinové aranžmá</string>
-     <string name="wallpaper_gradient_title">Přechod</string>
-	 <string name="softap_stat_toast">Hotspot je zapnutý</string>
-	 <string name="car_share_return_status">"Nelze odeslat"</string>
-	<string name="car_share_view_content">Odeslat uživateli %s</string>
+    <string name="hovermode_text_confirm">Rozumím</string>
+    <string name="hovermode_text_doubleclick">Dvojitým klepnutím pozastavíte/přehrajete</string>
+    <string name="hovermode_text_drag">Posunutím přiblížíte</string>
+    <string name="hovermode_text_help">Nápověda</string>
+    <string name="hovermode_text_left">Upravit jas</string>
+    <string name="hovermode_text_prompt">Když je zapnut režim vznášení, používejte gesta v dolní polovině obrazovky. Mezi aplikacemi mohou existovat rozdíly.</string>
+    <string name="hovermode_text_right">Upravte hlasitost</string>
+    <string name="no_avaliable_application">Nejsou k dispozici žádné aplikace</string>
+    <string name="open_system_optimization">Nejprve zapněte optimalizaci systému</string>
+    <string name="tof_music_support_scene_des">Podporuje ovládací prvky přehrávače hudby</string>
+    <string name="tof_office_support_scene_des">Podporuje dokumenty aplikace Word a prezentace aplikace PowerPoint</string>
+    <string name="tof_short_video_support_scene_des">Podporuje přepínání mezi videi</string>
+    <string name="tof_video_support_scene_des">Podporuje ovládání přehrávače videa na celou obrazovku</string>
+    <string name="wallpaper_geometrically_irregular_title">Abstraktní geometrie</string>
+    <string name="wallpaper_neon_title">Neon</string>
+    <string name="wallpaper_overlapping_space_title">Tvar a stín</string>
+    <string name="wallpaper_submerged_wing_title">Textury</string>
+    <string name="wallpaper_floral_arrangement_title">Květinové aranžmá</string>
+    <string name="wallpaper_gradient_title">Přechod</string>
+    <string name="softap_stat_toast">Hotspot je zapnutý</string>
+    <string name="car_share_return_status">"Nelze odeslat"</string>
+    <string name="car_share_view_content">Odeslat uživateli %s</string>
 </resources>

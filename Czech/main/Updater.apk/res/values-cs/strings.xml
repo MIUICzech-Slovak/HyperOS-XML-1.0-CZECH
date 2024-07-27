@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Aktualizace</string>
     <string name="battery_islow">Připojte nabíječku</string>
@@ -80,6 +80,6 @@ Vaše data budou zachována."</string>
     <string name="version">Nainstalovaná verze</string>
     <string name="weekly">Týdenní</string>
     <string name="wifi_recommended">Připojte se k Wi-fi sítí pro stažení aktualizace!</string>
-	<string name="fastboot_desc">Zařízení se restartuje do Fastboot režimu. Pokračovat?</string>
-	<string name="menu_title_fastboot">Restartovat do Fastboot režimu</string>
+    <string name="fastboot_desc">Zařízení se restartuje do Fastboot režimu. Pokračovat?</string>
+    <string name="menu_title_fastboot">Restartovat do Fastboot režimu</string>
 </resources>

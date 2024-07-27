@@ -29,6 +29,12 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%dsekundový časovač pro Noční režim</item>
+        <item quantity="one">%dsekundový časovač pro Noční režim</item>
+        <item quantity="few">%dsekundový časovač pro Noční režim</item>
+        <item quantity="many">%dsekundový časovač pro Noční režim</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Zaostřeno. Nalezeno %d tváří.</item>
         <item quantity="one">Zaostřeno. Nalezena %d tvář.</item>
@@ -49,10 +55,6 @@
         <item quantity="other">Můžete vytvořit najednou maximálně %d klonů.</item>
         <item quantity="one">Můžete vytvořit najednou maximálně %d klon.</item>
     </plurals>
-    <plurals name="delete_selection">
-        <item quantity="other">Vymazat zvolené položky?</item>
-        <item quantity="one">Vymazat zvolenou položku?</item>
-    </plurals>
     <plurals name="exit_camera_hint">
         <item quantity="other">"&lt;Data>"Nelze se připojit k fotoaparátu.&lt;br>Tato aplikace bude zavřena za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Potom počkejte minutu nebo dvě a zkuste to znovu."&lt;/Data>"</item>
         <item quantity="one">"&lt;Data>"Nelze se připojit ke kameře.&lt;br>Tato aplikace bude zavřena za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Potom počkejte minutu nebo dvě a zkuste to znovu."&lt;/Data>"</item>
@@ -60,6 +62,12 @@
     <plurals name="exit_thermal_hint">
         <item quantity="other">&lt;Data>Toto zařízení je nyní příliš horké.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuální průběh se automaticky uložil.&lt;/Data></item>
         <item quantity="one">&lt;Data>Toto zařízení je nyní příliš horké.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt;/font>. Aktuální průběh se automaticky uložil.&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
     </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$dmin</item>
@@ -124,52 +132,44 @@
         <item quantity="other">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
         <item quantity="one">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
     </plurals>
-	<plurals name="exo_controls_fastforward_by_amount_description">
+    <plurals name="delete_selection">
+        <item quantity="other">Vymazat zvolené položky?</item>
+        <item quantity="one">Vymazat zvolenou položku?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Rychle vpřed o %d sekund</item>
         <item quantity="one">Rychle dopředu o %d sekundu</item>
-	</plurals>
-	<plurals name="exo_controls_rewind_by_amount_description">
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Přetočit dozadu %d sekundy</item>
         <item quantity="one">Přetočení o %d sekundu dozadu</item>
-	</plurals>
-	<plurals name="mtrl_badge_content_description">
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nových upozornění</item>
         <item quantity="one">%d nové upozornění</item>
-	</plurals>
-	<plurals name="accessibility_auto_night_tip">
-        <item quantity="other">%dsekundový časovač pro Noční režim</item>
-        <item quantity="one">%dsekundový časovač pro Noční režim</item>
-        <item quantity="few">%dsekundový časovač pro Noční režim</item>
-        <item quantity="many">%dsekundový časovač pro Noční režim</item>
-     </plurals>
-     <plurals name="cinemaster_toast_camera_overflow">
+    </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
         <item quantity="other">Ke stejné síti můžete připojit max. %d fotoaparátů</item>
         <item quantity="one">Ke stejné síti můžete připojit max. %d fotoaparát</item>
         <item quantity="few">Ke stejné síti můžete připojit max. %d fotoaparáty</item>
         <item quantity="many">Ke stejné síti můžete připojit max. %d fotoaparátu</item>
-     </plurals>
-     <plurals name="cinemaster_toast_monitor_overflow">
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
         <item quantity="other">Ke stejné síti můžete připojit max. %d monitorů</item>
         <item quantity="one">Ke stejné síti můžete připojit max. %d monitor</item>
         <item quantity="few">Ke stejné síti můžete připojit max. %d monitory</item>
         <item quantity="many">Ke stejné síti můžete připojit max. %d monitoru</item>
-     </plurals>
-     <plurals name="exit_version_hint">
-        <item quantity="other">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
-        <item quantity="few">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
-        <item quantity="many">&lt;Data>Verze fotoaparátu, kterou používáte, není kompatibilní s modelem vašeho zařízení.&lt;br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b>&lt;/font>. Odinstalujte aktualizace fotoaparátu a zkuste to znovu.&lt;/Data></item>
-     </plurals>
-     <plurals name="friend_mode_display_first_dialog">
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
         <item quantity="other">Je zapnutý časovač (%1$d s). Fotografie se přenesou do tohoto zařízení.</item>
         <item quantity="one">Je zapnutý časovač (%1$d s). Fotografie se přenesou do tohoto zařízení.</item>
         <item quantity="few">Je zapnutý časovač (%1$d s). Fotografie se přenesou do tohoto zařízení.</item>
         <item quantity="many">Je zapnutý časovač (%1$d s). Fotografie se přenesou do tohoto zařízení.</item>
-     </plurals>
-     <plurals name="manual_picture_style_desc_custom_add_max">
+    </plurals>
+    <plurals name="manual_picture_style_desc_custom_add_max">
         <item quantity="other">Přidejte max. %d předvoleb</item>
         <item quantity="one">Přidejte max. %d předvolbu</item>
         <item quantity="few">Přidejte max. %d předvolby</item>
         <item quantity="many">Přidejte max. %d předvolby</item>
-     </plurals>
-</resources>             
+    </plurals>
+</resources>

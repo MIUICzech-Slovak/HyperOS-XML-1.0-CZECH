@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Před hodinou</item>
@@ -80,12 +79,14 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Označeno jako %2$s %1$d lidmi</item>
+        <item quantity="one">Označeno jako %2$s %1$d člověkem</item>
+        <item quantity="few">Označeno jako %2$s %1$d lidmi</item>
+        <item quantity="many">Označeno jako %2$s %1$d člověka</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">SMS: %1$s</item>
@@ -103,6 +104,18 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Odebrat (%d s)</item>
+        <item quantity="one">Odebrat (%d s)</item>
+        <item quantity="few">Odebrat (%d s)</item>
+        <item quantity="many">Odebrat (%d s)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Obdrželi jste pozvání do %d skupinových konverzací</item>
+        <item quantity="one">Obdrželi jste pozvání do %d skupinové konverzace</item>
+        <item quantity="few">Obdrželi jste pozvání do %d skupinových konverzací</item>
+        <item quantity="many">Obdrželi jste pozvání do %d skupinové konverzace</item>
+    </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Lidí: %1$s</item>
         <item quantity="one">Lidí: 1</item>
@@ -110,6 +123,12 @@
     <plurals name="search_results_title">
         <item quantity="other">%1$s výsledků na dotaz „%2$s”</item>
         <item quantity="one">%1$s výsledek na dotaz „%2$s”</item>
+    </plurals>
+    <plurals name="select_duration_time">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekundy</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Odeslaných: %1$s SMS</item>
@@ -137,4 +156,8 @@
         <item quantity="other">Adresátů: %d</item>
         <item quantity="one">Adresátů: %d</item>
     </plurals>
-</resources>             
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+</resources>

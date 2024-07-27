@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Přejít na plochu</string>
     <string name="abc_action_bar_up_description">Přejít nahoru</string>
@@ -211,11 +211,11 @@
     <string name="ongoing_usage_dialog_title">Aplikace používající vaše údaje: %s</string>
     <string name="orb_search_action">Akce vyhledávání</string>
     <string name="other_permissions">Ostatní oprávnění aplikace</string>
-    <string name="permgrouprequest_storage_isolated">Povolit aplikaci &lt;b&gt;%1$s&lt;/b&gt; přístup k fotkám a mediálnímu obsahu v zařízení?</string>
+    <string name="permgrouprequest_storage_isolated">Povolit aplikaci &lt;b>%1$s&lt;/b> přístup k fotkám a mediálnímu obsahu v zařízení?</string>
     <string name="permission_access_always">Povolit vždy</string>
     <string name="permission_access_never">Zakázat</string>
     <string name="permission_access_only_foreground">Povolit jen při používání</string>
-    <string name="permission_add_background_warning_template">Vždy povolit aplikaci &lt;b&gt;%1$s&lt;/b&gt; %2$s?</string>
+    <string name="permission_add_background_warning_template">Vždy povolit aplikaci &lt;b>%1$s&lt;/b> %2$s?</string>
     <string name="permission_description_summary_activity_recognition">Aplikace s tímto oprávněním mají přístup k vaší fyzické aktivitě, jako je chůze, jízda na kole, jízda autem, počet kroků a další</string>
     <string name="permission_description_summary_calendar">Aplikace s tímto oprávněním mají přístup ke kalendáři</string>
     <string name="permission_description_summary_call_log">Aplikace s tímto oprávněním mohou číst a zapisovat do seznamu hovorů v telefonu</string>
@@ -230,8 +230,8 @@
     <string name="permission_description_summary_storage">Aplikace s tímto oprávněním mají přístup k fotkám, médiím a souborům v zařízení</string>
     <string name="permission_reminders">Připomenutí o oprávněních</string>
     <string name="permission_request_title">Žádost o oprávnění</string>
-    <string name="permission_review_title_template_install">Určete, k čemu aplikaci &lt;b&gt;%1$s&lt;/b&gt; povolíte přístup</string>
-    <string name="permission_review_title_template_update">Aplikace &lt;b&gt;%1$s&lt;/b&gt; byla aktualizována. Určete, k čemu jí povolíte přístup.</string>
+    <string name="permission_review_title_template_install">Určete, k čemu aplikaci &lt;b>%1$s&lt;/b> povolíte přístup</string>
+    <string name="permission_review_title_template_update">Aplikace &lt;b>%1$s&lt;/b> byla aktualizována. Určete, k čemu jí povolíte přístup.</string>
     <string name="permission_revoked_all">vše zakázáno</string>
     <string name="permission_revoked_count">zakázáno (%1$d)</string>
     <string name="permission_revoked_none">nic nezakázáno</string>
@@ -272,7 +272,7 @@ Poslední přístup na pozadí"</string>
 Poslední přístup při použití aplikace"</string>
     <string name="permission_usage_title">Panel</string>
     <string name="permission_usage_view_details">Zobrazit vše na panelu</string>
-    <string name="permission_warning_template">Povolit aplikaci &lt;b&gt;%1$s&lt;/b&gt; %2$s?</string>
+    <string name="permission_warning_template">Povolit aplikaci &lt;b>%1$s&lt;/b> %2$s?</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="request_role_current_default">Aktuálně výchozí</string>
     <string name="request_role_dont_ask_again">Příště se neptat</string>
@@ -320,7 +320,7 @@ Poslední přístup při použití aplikace"</string>
     <string name="role_sms_request_title">Nastavit %1$s jako výchozí aplikaci pro SMS?</string>
     <string name="role_sms_short_label">Aplikace pro SMS</string>
     <string name="screen_overlay_button">Otevřít nastavení</string>
-    <string name="screen_overlay_message">Chcete-li změnit nastavení tohoto oprávnění, v Nastavení &gt; Aplikace je třeba nejprve vypnout překryvnou vrstvu obrazovky</string>
+    <string name="screen_overlay_message">Chcete-li změnit nastavení tohoto oprávnění, v Nastavení > Aplikace je třeba nejprve vypnout překryvnou vrstvu obrazovky</string>
     <string name="screen_overlay_title">Byla zjištěna překryvná vrstva obrazovky</string>
     <string name="search_menu">Prohledat nastavení</string>
     <string name="search_menu_title">Hledat</string>

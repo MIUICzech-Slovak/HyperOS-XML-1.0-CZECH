@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_call_muted">Hovor ztišen</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Funkce je experimentální a může mít vliv na výkon.</string>

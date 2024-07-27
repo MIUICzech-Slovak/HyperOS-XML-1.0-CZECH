@@ -1,20 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Přidat časté fráze</string>
+    <string name="call_notification_answer_action">Přijmout</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Odmítnout</string>
+    <string name="call_notification_hang_up_action">Zavěsit</string>
+    <string name="call_notification_incoming_text">Příchozí hovor</string>
+    <string name="call_notification_ongoing_text">Probíhající hovor</string>
+    <string name="call_notification_screening_text">Prověřování příchozího hovoru</string>
+    <string name="edit_frequent_phrases">Upravit fráze</string>
+    <string name="frequent_phrases">Časté fráze</string>
+    <string name="query">Dotaz</string>
+    <string name="select">Vybrat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="app_name">Časté fráze</string>
     <string name="call">Hovor</string>
-    <string name="edit_frequent_phrases">Upravit fráze</string>
     <string name="floating_toolbar_close_overflow_description">Zavřít</string>
     <string name="floating_toolbar_open_overflow_description">Více nastavení</string>
-    <string name="frequent_phrases">Časté fráze</string>
     <string name="google_call">Hovor</string>
     <string name="google_email">Email</string>
     <string name="google_map">Mapa</string>
     <string name="google_open">Otevřít</string>
     <string name="google_translate">Přeložit</string>
     <string name="open">Prohlížet</string>
-    <string name="query">Dotaz</string>
-    <string name="select">Vybrat</string>
     <string name="translate">Přeložit</string>
     <string name="translation_more">Více</string>
     <string name="translation_query_error">Nic se nenašlo</string>

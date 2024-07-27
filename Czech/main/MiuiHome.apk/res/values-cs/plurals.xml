@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Před hodinou</item>
@@ -37,18 +36,6 @@
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s nepřečtených z %1$s</item>
     </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">Vymazat %1$d tapet?</item>
-        <item quantity="one">Vymazat %1$d tapetu?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">Vybraných: %1$d</item>
-        <item quantity="zero">Vybraných: %1$d</item>
-        <item quantity="one">Vybraných: %1$d</item>
-        <item quantity="two">Vybraných: %1$d</item>
-        <item quantity="few">Vybraných: %1$d</item>
-        <item quantity="many">Vybraných: %1$d</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
     </plurals>
@@ -64,10 +51,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
@@ -92,18 +75,9 @@
         <item quantity="other">strana %1$d, %2$d apl.</item>
         <item quantity="one">strana %1$d, %2$d apl.</item>
     </plurals>
-    <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Odinstalovat \"%1$s\" a %2$d další aplikace?</item>
-        <item quantity="one">Odinstalovat \"%s\"</item>
-    </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Odinstalovat %1$d apl.?</item>
         <item quantity="one">Odinstalovat %1$d apl.?</item>
-    </plurals>
-    <plurals name="uninstall_result_failed">
-        <item quantity="other">"Nelze odinstalovat \"%1$s\" a %2$d další aplikace"</item>
-        <item quantity="one">"Nelze odinstalovat"</item>
-        <item quantity="two">"Nelze odinstalovat \"%s\" a 1 další aplikaci"</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
         <item quantity="other">Nelze odinstalovat %1$d apl.</item>
@@ -112,6 +86,31 @@
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d apl. odinstalováno</item>
         <item quantity="one">%1$d apl. odinstalována</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">Vymazat %1$d tapet?</item>
+        <item quantity="one">Vymazat %1$d tapetu?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+        <item quantity="two">Vybraných: %1$d</item>
+        <item quantity="few">Vybraných: %1$d</item>
+        <item quantity="many">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Odinstalovat \"%1$s\" a %2$d další aplikace?</item>
+        <item quantity="one">Odinstalovat \"%s\"</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Nelze odinstalovat \"%1$s\" a %2$d další aplikace"</item>
+        <item quantity="one">"Nelze odinstalovat"</item>
+        <item quantity="two">"Nelze odinstalovat \"%s\" a 1 další aplikaci"</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$d aplikací je odinstalováno</item>

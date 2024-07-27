@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="hmode_app_classify1">
+        <item>Vlastní</item>
+        <item>Úspora baterie</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aktivní aplikace</item>
+        <item>Uspané aplikace</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Uspat aplikace</item>
+        <item>Ušetřit energii</item>
+    </string-array>
     <string-array name="action_name_translate">
         <item>Maximální jas displeje</item>
         <item>Maximální frekvence CPU</item>
@@ -54,14 +66,6 @@
         <item>Čtecí režim</item>
         <item>Multimediální režim</item>
     </string-array>
-    <string-array name="hmode_app_classify1">
-        <item>Vlastní</item>
-        <item>Úspora baterie</item>
-    </string-array>
-    <string-array name="hmode_app_classify2">
-        <item>Aktivní aplikace</item>
-        <item>Uspané aplikace</item>
-    </string-array>
     <string-array name="hmode_app_groups">
         <item>Vlastní</item>
         <item>Spořič baterie</item>
@@ -69,10 +73,6 @@
     <string-array name="invisible_app_groups">
         <item>vybráno</item>
         <item>nevybráno</item>
-    </string-array>
-    <string-array name="pc_manage_active_app_items">
-        <item>Uspat aplikace</item>
-        <item>Ušetřit energii</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
         <item>Nyní</item>

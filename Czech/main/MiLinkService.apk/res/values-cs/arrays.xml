@@ -50,14 +50,14 @@
         <item>Propojitelnost/Oznámení</item>
         <item>Sdílení oznámení mezi zařízeními</item>
     </string-array>
-	<string-array name="settings_search_relay_network_2">
+    <string-array name="settings_search_relay_network_2">
         <item>Bezdrátový tethering</item>
         <item>Propojení/bezdrátový tethering</item>
-         <item>Síťová asistence, tethering, sdílení hotspotu, bezdrátový tethering</item>
-	</string-array>
-	<string-array name="settings_search_relay_network_global">
+        <item>Síťová asistence, tethering, sdílení hotspotu, bezdrátový tethering</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
         <item>Síťová synchronizace</item>
         <item>Propojení/synchronizace sítě</item>
         <item>Síťová pomoc, tethering, sdílení hotspotu, synchronizace sítě</item>
-	</string-array>
+    </string-array>
 </resources>

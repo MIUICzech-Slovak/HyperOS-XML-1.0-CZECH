@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
@@ -474,7 +474,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="safe_relative">Možné riziko</string>
     <string name="saved_network">Uložené od %1$s</string>
     <string name="screen_overlay_button">Otevřít nastavení</string>
-    <string name="screen_overlay_message">Chcete-li změnit nastavení tohoto oprávnění, v Nastavení &gt; Aplikace je třeba nejprve vypnout překryvnou vrstvu obrazovky</string>
+    <string name="screen_overlay_message">Chcete-li změnit nastavení tohoto oprávnění, v Nastavení > Aplikace je třeba nejprve vypnout překryvnou vrstvu obrazovky</string>
     <string name="screen_overlay_title">Byla zjištěna překryvná vrstva obrazovky</string>
     <string name="screen_zoom_summary_custom">Custom (%d)</string>
     <string name="screen_zoom_summary_default">Default</string>
@@ -552,7 +552,7 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="uninstall_activity_text">Činnost %1$s je součástí následující aplikace:</string>
     <string name="uninstall_all_blocked_profile_owner">Tato aplikace se vyžaduje v případě některých uživatelů či profilů a v případě jiných zase byla odinstalovaná</string>
     <string name="uninstall_application_text">Tato aplikace bude odinstalována.</string>
-    <string name="uninstall_application_text_all_users">"Chcete  tuto aplikaci odinstalovat "&lt;b&gt;v&amp;#353;em&lt;/b&gt; u&amp;#382;ivatel&amp;#367;m? Aplikace a jej&amp;#237; &amp;#250;daje budou odstran&amp;#283;ny &lt;b&gt;v&amp;#353;em&lt;/b&gt; u&amp;#382;ivatel&amp;#367;m tohoto za&amp;#345;&amp;#237;zen&amp;#237;.</string>
+    <string name="uninstall_application_text_all_users">"Chcete  tuto aplikaci odinstalovat "&lt;b>v&amp;#353;em&lt;/b> u&amp;#382;ivatel&amp;#367;m? Aplikace a jej&amp;#237; &amp;#250;daje budou odstran&amp;#283;ny &lt;b>v&amp;#353;em&lt;/b> u&amp;#382;ivatel&amp;#367;m tohoto za&amp;#345;&amp;#237;zen&amp;#237;.</string>
     <string name="uninstall_application_text_user">Chcete tuto aplikaci pro uživatele %1$s odinstalovat?</string>
     <string name="uninstall_application_title">Odinstalovat aplikaci</string>
     <string name="uninstall_blocked_device_owner">Tato aplikace je administrátorem zařízení vyžadována a nelze ji odinstalovat.</string>

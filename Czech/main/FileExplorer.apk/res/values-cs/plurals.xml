@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <plurals name="a_hour_ago">
         <item quality="other">před 1 hodinou</item>
@@ -30,13 +29,29 @@
         <item kvantita="other">Před %d minutami</item>
         <item quality="one">Před 1 minutou</item>
     </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d d</item>
-        <item quantity="zero">%1$d d</item>
-        <item quantity="one">%1$d d</item>
-        <item quantity="two">%1$d d</item>
-        <item quantity="few">%1$d d</item>
-        <item quantity="many">%1$d d</item>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">Platnost %1$d videí v konverzaci aplikace WeChat brzy vyprší. Zálohovat na vnitřní úložiště zařízení?</item>
+        <item quantity="one">Platnost %1$d videa v konverzaci aplikace WeChat brzy vyprší. Zálohovat na vnitřní úložiště zařízení?</item>
+        <item quantity="few">Platnost %1$d videí v konverzaci aplikace WeChat brzy vyprší. Zálohovat na vnitřní úložiště zařízení?</item>
+        <item quantity="many">Platnost %1$d videa v konverzaci aplikace WeChat brzy vyprší. Zálohovat na vnitřní úložiště zařízení?</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Přihlášení %1$s dní v řadě. Jen tak dál!</item>
+        <item quantity="one">Přihlášení %1$s den v řadě. Jen tak dál!</item>
+        <item quantity="few">Přihlášení %1$s dny v řadě. Jen tak dál!</item>
+        <item quantity="many">Přihlášení %1$s dne v řadě. Jen tak dál!</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Přihlášení %1$s dní v řadě</item>
+        <item quantity="one">Přihlášení %1$s den v řadě</item>
+        <item quantity="few">Přihlášení %1$s dny v řadě</item>
+        <item quantity="many">Přihlášení %1$s dne v řadě</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Získali jste &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> bodů</item>
+        <item quantity="one">Získali jste &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> bod</item>
+        <item quantity="few">Získali jste &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> body</item>
+        <item quantity="many">Získali jste &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> bodu</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Před %1$d d</item>
@@ -90,13 +105,11 @@
         <item quantity="few">(%1$d)</item>
         <item quantity="many">(%1$d)</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Přijaté soubory (%1$d) apl. %2$s</item>
-        <item quantity="zero">Přijaté soubory (%1$d) apl. %2$s</item>
-        <item quantity="one">Přijatý soubor (%1$d) apl. %2$s</item>
-        <item quantity="two">Přijaté soubory (%1$d) apl. %2$s</item>
-        <item quantity="few">Přijaté soubory (%1$d) apl. %2$s</item>
-        <item quantity="many">Přijaté soubory (%1$d) apl. %2$s</item>
+    <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> odběratelů</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> odběratel</item>
+        <item quantity="few">&lt;font color=#fc7050>%d&lt;/font> odběratelé</item>
+        <item quantity="many">&lt;font color=#fc7050>%d&lt;/font> odběratele</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Nalezené nové soubory: %1$d</item>
@@ -106,13 +119,17 @@
         <item quantity="few">Nalezené nové soubory: %1$d</item>
         <item quantity="many">Nalezené nové soubory: %1$d</item>
     </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d h</item>
-        <item quantity="zero">%1$d h</item>
-        <item quantity="one">%1$d h</item>
-        <item quantity="two">%1$d h</item>
-        <item quantity="few">%1$d h</item>
-        <item quantity="many">%1$d h</item>
+    <plurals name="gems">
+        <item quantity="other">%1$s diamantů</item>
+        <item quantity="one">%1$s diamant</item>
+        <item quantity="few">%1$s diamanty</item>
+        <item quantity="many">%1$s diamantu</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+        <item quantity="one">Před půl hodinou</item>
+        <item quantity="few">Před půl hodinou</item>
+        <item quantity="many">Před půl hodinou</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">Před %1$d h</item>
@@ -122,13 +139,29 @@
         <item quantity="few">Před %1$d h</item>
         <item quantity="many">Před %1$d h</item>
     </plurals>
-    <plurals name="items_file">
-        <item quantity="other">" (%1$d)"</item>
-        <item quantity="zero">" (%1$d)"</item>
-        <item quantity="one">" (%1$d)"</item>
-        <item quantity="two">" (%1$d)"</item>
-        <item quantity="few">" (%1$d)"</item>
-        <item quantity="many">" (%1$d)"</item>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za hodinu</item>
+        <item quantity="one">Za hodinu</item>
+        <item quantity="few">Za hodinu</item>
+        <item quantity="many">Za hodinu</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za půl hodiny</item>
+        <item quantity="one">Za půl hodiny</item>
+        <item quantity="few">Za půl hodiny</item>
+        <item quantity="many">Za půl hodiny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+        <item quantity="one">Okamžitě</item>
+        <item quantity="few">Okamžitě</item>
+        <item quantity="many">Okamžitě</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za 1 minutu</item>
+        <item quantity="few">Za %d minuty</item>
+        <item quantity="many">Za %d minuty</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other">" (%1$d)"</item>
@@ -138,13 +171,11 @@
         <item quantity="few">" (%1$d)"</item>
         <item quantity="many">" (%1$d)"</item>
     </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d min</item>
-        <item quantity="zero">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-        <item quantity="two">%1$d min</item>
-        <item quantity="few">%1$d min</item>
-        <item quantity="many">%1$d min</item>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Právě teď</item>
+        <item quantity="one">Právě teď</item>
+        <item quantity="few">Právě teď</item>
+        <item quantity="many">Právě teď</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Před %1$d min</item>
@@ -162,6 +193,30 @@
         <item quantity="few">Položek: %d</item>
         <item quantity="many">Položek: %d</item>
     </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Pro účast v kole štěstí ještě musíte získat &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> diamantů.</item>
+        <item quantity="one">Pro účast v kole štěstí ještě musíte získat &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> diamant.</item>
+        <item quantity="few">Pro účast v kole štěstí ještě musíte získat &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> diamanty.</item>
+        <item quantity="many">Pro účast v kole štěstí ještě musíte získat &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> diamantu.</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">Synchronizace %1$s souborů se nezdařila</item>
+        <item quantity="one">Synchronizace %1$s souboru se nezdařila</item>
+        <item quantity="few">Synchronizace %1$s souborů se nezdařila</item>
+        <item quantity="many">Synchronizace %1$s souboru se nezdařila</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Synchronizováno %1$s souborů | "</item>
+        <item quantity="one">"Synchronizován %1$s soubor | "</item>
+        <item quantity="few">"Synchronizovány %1$s soubory | "</item>
+        <item quantity="many">"Synchronizováno %1$s souboru | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Čekání na připojení. Zbývá %1$s souborů.</item>
+        <item quantity="one">Čekání na připojení. Zbývá %1$s soubor.</item>
+        <item quantity="few">Čekání na připojení. Zbývají %1$s soubory.</item>
+        <item quantity="many">Čekání na připojení. Zbývá %1$s souboru.</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Vybráno: %1$d</item>
         <item quantity="zero">Vybráno: %1$d</item>
@@ -169,6 +224,42 @@
         <item quantity="two">Vybráno: %1$d</item>
         <item quantity="few">Vybráno: %1$d</item>
         <item quantity="many">Vybráno: %1$d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+        <item quantity="few">Před %d minutami</item>
+        <item quantity="many">Před %d minutou</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s komentářů</item>
+        <item quantity="one">%1$s komentář</item>
+        <item quantity="few">%1$s komentáře</item>
+        <item quantity="many">%1$s komentářů</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> dní"</item>
+        <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> den"</item>
+        <item quantity="few">" • &lt;font color=#fc7050>%1$d&lt;/font> dny"</item>
+        <item quantity="many">" • &lt;font color=#fc7050>%1$d&lt;/font> dne"</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">" • Máte &lt;font color=#fc7050>%1$s&lt;/font> odběratelů!"</item>
+        <item quantity="one">" • Máte &lt;font color=#fc7050>%1$s&lt;/font> odběratele!"</item>
+        <item quantity="few">" • Máte &lt;font color=#fc7050>%1$s&lt;/font> odběratele!"</item>
+        <item quantity="many">" • Máte &lt;font color=#fc7050>%1$s&lt;/font> odběratelů!"</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">" • Nahráli jste &lt;font color=#fc7050>%1$s&lt;/font> videí. "</item>
+        <item quantity="one">" • Nahráli jste &lt;font color=#fc7050>%1$s&lt;/font> video. "</item>
+        <item quantity="few">" • Nahráli jste &lt;font color=#fc7050>%1$s&lt;/font> videa. "</item>
+        <item quantity="many">" • Nahráli jste &lt;font color=#fc7050>%1$s&lt;/font> videí. "</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">Právě jste potěšili &lt;font color=#fc7050>%1$s&lt;/font> uživatelů!</item>
+        <item quantity="one">Právě jste potěšili &lt;font color=#fc7050>%1$s&lt;/font> uživatele!</item>
+        <item quantity="few">Právě jste potěšili &lt;font color=#fc7050>%1$s&lt;/font> uživatele!</item>
+        <item quantity="many">Právě jste potěšili &lt;font color=#fc7050>%1$s&lt;/font> uživatelů!</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Nalezená videa: %1$d</item>
@@ -210,14 +301,6 @@
         <item quantity="few">Soubory %1$s (%2$d)</item>
         <item quantity="many">Soubory %1$s (%2$d)</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d s</item>
-        <item quantity="zero">%1$d s</item>
-        <item quantity="one">%1$d s</item>
-        <item quantity="two">%1$d s</item>
-        <item quantity="few">%1$d s</item>
-        <item quantity="many">%1$d s</item>
-    </plurals>
     <plurals name="text_group_count">
         <item quantity="other">Položek: %1$d</item>
         <item quantity="zero">Položek: %1$d</item>
@@ -225,6 +308,106 @@
         <item quantity="two">Položek: %1$d</item>
         <item quantity="few">Položek: %1$d</item>
         <item quantity="many">Položek: %1$d</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s témat</item>
+        <item quantity="one">%1$s téma</item>
+        <item quantity="few">%1$s témata</item>
+        <item quantity="many">%1$s témat</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s osob</item>
+        <item quantity="one">%1$s osoba</item>
+        <item quantity="few">%1$s lidé</item>
+        <item quantity="many">%1$s osob</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">Můžete zadat maximálně %d znaků</item>
+        <item quantity="one">Můžete zadat maximálně %d znak</item>
+        <item quantity="few">Můžete zadat maximálně %d znaky</item>
+        <item quantity="many">Můžete zadat maximálně %d znaku</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Stažení</item>
+        <item quantity="zero"> Stažení</item>
+        <item quantity="one"> Stažení</item>
+        <item quantity="two"> Stažení</item>
+        <item quantity="few"> Stažení</item>
+        <item quantity="many"> Stažení</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videí</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
+        <item quantity="few">&lt;font color=#fc7050>%d&lt;/font> videa</item>
+        <item quantity="many">&lt;font color=#fc7050>%d&lt;/font> videí</item>
+    </plurals>
+    <plurals name="video_items">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="zero">Položek: %1$d</item>
+        <item quantity="one">Položka: %1$d</item>
+        <item quantity="two">Položek: %1$d</item>
+        <item quantity="few">Položek: %1$d</item>
+        <item quantity="many">Položek: %1$d</item>
+    </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s zobrazení</item>
+        <item quantity="one">%1$s zobrazení</item>
+        <item quantity="few">%1$s zobrazení</item>
+        <item quantity="many">%1$s zobrazení</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Pro upgrade vašeho účtu ještě musíte získat %1$d odběratelů</item>
+        <item quantity="one">Pro upgrade vašeho účtu ještě musíte získat %1$d odběratele</item>
+        <item quantity="few">Pro upgrade vašeho účtu ještě musíte získat %1$d odběratele</item>
+        <item quantity="many">Pro upgrade vašeho účtu ještě musíte získat %1$d odběratelů</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d d</item>
+        <item quantity="zero">%1$d d</item>
+        <item quantity="one">%1$d d</item>
+        <item quantity="two">%1$d d</item>
+        <item quantity="few">%1$d d</item>
+        <item quantity="many">%1$d d</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Přijaté soubory (%1$d) apl. %2$s</item>
+        <item quantity="zero">Přijaté soubory (%1$d) apl. %2$s</item>
+        <item quantity="one">Přijatý soubor (%1$d) apl. %2$s</item>
+        <item quantity="two">Přijaté soubory (%1$d) apl. %2$s</item>
+        <item quantity="few">Přijaté soubory (%1$d) apl. %2$s</item>
+        <item quantity="many">Přijaté soubory (%1$d) apl. %2$s</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d h</item>
+        <item quantity="zero">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+        <item quantity="two">%1$d h</item>
+        <item quantity="few">%1$d h</item>
+        <item quantity="many">%1$d h</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d min</item>
+        <item quantity="zero">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d min</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d s</item>
+        <item quantity="zero">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+        <item quantity="two">%1$d s</item>
+        <item quantity="few">%1$d s</item>
+        <item quantity="many">%1$d s</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d souborů zbývá stáhnout</item>
@@ -249,21 +432,5 @@
         <item quantity="two">%1$d soubory zbývá nahrát</item>
         <item quantity="few">%1$d souborů zbývá nahrát</item>
         <item quantity="many">%1$d souborů zbývá nahrát</item>
-    </plurals>
-    <plurals name="video_ad_download_tip">
-        <item quantity="other"> Stažení</item>
-        <item quantity="zero"> Stažení</item>
-        <item quantity="one"> Stažení</item>
-        <item quantity="two"> Stažení</item>
-        <item quantity="few"> Stažení</item>
-        <item quantity="many"> Stažení</item>
-    </plurals>
-    <plurals name="video_items">
-        <item quantity="other">Položek: %1$d</item>
-        <item quantity="zero">Položek: %1$d</item>
-        <item quantity="one">Položka: %1$d</item>
-        <item quantity="two">Položek: %1$d</item>
-        <item quantity="few">Položek: %1$d</item>
-        <item quantity="many">Položek: %1$d</item>
     </plurals>
 </resources>

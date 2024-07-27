@@ -29,10 +29,6 @@
         <item quantity="other">Před %d min</item>
         <item quantity="one">Před 1 min</item>
     </plurals>
-    <plurals name="birthday_format">
-        <item quantity="other">" (%1$d roků starý)"</item>
-        <item quantity="one">" (%1$d rok starý)"</item>
-    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d doby</item>
         <item quantity="one">%1$d-%2$d doby</item>
@@ -144,10 +140,6 @@
         <item quantity="few">%1$d hod.</item>
         <item quantity="many">%1$d hod.</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">Zbývá %1$d sekund</item>
-        <item quantity="one">Zbývá %1$d sekunda</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Za 1 hodinu</item>
     </plurals>
@@ -160,14 +152,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
-    </plurals>
-    <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d dny od posledního navážení</item>
-        <item quantity="one">%1$d den od posledního navážení</item>
-    </plurals>
-    <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d dny od posledního navážení</item>
-        <item quantity="one">%1$d den od posledního navážení</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d metrů</item>
@@ -218,9 +202,11 @@
         <item quantity="few">%1$d min. před</item>
         <item quantity="many">%1$d min. před</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nová oznámení</item>
-        <item quantity="one">%d nové oznámení</item>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybrána %d položka</item>
+        <item quantity="few">Vybrány %d položky</item>
+        <item quantity="many">Vybráno %d položky</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
@@ -237,70 +223,6 @@
         <item quantity="one">"Aktuální nastavení vám nezaručí %1$d hodinu spánku denně. Potřebujete víc než to."</item>
         <item quantity="few">"Aktuální nastavení vám nezaručí %1$d hodiny spánku denně. Potřebujete víc než to."</item>
         <item quantity="many">"Aktuální nastavení vám nezaručí %1$d hodin spánku denně. Potřebujete víc než to."</item>
-    </plurals>
-    <plurals name="sport_tts_goal_consume">
-        <item quantity="other">Pro dosažení svého cíle zbývá spálit více jak %s kalorií</item>
-        <item quantity="one">Pro dosažení svého cíle zbývá spálit více jak %s kalorie</item>
-    </plurals>
-    <plurals name="sport_tts_goal_distance">
-        <item quantity="other">Pro dosažení svého cíle zbývá více jak %s KM</item>
-        <item quantity="one">Pro dosažení svého cíle zbývá více jak %s KM</item>
-    </plurals>
-    <plurals name="sport_tts_goal_time">
-        <item quantity="other">Pro dosažení svého cíle zbývá více jak %s minut</item>
-        <item quantity="one">Pro dosažení svého cíle zbývá více jak %s minuta</item>
-    </plurals>
-    <plurals name="sport_tts_riding_distance">
-        <item quantity="other">"Jeli jste na kole %s KM"</item>
-        <item quantity="one">"Jeli jste na kole %s KM"</item>
-    </plurals>
-    <plurals name="sport_tts_running_distance">
-        <item quantity="other">"Uběhli jste %s KM"</item>
-        <item quantity="one">"Uběhli jste %s KM"</item>
-    </plurals>
-    <plurals name="sport_tts_total_consume">
-        <item quantity="other">"Spálili jste %s kalorií"</item>
-        <item quantity="one">"Spálili jste %s kalorii"</item>
-    </plurals>
-    <plurals name="sport_tts_walking_distance">
-        <item quantity="other">"Ušli jste %s KM"</item>
-        <item quantity="one">"Ušli jste %s KM"</item>
-    </plurals>
-    <plurals name="sporting_content_calories">
-        <item quantity="other">"Chůzí jste spálili %1$s kalorií"</item>
-        <item quantity="one">"Chůzí jste spálili %1$s kalorii"</item>
-    </plurals>
-    <plurals name="sporting_content_min">
-        <item quantity="other">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-    </plurals>
-    <plurals name="sporting_content_riding_km">
-        <item quantity="other">"Na kole jste ujeli %1$s KM"</item>
-        <item quantity="one">"Na kole jste ujeli %1$s KM"</item>
-    </plurals>
-    <plurals name="sporting_content_running_km">
-        <item quantity="other">"Uběhli jste %s KM"</item>
-        <item quantity="one">"Uběhli jste %s KM"</item>
-    </plurals>
-    <plurals name="sporting_content_sec">
-        <item quantity="other">%1$d s</item>
-        <item quantity="one">%1$d s</item>
-    </plurals>
-    <plurals name="sporting_content_walking_km">
-        <item quantity="other">"Ušli jste %s KM"</item>
-        <item quantity="one">"Ušli jste %s KM"</item>
-    </plurals>
-    <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">"Ušli jste %1$s kroků"</item>
-        <item quantity="one">"Ušli jste %1$s krok"</item>
-    </plurals>
-    <plurals name="sporting_unit_calories">
-        <item quantity="other">%1$d Cal</item>
-        <item quantity="one">%1$d Cal</item>
-    </plurals>
-    <plurals name="sporting_unit_step">
-        <item quantity="other">kroků</item>
-        <item quantity="one">krok</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d kroků</item>
@@ -451,5 +373,89 @@
         <item quantity="one">%1$d rok</item>
         <item quantity="few">%1$d roky</item>
         <item quantity="many">%1$d roků</item>
+    </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d roků starý)"</item>
+        <item quantity="one">" (%1$d rok starý)"</item>
+    </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">Zbývá %1$d sekund</item>
+        <item quantity="one">Zbývá %1$d sekunda</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d dny od posledního navážení</item>
+        <item quantity="one">%1$d den od posledního navážení</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d dny od posledního navážení</item>
+        <item quantity="one">%1$d den od posledního navážení</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nová oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Pro dosažení svého cíle zbývá spálit více jak %s kalorií</item>
+        <item quantity="one">Pro dosažení svého cíle zbývá spálit více jak %s kalorie</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Pro dosažení svého cíle zbývá více jak %s KM</item>
+        <item quantity="one">Pro dosažení svého cíle zbývá více jak %s KM</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Pro dosažení svého cíle zbývá více jak %s minut</item>
+        <item quantity="one">Pro dosažení svého cíle zbývá více jak %s minuta</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"Jeli jste na kole %s KM"</item>
+        <item quantity="one">"Jeli jste na kole %s KM"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Uběhli jste %s KM"</item>
+        <item quantity="one">"Uběhli jste %s KM"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Spálili jste %s kalorií"</item>
+        <item quantity="one">"Spálili jste %s kalorii"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Ušli jste %s KM"</item>
+        <item quantity="one">"Ušli jste %s KM"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Chůzí jste spálili %1$s kalorií"</item>
+        <item quantity="one">"Chůzí jste spálili %1$s kalorii"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Na kole jste ujeli %1$s KM"</item>
+        <item quantity="one">"Na kole jste ujeli %1$s KM"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Uběhli jste %s KM"</item>
+        <item quantity="one">"Uběhli jste %s KM"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Ušli jste %s KM"</item>
+        <item quantity="one">"Ušli jste %s KM"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Ušli jste %1$s kroků"</item>
+        <item quantity="one">"Ušli jste %1$s krok"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">kroků</item>
+        <item quantity="one">krok</item>
     </plurals>
 </resources>

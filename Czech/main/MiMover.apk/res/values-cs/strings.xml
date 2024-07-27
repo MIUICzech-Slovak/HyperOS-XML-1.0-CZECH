@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Přejít na plochu</string>
     <string name="abc_action_bar_up_description">Přejít nahoru</string>
@@ -159,7 +159,7 @@ Vaše osobní údaje budou chráněny v souladu se všemi platnými zákony, na�
     <string name="dialog_version_title_tip">Dostupná aktualizace</string>
     <string name="dialog_wechat_data_transfer_fail_button">Rozumím</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Z důvodu omezení aplikace nelze data aplikace a historii konverzací WeChatu přenést. Vyzkoušejte zálohovat svá data pomocí vestavěného zálohování WeChatu.
-Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp; migrate chats."</string>
+Otevřete WeChat a přejděte do Me > Settings > General > Back up &amp; migrate chats."</string>
     <string name="dialog_wechat_data_transfer_fail_title">Přenos data aplikace WeChat se nezdařil</string>
     <string name="document">Dokumenty</string>
     <string name="early_morning">Ráno</string>
@@ -313,7 +313,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="international_new_trans_intro_question_8">8. Proč nemohou být zprávy a data některých aplikací třetích stran přeneseny?</string>
     <string name="international_scanner_send_dialog_message">Textové zprávy a data některých aplikací třetích stran nemohou být přeneseny. Během přenosu se neodpojujte od sítě Wi-Fi ani mezi sítěmi nepřepínejte.</string>
     <string name="label_null" />
-    <string name="lack_perm_msg">Přesun do nového zařízení vyžaduje následující povolení: &lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="lack_perm_msg">Přesun do nového zařízení vyžaduje následující povolení: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Vyžadována oprávnění</string>
     <string name="launcher">Rozložení Domovské obrazovky</string>
     <string name="less_than_1_minute">Méně než 1 minuta</string>
@@ -557,7 +557,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="privacy_desc">Vítejte v aplikaci Přesun do nového zařízení (Xiaomi Mover)! Tato aplikace poskytuje následující služby:</string>
     <string name="privacy_experience_statement">Připojte se do našeho programu Optimalizace na základě uživatelské zkušenosti a sdílejte s námi svá uživatelská data. Tato data nám pomohou vylepšovat naše produkty a služby.</string>
     <string name="privacy_item1">· Přenos souborů, zpráv, aplikací a nastavení systémových aplikací</string>
-    <string name="privacy_message">&lt;Data&gt;Před využitím aplikace Přesun do nového zařízení si přečtěte a souhlaste s našimi &lt;a href=\"%2$s\"&gt;Smluvními podmínkami&lt;/a&gt; a &lt;a href=\"%1$s\"&gt;Zásadami ochrany osobních údajů&lt;/a&gt;. Souhlas se Zásadami ochrany osobních údajů aplikace můžete kdykoli odebrat v \"O Přesunu do nového zařízení\". Pokud se rozhodnete souhlas neudělit, některé z funkcí aplikace vám nebudou dostupné. Základní funkce aplikace však budou i nadále dostupné.&lt;/Data&gt;</string>
+    <string name="privacy_message">&lt;Data>Před využitím aplikace Přesun do nového zařízení si přečtěte a souhlaste s našimi &lt;a href=\"%2$s\">Smluvními podmínkami&lt;/a> a &lt;a href=\"%1$s\">Zásadami ochrany osobních údajů&lt;/a>. Souhlas se Zásadami ochrany osobních údajů aplikace můžete kdykoli odebrat v \"O Přesunu do nového zařízení\". Pokud se rozhodnete souhlas neudělit, některé z funkcí aplikace vám nebudou dostupné. Základní funkce aplikace však budou i nadále dostupné.&lt;/Data></string>
     <string name="privacy_policy">Ochrana soukromí</string>
     <string name="privacy_title">Pravidla a podmínky</string>
     <string name="prompt_before_transmission_message1_summary">Pokud se rozhodnete je přenést ze starého zařízení, data aplikace (včetně historie chatu) budou přepsána.</string>
@@ -824,22 +824,22 @@ na vašem iPhonu"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="set_app_suspend">Tato aplikace se právě zálohuje. Počkejte na dokončení zálohování a zkuste to znova.</string>
-	<string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" už poskytuje služby zálohování systému. Odinstalujte ho a restartujte zařízení, abyste mohli používat Mi Mover.</string>
-     <string name="receiver_finish_not_transferred">Nepřeneseno</string>
-     <string name="receiver_finish_transferred">Přeneseno</string>
-	 <string name="dialog_request_all_permission_content">"Pro přenos dat ze starého zařízení do nového se tato aplikace musí připojit k internetu a vyžaduje následující povolení:
+    <string name="set_app_suspend">Tato aplikace se právě zálohuje. Počkejte na dokončení zálohování a zkuste to znova.</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" už poskytuje služby zálohování systému. Odinstalujte ho a restartujte zařízení, abyste mohli používat Mi Mover.</string>
+    <string name="receiver_finish_not_transferred">Nepřeneseno</string>
+    <string name="receiver_finish_transferred">Přeneseno</string>
+    <string name="dialog_request_all_permission_content">"Pro přenos dat ze starého zařízení do nového se tato aplikace musí připojit k internetu a vyžaduje následující povolení:
 • Přístup k fotografiím, zvuku a videím
 • Přístup ke zprávám, kontaktům a historii hovorů
 • Přístup k úložišti
 • Přístup k seznamu aplikací nainstalovaných v zařízení"</string>
-      <string name="dialog_request_all_permission_title">Jsou vyžadována povolení</string>
-      <string name="permission_about_storage_pad">Jsou vyžadována povolení pro přístup k úložišti zařízení</string>
-      <string name="provisiion_set_old_pad_summary">Použijte Mi Mover k importu dat ze starého zařízení bez připojení k internetu</string>
-      <string name="provision_cta_title_pad">Přenos ze starého zařízení</string>
-      <string name="provision_select_data_one">Vyberte položky pro přenos</string>
-      <string name="provision_set_new_pad">Použít jako nové zařízení</string>
-      <string name="provision_set_old_pad">Importovat ze starého zařízení</string>
-      <string name="receiver_video_summary_pad">Odemkněte své staré zařízení, klepněte na položku \"Přenést\" a naskenujte tento obrázek</string>
-      <string name="receiver_video_title_pad">Přenos ze starého zařízení</string>
+    <string name="dialog_request_all_permission_title">Jsou vyžadována povolení</string>
+    <string name="permission_about_storage_pad">Jsou vyžadována povolení pro přístup k úložišti zařízení</string>
+    <string name="provisiion_set_old_pad_summary">Použijte Mi Mover k importu dat ze starého zařízení bez připojení k internetu</string>
+    <string name="provision_cta_title_pad">Přenos ze starého zařízení</string>
+    <string name="provision_select_data_one">Vyberte položky pro přenos</string>
+    <string name="provision_set_new_pad">Použít jako nové zařízení</string>
+    <string name="provision_set_old_pad">Importovat ze starého zařízení</string>
+    <string name="receiver_video_summary_pad">Odemkněte své staré zařízení, klepněte na položku \"Přenést\" a naskenujte tento obrázek</string>
+    <string name="receiver_video_title_pad">Přenos ze starého zařízení</string>
 </resources>

@@ -29,10 +29,6 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-    <plurals name="app_list_total">
-        <item quantity="other">%d apl.</item>
-        <item quantity="one">%d apl.</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
     </plurals>
@@ -49,10 +45,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -63,6 +55,18 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Vyhledat %d apl.</item>
+        <item quantity="one">Vyhledat %d apl.</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
     <plurals name="power_config_ultimate_off_count">
         <item quantity="one">Ješte %1$d krok od vypnutí Ultimate režimu</item>
@@ -75,10 +79,6 @@
     <plurals name="power_config_ultimate_unlock_count">
         <item quantity="one">Dokončete %1$d krok pro odblokovaní všech položek</item>
         <item quantity="other">Dokončete %1$d kroků pro odblokovaní všech položek</item>
-    </plurals>
-    <plurals name="search_app_count_txt_na">
-        <item quantity="other">Vyhledat %d apl.</item>
-        <item quantity="one">Vyhledat %d apl.</item>
     </plurals>
     <plurals name="select_items">
         <item quantity="other">Vybráno: %1$d</item>

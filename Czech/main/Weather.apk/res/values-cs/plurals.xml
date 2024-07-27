@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Před hodinou</item>
@@ -54,10 +53,6 @@
         <item quantity="other">%1$s-denní předpověď</item>
         <item quantity="one">%1$s-denní předpověď</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s seconds after the feedback</item>
-        <item quantity="one">%1$s second after the feedback</item>
-    </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
         <item kvantita="other">Zpětnou vazbu můžete odeslat znovu za %1$s minut</item>
         <item kvantita="one">Zpětnou vazbu můžete odeslat znovu za %1$s minutu</item>
@@ -81,10 +76,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
@@ -129,4 +120,12 @@
         <item quality="other"> | %1$s lidí</item>
         <item quality="one"> | %1$s osoba</item>
     </plurals>
-</resources>             
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s seconds after the feedback</item>
+        <item quantity="one">%1$s second after the feedback</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+</resources>

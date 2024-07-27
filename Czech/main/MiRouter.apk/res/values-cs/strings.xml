@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ERROR_DATACENTER_DISK_TASK_HAS_START">Úloha již spuštěna</string>
     <string name="ERROR_UNKNOWN_ERROR">Neznámá chyba</string>
@@ -46,7 +46,7 @@
     <string name="about_router_sn">VČ</string>
     <string name="acc_app_exit_dialog_auto_tip">Následně se automaticky zcela opustí</string>
     <string name="acc_app_exit_end_btn">Opusťte úplně</string>
-    <string name="acc_app_exit_msg">&lt;font color=\"#666666\" &gt;Stále běží, zpomalit rychlost telefonu&lt;/font&gt;&lt;font color=\"#4185f2\" &gt;%1$d%%&lt;/font&gt;&lt;font color=\"#666666\" &gt;，减少待机时间&lt;/font&gt;&lt;font color=\"#4185f2\" &gt;%2$d分钟。&lt;/font&gt;</string>
+    <string name="acc_app_exit_msg">&lt;font color=\"#666666\" >Stále běží, zpomalit rychlost telefonu&lt;/font>&lt;font color=\"#4185f2\" >%1$d%%&lt;/font>&lt;font color=\"#666666\" >，减少待机时间&lt;/font>&lt;font color=\"#4185f2\" >%2$d分钟。&lt;/font></string>
     <string name="acc_app_exit_result">Bylo to zcela ukončeno%1$s</string>
     <string name="acc_game_item_action_acc_and_open">Spusťte akceleraci aplikací</string>
     <string name="acc_game_item_action_open">Spustit aplikaci</string>
@@ -128,7 +128,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="backup_auto_backup_when_router_wifi_connected">Synchronizovat fotografie s routerem automaticky</string>
     <string name="backup_auto_rebackup_for_router_directory_deleted">"Nemohu najít existující zálohu Xiaomi routeru. Nová záloha vytvořena."</string>
     <string name="backup_backing_up_x">Zálohování %s</string>
-    <string name="backup_cancel_backup">" "&lt;u&gt;Zru&amp;#353;it z&amp;#225;lohu&lt;/u&gt;" "</string>
+    <string name="backup_cancel_backup">" "&lt;u>Zru&amp;#353;it z&amp;#225;lohu&lt;/u>" "</string>
     <string name="backup_cancel_rebackup">Zrušit zálohu</string>
     <string name="backup_cannot_browse_folder_for_not_backup_yet">"Toto zařízení nebylo zálohováno"</string>
     <string name="backup_complete">Zálohování kompletní</string>
@@ -170,7 +170,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="backup_scanning_files">Skenování souborů…</string>
     <string name="backup_selected_x_folders">%s vybrat</string>
     <string name="backup_settings">Zálohovat automaticky</string>
-    <string name="backup_skip_backup">" "&lt;u&gt;Tento krok&lt;/u&gt;" "</string>
+    <string name="backup_skip_backup">" "&lt;u>Tento krok&lt;/u>" "</string>
     <string name="backup_start_backup">Zálohovat automaticky</string>
     <string name="backup_switcher_is_off">Zapnutí zálohování v nastavení</string>
     <string name="backup_whether_rebackup_on_router_directory_deleted">Nelze najít zálohu Xiaomi Routeru. Vytvořte nové zálohy?</string>
@@ -198,7 +198,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="bind_connect_password">Heslo</string>
     <string name="bind_connecting">Připojování k WiFi…</string>
     <string name="bind_deny_for_server_locale_1">"Router nelze nalézt v aktuálním umístění"</string>
-    <string name="bind_deny_for_server_locale_2">" "&lt;u&gt;P&amp;#345;epn&amp;#283;te region&lt;/u&gt;" "</string>
+    <string name="bind_deny_for_server_locale_2">" "&lt;u>P&amp;#345;epn&amp;#283;te region&lt;/u>" "</string>
     <string name="bind_failed">"Nelze párovat router"</string>
     <string name="bind_found_tip">Detekován Xiaomi Router</string>
     <string name="bind_login_failed">Zadané administrátorské heslo není správné</string>
@@ -370,7 +370,7 @@ Když jej zapněte, dostanete nápovědu o rizicích ochrany osobních údajů. 
     <string name="bootstrap_backup_no_pppoe_account">V záloze nastavení nebyly nalezeny žádné informace o účtu, pokuste se je zadat ručně.</string>
     <string name="bootstrap_backup_select">Vyberte nastavení zálohování</string>
     <string name="bootstrap_backup_tip">Zjištěno zálohování místního routeru</string>
-    <string name="bootstrap_backup_unuseful">" "&lt;u&gt;" Nepou&amp;#382;&amp;#237;vejte z&amp;#225;lohy, znovu nastavte "&lt;/u&gt;" "</string>
+    <string name="bootstrap_backup_unuseful">" "&lt;u>" Nepou&amp;#382;&amp;#237;vejte z&amp;#225;lohy, znovu nastavte "&lt;/u>" "</string>
     <string name="bootstrap_check_dhcp_tip">Detekovat připojení k internetu</string>
     <string name="bootstrap_check_pppoe_tip">"Aktuální režim sítě PPPOE dial-up 
  je potřeba zadat jméno a heslo"</string>
@@ -396,9 +396,9 @@ a druhý konec do Xiaomi Routeru."</string>
     <string name="bootstrap_get_relay_wifi_failed">"Nelze získat informace o síti"</string>
     <string name="bootstrap_name_prompt">Zadejte jméno</string>
     <string name="bootstrap_name_tip">Tento jméno bude viditelné pro ostatní zařízení v okolí.</string>
-    <string name="bootstrap_need_dial">" "&lt;u&gt;P&amp;#345;&amp;#237;stup k vyt&amp;#225;&amp;#269;en&amp;#237;&lt;/u&gt;" "</string>
-    <string name="bootstrap_need_not_dial">" "&lt;u&gt;&amp;#352;irokop&amp;#225;smov&amp;#233; p&amp;#345;ipojen&amp;#237;&lt;/u&gt;" "</string>
-    <string name="bootstrap_other_mode">" "&lt;u&gt;Dal&amp;#353;&amp;#237; mo&amp;#382;nosti&lt;/u&gt;" "</string>
+    <string name="bootstrap_need_dial">" "&lt;u>P&amp;#345;&amp;#237;stup k vyt&amp;#225;&amp;#269;en&amp;#237;&lt;/u>" "</string>
+    <string name="bootstrap_need_not_dial">" "&lt;u>&amp;#352;irokop&amp;#225;smov&amp;#233; p&amp;#345;ipojen&amp;#237;&lt;/u>" "</string>
+    <string name="bootstrap_other_mode">" "&lt;u>Dal&amp;#353;&amp;#237; mo&amp;#382;nosti&lt;/u>" "</string>
     <string name="bootstrap_place_home">Doma</string>
     <string name="bootstrap_place_office">Kancelář</string>
     <string name="bootstrap_place_other">Ostatní</string>
@@ -604,9 +604,9 @@ To může ovlivnit výkon routeru, zkuste vymazat mezipaměť."</string>
     <string name="client_current_bandwidth_1">Rychlost je ekvivalentní s</string>
     <string name="client_current_bandwidth_3">Šířka pásma</string>
     <string name="client_current_bandwidth_getting">Šířka pásma je neznámá, kontrola…</string>
-    <string name="client_current_bandwidth_getting_faild">Šířka pásma není známa&lt;u&gt;Zkontrolovat znovu&lt;/u&gt; ;</string>
+    <string name="client_current_bandwidth_getting_faild">Šířka pásma není známa&lt;u>Zkontrolovat znovu&lt;/u> ;</string>
     <string name="client_current_bandwidth_getting_failed_link_target">Klepnutím sem zkontrolujte</string>
-    <string name="client_current_bandwidth_getting_unknow">Šířka pásma &lt;u&gt;Klepnutím sem zkontrolujte&lt;/u&gt; ;</string>
+    <string name="client_current_bandwidth_getting_unknow">Šířka pásma &lt;u>Klepnutím sem zkontrolujte&lt;/u> ;</string>
     <string name="client_current_bandwidth_offline">Offline, šířka pásma neznámá</string>
     <string name="client_detail_bar_more">Zobrazit detaily</string>
     <string name="client_detail_info_connection_24g">WiFi 2.4G</string>
@@ -735,9 +735,9 @@ Můžete řídit šířku pásma ručně v menu Nástroje"</string>
     <string name="client_qos_mode_manual_description">"Nenechte zařízení spotřebovat více, než je hodnota, kterou nastavíte"</string>
     <string name="client_qos_mode_priority">Dát přednost vybraným zařízením</string>
     <string name="client_qos_mode_priority_description">Přístroje s vyšší prioritou budou mít vyšší šířku pásma</string>
-    <string name="client_qos_prompt_on_speed_inaccurate">" "&lt;u&gt;Nastaven&amp;#237; rychlostn&amp;#237;ho limitu&lt;/u&gt;" "</string>
+    <string name="client_qos_prompt_on_speed_inaccurate">" "&lt;u>Nastaven&amp;#237; rychlostn&amp;#237;ho limitu&lt;/u>" "</string>
     <string name="client_qos_prompt_simple_mode">Systém bude řídit přidělení šířky pásma napříč všemi zařízeními zajišťující lepší konektivitu</string>
-    <string name="client_qos_requires_enable_qos">Než začnete používat tuto funkci, zapněte QoS v nástroji Nástroje&gt; Další nástroje</string>
+    <string name="client_qos_requires_enable_qos">Než začnete používat tuto funkci, zapněte QoS v nástroji Nástroje> Další nástroje</string>
     <string name="client_qos_router">"Šířky pásma routeru"</string>
     <string name="client_qos_router_download_title">Povolit limit rychlosti stahování routeru</string>
     <string name="client_qos_router_upload_title">Povolit limit rychlosti nahrávání router</string>
@@ -1669,7 +1669,7 @@ ale nelze přidat dalšího administrátora."</string>
     <string name="invitation_process_failed">"Nelze odeslat pozvánku"</string>
     <string name="invitation_process_title">Xiaomi Router sdílen</string>
     <string name="invitation_process_waiting">Čekejte</string>
-    <string name="invitation_refuse">" "&lt;u&gt;Odm&amp;#237;tnout&lt;/u&gt;" "</string>
+    <string name="invitation_refuse">" "&lt;u>Odm&amp;#237;tnout&lt;/u>" "</string>
     <string name="invitation_send">Sdílet</string>
     <string name="invitation_send_description">Tato osoba se musí přihlásit pomocí aplikace Xiaomi WiFi a přijmout vaše pozvání.</string>
     <string name="invitation_send_failed">"Nelze odeslat pozvánku"</string>
@@ -1716,7 +1716,7 @@ Příjemce by měl přijmout Xiaomi Router aplikaci"</string>
     <string name="login_dynamic_token_hint">Zadejte 6-místný autorizační kód</string>
     <string name="login_dynamic_token_title">Zadat autorizační kód</string>
     <string name="login_dynamic_token_trust">"Nevyžadují ověření pro toto zařízení"</string>
-    <string name="login_forget_password">" "&lt;u&gt;Zapomn&amp;#283;li jste heslo&lt;/u&gt;" "</string>
+    <string name="login_forget_password">" "&lt;u>Zapomn&amp;#283;li jste heslo&lt;/u>" "</string>
     <string name="login_get_admin_router_list_fail">"Seznam routerů nelze načíst"</string>
     <string name="login_new_user_register">Vytvořit Xiaomi účet zdarma</string>
     <string name="login_passport_input_fail">Uživatelské jméno nebo heslo není správné</string>

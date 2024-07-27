@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_print_service_label">Přidat službu</string>
     <string name="all_printers">Všechny tiskárny…</string>

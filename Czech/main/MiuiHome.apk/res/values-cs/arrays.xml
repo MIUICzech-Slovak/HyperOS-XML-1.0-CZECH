@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <string-array name="animation_rate_entries">
         <item>Plynulá</item>
         <item>Vyvážená</item>
         <item>Rychlá</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Tapety</item>
+        <item>Widgety</item>
+        <item>Nastavení</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Výchozí</item>
+        <item>Modrá</item>
+        <item>Zelené</item>
+        <item>Fialová</item>
+        <item>Hnědá</item>
+    </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Vypnuto</item>
+        <item>Všude</item>
+        <item>Na widgetech</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Vypnuto</item>
+        <item>Všude</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Klasický</item>
+        <item>Prolnutí</item>
+        <item>Přetočení</item>
+        <item>Strana</item>
+        <item>Kaskádově</item>
+        <item>3D rotace</item>
+        <item>3D kostka</item>
     </string-array>
     <string-array name="cell_icon_size_entries">
         <item>Nejmenší</item>
@@ -12,11 +41,6 @@
         <item>Střední</item>
         <item>Velké</item>
         <item>Největší</item>
-    </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Tapety</item>
-        <item>Widgety</item>
-        <item>Nastavení</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Jasno</item>
@@ -63,22 +87,6 @@
         <item>Asistent</item>
         <item>Google</item>
     </string-array>
-    <string-array name="monochrome_color_entries">
-        <item>Výchozí</item>
-        <item>Modrá</item>
-        <item>Zelené</item>
-        <item>Fialová</item>
-        <item>Hnědá</item>
-    </string-array>
-    <string-array name="transformation_entries">
-        <item>Klasický</item>
-        <item>Prolnutí</item>
-        <item>Přetočení</item>
-        <item>Strana</item>
-        <item>Kaskádově</item>
-        <item>3D rotace</item>
-        <item>3D kostka</item>
-    </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Podle tématu</item>
         <item>Střed</item>
@@ -112,13 +120,4 @@
         <item>Prach</item>
         <item>Mlha</item>
     </string-array>
-	<string-array name="no_word_model_entries">
-        <item>Vypnuto</item>
-        <item>Všude</item>
-        <item>Na widgetech</item>
-     </string-array>
-     <string-array name="no_word_model_entries_not_support_only_widget_no_word">
-        <item>Vypnuto</item>
-        <item>Všude</item>
-     </string-array>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_menu_text_video_download">Stáhnuté videa</string>
     <string name="action_menu_text_web_mode">Režim PC</string>
@@ -102,15 +102,15 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="app_uninstall_description_content">"Prohlížeč je systémová aplikace. Po odinstalaci aplikace nebudete moci používat služby vyhledávání a procházení webu, které poskytuje."</string>
-	<string name="app_uninstall_description_title">Odinstalovat Prohlížeč?</string>
-	<string name="mw_actionbar_share">Sdílet</string>
+    <string name="app_uninstall_description_content">"Prohlížeč je systémová aplikace. Po odinstalaci aplikace nebudete moci používat služby vyhledávání a procházení webu, které poskytuje."</string>
+    <string name="app_uninstall_description_title">Odinstalovat Prohlížeč?</string>
+    <string name="mw_actionbar_share">Sdílet</string>
     <string name="mw_actionbar_textselection_title">Vyberte text</string>
     <string name="mw_actionbar_web_search">Hledávání na webu</string>
-	<string name="action_menu_text_share">Sdílet</string>
-	<string name="default_share">Sdílet</string>
-	<string name="mict_share">Sdílet</string>
-	<string name="miuishare_title_share">Sdílet</string>
-	<string name="mw_miui_content_share">Sdílet</string>
-	<string name="reading__menu_share">Sdílet</string>
+    <string name="action_menu_text_share">Sdílet</string>
+    <string name="default_share">Sdílet</string>
+    <string name="mict_share">Sdílet</string>
+    <string name="miuishare_title_share">Sdílet</string>
+    <string name="mw_miui_content_share">Sdílet</string>
+    <string name="reading__menu_share">Sdílet</string>
 </resources>

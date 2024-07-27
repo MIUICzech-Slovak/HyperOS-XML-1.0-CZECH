@@ -578,7 +578,7 @@ Kliknutím na Pokračovat aplikaci znovu otevřete a budete pokračovat v přeno
     <string name="paragliding">Paragliding</string>
     <string name="password_toggle_content_description">Zobrazit heslo</string>
     <string name="pause">Pozastavit</string>
-    <string name="percent" formatted="false">{value,plural, =1{1 %}few{# %}many{# %}other{# %}}</string>
+    <string formatted="false" name="percent">{value,plural, =1{1 %}few{# %}many{# %}other{# %}}</string>
     <string name="percent_long">{value,plural, =1{1 procento}few{# procenta}many{# procenta}other{# procent}}</string>
     <string name="period_day">%1$d. den periody z %2$d</string>
     <string name="permdesc_readCaloriesBurned">Umožňuje aplikaci číst spálené kalorie</string>

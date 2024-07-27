@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <string-array name="attachment_chooser">
         <item>Fotoaparát</item>
         <item>Galerie</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>Nová</item>
-        <item>Přejmenovat</item>
-        <item>Vymazat</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Jméno</item>
@@ -23,6 +21,25 @@
         <item>Adresa</item>
         <item>Poznámka</item>
     </string-array>
+    <string-array name="font_size_names">
+        <item>Malé</item>
+        <item>Střední</item>
+        <item>Velké</item>
+        <item>Obrovské</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Podle data vytvoření</item>
+        <item>Podle data úpravy</item>
+    </string-array>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>Nová</item>
+        <item>Přejmenovat</item>
+        <item>Vymazat</item>
+    </string-array>
     <string-array name="first_guide_contents">
         <item>Vítejte v poznámkách!</item>
         <item>Vytvořte si poznámku</item>
@@ -36,16 +53,6 @@
     <string-array name="folder_operations">
         <item>Přejmenovat</item>
         <item>Vymazat</item>
-    </string-array>
-    <string-array name="font_size_names">
-        <item>Malé</item>
-        <item>Střední</item>
-        <item>Velké</item>
-        <item>Obrovské</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>Podle data vytvoření</item>
-        <item>Podle data úpravy</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Hlasové poznámky</item>

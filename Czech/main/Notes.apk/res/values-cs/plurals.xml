@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Před hodinou</item>
@@ -46,10 +45,6 @@
         <item quantity="other">před %1$d dny</item>
         <item quantity="one">před %1$d dnem</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">Složek: %1$s</item>
-        <item quantity="one">Složek: %1$s</item>
-    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">Vymazáno %1$s poznámek ze složky</item>
         <item quantity="one">Vymazána %1$s poznámka ze složky</item>
@@ -74,14 +69,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">Položek: %1$s</item>
-        <item quantity="one">Položek: %1$s</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -89,29 +76,31 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
-    <plurals name="note_count_in_folder">
-        <item quantity="other">Poznámek: %1$s</item>
-        <item quantity="one">Poznámek: 1</item>
-    </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">Poznámek: %1$s</item>
-        <item quantity="one">Poznámek: %1$s</item>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Nalezeno %1$s poznámek</item>
+        <item quantity="one">Nalezena %1$s poznámka</item>
+        <item quantity="few">Nalezeny %1$s poznámky</item>
+        <item quantity="many">Nalezeno %1$s poznámky</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Nalezeno %1$s úkolů</item>
+        <item quantity="one">Nalezen %1$s úkol</item>
+        <item quantity="few">Nalezeny %1$s úkoly</item>
+        <item quantity="many">Nalezeno %1$s úkolu</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Zbývá %ds</item>
         <item quantity="one">Zbývá %ds</item>
-    </plurals>
-    <plurals name="search_results_title">
-        <item quantity="other">%1$s výsledků na dotaz \"%2$s\"</item>
-        <item quantity="one">%1$s výsledek na dotaz \"%2$s\"</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">Skrytých %1$s poznámek</item>
-        <item quantity="one">Skryta %1$s poznámka</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">Zobrazeno: %1$s</item>
@@ -137,8 +126,42 @@
         <item quantity="other">za %1$d dní</item>
         <item quantity="one">za %1$d den</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s úkolů</item>
+        <item quantity="one">%1$s úkol</item>
+        <item quantity="few">%1$s úkoly</item>
+        <item quantity="many">%1$s úkolu</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">Znaků: %d</item>
         <item quantity="one">Znaků: %d</item>
     </plurals>
-</resources>             
+    <plurals name="folder_terms">
+        <item quantity="other">Složek: %1$s</item>
+        <item quantity="one">Složek: %1$s</item>
+    </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">Položek: %1$s</item>
+        <item quantity="one">Položek: %1$s</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">Poznámek: %1$s</item>
+        <item quantity="one">Poznámek: 1</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">Poznámek: %1$s</item>
+        <item quantity="one">Poznámek: %1$s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s výsledků na dotaz \"%2$s\"</item>
+        <item quantity="one">%1$s výsledek na dotaz \"%2$s\"</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Skrytých %1$s poznámek</item>
+        <item quantity="one">Skryta %1$s poznámka</item>
+    </plurals>
+</resources>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Zrušit</string>
     <string name="doc_photo_adjust_section_title">Přizpůsobte potáhnutím</string>
@@ -167,9 +167,9 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="operation_original">Porovnat</string>
-	<string name="operation_redo">Znovu</string>
-	<string name="operation_undo">Zpět</string>
-	<string name="refocus_relighting_dianying">Film</string>
-	<string name="acc_refocus_slider">Úprava rozostření pozadí. Aktuální úroveň: %s</string>
+    <string name="operation_original">Porovnat</string>
+    <string name="operation_redo">Znovu</string>
+    <string name="operation_undo">Zpět</string>
+    <string name="refocus_relighting_dianying">Film</string>
+    <string name="acc_refocus_slider">Úprava rozostření pozadí. Aktuální úroveň: %s</string>
 </resources>

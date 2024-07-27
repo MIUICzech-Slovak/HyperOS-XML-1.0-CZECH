@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kg_glass_filters">
+        <item>Originální</item>
+        <item>Rozmazání</item>
+        <item>Vroubkování</item>
+        <item>Žebrování</item>
+        <item>Hranol</item>
+        <item>Drážky</item>
+        <item>Vlny</item>
+        <item>Čtverce</item>
+    </string-array>
+</resources>

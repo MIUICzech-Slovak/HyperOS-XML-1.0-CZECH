@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add">Přidat</string>
     <string name="add_configure">Přidat nastavení</string>
@@ -72,7 +72,7 @@ se dotknete štítku telefonem"</string>
     <string name="err_fail_to_erase">Vymazání štítku selhalo</string>
     <string name="err_fail_to_read">Čtení štítku selhalo</string>
     <string name="err_fail_to_write">Čtení štítku selhalo</string>
-    <string name="err_nfc_off">Povolte NFC v Nastavení &gt; Bezdrátové připojení a sítě &gt; Další &gt; NFC</string>
+    <string name="err_nfc_off">Povolte NFC v Nastavení > Bezdrátové připojení a sítě > Další > NFC</string>
     <string name="err_no_enough_space">Na štítku není dostatek místa</string>
     <string name="err_no_nfc">"Vaše zařízení nepodporuje NFC. Tato aplikace nebude fungovat správně."</string>
     <string name="err_parse_external_data">Tento soubor není podporován</string>

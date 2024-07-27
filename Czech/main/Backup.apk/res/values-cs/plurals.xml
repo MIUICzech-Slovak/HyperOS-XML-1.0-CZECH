@@ -73,10 +73,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -87,6 +83,12 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
     </plurals>
     <plurals name="new_task_backup_failed">
         <item quantity="other">Zálohování dokončeno. Nebylo možné zálohovat %d položek.</item>
@@ -165,5 +167,9 @@
         <item quantity="one">%d minuta</item>
         <item quantity="few">%d minuty</item>
         <item quantity="many">%d minuty</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
 </resources>

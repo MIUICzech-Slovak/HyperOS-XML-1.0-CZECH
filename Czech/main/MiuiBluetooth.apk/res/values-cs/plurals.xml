@@ -37,6 +37,10 @@
         <item quantity="other">Stlačte a podržte dotykovou plochu na sluchátku %1$ds</item>
         <item quantity="one">Stlačte a podržte dotykovou plochu na sluchátku %1$ds</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Stlačte a podržte %1$ds pro resetování</item>
+        <item quantity="one">Stlačte a podržte %1$ds pro resetování</item>
+    </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Podržte vrchní tlačítko %1$s sekund když je vypnuté</item>
         <item quantity="one">Podržte vrchní tlačítko %1$s sekundu když je vypnuté</item>
@@ -57,10 +61,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -72,8 +72,8 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-	<plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Stlačte a podržte %1$ds pro resetování</item>
-        <item quantity="one">Stlačte a podržte %1$ds pro resetování</item>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
 </resources>

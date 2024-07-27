@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Odstranit %d stahování?</item>
-        <item quantity="one">Odstranit %d stahnování?</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Stažené soubory %s byli úspešně odstraněny</item>
-        <item quantity="one">Stažený soubor %s byl úspěšně odstraněn</item>
-    </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">Stahuje se: %d</item>
         <item quantity="one">Stahuje se: 1</item>
@@ -17,8 +8,28 @@
         <item quantity="other">Čeká na stáhnutí: %d</item>
         <item quantity="one">Čeká na stáhnutí: 1</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Stahování %1$d souborů</item>
+        <item quantity="one">Stahování %1$d souboru</item>
+        <item quantity="few">Stahování %1$d souborů</item>
+        <item quantity="many">Stahování %1$d souboru</item>
+    </plurals>
     <plurals name="notification_download_failed_more">
         <item quantity="other">Nelze stáhnout: %1$d</item>
         <item quantity="one">Nelze stáhnout: %1$d</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d staženo</item>
+        <item quantity="one">%1$d staženo</item>
+        <item quantity="few">%1$d staženo</item>
+        <item quantity="many">%1$d staženo</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Odstranit %d stahování?</item>
+        <item quantity="one">Odstranit %d stahnování?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Stažené soubory %s byli úspešně odstraněny</item>
+        <item quantity="one">Stažený soubor %s byl úspěšně odstraněn</item>
     </plurals>
 </resources>

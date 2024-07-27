@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <string-array name="aqi_detail_title">
         <item>Dobré</item>
@@ -8,6 +7,30 @@
         <item>Nezdravé</item>
         <item>Velmi nezdravé</item>
         <item>Nebezpečné</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Dobré</item>
@@ -43,41 +66,41 @@
         <item>Přerov</item>
         <item>Jablonec nad Nisou</item>
     </string-array>
-    <string-array name="indices_car_wash">
-        <item>Vhodné</item>
-        <item>Nevhodné</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Vhodné</item>
-        <item>Nevhodné</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>Nízký</item>
-        <item>Střední</item>
-        <item>Silný</item>
-    </string-array>
     <string-array name="minute_rain_array">
         <item>Hustý</item>
         <item>Střední</item>
         <item>Jemný</item>
     </string-array>
-    <string-array name="moon_desc">
-        <item>Nov</item>
-        <item>Dorůstající srpek</item>
-        <item>První čtvrt</item>
-        <item>Dorůstající měsíc</item>
-        <item>Úplněk</item>
-        <item>Couvající měsíc</item>
-        <item>Poslední čtvrt</item>
-        <item>Couvající srpek</item>
-        <item>Zatmění</item>
+    <string-array name="realtime_humidity_status">
+        <item>Suché</item>
+        <item>Pohodlné</item>
+        <item>Vlhké</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Nízký</item>
-        <item>Mírný</item>
+    <string-array name="realtime_pressure_status">
+        <item>Vysoká</item>
         <item>Střední</item>
-        <item>Vysoký</item>
-        <item>Velmi vysoký</item>
+        <item>Nízká</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Studené</item>
+        <item>Super</item>
+        <item>Pohodlné</item>
+        <item>Teplé</item>
+        <item>Horké</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Slabé</item>
+        <item>Střední</item>
+        <item>Silný</item>
+        <item>Velmi silné</item>
+        <item>Závažné</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
@@ -142,7 +165,38 @@
         <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
-		<string-array name="pollution_level_desc_arr">
+    <string-array name="indices_car_wash">
+        <item>Vhodné</item>
+        <item>Nevhodné</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Vhodné</item>
+        <item>Nevhodné</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Nízký</item>
+        <item>Střední</item>
+        <item>Silný</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Nov</item>
+        <item>Dorůstající srpek</item>
+        <item>První čtvrt</item>
+        <item>Dorůstající měsíc</item>
+        <item>Úplněk</item>
+        <item>Couvající měsíc</item>
+        <item>Poslední čtvrt</item>
+        <item>Couvající srpek</item>
+        <item>Zatmění</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nízký</item>
+        <item>Mírný</item>
+        <item>Střední</item>
+        <item>Vysoký</item>
+        <item>Velmi vysoký</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
         <item>Výborně</item>
         <item>Dobré</item>
         <item>Mírně znečištěné</item>
@@ -150,29 +204,5 @@
         <item>Velmi znečištěné</item>
         <item>Velmi znečištěné</item>
         <item>Nebezpečné</item>
-	</string-array>
-	<string-array name="realtime_humidity_status">
-        <item>Suché</item>
-        <item>Pohodlné</item>
-        <item>Vlhké</item>
-	</string-array>
-	<string-array name="realtime_pressure_status">
-        <item>Vysoká</item>
-        <item>Střední</item>
-        <item>Nízká</item>
-	</string-array>
-	<string-array name="realtime_temperature_status">
-        <item>Studené</item>
-        <item>Super</item>
-        <item>Pohodlné</item>
-        <item>Teplé</item>
-        <item>Horké</item>
-	</string-array>
-	<string-array name="realtime_uv_level">
-        <item>Slabé</item>
-        <item>Střední</item>
-        <item>Silný</item>
-        <item>Velmi silné</item>
-        <item>Závažné</item>
-	</string-array>
+    </string-array>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_title">O MiDrive</string>
     <string name="about_version">"Verze: "</string>
@@ -338,7 +338,7 @@
     <string name="file_list_item_desc">%1$s | %2$s</string>
     <string name="file_loading">Nahrávám...</string>
     <string name="file_name_empty">Musíte zadat název.</string>
-    <string name="file_name_invalid">"Název souboru nesmí obsahovat tyto znaky: /\\:*?&lt;&gt;"</string>
+    <string name="file_name_invalid">"Název souboru nesmí obsahovat tyto znaky: /\\:*?&lt;>"</string>
     <string name="file_name_too_long">Název je příliš dlouhý.</string>
     <string name="file_no_file_desc">Zatím zde nejsou žádné položky.</string>
     <string name="file_no_file_sub_desc">Klepnutím na znaménko plus nahrajete soubory.</string>
@@ -364,7 +364,7 @@
     <string name="folder_exist">Složka již existuje</string>
     <string name="folder_name_empty">Název složku nesmí být prázdný</string>
     <string name="folder_name_illegal">Nesprávný název složky</string>
-    <string name="folder_name_invalid">Název složky nesmí obsahovat tyto znaky: /\\:*?&lt;&gt;</string>
+    <string name="folder_name_invalid">Název složky nesmí obsahovat tyto znaky: /\\:*?&lt;></string>
     <string name="force_touch_clean">Vyčistit</string>
     <string name="force_touch_search">Vyhledat</string>
     <string name="forward_to_web_recycle_prompt">\"%1$s\" Klepněte zde pro otevření koše v Cloudu</string>
@@ -484,7 +484,7 @@ Server je momentálně nedostupný, zkuste to znovu později
     <string name="menu_list_name">Menu</string>
     <string name="mi_router_label">MiRouter</string>
     <string name="micloud_space_applist_detail">Zálohy rozložení plochy si můžete zobrazit na svém mobilním zařízení.</string>
-    <string name="micloud_space_duokan_detail">„Otevřete Duokan na svém telefonu a přejděte do Bookshelf &gt; Cloud storage, kde můžete spravovat úložný prostor.
+    <string name="micloud_space_duokan_detail">„Otevřete Duokan na svém telefonu a přejděte do Bookshelf > Cloud storage, kde můžete spravovat úložný prostor.
 Ujistěte se, že jako systémový účet HyperOS používáte aktuální účet Mi."</string>
     <string name="micloud_space_duokan_title">Úložný prostor Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Otevřete na svém mobilním zařízení aplikaci Záznamník a vyberte složku s položkami uloženými v cloudu.
@@ -503,9 +503,9 @@ Ujistěte se, že jako systémový účet HyperOS používáte aktuální účet
     <string name="migrate_cancel">Zrušit</string>
     <string name="migrate_confirm">Přenést</string>
     <string name="migrate_failed_confirm">Rozumím</string>
-    <string name="migrate_failed_msg">Nastala chyba. Přeneste své soubory manuálně. &lt;a href=http://www.kuaipan.cn&gt;Zobrazit&lt;/a&gt;</string>
+    <string name="migrate_failed_msg">Nastala chyba. Přeneste své soubory manuálně. &lt;a href=http://www.kuaipan.cn>Zobrazit&lt;/a></string>
     <string name="migrate_failed_title">Nelze přenést soubory</string>
-    <string name="migrate_failed_toast">Nastala chyba. Přeneste své soubory manuálně. &lt;a href=http://www.kuaipan.cn&gt;Zobrazit&lt;/a&gt;</string>
+    <string name="migrate_failed_toast">Nastala chyba. Přeneste své soubory manuálně. &lt;a href=http://www.kuaipan.cn>Zobrazit&lt;/a></string>
     <string name="migrate_hint">Důležité: KuaiPan (starý MiDrive) je nahrazen novým MiDrive. Dotykem přesunete vaše soubory.</string>
     <string name="migrate_note">Important: KuaiPan (starý MiDrive) je nahrazen novým MiDrive. Přesuňte vaše soubory.</string>
     <string name="migrate_runing">Přesouvání souborů... Vraťte se později.</string>
@@ -1125,7 +1125,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
-	<string name="creation_dialog_message">Zobrazte plátna na tabletu.</string>
-	<string name="creation_dialog_positive_btn">Rozumím</string>
-	<string name="creation_dialog_title">Pozor</string>
+    <string name="creation_dialog_message">Zobrazte plátna na tabletu.</string>
+    <string name="creation_dialog_positive_btn">Rozumím</string>
+    <string name="creation_dialog_title">Pozor</string>
 </resources>

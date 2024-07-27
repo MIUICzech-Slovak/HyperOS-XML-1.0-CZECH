@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Přejít na plochu</string>
     <string name="abc_action_bar_home_description_format">%1$s – %2$s</string>
@@ -541,7 +541,7 @@
     <string name="push_add_desc">Ovládat nedaleký %1$s pomocí tohoto ovladače?</string>
     <string name="rc">Dálkové ovládání</string>
     <string name="rc_add_distance">%1$d m</string>
-    <string name="rc_add_distance_far">&gt;1000 km</string>
+    <string name="rc_add_distance_far">>1000 km</string>
     <string name="rc_add_distance_km">%1$s km</string>
     <string name="rc_name">Xiaomi Ovladač</string>
     <string name="recover">Obnovit z Xiaomi Cloudu</string>

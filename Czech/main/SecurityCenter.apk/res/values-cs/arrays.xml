@@ -25,44 +25,31 @@
         <item>PIN</item>
         <item>Heslo</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>Denně</item>
-        <item>Každé 3 dny</item>
-        <item>Každých 7 dní</item>
-    </string-array>
-    <string-array name="auto_memory_clean">
-        <item>za 1 min.</item>
-        <item>za 5 min.</item>
-        <item>za 10 min.</item>
-        <item>za 30 min.</item>
-        <item>Nikdy</item>
-    </string-array>
-    <string-array name="auto_process_mode">
-        <item>Upozornit</item>
-        <item>Vyčistit na pozadí</item>
-        <item>Upozornit po vyčištění</item>
-    </string-array>
-    <string-array name="auto_task_text_layout_size_level">
-        <item>Extra malé</item>
-        <item>Malé</item>
-        <item>Střední</item>
-        <item>Velké</item>
-        <item>Extra velké</item>
-        <item>XXL</item>
-    </string-array>
     <string-array name="cache_sort_type">
         <item>Velikosti</item>
         <item>Názvu</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
     </string-array>
     <string-array name="cellular_package_type">
         <item>Měsíční data</item>
         <item>Neomezené</item>
         <item>Denní data</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Včera Mob. data</item>
-        <item>Dnes Mob. data</item>
-        <item>Tento měsíc Mob. data</item>
+    <string-array name="daily_brand">
+        <item>Vlastní</item>
+        <item>Karta Xiaomi Fan</item>
+        <item>Xiao Tiansheng karta</item>
+        <item>Tencent King karta</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Vlastní</item>
+        <item>Mi Mobile</item>
+        <item>Karta Xiaomi Fan</item>
+        <item>Tianshen karta</item>
+        <item>Tencent karta</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Včera Mob. data\u0020</item>
@@ -102,6 +89,15 @@
         <item>"Budete moci vzdáleně sledovat a nahrávat obsah obrazovky."</item>
         <item>Bude možné získat přístup k podrobným informacím o vašem zařízení.</item>
     </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25×</item>
+        <item>0,5×</item>
+        <item>0,75×</item>
+        <item>Normální</item>
+        <item>1,25×</item>
+        <item>1,5×</item>
+        <item>2×</item>
+    </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Nejnižší</item>
         <item>Nízké</item>
@@ -109,38 +105,85 @@
         <item>Vysoké</item>
         <item>Nejvyšší</item>
     </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Nejpoužívanější</item>
-        <item>Velikosti</item>
+    <string-array name="gb_voice_change_gender">
+        <item>@string/gb_voice_changer_gender_man</item>
+        <item>@string/gb_voice_changer_gender_female</item>
     </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Velikosti</item>
-        <item>Názvu</item>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Zamknout, když se uzamkne telefon</item>
         <item>Zamknout po zavření aplikace</item>
         <item>Zamknout 1 min. po zavření aplikace</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Přidat do výjimek</item>
-    </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobilní data "</item>
         <item>"Wi-Fi "</item>
     </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 sekundy</item>
-        <item>4 sekundy</item>
-        <item>5 sekund</item>
-        <item>6 sekund</item>
-        <item>7 sekund</item>
-        <item>8 sekund</item>
-        <item>9 sekund</item>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Důležité: Některé aplikace mohou přestat fungovat správně.</item>
+        <item>Rozložení textu, účty a obsah nemusejí být zobrazeny správně.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Upozornit</item>
         <item>Upozornit a odpojit</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Předvolené</item>
@@ -163,6 +206,100 @@
     <string-array name="perm_intercept_unknown_source">
         <item>Aplikace které nepochází z Google Play, mohou způsobit nestabilitu nebo nesprávné fungování systému.</item>
         <item>Některé neověřené aplikace mohou obsahovat virus nebo malware.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Interní úložiště</item>
+        <item>Externí úložiště</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Vždy</item>
+        <item>Pouze pro výjimky</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Využití dat</item>
+        <item>Stav volných minut</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Seřadit podle názvu aplikace</item>
+        <item>Seřadit podle frekvence používání</item>
+        <item>Seřadit podle využitého úložiště</item>
+        <item>Seřadit podle času instalace</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Název aplikace</item>
+        <item>Frekvence používání</item>
+        <item>Využitý úložný prostor</item>
+        <item>Čas instalace</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Vypnout a upozornit</item>
+        <item>Pouze upozornit</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Zdroj instalace</item>
+        <item>Čas instalace</item>
+        <item>Zdroj poslední aktualizace</item>
+        <item>Čas poslední aktualizace</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Měsíční datový balíček</item>
+        <item>Denní datový balíček</item>
+        <item>Neomezený datový balíček</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>využito Mob. data\u0020</item>
+        <item>využito Wi-Fi\u0020</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Denně</item>
+        <item>Každé 3 dny</item>
+        <item>Každých 7 dní</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>za 1 min.</item>
+        <item>za 5 min.</item>
+        <item>za 10 min.</item>
+        <item>za 30 min.</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Upozornit</item>
+        <item>Vyčistit na pozadí</item>
+        <item>Upozornit po vyčištění</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Extra malé</item>
+        <item>Malé</item>
+        <item>Střední</item>
+        <item>Velké</item>
+        <item>Extra velké</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Včera Mob. data</item>
+        <item>Dnes Mob. data</item>
+        <item>Tento měsíc Mob. data</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Nejpoužívanější</item>
+        <item>Velikosti</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Velikosti</item>
+        <item>Názvu</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Přidat do výjimek</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Po 1 minutě</item>
@@ -208,22 +345,9 @@
         <item>Hudba</item>
         <item>E-mail</item>
     </string-array>
-    <string-array name="priority_storage_entries">
-        <item>Interní úložiště</item>
-        <item>Externí úložiště</item>
-    </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Často používané</item>
         <item>Název</item>
-    </string-array>
-    <string-array name="roaming_network_type">
-        <item>Vždy</item>
-        <item>Pouze pro výjimky</item>
-        <item>Nikdy</item>
-    </string-array>
-    <string-array name="sms_report_type">
-        <item>Využití dat</item>
-        <item>Stav volných minut</item>
     </string-array>
     <string-array name="sort_title">
         <item>Seřadit dle stavu</item>
@@ -232,39 +356,12 @@
         <item>Seřadit dle využití úložiště</item>
         <item>Seřadit dle času instalace</item>
     </string-array>
-    <string-array name="sort_title_new">
-        <item>Seřadit podle názvu aplikace</item>
-        <item>Seřadit podle frekvence používání</item>
-        <item>Seřadit podle využitého úložiště</item>
-        <item>Seřadit podle času instalace</item>
-    </string-array>
     <string-array name="sort_type">
         <item>Stavu</item>
         <item>Názvu aplikace</item>
         <item>Frekvence používání</item>
         <item>Využití úložiště</item>
         <item>Čas instalace</item>
-    </string-array>
-    <string-array name="sort_type_new">
-        <item>Název aplikace</item>
-        <item>Frekvence používání</item>
-        <item>Využitý úložný prostor</item>
-        <item>Čas instalace</item>
-    </string-array>
-    <string-array name="tether_limit_warn_type">
-        <item>Vypnout a upozornit</item>
-        <item>Pouze upozornit</item>
-    </string-array>
-    <string-array name="title_app_info">
-        <item>Zdroj instalace</item>
-        <item>Čas instalace</item>
-        <item>Zdroj poslední aktualizace</item>
-        <item>Čas poslední aktualizace</item>
-    </string-array>
-    <string-array name="traffic_package_type">
-        <item>Měsíční datový balíček</item>
-        <item>Denní datový balíček</item>
-        <item>Neomezený datový balíček</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
         <item>Žádná</item>
@@ -279,10 +376,6 @@
     <string-array name="traffic_sort_type">
         <item>Využití Mob. data</item>
         <item>Využití Wi-Fi</item>
-    </string-array>
-    <string-array name="traffic_type">
-        <item>využito Mob. data\u0020</item>
-        <item>využito Wi-Fi\u0020</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>MB</item>

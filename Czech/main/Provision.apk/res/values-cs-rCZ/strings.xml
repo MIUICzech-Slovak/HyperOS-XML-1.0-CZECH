@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_non_personal_data">Pokud odvoláte souhlas s přístupem a používáním neosobních údajů ze svého zařízení, služby Denní tapety budou deaktivovány a všechny shromážděné údaje budou vymazány ve lhůtě stanovené v příslušných zákonech a nařízeních.</string>
     <string name="accessibility_enabled">Usnadnění přístupu povoleno.</string>
@@ -34,7 +34,7 @@
     <string name="camera_introduction">Pomocí fotoaparátu můžete vytvářet snímky a nahrávat videa.</string>
     <string name="carrier_introduction">Pro neustálé vylepšování našich služeb může vaše zařízení pravidelně odesílat informace jako je verze systému, identifikační data zařízení (včetně IMEI/IMSI/MSISDN/MAC adresy, MEID/ICCID) a informace o vaší přibližné poloze (včetně ID základové stanice) vašemu operátorovi pomocí sítě Wi-Fi, mobilních dat nebo bezplatné SMS zprávy. Operátor se zavazuje zpracovávat tyto informace pouze pro účely vylepšování služeb nebo pro poskytování dalších přizpůsobených služeb a technologií. Žádné z informací, ve formě podle které vás lze identifikovat, nebudou poskytnuty třetím stranám. Upřednostňovány jsou konkrétní prohlášení a zásady operátora. Před využitím této služby doporučujeme kontaktovat vašeho operátora pro upřesnění cen za tuto službu.</string>
     <string name="clock_introduction">V této aplikace můžete kromě zobrazení času nastavit také časovač, světový čas, stopky, budíky apod.</string>
-    <string name="close_location_service_setting">Přístup k vaší poloze můžete kdykoli vypnout v Nastavení &gt; Další nastavení &gt; Soukromí nebo přímo u jednotlivých aplikacích v aplikaci Optimalizace.</string>
+    <string name="close_location_service_setting">Přístup k vaší poloze můžete kdykoli vypnout v Nastavení > Další nastavení > Soukromí nebo přímo u jednotlivých aplikacích v aplikaci Optimalizace.</string>
     <string name="cm_terms_content">Pro zkvalitnění poskytovaných služeb, může vámi zvolený mobilní operátor odesílat vaše osobní data a informace o zařízení na své serevery pomocí sítě Wi-Fi nebo mobilního datového připojení. Tyto informace budou použity pouze pro statistické účely pro zkvalitnění služeb a poskytování obsahu na míru přímo pro vás. Tyto informace nebudou využity pro vaši osobní identifikaci a v žádném případě nebudou předány třetím stranám.</string>
     <string name="cm_terms_title">Dohoda s operátorem mobilní sítě</string>
     <string name="compass_introduction">Tato aplikace vám pomáhá při navigaci, určování souřadnic, atmosférického tlaku a nadmořské výšky.</string>
@@ -64,11 +64,11 @@
     <string name="disagreement_donnot_use_product">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tento produkt moci využívat. V takovémto případě doporučujeme přestat produkt využívat.</string>
     <string name="disagreement_donnot_use_service">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto službu moci využívat. V takovémto případě doporučujeme přestat službu využívat.</string>
     <string name="disagreement_exit_app">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto aplikaci moci využívat. Buď se můžete z této aplikace odhlásit nebo zakázat některá z udělených oprávnění v Nastavení.</string>
-    <string name="disagreement_fast_pairing_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci tuto aplikaci používat. Tuto službu můžete kdykoli zapnout v Nastavení &gt; Bluetooth &gt; Další nastavení &gt; Xiaomi Link."</string>
+    <string name="disagreement_fast_pairing_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci tuto aplikaci používat. Tuto službu můžete kdykoli zapnout v Nastavení > Bluetooth > Další nastavení > Xiaomi Link."</string>
     <string name="disagreement_function">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto funkci moci využívat. V takovémto případě doporučujeme přestat funkci využívat.</string>
     <string name="disagreement_location_service">Pokud nesouhlasíte s udělením následujících oprávnění nebo se sdílením a nahráváním vašich osobních informací, nebudete tuto službu moci využívat.</string>
-    <string name="disagreement_location_service_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby určování polohy. Určování polohy můžete kdykoli zapnout nebo vypnout v Nastavení &gt; Ochrana soukromí."</string>
-    <string name="disagreement_mi_account_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby Xiaomi účtu. Služby Xiaomi účtu můžete kdykoli zapnout nebo vypnout v Nastavení &gt; Xiaomi účet."</string>
+    <string name="disagreement_location_service_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby určování polohy. Určování polohy můžete kdykoli zapnout nebo vypnout v Nastavení > Ochrana soukromí."</string>
+    <string name="disagreement_mi_account_abnormal">"Pokud nesouhlasíte s udělením těchto povolení, nebudete moci používat služby Xiaomi účtu. Služby Xiaomi účtu můžete kdykoli zapnout nebo vypnout v Nastavení > Xiaomi účet."</string>
     <string name="disagreement_service_not_working_properly">„Pokud nesouhlasíte s udělením těchto povolení, nebudete moci tuto aplikaci používat.“</string>
     <string name="disagreement_terminate_bluetooth">"Pokud nechcete udělit tato oprávnění, nebudete moci používat Bluetooth. Bluetooth můžete zapnout a vypnout, nebo přidat Bluetooth zařízení v nastavení."</string>
     <string name="disagreement_terminate_miuidaemon">Pokud nesouhlasíte s udělením takovýchto povolení nebo sdílením a nahráním svých osobných údajů, nebudete moci tuto službu používat.</string>
@@ -409,7 +409,7 @@ Zobrazit Zásady ochrany osobních údajů pro tuto klávesnici."</string>
     <string name="service_name_screen_recording">Nahrávání obrazovky</string>
     <string name="service_name_security">Optimalizace</string>
     <string name="service_name_service_framework">Xiaomi Service Framework</string>
-    <string name="service_policy">&lt;Data&gt;Přečtěte si a souhlaste s našimi &lt;a href=%1$s&gt;Zásadami ochrany osobních údajů&lt;/a &gt;.&lt;/Data&gt;</string>
+    <string name="service_policy">&lt;Data>Přečtěte si a souhlaste s našimi &lt;a href=%1$s>Zásadami ochrany osobních údajů&lt;/a >.&lt;/Data></string>
     <string name="service_privacy_index">Zásady ochrany osobních údajů</string>
     <string name="service_sim_activation">Aktivace SIM karty</string>
     <string name="servicestate_title">Prohlášení o základních službách</string>
@@ -542,16 +542,16 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="withdraw_consent">Pokud svůj souhlas odvoláte, služby Denní tapety budou deaktivovány.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
-	<string name="after_sales_support">Poprodejní podpora</string>
-      <string name="after_sales_support_introduction">Tato služba vám umožňuje získat podporu a pomoc týkající se zakoupených zařízení.</string>
-      <string name="authority_introduction">Správce povolení je základní služba, která vám umožňuje spravovat oprávnění aplikací na tomto zařízení.</string>
-      <string name="default_font">Výchozí</string>
-      <string name="font_settings_sub_title">Vyberte systémové písmo</string>
-      <string name="font_settings_title">Nastavení písma</string>
-      <string name="font_use_case_text_example">Text</string>
-      <string name="font_use_case_title_example">Název</string>
-      <string name="get_imei_information">Přístup k IMEI</string>
-      <string name="interconnection_service_summary_china">"Služby Xiaomi Interconnectivity umožňují vašim zařízením vzájemnou bezdrátovou interakci. Služby Xiaomi Interconnectivity můžete použít k ovládání zařízení, přenosu zvuku a přehrávání videa, kombinování funkcí zařízení nebo spouštění úloh na jednom zařízení a pokračování s nimi ve stejné aplikaci na jiných připojených zařízeních Tato aplikace se musí připojit k internetu a vyžaduje následující povolení:
+    <string name="after_sales_support">Poprodejní podpora</string>
+    <string name="after_sales_support_introduction">Tato služba vám umožňuje získat podporu a pomoc týkající se zakoupených zařízení.</string>
+    <string name="authority_introduction">Správce povolení je základní služba, která vám umožňuje spravovat oprávnění aplikací na tomto zařízení.</string>
+    <string name="default_font">Výchozí</string>
+    <string name="font_settings_sub_title">Vyberte systémové písmo</string>
+    <string name="font_settings_title">Nastavení písma</string>
+    <string name="font_use_case_text_example">Text</string>
+    <string name="font_use_case_title_example">Název</string>
+    <string name="get_imei_information">Přístup k IMEI</string>
+    <string name="interconnection_service_summary_china">"Služby Xiaomi Interconnectivity umožňují vašim zařízením vzájemnou bezdrátovou interakci. Služby Xiaomi Interconnectivity můžete použít k ovládání zařízení, přenosu zvuku a přehrávání videa, kombinování funkcí zařízení nebo spouštění úloh na jednom zařízení a pokračování s nimi ve stejné aplikaci na jiných připojených zařízeních Tato aplikace se musí připojit k internetu a vyžaduje následující povolení:
 \u0009\u0009Mi Share:
 \u0009\u0009Přistupujte k fotografiím a souborům uloženým v zařízení
 \u0009\u0009Na odesílání a přijímání přeneseného obsahu
@@ -624,55 +624,55 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
 \u0009\u0009Na odesílání a přijímání přeneseného obsahu
 Pokud s udělením těchto povolení nesouhlasíte, nebudete moci tyto služby používat.
 Dostupné služby propojení se mohou lišit v závislosti na verzi vašeho systému a modelu zařízení. Více informací naleznete na %s"</string>
-      <string name="permission_authority_describe">Přístup k seznamu aplikací nainstalovaných v tomto zařízení</string>
-      <string name="permission_authority_describe_applist_summary">Pro správu povolení aplikace</string>
-      <string name="permission_get_imei_information_summary">K identifikaci času aktivace zařízení</string>
-      <string name="permission_number">Přístupové telefonní číslo</string>
-      <string name="permission_number_introduction">K vytvoření spojení Bluetooth se systémy auta a sluchátky Bluetooth</string>
-      <string name="permission_qualcomm_describe_summary">Pro dynamické přidělování systémových prostředků různým aplikacím a organizování jejich pracovních procesů</string>
-      <string name="permission_quality_describe_summary">Pro shromažďování informací o selháních aplikace</string>
-      <string name="permission_uniquely_identifiable_information">Přístup k jedinečným identifikátorům tohoto zařízení</string>
-      <string name="permission_uniquely_identifiable_information_summary">Přístup k MAC adrese a OAID zařízení pro zjišťování, připojení a komunikaci s jinými zařízeními</string>
-      <string name="permission_use_bluetooth">Použít Bluetooth</string>
-      <string name="permission_use_bluetooth_summary">Pro zjišťování, připojení a komunikaci se zařízeními v okolí</string>
-      <string name="permission_use_wlan">Použít Wi-Fi</string>
-      <string name="permission_use_wlan_summary">Pro zjišťování, připojení a komunikaci se zařízeními v okolí</string>
-      <string name="phone_service_introduction">Telefonie je základní služba, která vašemu zařízení umožňuje uskutečňovat hovory, odesílat a přijímat zprávy a připojovat se k síti.</string>
-      <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je služba, která spravuje systémové procesy.</string>
-      <string name="recommend_font">MiSans</string>
-      <string name="recommended_font_mark">Doporučuje se</string>
-      <string name="require_base_authority_statement">"Pro poskytování základních služeb jsou potřebná následující povolení:
+    <string name="permission_authority_describe">Přístup k seznamu aplikací nainstalovaných v tomto zařízení</string>
+    <string name="permission_authority_describe_applist_summary">Pro správu povolení aplikace</string>
+    <string name="permission_get_imei_information_summary">K identifikaci času aktivace zařízení</string>
+    <string name="permission_number">Přístupové telefonní číslo</string>
+    <string name="permission_number_introduction">K vytvoření spojení Bluetooth se systémy auta a sluchátky Bluetooth</string>
+    <string name="permission_qualcomm_describe_summary">Pro dynamické přidělování systémových prostředků různým aplikacím a organizování jejich pracovních procesů</string>
+    <string name="permission_quality_describe_summary">Pro shromažďování informací o selháních aplikace</string>
+    <string name="permission_uniquely_identifiable_information">Přístup k jedinečným identifikátorům tohoto zařízení</string>
+    <string name="permission_uniquely_identifiable_information_summary">Přístup k MAC adrese a OAID zařízení pro zjišťování, připojení a komunikaci s jinými zařízeními</string>
+    <string name="permission_use_bluetooth">Použít Bluetooth</string>
+    <string name="permission_use_bluetooth_summary">Pro zjišťování, připojení a komunikaci se zařízeními v okolí</string>
+    <string name="permission_use_wlan">Použít Wi-Fi</string>
+    <string name="permission_use_wlan_summary">Pro zjišťování, připojení a komunikaci se zařízeními v okolí</string>
+    <string name="phone_service_introduction">Telefonie je základní služba, která vašemu zařízení umožňuje uskutečňovat hovory, odesílat a přijímat zprávy a připojovat se k síti.</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je služba, která spravuje systémové procesy.</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">Doporučuje se</string>
+    <string name="require_base_authority_statement">"Pro poskytování základních služeb jsou potřebná následující povolení:
 \u0009\u0009\u0009Přístup k IMEI a IMSI"</string>
-      <string name="require_basic_applist_and_authority_statement">Pro poskytování základních služeb jsou potřebná následující povolení:</string>
-      <string name="select_font_modele_tips">V části Témata si můžete kdykoli vybrat nové písmo</string>
-      <string name="service_name_authority">Správce povolení</string>
-      <string name="system_update_statement">Pro provedení aktualizace systému potřebujeme shromáždit IMEI zařízení, IMSI zařízení, identifikátory zařízení (OAID a šifrované Android ID), účet Xiaomi, výrobce zařízení, model zařízení, provozovatele sítě, zařízení paměť, verzi operačního systému, region , jazyk, konektivitu, typ sítě a IP adresu.</string>
-      <string name="system_update_title">Aktualizace systému</string>
-      <string name="terms_of_use_label_system_quality_monitoring">Monitorování kvality systému</string>
-	  <string name="disagreement_service_not_working_properly_with_media_storage">"Pokud se rozhodnete neudělit tato oprávnění, služba nebude moci normálně fungovat."</string>
-      <string name="media_storage_devices">Zařízení pro ukládání médií</string>
-      <string name="media_storage_introduction">Tato služba umožňuje aplikacím přistupovat k fotkám, videím, zvukům a souborům a ukládat je.</string>
-      <string name="permission_media_storage_summary">Pro kontrolu způsobu, jakým aplikace využívají povolení související s ochranou osobních údajů při přístupu k souborům</string>
-	  <string name="interconnection_service_title">Služby Xiaomi Interconnectivity</string>
-	  <string name="aquire_device_info">Přístup k informacím o zařízení</string>
-      <string name="permission_application_scope_description">"Tato povolení používáme pouze při provádění ověření zabezpečení a nepoužijeme je k žádnému jinému účelu."</string>
-      <string name="read_application_info">Přístup k informacím o aplikaci</string>
-      <string name="safe_open_service">Zabezpečené otevřené služby</string>
-      <string name="safe_open_service_introduction">Zabezpečené otevřené služby pomáhají vývojářům a poskytují možnosti zabezpečení na úrovni systému k ochraně uživatelů a jejich soukromí.</string>
-      <string name="verify_application_security">Pro ověření zabezpečení aplikace</string>
-      <string name="verify_device_security">Pro ověření zabezpečení zařízení</string>
-	  <string name="access_calendar">Přístup ke kalendáři</string>
-      <string name="application_extension_service">Služby rozšíření aplikace</string>
-      <string name="application_extension_service_introduction">Služby rozšíření aplikace vám poskytnou funkce přihlášení a ověření. K poskytování základních služeb potřebuje tato aplikace následující povolení:</string>
-      <string name="calendar_storage">Úložiště kalendáře</string>
-      <string name="disagree_unable_serve">„Pokud nesouhlasíte s výše uvedenými povoleními, nebudete moci tuto službu používat.“</string>
-      <string name="permission_not_agree_service_not_working">"Pokud nesouhlasíte s výše uvedenými požadovanými povoleními, nebudete moci tuto službu používat."</string>
-      <string name="permission_sms_verification_code_login">Poskytování ověření SMS pro rychlé přihlášení</string>
-      <string name="provide_date_management_service">Tato služba vám umožňuje kontrolovat datum a spravovat události.</string>
-      <string name="read_sms_and_mms">Přístup k SMS a MMS</string>
-      <string name="require_statement">Pro poskytování základních služeb potřebujeme následující povolení:</string>
-      <string name="used_date_viewing">Pro kontrolu data</string>
-	  <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
-      <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Interconnectivity umožňuje vašim zařízením vzájemně bezdrátově komunikovat. Zapnutím tohoto přepínače vyjadřujete souhlas s &lt;a href=%1$s>ochranou osobních údajů&lt;/a > služby Xiaomi Interconnectivity.&lt;/Data>"</string>
-      <string name="interconnection_service_summary_global">"Funkce Xiaomi Interconnectivity se mohou lišit v závislosti na modelu zařízení a verzi systému. Další informace naleznete na oficiálních stránkách systému."</string>
+    <string name="require_basic_applist_and_authority_statement">Pro poskytování základních služeb jsou potřebná následující povolení:</string>
+    <string name="select_font_modele_tips">V části Témata si můžete kdykoli vybrat nové písmo</string>
+    <string name="service_name_authority">Správce povolení</string>
+    <string name="system_update_statement">Pro provedení aktualizace systému potřebujeme shromáždit IMEI zařízení, IMSI zařízení, identifikátory zařízení (OAID a šifrované Android ID), účet Xiaomi, výrobce zařízení, model zařízení, provozovatele sítě, zařízení paměť, verzi operačního systému, region , jazyk, konektivitu, typ sítě a IP adresu.</string>
+    <string name="system_update_title">Aktualizace systému</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Monitorování kvality systému</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">"Pokud se rozhodnete neudělit tato oprávnění, služba nebude moci normálně fungovat."</string>
+    <string name="media_storage_devices">Zařízení pro ukládání médií</string>
+    <string name="media_storage_introduction">Tato služba umožňuje aplikacím přistupovat k fotkám, videím, zvukům a souborům a ukládat je.</string>
+    <string name="permission_media_storage_summary">Pro kontrolu způsobu, jakým aplikace využívají povolení související s ochranou osobních údajů při přístupu k souborům</string>
+    <string name="interconnection_service_title">Služby Xiaomi Interconnectivity</string>
+    <string name="aquire_device_info">Přístup k informacím o zařízení</string>
+    <string name="permission_application_scope_description">"Tato povolení používáme pouze při provádění ověření zabezpečení a nepoužijeme je k žádnému jinému účelu."</string>
+    <string name="read_application_info">Přístup k informacím o aplikaci</string>
+    <string name="safe_open_service">Zabezpečené otevřené služby</string>
+    <string name="safe_open_service_introduction">Zabezpečené otevřené služby pomáhají vývojářům a poskytují možnosti zabezpečení na úrovni systému k ochraně uživatelů a jejich soukromí.</string>
+    <string name="verify_application_security">Pro ověření zabezpečení aplikace</string>
+    <string name="verify_device_security">Pro ověření zabezpečení zařízení</string>
+    <string name="access_calendar">Přístup ke kalendáři</string>
+    <string name="application_extension_service">Služby rozšíření aplikace</string>
+    <string name="application_extension_service_introduction">Služby rozšíření aplikace vám poskytnou funkce přihlášení a ověření. K poskytování základních služeb potřebuje tato aplikace následující povolení:</string>
+    <string name="calendar_storage">Úložiště kalendáře</string>
+    <string name="disagree_unable_serve">„Pokud nesouhlasíte s výše uvedenými povoleními, nebudete moci tuto službu používat.“</string>
+    <string name="permission_not_agree_service_not_working">"Pokud nesouhlasíte s výše uvedenými požadovanými povoleními, nebudete moci tuto službu používat."</string>
+    <string name="permission_sms_verification_code_login">Poskytování ověření SMS pro rychlé přihlášení</string>
+    <string name="provide_date_management_service">Tato služba vám umožňuje kontrolovat datum a spravovat události.</string>
+    <string name="read_sms_and_mms">Přístup k SMS a MMS</string>
+    <string name="require_statement">Pro poskytování základních služeb potřebujeme následující povolení:</string>
+    <string name="used_date_viewing">Pro kontrolu data</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Interconnectivity umožňuje vašim zařízením vzájemně bezdrátově komunikovat. Zapnutím tohoto přepínače vyjadřujete souhlas s &lt;a href=%1$s>ochranou osobních údajů&lt;/a > služby Xiaomi Interconnectivity.&lt;/Data>"</string>
+    <string name="interconnection_service_summary_global">"Funkce Xiaomi Interconnectivity se mohou lišit v závislosti na modelu zařízení a verzi systému. Další informace naleznete na oficiálních stránkách systému."</string>
 </resources>

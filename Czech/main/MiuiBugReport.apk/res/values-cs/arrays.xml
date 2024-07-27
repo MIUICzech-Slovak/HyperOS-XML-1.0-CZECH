@@ -4,7 +4,7 @@
         <item>Muž</item>
         <item>Žena</item>
     </string-array>
-	<string-array name="net_diag_err_link_quality">
+    <string-array name="net_diag_err_link_quality">
         <item>Špatné připojení Wi-Fi. Přepněte bezdrátová pásma nebo restartujte router.</item>
         <item>"Nemohu se připojit k síti. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
     </string-array>

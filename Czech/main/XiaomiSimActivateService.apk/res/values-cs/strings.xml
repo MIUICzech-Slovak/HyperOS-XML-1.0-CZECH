@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">OK</string>
     <string name="activate">Aktivovat</string>
@@ -46,10 +46,10 @@
     <string name="activate_popup_confirm_failed_server">Znovu</string>
     <string name="activate_popup_desc_2_intl_sim_cards">Budou odeslány 2 mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
     <string name="activate_popup_desc_2_intl_sim_cards_msg">Pro aktivaci %2$s, %1$d bude odeslána mezinárodní SMS.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;mezinárodní placená SMS&lt;/b&gt; bude odeslána. Váš operátor vám bude tyto zprávy účtovat.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b> bude odeslána. Váš operátor vám bude tyto zprávy účtovat.</string>
     <string name="activate_popup_desc_2_sim_cards">Budou odeslány 2 mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
     <string name="activate_popup_desc_2_sim_cards_msg">Pro aktivaci %2$s, %1$d bude odeslána běžná SMS.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;domácí placená SMS&lt;/b&gt; bude odeslána. Váš operátor vám bude tyto zprávy účtovat.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domácí placená SMS&lt;/b> bude odeslána. Váš operátor vám bude tyto zprávy účtovat.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Nelze rozpoznat vaše tel. číslo. Ujistěte se, že vaše SIM karta je aktivní.
 Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nebylo možné odeslat aktivační SMS zprávu. Ujistěte se, že vaše SIM karta je aktivní.
@@ -69,11 +69,11 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Pro aktivaci \"%2$s\", zadejte telefonní číslo. Když změníte SIM kartu, bude znova odeslána aktivační SMS.</string>
     <string name="activate_popup_desc_intl_sim_card">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
     <string name="activate_popup_desc_intl_sim_card_msg">Pro aktivaci %2$s, %1$d bude odeslána mezinárodní SMS.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;mezinárodní placená SMS&lt;/b&gt; bude odeslána. Váš operátor vám bude tuto zprávu účtovat.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b> bude odeslána. Váš operátor vám bude tuto zprávu účtovat.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. </string>
     <string name="activate_popup_desc_mixed_sim_cards">Bude odeslána SMS a mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg">Pro aktivaci %3$s, bude odeslána %1$d běžná a %2$d mezinárodní SMS.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Pro aktivaci \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;domácí placená SMS&lt;/b&gt; a &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;mezinárodní placená SMS&lt;/b&gt; bude odeslána . Váš operátor vám bude tyto zprávy účtovat.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Pro aktivaci \"%3$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domácí placená SMS&lt;/b> a &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b> bude odeslána . Váš operátor vám bude tyto zprávy účtovat.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM karty jsou změněny. Budou odeslány 2 mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
     <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM karty jsou změněny. Budou odeslány 2 SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
     <string name="activate_popup_desc_new_intl_sim_card">Vaše SIM karta je změněna. Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
@@ -88,7 +88,7 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Pro aktivaci %2$s, zadejte telefonní číslo SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Pro aktivaci %s, zadejte vaše telefonní číslo.</string>
     <string name="activate_popup_desc_sim_card_msg">Pro aktivaci %2$s, bude odeslána %1$d běžná SMS.</string>
-    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;placená SMS&lt;/font&gt; bude odeslána. Váš operátor vám bude tuto zprávu účtovat.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Pro aktivaci \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>placená SMS&lt;/font> bude odeslána. Váš operátor vám bude tuto zprávu účtovat.</string>
     <string name="activate_popup_desc_voip_privacy">Ochrane soukromí</string>
     <string name="activate_popup_desc_voip_privacy_prefix">". HyperOS VOIP je poskytované weihui, přečtěte si o "</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Pro aktivaci %3$s, zadejte telefonní číslo SIM %2$d.</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="FMRecording_reach_storage_threshold">Nahrávání bylo ukončeno, dochází volné místo pro zápis.</string>
     <string name="access_sd_fail">Nelze načíst SD kartu</string>

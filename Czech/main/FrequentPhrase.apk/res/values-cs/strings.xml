@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Přidat častou frázi</string>
     <string name="delete_frequent_phrases">Vymazat častou frázi</string>

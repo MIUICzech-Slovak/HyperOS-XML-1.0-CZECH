@@ -45,10 +45,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="last_sent_time_day">
         <item quantity="other">Před %d dny</item>
         <item quantity="one">Před %d dnem</item>
@@ -92,4 +88,8 @@
         <item quantity="few">%d oznámení týdně</item>
         <item quantity="many">%d oznámení týdně</item>
     </plurals>
-</resources>             
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+</resources>

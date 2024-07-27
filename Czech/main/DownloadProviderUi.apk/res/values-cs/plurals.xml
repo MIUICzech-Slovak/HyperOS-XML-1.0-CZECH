@@ -69,10 +69,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -83,6 +79,16 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="show_more">
+        <item quantity="other">Zobrazit %1$d dalších</item>
+        <item quantity="one">Zobrazit %1$d další</item>
+        <item quantity="few">Zobrazit %1$d další</item>
+        <item quantity="many">Zobrazit %1$d další</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Vymazat: %d?</item>
@@ -100,4 +106,4 @@
         <item quantity="other">Nalezeno: %d</item>
         <item quantity="one">Nalezeno: 1</item>
     </plurals>
-</resources>             
+</resources>

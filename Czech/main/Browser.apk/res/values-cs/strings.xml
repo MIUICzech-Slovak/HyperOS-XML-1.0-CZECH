@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Domů</string>
     <string name="abc_action_bar_up_description">Nahoru</string>
@@ -175,7 +175,7 @@
     <string name="close">Zavřít</string>
     <string name="close_ads_choice_no">Povolit</string>
     <string name="close_ads_choice_yes">Blokovat</string>
-    <string name="close_ads_message">Blokovat obsah této stránky? Blokované stránky se zobrazí v Nastavení &gt; Rozšířené &gt; Vlastní pravidla</string>
+    <string name="close_ads_message">Blokovat obsah této stránky? Blokované stránky se zobrazí v Nastavení > Rozšířené > Vlastní pravidla</string>
     <string name="close_ads_title">Blokovat obsah?</string>
     <string name="close_all_tab_alert_message">Opravdu chcete zavřít všechny karty?</string>
     <string name="close_all_tab_alert_title">Zavřít všechny karty</string>
@@ -389,8 +389,8 @@
     <string name="geolocation_permissions_prompt_message">%s chce znát Vaši polohu</string>
     <string name="geolocation_permissions_prompt_remember">Pamatovat volbu</string>
     <string name="geolocation_permissions_prompt_share">Sdílet polohu</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Tato stránka může použít Vaši polohu. Změnit to můžete v Nastavení -&gt; Soukromí a bezpečnost</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Tato stránka nemůže použít Vaši polohu. Změnit to můžete v Nastavení -&gt; Soukromí a bezpečnost</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Tato stránka může použít Vaši polohu. Změnit to můžete v Nastavení -> Soukromí a bezpečnost</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Tato stránka nemůže použít Vaši polohu. Změnit to můžete v Nastavení -> Soukromí a bezpečnost</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Zrušit</string>
     <string name="geolocation_settings_page_dialog_message">Odebrat této stránce přístup k Vaší poloze?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>

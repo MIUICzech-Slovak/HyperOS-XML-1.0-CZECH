@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Přejít na plochu</string>
     <string name="abc_action_bar_up_description">Přejít nahoru</string>
@@ -192,7 +192,7 @@
     <string name="exit_choice_mode">Sdílený dialog ukončen</string>
     <string name="expand_button_title">Rozšířená nastavení</string>
     <string name="expand_desc">Více</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">Galerie bude nyní ukládat položky do vnitřního úložiště. Změnu můžete provést v Nastavení &gt; Úložiště &gt; Nastavení úložiště.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Galerie bude nyní ukládat položky do vnitřního úložiště. Změnu můžete provést v Nastavení > Úložiště > Nastavení úložiště.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">Oprávnění nelze udělit.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Další</string>
     <string name="ext_sdcard_guide_last_page_button_text">Udělit oprávnění</string>
@@ -463,8 +463,8 @@
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">Fotografie pořízena v %s</string>
     <string name="image_with_time_and_location">Fotografie pořízena v %1$s. Poloha: %2$s.</string>
-    <string name="limit_height">Výška by měla být &gt; 0</string>
-    <string name="limit_width">Šířka by měla být &gt; 0</string>
+    <string name="limit_height">Výška by měla být > 0</string>
+    <string name="limit_width">Šířka by měla být > 0</string>
     <string name="loading">Ještě chvilku</string>
     <string formatted="false" name="loading_text_format">Odebírání osobních informací z fotografií (%d/%d)…</string>
     <string name="loading_video_compress_lib">Stahování plug-inu pro komprimování videí…</string>
@@ -867,7 +867,7 @@
     <string name="pm">odp.</string>
     <string name="preference_copied">Položka %1$s byla zkopírována do schránky.</string>
     <string name="prepare_to_drop">Uložit do %s</string>
-    <string name="privacy_permission_request_message">&lt;Data&gt;Galerie vyžaduje přístup k %3$s. Shromážděné informace budou využity v souladu s našimi &lt;a href=\"%1$s\"&gt;\"Smluvními podmínkami\"&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;\"Zásadami ochrany osobních údajů\"&lt;/a&gt;. Povolit?&lt;/Data&gt;</string>
+    <string name="privacy_permission_request_message">&lt;Data>Galerie vyžaduje přístup k %3$s. Shromážděné informace budou využity v souladu s našimi &lt;a href=\"%1$s\">\"Smluvními podmínkami\"&lt;/a> a &lt;a href=\"%2$s\">\"Zásadami ochrany osobních údajů\"&lt;/a>. Povolit?&lt;/Data></string>
     <string name="privacy_permission_request_negative">Zakázat</string>
     <string name="privacy_permission_request_positive">Povolit</string>
     <string name="privacy_permission_request_title">Vyžadována oprávnění</string>
@@ -1206,7 +1206,7 @@
     <string name="user_agree">Souhlasím</string>
     <string name="user_agreement2">Smluvními podmínkami</string>
     <string name="user_agreement4">Zásady ochrany osobních údajů</string>
-    <string name="user_notice_identify_summary_format">&lt;Data&gt;Využíváním této služby souhlasíte se &lt;a href=\"%1$s\"&gt;\"Smluvními podmínkami&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;\"Zásadami ochrany osobních údajů\"&lt;/a&gt; společnosti Xiaomi.&lt;/Data&gt;</string>
+    <string name="user_notice_identify_summary_format">&lt;Data>Využíváním této služby souhlasíte se &lt;a href=\"%1$s\">\"Smluvními podmínkami&lt;/a> a &lt;a href=\"%2$s\">\"Zásadami ochrany osobních údajů\"&lt;/a> společnosti Xiaomi.&lt;/Data></string>
     <string name="user_notice_title">Pravidla a podmínky</string>
     <string name="v7_preference_off">Vypnutí</string>
     <string name="v7_preference_on">ZAP</string>

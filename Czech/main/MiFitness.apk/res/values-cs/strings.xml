@@ -3379,7 +3379,7 @@ Bez tohoto kroku nelze platby zařízením provést."</string>
     <string name="sport_hert_rate_range_fat_burning">Intenzivní</string>
     <string name="sport_hert_rate_range_limit">VO₂ max</string>
     <string name="sport_hert_rate_range_remind">Zóna srdečního tepu</string>
-    <string name="sport_hert_rate_range_value" formatted="false">%1d–%2d tepů/min.</string>
+    <string formatted="false" name="sport_hert_rate_range_value">%1d–%2d tepů/min.</string>
     <string name="sport_hert_rate_range_warm_up">Lehká</string>
     <string name="sport_hert_rate_remind_desc">Využití této funkce vyžaduje zapnutí funkce \"Nepřetržité měření\".</string>
     <string name="sport_hert_rate_remind_tip">Srdeční tep</string>

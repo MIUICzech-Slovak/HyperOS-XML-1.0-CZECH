@@ -54,51 +54,11 @@
         <item quantity="few">Před %d minutami</item>
         <item quantity="many">Před %d minutou</item>
     </plurals>
-    <plurals name="actionbar_large_unread_count">
-        <item quantity="other">%1$d+ nepřečtené</item>
-        <item quantity="one">%1$d+ nepřečtené</item>
-        <item quantity="few">%1$d+ nepřečtené</item>
-        <item quantity="many">%1$d+ nepřečtené</item>
-    </plurals>
-    <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d nepřečtených zpráv</item>
-        <item quantity="one">%1$d nepřečtená zpráva</item>
-        <item quantity="few">%1$d nepřečtené zprávy</item>
-        <item quantity="many">%1$d nepřečtené zprávy</item>
-    </plurals>
-    <plurals name="contact_num_selected">
-        <item quantity="other">Přidáno %d kontaktů</item>
-        <item quantity="one">Přidán %d kontakt</item>
-        <item quantity="few">Přidány %d kontakty</item>
-        <item quantity="many">Přidáno %d kontaktu</item>
-    </plurals>
-    <plurals name="conversation_msg_header_count">
-        <item quantity="other">+%1$d dalších osob</item>
-        <item quantity="one">+%1$d další osoba</item>
-        <item quantity="few">+%1$d další osoby</item>
-        <item quantity="many">+%1$d další osoby</item>
-    </plurals>
-    <plurals name="draft">
-        <item quantity="other">Konceptů</item>
-        <item quantity="one">Koncept</item>
-        <item quantity="few">Koncepty</item>
-        <item quantity="many">Konceptu</item>
-    </plurals>
-    <plurals name="email_filter_rule_max_tips">
-        <item quantity="other">Můžete přidat až %1$d podmínek</item>
-        <item quantity="one">Můžete přidat až %1$d podmínku</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před půl hodinou</item>
         <item quantity="one">Před půl hodinou</item>
         <item quantity="few">Před půl hodinou</item>
         <item quantity="many">Před půl hodinou</item>
-    </plurals>
-    <plurals name="hide_atts_remaining">
-        <item quantity="other">Skrýt %1$d příloh</item>
-        <item quantity="one">Skrýt %1$d přílohu</item>
-        <item quantity="few">Skrýt %1$d přílohy</item>
-        <item quantity="many">Skrýt %1$d přílohy</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Za hodinu</item>
@@ -136,6 +96,52 @@
         <item quantity="few">Vybrány %d položky</item>
         <item quantity="many">Vybráno %d položky</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+        <item quantity="few">Před %d minutami</item>
+        <item quantity="many">Před %d minutou</item>
+    </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ nepřečtené</item>
+        <item quantity="one">%1$d+ nepřečtené</item>
+        <item quantity="few">%1$d+ nepřečtené</item>
+        <item quantity="many">%1$d+ nepřečtené</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nepřečtených zpráv</item>
+        <item quantity="one">%1$d nepřečtená zpráva</item>
+        <item quantity="few">%1$d nepřečtené zprávy</item>
+        <item quantity="many">%1$d nepřečtené zprávy</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Přidáno %d kontaktů</item>
+        <item quantity="one">Přidán %d kontakt</item>
+        <item quantity="few">Přidány %d kontakty</item>
+        <item quantity="many">Přidáno %d kontaktu</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d dalších osob</item>
+        <item quantity="one">+%1$d další osoba</item>
+        <item quantity="few">+%1$d další osoby</item>
+        <item quantity="many">+%1$d další osoby</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Konceptů</item>
+        <item quantity="one">Koncept</item>
+        <item quantity="few">Koncepty</item>
+        <item quantity="many">Konceptu</item>
+    </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Můžete přidat až %1$d podmínek</item>
+        <item quantity="one">Můžete přidat až %1$d podmínku</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Skrýt %1$d příloh</item>
+        <item quantity="one">Skrýt %1$d přílohu</item>
+        <item quantity="few">Skrýt %1$d přílohy</item>
+        <item quantity="many">Skrýt %1$d přílohy</item>
+    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">Zbývá %1$d příloh</item>
         <item quantity="one">Zbývá %1$d příloha</item>
@@ -151,12 +157,6 @@
         <item quantity="one">%1$d nová zpráva</item>
         <item quantity="few">%1$d nové zprávy</item>
         <item quantity="many">%1$d nové zprávy</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">Před %d minutami</item>
-        <item quantity="one">Před minutou</item>
-        <item quantity="few">Před %d minutami</item>
-        <item quantity="many">Před %d minutou</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">Vybráno: %d</item>

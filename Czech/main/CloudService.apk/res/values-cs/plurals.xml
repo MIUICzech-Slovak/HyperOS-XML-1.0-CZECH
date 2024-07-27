@@ -29,10 +29,6 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">Nebylo možné synchr. %s položek</item>
-        <item quantity="one">Nebylo možné synchr. %s položku</item>
-    </plurals>
     <plurals name="cloud_storage_full_upgrade_text">
         <item quantity="other">Není místo na úložišti. Nepodařilo se synchronizovat %d fotografií.</item>
         <item quantity="one">Není místo na úložišti. Nepodařilo se synchronizovat %d fotografii.</item>
@@ -65,10 +61,6 @@
         <item quantity="other">Zpráv: %d</item>
         <item quantity="one">Zpráv: %d</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d skladeb</item>
-        <item quantity="one">%d skladba</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">Poznámek: %d</item>
         <item quantity="one">Poznámek: %d</item>
@@ -76,6 +68,12 @@
     <plurals name="dirty_note_count_v2">
         <item quantity="other">Poznámky: %d</item>
         <item quantity="one">Poznámky: %d</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d vstupů do Aplikačního trezoru</item>
+        <item quantity="one">%d vstup do Aplikačního trezoru</item>
+        <item quantity="few">%d vstupy do Aplikačního trezoru</item>
+        <item quantity="many">%d vstupu do Aplikačního trezoru</item>
     </plurals>
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d frází</item>
@@ -85,10 +83,6 @@
         <item quantity="other">%d nahrávek</item>
         <item quantity="one">%d nahrávka</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">Skryté fotografie (%d) nejsou synchronizované. Odhlaste se po dokončení synchronizace, aby nebyly vymazány.</item>
-        <item quantity="one">Skrytá fotografie (%d) není synchronizovaná. Odhlaste se po dokončení synchronizace, aby nebyla vymazána.</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d Wi-Fi sítí</item>
         <item quantity="one">%d Wi-Fi síť</item>
@@ -97,9 +91,39 @@
         <item quantity="other">%d Wi-Fi sítí</item>
         <item quantity="one">%d Wi-Fi síť</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s hodin</item>
+        <item quantity="one">%s hodinu</item>
+        <item quantity="few">%s hodiny</item>
+        <item quantity="many">%s hodiny</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">%s minutu</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minuty</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekundu</item>
+        <item quantity="few">%s sekundy</item>
+        <item quantity="many">%s sekundy</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Zkuste znovu za %d s</item>
+        <item quantity="one">Zkuste znovu za %d s</item>
+        <item quantity="few">Zkuste znovu za %d s</item>
+        <item quantity="many">Zkuste znovu za %d s</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_red_title">
         <item quantity="other">Nepodařilo se synchronizovat &lt;font color=#F22424>%s položek&lt;/font></item>
         <item quantity="one">Nepodařilo se synchronizovat &lt;font color=#F22424>%s položku&lt;/font>"</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Synchronizace %s položek se nezdařila</item>
+        <item quantity="one">Synchronizace %s položky se nezdařila</item>
+        <item quantity="few">Synchronizace %s položek se nezdařila</item>
+        <item quantity="many">Synchronizace %s položky se nezdařila</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
@@ -117,15 +141,7 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Čeká na synchr.: %d</item>
-        <item quantity="one">Čeká na synchr.: %d</item>
-    </plurals>
-    <plurals name="items_waiting_to_sync">
         <item quantity="other">Čeká na synchr.: %d</item>
         <item quantity="one">Čeká na synchr.: %d</item>
     </plurals>
@@ -139,14 +155,6 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
-    </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Pokračovat v synchr. za %d hodin</item>
-        <item quantity="one">Pokračovat v synchr. za %d hodinu</item>
-    </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Pokračovat v synchr. za %d minut</item>
-        <item quantity="one">Pokračovat v synchr. za %d minutu</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Synchr. pozastavena. Obnovení synchr. za %d min.</item>
@@ -172,12 +180,64 @@
         <item quantity="other">Není možné vybrat více jak %d položek</item>
         <item quantity="one">Není možné vybrat více jak %d položku</item>
     </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Pozvánka byla přijata %d lidmi</item>
+        <item quantity="one">Pozvánka byla přijata %d osobou</item>
+        <item quantity="few">Pozvánka byla přijata %d osobami</item>
+        <item quantity="many">Pozvánka byla přijata %d osobou</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s dní</item>
+        <item quantity="one">%1$s den</item>
+        <item quantity="few">%1$s dny</item>
+        <item quantity="many">%1$s dne</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s hodin</item>
+        <item quantity="one">%1$s hodina</item>
+        <item quantity="few">%1$s hodiny</item>
+        <item quantity="many">%1$s hodiny</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="few">%1$s min.</item>
+        <item quantity="many">%1$s min.</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">Nebylo možné synchr. %s položek</item>
+        <item quantity="one">Nebylo možné synchr. %s položku</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d skladeb</item>
+        <item quantity="one">%d skladba</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">Skryté fotografie (%d) nejsou synchronizované. Odhlaste se po dokončení synchronizace, aby nebyly vymazány.</item>
+        <item quantity="one">Skrytá fotografie (%d) není synchronizovaná. Odhlaste se po dokončení synchronizace, aby nebyla vymazána.</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">Čeká na synchr.: %d</item>
+        <item quantity="one">Čeká na synchr.: %d</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Pokračovat v synchr. za %d hodin</item>
+        <item quantity="one">Pokračovat v synchr. za %d hodinu</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Pokračovat v synchr. za %d minut</item>
+        <item quantity="one">Pokračovat v synchr. za %d minutu</item>
+    </plurals>
     <plurals name="sync_items_close">
         <item quantity="other">%d jsou vypnuty</item>
         <item quantity="one">%d je vypnuto</item>
     </plurals>
-	<plurals name="provision_sync_items_status_off_title">
+    <plurals name="provision_sync_items_status_off_title">
         <item quantity="other">"Synchr. není zapnuta pro položky %s"</item>
         <item quantity="one">"Synchr. není zapnuta pro %s položku"</item>
-	</plurals>
-</resources>             
+    </plurals>
+</resources>

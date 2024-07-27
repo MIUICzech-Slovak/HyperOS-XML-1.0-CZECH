@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acceptance_timeout_message">Přijetí připojení od %1$s vypršelo</string>
     <string name="authentication_timeout_message">Ověření s %1$s vypršelo</string>

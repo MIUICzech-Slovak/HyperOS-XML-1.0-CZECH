@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_enter_lock_wallpaper">Dotykem otevřete galerii tapet</string>
     <string name="btn_camera">Zaměřte svou tvář</string>
@@ -140,7 +140,7 @@
     <string name="lock_screen_no_sim_card">Žádná SIM karta</string>
     <string name="lock_wallpaper_enter">Otevřít</string>
     <string name="lock_wallpaper_learn_more">Více</string>
-    <string name="lock_wallpaper_see_more">Zjistit více &gt;</string>
+    <string name="lock_wallpaper_see_more">Zjistit více ></string>
     <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
     <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
     <string name="lockscreen_access_pattern_detected">Bezpečnostní vzor byl dokončen</string>

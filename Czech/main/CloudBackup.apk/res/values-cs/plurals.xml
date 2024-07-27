@@ -29,21 +29,21 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-    <plurals name="backup_action_long_time_not_auto_backup_content">
-        <item quantity="other">Nezálohovali jste svoje položky už %s týdnů. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
-        <item quantity="one">Nezálohovali jste svoje položky už %s týden. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
-    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">Zdá se, že jste položky nezálohovali %s týdnů. Vytvořte zálohy, aby jste nestratili nic důležité.</item>
         <item quantity="one">Zdá se, že jste %s týden nezálohovali položky. Vytvořte zálohy, aby jste nestratili nic důležité.</item>
     </plurals>
-    <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Zálohovat každých %d dní</item>
-        <item quantity="one">Zálohovat každý den</item>
-    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s záloh, velikost: %2$s</item>
         <item quantity="one">%1$s záloha, velikost: %2$s</item>
+    </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dnů od poslední zálohy | Nová data: %2$s</item>
+        <item quantity="one">%1$d den od poslední zálohy | Nová data: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dnů od poslední zálohy</item>
+        <item quantity="one">%d den od poslední zálohy</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
@@ -61,10 +61,6 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -75,6 +71,30 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Zálohovaných %d aplikací</item>
+        <item quantity="one">Zálohovaná %d aplikace</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Obnovených %d aplikací</item>
+        <item quantity="one">Obnovená %d aplikace</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Zůstáva okolo %s min</item>
+        <item quantity="one">Zůstáva okolo %s min</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">Nezálohovali jste svoje položky už %s týdnů. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
+        <item quantity="one">Nezálohovali jste svoje položky už %s týden. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Zálohovat každých %d dní</item>
+        <item quantity="one">Zálohovat každý den</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d apl. v tomto zařízení</item>
@@ -92,24 +112,4 @@
         <item quantity="other">Obnovení souborů (%d)</item>
         <item quantity="one">Obnovení souborů (%d)</item>
     </plurals>
-    <plurals name="session_starting_app_count_backup_text">
-        <item quantity="other">Zálohovaných %d aplikací</item>
-        <item quantity="one">Zálohovaná %d aplikace</item>
-    </plurals>
-    <plurals name="session_starting_app_count_restore_text">
-        <item quantity="other">Obnovených %d aplikací</item>
-        <item quantity="one">Obnovená %d aplikace</item>
-    </plurals>
-    <plurals name="session_time_remain">
-        <item quantity="other">Zůstáva okolo %s min</item>
-        <item quantity="one">Zůstáva okolo %s min</item>
-    </plurals>
-	<plurals name="days_and_size_without_backup">
-         <item quantity="other">%1$d dnů od poslední zálohy | Nová data: %2$s</item>
-         <item quantity="one">%1$d den od poslední zálohy | Nová data: %2$s</item>
-      </plurals>
-      <plurals name="days_without_backup">
-         <item quantity="other">%d dnů od poslední zálohy</item>
-         <item quantity="one">%d den od poslední zálohy</item>
-      </plurals>
-</resources>             
+</resources>

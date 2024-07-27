@@ -29,6 +29,18 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikdy nevypínat pro %d aplikací</item>
+        <item quantity="one">Nikdy nevypínat pro %d aplikaci</item>
+        <item quantity="few">Nikdy nevypínat pro %d aplikace</item>
+        <item quantity="many">Nikdy nevypínat pro %d aplikací</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Vždy vypnuto pro %d aplikací</item>
+        <item quantity="one">Vždy vypnuto pro %d aplikaci</item>
+        <item quantity="few">Vždy vypnuto pro %d aplikace</item>
+        <item quantity="many">Vždy vypnuto pro %d aplikací</item>
+    </plurals>
     <plurals name="fileCount">
         <item quantity="other">Položek: %d</item>
         <item quantity="one">Položek: %d</item>
@@ -53,16 +65,18 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
@@ -79,5 +93,9 @@
     <plurals name="xspace_guide_content">
         <item quantity="other">Můžete vytvořit %d klonovaných apl.</item>
         <item quantity="one">Můžete vytvořit %d klonovanou apl.</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
 </resources>

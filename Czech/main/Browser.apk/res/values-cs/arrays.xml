@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <string-array name="menu_theme_setting">
         <item>Bílá</item>
@@ -53,4 +52,3 @@
         <item>Follow the Olypmpics with Mi</item>
     </string-array>
 </resources>
-

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Před hodinou</item>
@@ -30,9 +29,23 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s Hodin %2$s"</item>
-        <item quantity="one">" %1$s Hodina %2$s"</item>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Před %d dny</item>
+        <item quantity="one">Před %d dnem</item>
+        <item quantity="few">Před %d dny</item>
+        <item quantity="many">Před %d dny</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Před %d min</item>
+        <item quantity="one">Před %d min</item>
+        <item quantity="few">Před %d min</item>
+        <item quantity="many">Před %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Před %d r.</item>
+        <item quantity="one">Před %d r.</item>
+        <item quantity="few">Před %d r.</item>
+        <item quantity="many">Před %d r.</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nikdy nevypínat pro %d apl.</item>
@@ -42,6 +55,12 @@
         <item quantity="other">Vždy vypnout pro %d apl.</item>
         <item quantity="one">Vždy vypnout pro 1 apl.</item>
     </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d aplikací se bude spouštět při startu</item>
+        <item quantity="one">%d aplikace se bude spouštět při startu</item>
+        <item quantity="few">%d aplikace se budou spouštět při startu</item>
+        <item quantity="many">%d aplikace se bude spouštět při startu</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplikací se může připojit k síti na pozadí</item>
         <item quantity="one">%d aplikace se může připojit k síti na pozadí</item>
@@ -50,32 +69,38 @@
         <item quantity="other">%d aplikací se nemůže připojit k síti na pozadí</item>
         <item quantity="one">%d aplikace se nemůže připojit k síti na pozadí</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d dostupných zařízení</item>
+        <item quantity="one">%d dostupné zařízení</item>
+        <item quantity="few">%d dostupná zařízení</item>
+        <item quantity="many">%d dostupného zařízení</item>
+    </plurals>
     <plurals name="clean_time">
         <item quantity="other">%d sekund</item>
         <item quantity="one">%d sekunda</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Každých %d sekund</item>
+        <item quantity="one">Každou %d sekundu</item>
+        <item quantity="few">Každé %d sekundy</item>
+        <item quantity="many">Každých %d sekund</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">Zařízení: %d</item>
         <item quantity="one">Zařízení: %d</item>
     </plurals>
-    <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d aplikací může otevírat podporované odkazy</item>
-        <item quantity="one">Jedna aplikace může otevírat podporované odkazy</item>
-        <item quantity="few">%d aplikace mohou otevírat podporované odkazy</item>
-        <item quantity="many">%d aplikace mohou otevírat podporované odkazy</item>
-    </plurals>
     <plurals name="firewall_item_summary">
         <item quantity="other">Zakázat připojení pro %s aplikací</item>
         <item quantity="one">Zakázat připojení pro %s aplikaci</item>
     </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">Připojeno %1$d lidí</item>
+        <item quantity="one">Připojen %1$d člověk</item>
+        <item quantity="few">Připojeni %1$d lidé</item>
+        <item quantity="many">Připojeno %1$d člověka</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
-    </plurals>
-    <plurals name="high_power_count">
-        <item quantity="other">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikací</item>
-        <item quantity="one">Ignorovat optimalizaci výdrže baterie má povoleno jedna aplikace</item>
-        <item quantity="few">Ignorovat optimalizaci výdrže baterie mají povoleno %d aplikace</item>
-        <item quantity="many">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikace</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Do hodiny</item>
@@ -90,36 +115,8 @@
         <item quantity="other">za %d minut</item>
         <item quantity="one">za 1 minutu</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Vybraných: %d</item>
-        <item quantity="one">Vybraných: %d</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Požadovaný minimální počet písmen v heslu: %d.</item>
-        <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
-        <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Požadovaný minimální počet nepísmenných znaků v heslu: %d.</item>
-        <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Požadovaný minimální počet číslic v heslu: %d.</item>
-        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Požadovaný minimální počet zvláštních symbolů v heslu: %d.</item>
-        <item quantity="one">Heslo musí obsahovat nejméně jeden zvláštní symbol.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Požadovaný minimální počet velkých písmen v heslu: %d.</item>
-        <item quantity="one">Heslo musí obsahovat nejméně jedno velké písmeno.</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
         <item quantity="other">Můžete zadat maximálně %d znaků</item>
@@ -153,23 +150,15 @@
         <item quantity="other">Počkejte alespoň %ds a zkuste to znovu .</item>
         <item quantity="one">Počkejte alespoň %ds a zkuste to znovu .</item>
     </plurals>
-    <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">Počet aplikací poskytující podmínky: %d</item>
-        <item quantity="one">%d aplikace poskytuje podmínky</item>
-    </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
-        <item quantity="one">%d aplikace může číst oznámení</item>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s, %2$s</item>
+        <item quantity="many">%1$s, %2$s</item>
     </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Maximálně %d procesů</item>
         <item quantity="one">Maximálně %d proces</item>
-    </plurals>
-    <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d aplikací použilo paměť během posledních %2$s</item>
-        <item quantity="one">1 aplikace použila paměť během posledních %2$s</item>
-        <item quantity="few">%1$d aplikace použily paměť během posledních %2$s</item>
-        <item quantity="many">%1$d aplikace použilo paměť během posledních %2$s</item>
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d přidány</item>
@@ -183,64 +172,25 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d apl. obsahuje ohrožení soukromí</item>
-        <item quantity="one">%d apl. obsahuje ohrožení soukromí</item>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+        <item quantity="few">%d nová oznámení</item>
+        <item quantity="many">%d nového oznámení</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Změny budou použity za %d s</item>
+        <item quantity="one">Změny budou použity za %d s</item>
+        <item quantity="few">Změny budou použity za %d s</item>
+        <item quantity="many">Změny budou použity za %d s</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-    <plurals name="permissions_summary">
-        <item quantity="other">Uděleno %d oprávnění</item>
-        <item quantity="one">Uděleno %d oprávnění</item>
-        <item quantity="few">Udělena %d oprávnění</item>
-        <item quantity="many">Uděleno %d oprávnění</item>
-    </plurals>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%d d "</item>
-        <item quantity="one">"%d d "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d h "</item>
-        <item quantity="one">"%d h "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d min "</item>
-        <item quantity="one">"%d min "</item>
-    </plurals>
-    <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d tiskových úloh</item>
-        <item quantity="one">1 tisková úloha</item>
-    </plurals>
-    <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
-        <item quantity="one">Byla nalezena %1$s tiskárna</item>
-    </plurals>
-    <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d dalších oprávnění</item>
-        <item quantity="one">%d další oprávnění</item>
-        <item quantity="few">%d další oprávnění</item>
-        <item quantity="many">%d dalšího oprávnění</item>
-    </plurals>
-    <plurals name="runtime_permissions_summary">
-        <item quantity="other">Bylo uděleno %1$d z %2$d oprávnění</item>
-        <item quantity="one">Bylo uděleno %1$d z %2$d oprávnění</item>
-        <item quantity="few">Bylo uděleno %1$d z %2$d oprávnění</item>
-        <item quantity="many">Bylo uděleno %1$d z %2$d oprávnění</item>
-    </plurals>
-    <plurals name="search_application_count">
-        <item quantity="other">Vyhledat aplikace</item>
-    </plurals>
-    <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">Nastavení %1$d otisků prstu</item>
-        <item quantity="one">Nastavení %1$d otisku prstu</item>
-        <item quantity="few">Nastavení %1$d otisků prstu</item>
-        <item quantity="many">Nastavení %1$d otisku prstu</item>
-    </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d přepínačů nad čarou je aktivních</item>
-        <item quantity="one">1 přepínač nad čarou je aktivní</item>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybrána %d položka</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Počet kroků do získání stavu vývojáře: %1$d.</item>
@@ -258,9 +208,11 @@
         <item quantity="other">Počet kroků do nahlášení chyby: %1$d.</item>
         <item quantity="one">Počet kroků do nahlášení chyby: %1$d.</item>
     </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">Dokončete %1$d kroky k obnovení továrního nastavení</item>
-        <item quantity="one">Dokončete %1$d krok k obnovení továrního nastavení</item>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d aplikací může využívat neomezená data</item>
+        <item quantity="one">1 aplikace může využívat neomezená data</item>
+        <item quantity="few">%d aplikace mohou využívat neomezená data</item>
+        <item quantity="many">%d aplikace může využívat neomezená data</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">"%d apl. nemůže zobrazit upozornění"</item>
@@ -362,6 +314,137 @@
         <item quantity="other">"min"</item>
         <item quantity="one">"min"</item>
     </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Nalezeno %d hrozeb</item>
+        <item quantity="one">Nalezena %d hrozba</item>
+        <item quantity="few">Nalezeny %d hrozby</item>
+        <item quantity="many">Nalezeno %d hrozby</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d sdílené sítě</item>
+        <item quantity="one">%d sdílená síť</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d připojených zařízení</item>
+        <item quantity="one">%1$d připojené zařízení</item>
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hodin %2$s"</item>
+        <item quantity="one">" %1$s Hodina %2$s"</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikací může otevírat podporované odkazy</item>
+        <item quantity="one">Jedna aplikace může otevírat podporované odkazy</item>
+        <item quantity="few">%d aplikace mohou otevírat podporované odkazy</item>
+        <item quantity="many">%d aplikace mohou otevírat podporované odkazy</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikací</item>
+        <item quantity="one">Ignorovat optimalizaci výdrže baterie má povoleno jedna aplikace</item>
+        <item quantity="few">Ignorovat optimalizaci výdrže baterie mají povoleno %d aplikace</item>
+        <item quantity="many">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikace</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Požadovaný minimální počet písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Požadovaný minimální počet nepísmenných znaků v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Požadovaný minimální počet číslic v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Požadovaný minimální počet zvláštních symbolů v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden zvláštní symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Požadovaný minimální počet velkých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno velké písmeno.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Počet aplikací poskytující podmínky: %d</item>
+        <item quantity="one">%d aplikace poskytuje podmínky</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
+        <item quantity="one">%d aplikace může číst oznámení</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikací použilo paměť během posledních %2$s</item>
+        <item quantity="one">1 aplikace použila paměť během posledních %2$s</item>
+        <item quantity="few">%1$d aplikace použily paměť během posledních %2$s</item>
+        <item quantity="many">%1$d aplikace použilo paměť během posledních %2$s</item>
+    </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d apl. obsahuje ohrožení soukromí</item>
+        <item quantity="one">%d apl. obsahuje ohrožení soukromí</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Uděleno %d oprávnění</item>
+        <item quantity="one">Uděleno %d oprávnění</item>
+        <item quantity="few">Udělena %d oprávnění</item>
+        <item quantity="many">Uděleno %d oprávnění</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d d "</item>
+        <item quantity="one">"%d d "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d h "</item>
+        <item quantity="one">"%d h "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d tiskových úloh</item>
+        <item quantity="one">1 tisková úloha</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
+        <item quantity="one">Byla nalezena %1$s tiskárna</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dalších oprávnění</item>
+        <item quantity="one">%d další oprávnění</item>
+        <item quantity="few">%d další oprávnění</item>
+        <item quantity="many">%d dalšího oprávnění</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="one">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="few">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="many">Bylo uděleno %1$d z %2$d oprávnění</item>
+    </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Vyhledat aplikace</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavení %1$d otisků prstu</item>
+        <item quantity="one">Nastavení %1$d otisku prstu</item>
+        <item quantity="few">Nastavení %1$d otisků prstu</item>
+        <item quantity="many">Nastavení %1$d otisku prstu</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d přepínačů nad čarou je aktivních</item>
+        <item quantity="one">1 přepínač nad čarou je aktivní</item>
+    </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Dokončete %1$d kroky k obnovení továrního nastavení</item>
+        <item quantity="one">Dokončete %1$d krok k obnovení továrního nastavení</item>
+    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Počet zbývajících pokusů: %d.</item>
         <item quantity="one">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokus, poté budete muset o odemknutí zařízení požádat svého operátora.</item>
@@ -378,28 +461,16 @@
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
     </plurals>
-	<plurals name="saved_network_checked_num">
-        <item quantity="other">Vybráno %d položek</item>
-        <item quantity="one">Vybrána %d položka</item>
-	</plurals>	 
-	<plurals name="wifi_saved_access_points_summary">
+    <plurals name="wifi_saved_access_points_summary">
         <item quantity="other">%d sítí</item>
         <item quantity="one">1 síť</item>
-	</plurals>
-	<plurals name="wifi_saved_all_access_points_summary">
+    </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
         <item quantity="other">%d sítí &amp; odběry</item>
         <item quantity="one">1 síť &amp; odběr</item>
-	</plurals>
-	<plurals name="wifi_saved_passpoint_access_points_summary">
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
         <item quantity="other">%d odběry</item>
         <item quantity="one">1 odběr</item>
-	</plurals>
-	<plurals name="wifi_share_count">
-        <item quantity="other">%d sdílené sítě</item>
-        <item quantity="one">%d sdílená síť</item>
-	</plurals>
-	<plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d připojených zařízení</item>
-        <item quantity="one">%1$d připojené zařízení</item>
-	</plurals>
+    </plurals>
 </resources>

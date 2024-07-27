@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by HyperOS CZ&SK www.HyperOS.cz-->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">Před hodinou</item>
@@ -29,6 +28,203 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s mincí</item>
+        <item quantity="one">%1s mince</item>
+        <item quantity="few">%1s mince</item>
+        <item quantity="many">%1s mince</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosférický tlak: %s hektopascalů</item>
+        <item quantity="one">Atmosférický tlak: %s hektopascal</item>
+    </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">Smazat %d úloh?</item>
+        <item quantity="one">Smazat %d úlohu?</item>
+        <item quantity="few">Smazat %d úlohy?</item>
+        <item quantity="many">Smazat %d úlohy?</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">%d úloh úspěšně smazáno</item>
+        <item quantity="one">%d úloha úspěšně smazána</item>
+        <item quantity="few">%d úlohy úspěšně smazány</item>
+        <item quantity="many">%d úlohy úspěšně smazáno</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Posunout vpřed o %d sekund</item>
+        <item quantity="one">Posunout vpřed o %d sekundu</item>
+        <item quantity="few">Posunout vpřed o %d sekundy</item>
+        <item quantity="many">Posunout vpřed o %d sekundy</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Přetočit zpět o %d sekund</item>
+        <item quantity="one">Přetočit zpět o %d sekundu</item>
+        <item quantity="few">Přetočit zpět o %d sekundy</item>
+        <item quantity="many">Přetočit zpět o %d sekundy</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Před hodinou a půl</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Spálené %1$s kalorií</item>
+        <item quantity="one">Spáleno %1$s kalorií</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cíl kalorií: %1$s kalorií</item>
+        <item quantity="one">Cíl kalorií: %1$s kalorií</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Doba aktivity: %1$s minut</item>
+        <item quantity="one">Doba aktivity: %1$s minuta</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cíl aktivity: %1$s minut</item>
+        <item quantity="one">Cíl aktivity: %1$s minuta</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Vstání za %1$s hodin</item>
+        <item quantity="one">Vstání za %1$s hodinu</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Cíl vstaní: %1$s hodin</item>
+        <item quantity="one">Cíl vstaní: %1$s hodina</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s hod.</item>
+        <item quantity="one">%1$s/%2$s hod.</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Aktuální počet kroků: %1$s kroků</item>
+        <item quantity="one">Aktuální počet kroků: %1$s krok</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cíl kroku: %1$s kroků</item>
+        <item quantity="one">Cíl kroku: %1$s krok</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s kroků</item>
+        <item quantity="one">%1$s/%2$s krok</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Do hodiny</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Do půl hodiny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nyní</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Položek: %1$s</item>
+        <item quantity="one">Položek: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových notifikací</item>
+        <item quantity="one">%d nová notifikace</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d mincí = %2$d IDR
+Mince nejsou vratné."</item>
+        <item quantity="one">"%1$d mince = %2$d IDR
+Mince nejsou vratné."</item>
+        <item quantity="few">"%1$d mince = %2$d IDR
+Mince nejsou vratné."</item>
+        <item quantity="many">"%1$d mince = %2$d IDR
+Mince nejsou vratné."</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d výtvorů</item>
+        <item quantity="one">%d výtvor</item>
+        <item quantity="few">%d výtvory</item>
+        <item quantity="many">%d výtvoru</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"%d objednávek bylo úspěšně vráceno. "</item>
+        <item quantity="one">"%d objednávka byla úspěšně vrácena. "</item>
+        <item quantity="few">"%d objednávky byly úspěšně vráceny. "</item>
+        <item quantity="many">"%d objednávky bylo úspěšně vráceno. "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">Vracené mince budou připsány na váš účet během %d hodin.</item>
+        <item quantity="one">Vracené mince budou připsány na váš účet během %d hodiny.</item>
+        <item quantity="few">Vracené mince budou připsány na váš účet během %d hodin.</item>
+        <item quantity="many">Vracené mince budou připsány na váš účet během %d hodiny.</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">Vrácení mincí bylo schváleno. Mince budou vráceny na váš účet během %d hodin.</item>
+        <item quantity="one">Vrácení mincí bylo schváleno. Mince budou vráceny na váš účet během %d hodiny.</item>
+        <item quantity="few">Vrácení mincí bylo schváleno. Mince budou vráceny na váš účet během %d hodin.</item>
+        <item quantity="many">Vrácení mincí bylo schváleno. Mince budou vráceny na váš účet během %d hodiny.</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">Může to chvíli trvat. Pokud zakoupené položky neobdržíte během %d hodin, dejte nám o tomto problému vědět.</item>
+        <item quantity="one">Může to chvíli trvat. Pokud zakoupené položky neobdržíte během %d hodiny, dejte nám o tomto problému vědět.</item>
+        <item quantity="few">Může to chvíli trvat. Pokud zakoupené položky neobdržíte během %d hodin, dejte nám o tomto problému vědět.</item>
+        <item quantity="many">Může to chvíli trvat. Pokud zakoupené položky neobdržíte během %d hodiny, dejte nám o tomto problému vědět.</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Dokončením platby souhlasíte se &lt;a href=\"%1$s\">Zásadami nákupu v aplikaci&lt;/a>.&lt;br>Možnost vrácení je dostupná do &lt;xliff:g id=time>%2$d&lt;/xliff:g> hodin po dokončení platby.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Dokončením platby souhlasíte se &lt;a href=\"%1$s\">Zásadami nákupu v aplikaci&lt;/a>.&lt;br>Možnost vrácení je dostupná do &lt;xliff:g id=time>%2$d&lt;/xliff:g> hodiny po dokončení platby.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Dokončením platby souhlasíte se &lt;a href=\"%1$s\">Zásadami nákupu v aplikaci&lt;/a>.&lt;br>Možnost vrácení je dostupná do &lt;xliff:g id=time>%2$d&lt;/xliff:g> hodin po dokončení platby.&lt;/Data></item>
+        <item quantity="many">&lt;Data>Dokončením platby souhlasíte se &lt;a href=\"%1$s\">Zásadami nákupu v aplikaci&lt;/a>.&lt;br>Možnost vrácení je dostupná do &lt;xliff:g id=time>%2$d&lt;/xliff:g> hodiny po dokončení platby.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Objednávka byla dokončena před více než %d hodinami. Zašlete nám e-mail.</item>
+        <item quantity="one">Objednávka byla dokončena před více než %d hodinou. Zašlete nám e-mail.</item>
+        <item quantity="few">Objednávka byla dokončena před více než %d hodinami. Zašlete nám e-mail.</item>
+        <item quantity="many">Objednávka byla dokončena před více než %d hodinou. Zašlete nám e-mail.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Mince budou připsány na váš účet během %d hodin.</item>
+        <item quantity="one">Mince budou připsány na váš účet během %d hodiny.</item>
+        <item quantity="few">Mince budou připsány na váš účet během %d hodin.</item>
+        <item quantity="many">Mince budou připsány na váš účet během %d hodiny.</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">Stahování %1$s stylů písma úspěšně dokončeno</item>
+        <item quantity="one">Stahování %1$s stylu písma úspěšně dokončeno</item>
+        <item quantity="few">Stahování %1$s stylů písma úspěšně dokončeno</item>
+        <item quantity="many">Stahování %1$s stylu písma úspěšně dokončeno</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">Stahování %1$s témat úspěšně dokončeno</item>
+        <item quantity="one">Stahování %1$s tématu úspěšně dokončeno</item>
+        <item quantity="few">Stahování %1$s témat úspěšně dokončeno</item>
+        <item quantity="many">Stahování %1$s tématu úspěšně dokončeno</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s děl</item>
+        <item quantity="one">%1$s dílo</item>
+        <item quantity="few">%1$s díla</item>
+        <item quantity="many">%1$s díla</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d obrázků</item>
+        <item quantity="one">%1$s | %2$d obrázek</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Teplota: %1$s stupňů, %2$s</item>
+        <item quantity="one">Teplota: %1$s stupeň, %2$s</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d AOD</item>
@@ -106,9 +302,6 @@
         <item quantity="other">Používáno na %1$d zařízeních</item>
         <item quantity="one">Používáno na %1$d zařízení</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Před hodinou a půl</item>
-    </plurals>
     <plurals name="icon_batch_has_update_text">
         <item quantity="other">Je dostupná aktualizace pro %1$d ikony</item>
         <item quantity="one">Je dostupná aktualizace pro %1$d ikony</item>
@@ -116,19 +309,6 @@
     <plurals name="icon_batch_updating_text">
         <item quantity="other">Aktualizování %1$d ikon…</item>
         <item quantity="one">Aktualizování %1$d ikon…</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Do hodiny</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Do půl hodiny</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Okamžitě</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">za %d minut</item>
-        <item quantity="one">za 1 minutu</item>
     </plurals>
     <plurals name="items_selected">
         <item quantity="other">Vybraných: %d</item>
@@ -141,21 +321,6 @@
     <plurals name="large_icon_batch_updating_text">
         <item quantity="other">Aktualizace %1$d Super ikon</item>
         <item quantity="one">Aktualizace %1$d Super ikony</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Nyní</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">Položek: %1$s</item>
-        <item quantity="one">Položek: %1$s</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nových notifikací</item>
-        <item quantity="one">%d nová notifikace</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">Před %d minutami</item>
-        <item quantity="one">Před minutou</item>
     </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d komentáře</item>
@@ -181,64 +346,4 @@
         <item quantity="other">Obrázků: %1$d</item>
         <item quantity="one">Obrázků: %1$d</item>
     </plurals>
-    <plurals name="wallpaper_staggered_item_text">
-        <item quantity="other">%1$s | %2$d obrázků</item>
-        <item quantity="one">%1$s | %2$d obrázek</item>
-    </plurals>
-	<plurals name="atmospheric_pressure_desc">
-         <item quantity="other">Atmosférický tlak: %s hektopascalů</item>
-         <item quantity="one">Atmosférický tlak: %s hektopascal</item>
-      </plurals>
-      <plurals name="health_chart_calories_burned_schedule_format_desc">
-         <item quantity="other">Spálené %1$s kalorií</item>
-         <item quantity="one">Spáleno %1$s kalorií</item>
-      </plurals>
-      <plurals name="health_chart_calories_goal_schedule_format_desc">
-         <item quantity="other">Cíl kalorií: %1$s kalorií</item>
-         <item quantity="one">Cíl kalorií: %1$s kalorií</item>
-      </plurals>
-      <plurals name="health_chart_calories_schedule_format">
-         <item quantity="other">%1$s/%2$s kcal</item>
-		 <item quantity="one">%1$s/%2$s kcal</item>
-      </plurals>
-      <plurals name="health_chart_sport_time_current_schedule_format_desc">
-         <item quantity="other">Doba aktivity: %1$s minut</item>
-         <item quantity="one">Doba aktivity: %1$s minuta</item>
-      </plurals>
-      <plurals name="health_chart_sport_time_goal_schedule_format_desc">
-         <item quantity="other">Cíl aktivity: %1$s minut</item>
-         <item quantity="one">Cíl aktivity: %1$s minuta</item>
-      </plurals>
-      <plurals name="health_chart_sport_time_schedule_format">
-         <item quantity="other">%1$s/%2$s min</item>
-         <item quantity="one">%1$s/%2$s min</item>
-      </plurals>
-      <plurals name="health_chart_stand_count_schedule_format_desc">
-         <item quantity="other">Vstání za %1$s hodin</item>
-         <item quantity="one">Vstání za %1$s hodinu</item>
-      </plurals>
-      <plurals name="health_chart_stand_goal_schedule_format_desc">
-         <item quantity="other">Cíl vstaní: %1$s hodin</item>
-         <item quantity="one">Cíl vstaní: %1$s hodina</item>
-      </plurals>
-      <plurals name="health_chart_stand_schedule_format">
-         <item quantity="other">%1$s/%2$s hod.</item>
-         <item quantity="one">%1$s/%2$s hod.</item>
-      </plurals>
-      <plurals name="health_chart_step_count_current_schedule_format_desc">
-         <item quantity="other">Aktuální počet kroků: %1$s kroků</item>
-         <item quantity="one">Aktuální počet kroků: %1$s krok</item>
-      </plurals>
-      <plurals name="health_chart_step_count_goal_schedule_format_desc">
-         <item quantity="other">Cíl kroku: %1$s kroků</item>
-         <item quantity="one">Cíl kroku: %1$s krok</item>
-      </plurals>
-      <plurals name="health_chart_step_count_schedule_format">
-         <item quantity="other">%1$s/%2$s kroků</item>
-         <item quantity="one">%1$s/%2$s krok</item>
-      </plurals>
-      <plurals name="weather_temperature_desc">
-         <item quantity="other">Teplota: %1$s stupňů, %2$s</item>
-         <item quantity="one">Teplota: %1$s stupeň, %2$s</item>
-      </plurals>
-</resources>             
+</resources>

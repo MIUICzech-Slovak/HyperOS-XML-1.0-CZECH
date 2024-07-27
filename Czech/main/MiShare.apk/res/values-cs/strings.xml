@@ -209,6 +209,10 @@
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Rozumím</string>
+    <string name="international_privacy_dialog_agree">Souhlasím</string>
+    <string name="international_privacy_dialog_content">"Při používání této aplikace potřebujeme shromáždit potřebné informace, abychom se mohli připojit k zařízením a přenášet soubory. Pokud se rozhodnete tyto informace neposkytnout, nemusíme být schopni poskytnout vám s odpovídajícími službami nebo odpovědět na vaše dotazy můžete kdykoli podat žádost o odvolání vašeho souhlasu v části Ochrana osobních údajů > Odvolání souhlasu.“</string>
+    <string name="international_privacy_dialog_disagree">"Nesouhlasím"</string>
+    <string name="international_privacy_dialog_title">Xiaomi Share</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="location_enabled">Aplikace Xiaomi Share zapnula služby určování polohy pro nalezení zařízení v okolí</string>
@@ -257,6 +261,7 @@ Tuto funkci podporuje velké množství výrobců chytrých telefonů, mimo jin�
     <string name="miuix_appcompat_delete_description">Smazat</string>
     <string name="miuix_appcompat_deselect_all">Zrušit výběr</string>
     <string name="miuix_appcompat_deselect_all_description">Zrušit výběr</string>
+    <string name="miuix_appcompat_edit">Upravit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Zrušit</string>
     <string name="miuix_appcompat_search_input_description">Hledat</string>
     <string name="miuix_appcompat_select_all">Vybrat vše</string>
@@ -323,7 +328,7 @@ Tuto funkci podporuje velké množství výrobců chytrých telefonů, mimo jin�
     <string name="nfc_connecting">Připojování…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Abyste mohli zařízení připojit, musíte na svém zařízení nejdříve zapnout Wi-Fi a Bluetooth. Zapnout nyní?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Chcete-li zařízení připojit, nejprve na tomto zařízení zapněte WLAN a Bluetooth. Zapnout nyní?</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nelze se připojit k počítači. Ujistěte se, že jste na svém mobilním zařízení i počítači zapnuli Wi-Fi a Bluetooth a že váš počítač používá Xiaomi PC Manager."</string >
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nelze se připojit k počítači. Ujistěte se, že jste na svém mobilním zařízení i počítači zapnuli Wi-Fi a Bluetooth a že váš počítač používá Xiaomi PC Manager."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nelze se připojit k počítači. Ujistěte se, že jste na svém mobilním zařízení i počítači zapnuli WLAN a Bluetooth a že váš počítač používá Xiaomi PC Manager."</string>
     <string name="nfc_wifi_and_bluetooth">Zapněte Wi-Fi a Bluetooth</string>
     <string name="nfc_wifi_and_bluetooth_china">Turn on WLAN and Bluetooth</string>
@@ -502,8 +507,6 @@ Před použitím aplikace Xiaomi Share musíte aplikaci udělit vyžadovaná opr
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
     <string name="transfer_intercept_to_remote">Nelze odeslat: %1$s</string>
-    <string name="transfer_to_pc_summary">Nejnovější verze softwaru AIoT nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Xiaomi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI. Pokud je váš notebook na seznamu, ale AIoT na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste AIoT stáhnout znovu.</string>
-    <string name="transfer_to_pc_summary_new">&lt;Data>Nejnovější verze softwaru MIUI+ nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Xiaomi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Pokud je váš notebook na seznamu, ale MIUI+ na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste MIUI+ stáhnout znovu.&lt;/Data></string>
     <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager nyní podporuje Xiaomi Share! Seznam podporovaných modelů počítačů můžete najít &lt;a href=%1$s>zde&lt;/a>.&lt;/Data></string>
     <string name="transfer_to_pc_title">Odeslání souborů do počítače</string>
     <string name="transfer_to_phone_summary">Xiaomi Share můžete zapnout klepnutím na přepínač v Oznamovací roletce. Po zapnutí budete moci najít viditelná zařízení v okolí a sdílet s nimi soubory či fotografie z vašeho zařízení. Pro sdílení klepněte na ikonu zástupce zařízení, kterému chcete položky odeslat.</string>
@@ -596,8 +599,6 @@ Před použitím aplikace Xiaomi Share musíte aplikaci udělit vyžadovaná opr
     <string name="yesterday">Včera</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
-	<string name="international_privacy_dialog_agree">Souhlasím</string>
-	<string name="international_privacy_dialog_content">"Při používání této aplikace potřebujeme shromáždit potřebné informace, abychom se mohli připojit k zařízením a přenášet soubory. Pokud se rozhodnete tyto informace neposkytnout, nemusíme být schopni poskytnout vám s odpovídajícími službami nebo odpovědět na vaše dotazy můžete kdykoli podat žádost o odvolání vašeho souhlasu v části Ochrana osobních údajů > Odvolání souhlasu.“</string>
-	<string name="international_privacy_dialog_disagree">"Nesouhlasím"</string>
-	<string name="international_privacy_dialog_title">Xiaomi Share</string>
+    <string name="transfer_to_pc_summary">Nejnovější verze softwaru AIoT nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Xiaomi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI. Pokud je váš notebook na seznamu, ale AIoT na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste AIoT stáhnout znovu.</string>
+    <string name="transfer_to_pc_summary_new">&lt;Data>Nejnovější verze softwaru MIUI+ nainstalována na noteboocích společnosti Xiaomi je kompatibilní s aplikací Xiaomi Share. Seznam podporovaných modelů zařízení naleznete na stránkách MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Pokud je váš notebook na seznamu, ale MIUI+ na něm není nainstalováno, aktualizujte BIOS a ovladače síťového adaptéru a zkuste MIUI+ stáhnout znovu.&lt;/Data></string>
 </resources>
