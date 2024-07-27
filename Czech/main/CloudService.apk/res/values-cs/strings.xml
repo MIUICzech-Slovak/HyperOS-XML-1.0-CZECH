@@ -183,8 +183,6 @@
     <string name="find_device">Poloha zařízení</string>
     <string name="find_device_dspt_provision">"Pokud ztratíte vaše zařízení, můžete navštívit %s pro jeho vyhledání, zablokování nebo vymazání jeho obsahu. Tuto funkci můžete kdykoliv změnit v nastavení.
 "</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Povolením služby Vyhledávání zařízení, souhlasíte s \"Ochranou soukromí\". Pokud potřebujete získat autorizaci, deaktivujte tuto službu.</string>
     <string name="find_device_operation_failure_rpc">Operace nemohla být dokončena kvůli RPC chybě.</string>
     <string name="find_device_permissions_footer">"Klepnutím na \"Udělit\" udělíte oprávnění, která jste vybrali."</string>

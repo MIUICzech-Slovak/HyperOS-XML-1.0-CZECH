@@ -552,7 +552,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">Pocitově %s°</string>
     <string name="standard_clock_panel">Standardní</string>
     <string name="standard_style">Standardní</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Počet kroků je poskytován aplikací Xiaomi Zdraví.</string>
     <string name="step_component_info_desc">Počet kroků se po dosažení cíle změní na trofej.</string>
     <string name="step_component_info_tip">Počet kroků je poskytován aplikací Xiaomi Zdraví. Nainstalujte nebo aktualizujte aplikaci Xiaomi Zdraví.</string>

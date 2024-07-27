@@ -403,7 +403,6 @@ Jakmile se rozhodnete trvale vymazat všechna data, budete z aplikace odhlášen
     <string name="download_method">Stáhnout</string>
     <string name="download_paused_in_power_save_mode">Pokud je zapnutý Spořič baterie, stahování je pozastaveno</string>
     <string name="download_processing">Stahování…</string>
-    <string name="download_progress">%d %%</string>
     <string name="download_quality">Kvalita stahování</string>
     <string name="download_quality_summary">Další nastavení pro stažené skladby</string>
     <string name="download_song_quality_title">Kvalita stažených skladeb</string>
@@ -499,9 +498,7 @@ Jakmile se rozhodnete trvale vymazat všechna data, budete z aplikace odhlášen
     <string name="exo_media_action_repeat_all_description">Opakovat vše</string>
     <string name="exo_media_action_repeat_off_description">Neopakovat</string>
     <string name="exo_media_action_repeat_one_description">Opakovat jednu</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativní</string>
     <string name="exo_track_role_closed_captions">Titulky</string>
     <string name="exo_track_role_commentary">Komentář</string>
@@ -961,7 +958,6 @@ Jakmile se rozhodnete trvale vymazat všechna data, budete z aplikace odhlášen
     <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
     <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
     <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte datum</string>
     <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
@@ -1330,7 +1326,6 @@ Jakmile se rozhodnete trvale vymazat všechna data, budete z aplikace odhlášen
     <string name="privacy_desc">Zásady ochrany osobních údajů (povinné)</string>
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
     <string name="privacy_policy_title_asm">Svět hudby na dosah ruky</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=cs_CZ</string>
     <string name="privacy_request_desc">"&lt;Data>[Aby mohla poskytovat služby online streamování, vyžaduje aplikace Mi Hudba oprávnění ke shromažďování nezbytných osobních údajů. Více informací o tom, jak vaše osobní údaje využíváme najdete v našich &lt;a href=\"%1$s\">Zásadách ochrany osobních údajů&lt;/a>. Souhlas se Zásadami ochrany osobních údajů Mi Hudby můžete kdykoli odebrat v Nastavení.
 Před využitím Mi Hudby si přečtěte a souhlaste s našimi &lt;a href=\"%2$s\">Smluvními podmínkami&lt;/a> a &lt;a href=\"%1$s\">Zásadami ochrany osobních údajů&lt;/a>.
 Pokud nesouhlasíte s využitím výše uvedených služeb, nebudete moci využívat některé z funkcí této aplikace. Základní funkce aplikace však budou i nadále dostupné.&lt;/Data>"</string>
@@ -1507,7 +1502,6 @@ Pokud nesouhlasíte s využitím výše uvedených služeb, nebudete moci využ�
     <string name="start_to_download">Stahování…</string>
     <string name="start_to_play">Přehrát</string>
     <string name="start_update">Aktualizovat na nejnovější verzi aplikace Hudba.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Úložiště pro duální aplikace</string>
     <string name="storage_space_permissions_for_display">Přístup k úložišti zařízení: pro skenování, zobrazení a přehrávání souborů na zařízení</string>
     <string name="streamloadingtext">Připojování k %s</string>
@@ -1669,7 +1663,6 @@ Pokud nesouhlasíte s využitím výše uvedených služeb, nebudete moci využ�
     <string name="upload_playlist_to_hungama_title">Synchronizujte online skladby do hungama, abyste k nim měli přístup na jiných zařízeních, kde používáte svůj účet Xiaomi.</string>
     <string name="upload_playlist_to_hungama_toast">Skladby online budou synchronizovány s hungama</string>
     <string name="user_agreement">Smlouva s uživatelem</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=cs_CZ</string>
     <string name="user_experience_program_open">Kvůli omezením autorských práv se pro přehrání stažených skladeb nejprve musíte zapsat do programu Optimalizace na základě uživatelské zkušenosti. Zapsání do programu lze provést v Nastavení > Hesla a zabezpečení > Soukromí > Zapojit se do Optimalizace na základě uživatelské zkušenosti.</string>
     <string name="user_playlist_plaza">Playlisty</string>
     <string name="user_privacy_dialog_negative_text">Zrušit</string>

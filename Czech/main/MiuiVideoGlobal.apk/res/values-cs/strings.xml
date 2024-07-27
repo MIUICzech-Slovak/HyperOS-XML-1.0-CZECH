@@ -135,7 +135,6 @@
     <string name="cast_forward">Přetočit vpřed</string>
     <string name="cast_forward_10">Přetočit o 10 sekund vpřed</string>
     <string name="cast_forward_30">Přetočit o 30 sekund vpřed</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ŽIVĚ</string>
     <string name="cast_mute">Ztlumit</string>
     <string name="cast_notification_connected_message">Připojeno k obrazovce %1$s</string>
@@ -1023,7 +1022,6 @@ Toto oprávnění použijeme pouze k nalezení videí, která hledáte, a nebude
     <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
     <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
     <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte datum</string>
     <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
@@ -1113,7 +1111,6 @@ Toto oprávnění použijeme pouze k nalezení videí, která hledáte, a nebude
     <string name="online_play_start_ready_loading_tip_kb">Načítání %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Načítání %.2f MB/s</string>
     <string name="online_play_title">Zadejte URL</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Nedávno přihlášeno k odběru</string>
     <string name="order_recently_updated">Nedávno aktualizováno</string>
     <string name="out_of_memory_background_playback_is_suspended">Přehrávání na pozadí bylo z důvodu nedostatku paměti pozastaveno</string>
@@ -1520,7 +1517,6 @@ Toto oprávnění použijeme pouze k nalezení videí, která hledáte, a nebude
     <string name="sns_sign_in">Jiné způsoby přihlášení</string>
     <string name="source">"Zdroj: "</string>
     <string name="start_download_tip">Přidáno do fronty. Průběh stahování můžete zobrazit v záložce Profil > Stažené.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD karta</string>
     <string name="storage_internal_sdcard">Vnitřní úložiště</string>
     <string name="subscribe">ODEBÍRAT</string>

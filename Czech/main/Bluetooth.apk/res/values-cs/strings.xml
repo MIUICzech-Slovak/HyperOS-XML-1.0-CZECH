@@ -277,9 +277,7 @@
     <string name="opp_notification_group">Sdílení Bluetooth</string>
     <string name="outbound_history_title">Odchozí přenosy</string>
     <string name="outbound_noti_title">Sdílení Bluetooth: Odeslané soubory</string>
-    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Časový limit pro přijetí spojení se zařízením „%1$s“ vypršel</string>
-    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Časový limit zadání klíče relace pro %1$s vypršel</string>
     <string name="pbap_notification_group">Sdílení kontaků přes Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Je požadován klíč relace Bluetooth</string>

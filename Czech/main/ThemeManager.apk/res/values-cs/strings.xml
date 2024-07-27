@@ -253,9 +253,7 @@
     <string name="exo_download_paused_for_wifi">Stahování čaká na Wi-Fi</string>
     <string name="exo_download_removing">Odstraňování staženého obsahu</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/s</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativní</string>
     <string name="exo_track_role_closed_captions">Titulky</string>
     <string name="exo_track_role_commentary">Komentář</string>
@@ -397,7 +395,6 @@
     <string name="incompatible_dialog_ok">Rozumím</string>
     <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
     <string name="is_setting_wallpaper_message">Nastavení tapety...</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Budíky</string>
     <string name="item_resource_audio_optional_color_ring">Tón zpětného volání</string>
     <string name="item_resource_audio_optional_notification_ring">Upozornění</string>
@@ -568,7 +565,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
     <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
     <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte datum</string>
     <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
@@ -840,7 +836,6 @@ mm"</string>
     <string name="resource_pack_price_info">Sleva z %1$s</string>
     <string name="resource_pack_warning">Upozornění! Už jste zakoupili %1$d položek, ale současná cena je stále výhodnější, než jejich zakoupení jednotlivě.</string>
     <string name="resource_present">Dárek</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
     <string name="resource_price_unit">" MiKreditů "</string>
     <string name="resource_purchase_common_error">Operace selhala, zkuste to znovu později.</string>
@@ -978,7 +973,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">Pocitově %s°</string>
     <string name="special_topic">Kategorie</string>
     <string name="start_all">Obnovit vše</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Použít</string>
     <string name="storage_file">Ukládání stažených položek</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1111,7 +1105,6 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Uložit na SD kartu</string>
     <string name="theme_is_external_priority_storage_summary">Aplikace Témata bude automaticky znovu spuštěna pro aplikování změn</string>
     <string name="theme_multiple_button_title_customize">Upravit téma</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Ne</string>
     <string name="theme_on_the_phone_alert">"Během hovorů nelze hrát"</string>
     <string name="theme_recommend">Podobná témata</string>

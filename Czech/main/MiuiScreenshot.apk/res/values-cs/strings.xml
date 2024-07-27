@@ -370,17 +370,12 @@ dlouhý screenshot"</string>
     <string name="screen_editor_btn_save">Uložit</string>
     <string name="screen_editor_btn_shell_off">Odstranit rám zařízení</string>
     <string name="screen_editor_btn_shell_on">Přidat rám zařízení</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Chcete odstranit tento screenshot?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Chcete nyní odstranit tento obrázek?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hotovo</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Nelze přidat rám zařízení k oříznutým snímkům obrazůky</string>
     <string name="screen_editor_shell_net_error">Připojte se k síti a stáhněte si rám zařízení</string>
     <string name="screen_editor_shell_res_downloading">Stahování rámu zařízení…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Zrušit</string>
     <string name="screen_save_dialog_btn_delete">Odstranit screenshot</string>
     <string name="screen_save_dialog_btn_save">Uložit do galerie</string>
