@@ -966,7 +966,6 @@ To může způsobit dodatečné poplatky."</string>
     <string name="prv_end" />
     <string name="prv_loading">Načítání...</string>
     <string name="prv_nodata" />
-    <string name="první_nodata" />
     <string name="psw_hint">Heslo</string>
     <string name="psw_sign_in">Přihlaste se pomocí hesla</string>
     <string name="pull_to_refresh_loading_label">Jen chvilku...</string>
