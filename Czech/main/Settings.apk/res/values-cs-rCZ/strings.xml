@@ -1312,7 +1312,7 @@ Pokud chcete spárovat levé, ujistěte se, zda je zapnuté a připravené k p
     <string name="bluetooth_pairing_group_late_bonding">Přidat nového člena do existující koordinované sady</string>
     <string name="bluetooth_pairing_key_msg">Párovací kód Bluetooth</string>
     <string name="bluetooth_pairing_page_title">Spárovat nové zařízení</string>
-    <string name="bluetooth_pairing_pin_error_message">Nelze spárovat se zařízením %1$s. Kód PIN nebo přístupový klíč je nesprávný.</string>
+    <string name="bluetooth_pairing_pin_error_message">Nesprávný PIN nebo přístupový klíč. Párování se nezdařilo.</string>
     <string name="bluetooth_pairing_pref_title">Spárovat nové zařízení</string>
     <string name="bluetooth_pairing_rejected_error_message">Párování odmítnuto zařízením %1$s.</string>
     <string name="bluetooth_pairing_request">Spárovat se zařízením %1$s?</string>
