@@ -1478,4 +1478,19 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="full_safe_version_update_tip_text3">Intuitivnější rozhraní</string>
     <string name="full_safe_version_update_tip_text4">Přímé ověření identity</string>
     <string name="full_safe_version_update_tip_title">Aktualizované služby</string>
+	<string name="install_completed_pure_open_tip_title">Zapněte Mi Protect, abyste zablokovali rizikové aplikace a zajistili svou bezpečnost.</string>
+    <string name="install_hint_enhanced_mode_hint">Vylepšená ochrana</string>
+	<string name="install_hint_enhanced_mode_hint_desc">"Vylepšená ochrana je zapnutá. Tato aplikace byla nahrazena verzí, která prošla našimi bezpečnostními testy. Pokud tuto verzi přesto chcete nainstalovat, klepněte na \"︙\" a vyberte \"Povolit jednou\" "</string>
+	<string name="install_hint_enhanced_mode_hint_desc_clickable">Další informace</string>
+	<string name="install_hint_high_risk_install_prohibited_description">"Tuto aplikaci nelze nainstalovat kvůli několika bezpečnostním rizikům."</string>
+	<string name="install_hint_not_checked_hint">"Tato aplikace nebyla testována společností Xiaomi. Nainstalujte verzi poskytovanou GetApps."</string>
+	<string name="install_hint_risk_detail">Podrobnosti</string>
+	<string name="install_hint_risk_found">Zjištěna rizika</string>
+	<string name="install_hint_risk_found_description">"Instalace této aplikace může představovat bezpečnostní rizika."</string>
+	<string name="install_hint_risk_unregistered">"Vývojář neposkytnul záznam této aplikace regulačním úřadům. Může obsahovat viry, může mít přístup k vašim osobním údajům a představovat další bezpečnostní rizika. Pokud jste záznam této aplikace již poskytli regulačních orgánů jako vývojář, můžete odeslat odvolání"</string>
+	<string name="install_hint_risk_unregistered_clickable">Odeslat nyní</string>
+	<string name="install_package_error_four">Instalace této aplikace může způsobit bezpečnostní rizika</string>
+	<string name="install_package_error_four_des">Odinstalujte tuto aplikaci nebo vypněte oprávnění k instalaci aplikací z neznámých zdrojů</string>
+	<string name="install_safety_hint">Upozornění</string>
+	<string name="install_source">Zdroj</string>
 </resources>
