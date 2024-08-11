@@ -305,7 +305,7 @@ Lze tomu předejít změnou zkratky pro zvětšení z trojitého klepnutí na j
     <string name="accessibility_phone_signal_full">Plný signál telefonní sítě.</string>
     <string name="accessibility_phone_three_bars">Tři čárky signálu telefonní sítě.</string>
     <string name="accessibility_phone_two_bars">Dvě čárky signálu telefonní sítě.</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Vypínač ukončí hovor</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Zapínací tlačítko ukončí hovor</string>
     <string name="accessibility_preference_magnification_summary">Přiblížení obrazovky</string>
     <string name="accessibility_quick_settings_tooltip_dismiss">Zavřít</string>
     <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Funkce Velmi tmavé byla přidána do Rychlého nastavení. Po přejetí prstem dolů ji můžete kdykoli zapnout nebo vypnout.</string>

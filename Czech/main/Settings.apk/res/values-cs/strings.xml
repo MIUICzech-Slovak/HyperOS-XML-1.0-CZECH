@@ -5085,6 +5085,8 @@ Pokud oprávnění neudělíte, systém omezí, jak dlouho může aplikace prov�
     <string name="long_press_back_key">Dlouhé podržení Zpět</string>
     <string name="long_press_buttom_key">Dlouhé podržení tlačítka na zamykací obrazovce</string>
     <string name="long_press_home_key">Dlouhé podržení Domů</string>
+	<string name="long_press_editor_style_summary">Pro úpravu hodin a tapety, stiskněte a podržte Zamykací obrazovku</string>
+    <string name="long_press_editor_style_title">Stiskem a podržením upravit</string>
     <string name="long_press_menu_key">Dlouhé podržení Menu</string>
     <string name="long_press_menu_key_when_lock">Dlouhé podržení Menu na zamykací obrazovce</string>
     <string name="long_press_power_key">Dlouhé podržení Zapínání</string>

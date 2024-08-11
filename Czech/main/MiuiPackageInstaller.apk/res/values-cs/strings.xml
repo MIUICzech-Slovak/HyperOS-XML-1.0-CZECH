@@ -1462,4 +1462,20 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="background_install_task_create_failed">"Nelze nainstalovat"</string>
     <string name="background_install_task_create_failed_already_new">"Nelze nainstalovat. Používáte nejnovější verzi."</string>
     <string name="app_installing_not_allow_2">Instalace byla zablokována. Chcete-li změnit své předvolby, vyhledejte ve vyhledávání v Nastavení \"Instalace neznámých aplikací\".</string>
+	<string name="full_safe_about_protect_mode">Další informace</string>
+    <string name="full_safe_auth_dialog_title">Ověřte svou identitu</string>
+    <string name="full_safe_bundle_app_confirm_install">Instalovat</string>
+    <string name="full_safe_enhance_mode_summary">Instalovat aplikace pouze z GetApps</string>
+    <string name="full_safe_install_risk_source_dialog_safe_title_des">Instalace aplikací z tohoto zdroje může poškodit systém nebo poškodit vaše zařízení. Nainstalujte tuto aplikaci z jiných důvěryhodných zdrojů.</string>
+    <string name="full_safe_install_source_dialog_safe_title_des">Instalace aplikací z tohoto zdroje může představovat bezpečnostní rizika pro vaše zařízení a osobní údaje</string>
+    <string name="full_safe_protect_guide_message">"Při instalaci aplikací prostřednictvím prohlížečů a jiných neznámých zdrojů obdržíte bezpečnostní upozornění, aby se zabránilo náhodné instalaci rizikových aplikací"</string>
+    <string name="full_safe_protect_title">Chráněná instalace</string>
+    <string name="full_safe_version_update_known_button_text">Rozumím</string>
+    <string name="full_safe_version_update_tip_sub_title_not_renamed">"Mi Protect byl aktualizován! Co je nového:"</string>
+    <string name="full_safe_version_update_tip_sub_title_rename">"Mi Protect je nyní nahrazen chráněnou instalací. Co je nového:"</string>
+    <string name="full_safe_version_update_tip_text1">Rychlejší instalace</string>
+    <string name="full_safe_version_update_tip_text2">Přesná detekce rizik</string>
+    <string name="full_safe_version_update_tip_text3">Intuitivnější rozhraní</string>
+    <string name="full_safe_version_update_tip_text4">Přímé ověření identity</string>
+    <string name="full_safe_version_update_tip_title">Aktualizované služby</string>
 </resources>
