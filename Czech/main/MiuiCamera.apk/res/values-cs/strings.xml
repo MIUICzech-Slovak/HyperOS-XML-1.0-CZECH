@@ -2732,7 +2732,7 @@ Pokud pro připojení používáte hotspot, nastavte jeho pásmo AP na %s GHz v 
     <string formatted="false" name="mutex_hdr_quality">"HDR není podporován pro %1s %2sFPS"</string>
     <string name="password_toggle_content_description">Zobrazit heslo</string>
     <string name="pref_camera_picturesize_entry_cinematic">Širokoúhlý</string>
-    <string name="prek_b_j_o_i">"Zachyťte všechny zvuky kolem zařízení při zachování jejich prostorových charakteristik. Nejlepšího efektu dosáhnete přehráváním nahraného zvuku v režimu na šířku nebo přes sluchátka. Tato funkce funguje v režimu Director, jakož i v běžném a profesionálním režimu režimy videa . Externí mikrofony nejsou podporovány."</string>
+    <string name="prek_b_j_o_i">"Zachyťte všechny zvuky kolem zařízení při zachování jejich prostorových charakteristik. Nejlepšího efektu dosáhnete přehráváním nahraného zvuku v režimu na šířku nebo přes sluchátka. Tato funkce funguje v režimu Režisér, jakož i v běžném a profesionálním režimu videa. Externí mikrofony nejsou podporovány."</string>
     <string name="prek_b_j_p_i">"Snižte vliv větru na nahraný zvuk při natáčení videí. Tato funkce funguje v režimu Director, jakož i v běžném a profesionálním režimu videa. Externí mikrofony nejsou podporovány."</string>
     <string name="settings_camera_near_range_fallback_description">Automaticky přepněte na ultraširokoúhlý objektiv, abyste předešli efektu bokeh při snímání plochých objektů zblízka</string>
     <string name="settings_camera_near_range_fallback_title">Adaptivní makro</string>
