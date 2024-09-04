@@ -126,7 +126,6 @@ používat všechny funkce"</string>
 	<string name="channel_complete">Stahování dokončeno</string>
 	<string name="channel_insufficient_space">Nedostatek místa</string>
 	<string name="channel_waiting">Čekání na stahování</string>
-	<string name="download_running_percent">Stahování, %d%%</string>
 	<string name="notify_install_guide_forward_text">Otevřít</string>
 	<string name="notify_install_guide_msg">Aplikace byla úspěšně nainstalována</string>
 	<string name="notify_install_guide_title">Instalace %s</string>
