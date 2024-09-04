@@ -657,4 +657,32 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="download_description_content">"Stahování je systémová aplikace. Po jejím odstranění nebudete moci svá stažená data spravovat."</string>
     <string name="download_description_title">Odebrat \"Stahování\" z plochy?</string>
+	<string name="action_back">Zpět</string>
+	<string name="ad_download">Instalovat</string>
+	<string name="dialog_privacy_update_button1">Zrušit</string>
+	<string name="dialog_privacy_update_button2">Souhlasím</string>
+	<string name="dialog_privacy_update_title">Zásady ochrany osobních údajů byly aktualizovány</string>
+	<string name="dialog_user_know_button1">Ukončit</string>
+	<string name="dialog_user_know_button2">Souhlasím</string>
+	<string name="dialog_user_know_content"><Data>"Tuto funkci nemůžete používat, dokud nevyjádříte souhlas s novými podmínkami &lt;a href=\"%1$s\">Zásadami ochrany osobních údajů&lt;/a>. Udělat teď?" </Data></string>
+	<string name="dialog_user_know_title">Poznámka</string>
+	<string name="download_icp">Číslo ICP: 粤B2-20050219-23A</string>
+	<string name="download_waiting">Probíhá</string>
+	<string name="edit_hint2">Zadejte odkaz HTTP, FTP, magnet nebo ed2k</string>
+	<string name="introduction">O aplikaci</string>
+	<string name="new_add_bt2">Přidat úlohu torrentu</string>
+	<string name="no_net">Nepodařilo se připojit k síti</string>
+	<string name="notify_install_guide_forward_text">Otevřít</string>
+	<string name="notify_install_guide_msg">Úspěšně nainstalováno</string>
+	<string name="sniff_shortcut_cloudconfig_btn">OK</string>
+	<string name="sniff_shortcut_create">Zástupce vytvořen</string>
+	<string name="sniff_shortcut_exist">Zástupce již existuje</string>
+	<string name="sniff_shortcut_failed">Nepodařilo se vytvořit zástupce</string>
+	<string name="storage_permission_deny">Vyžadována oprávnění k úložišti</string>
+	<string name="task_add">Přidávání úkolu…</string>
+	<string name="tip_download_icon_restore">Přidat zástupce pro stahování na plochu</string>
+	<string name="tip_download_icon_retry">Nepodařilo se přidat zástupce. Zkuste to prosím znovu.</string>
+	<string name="toast_download_icon_restore_fail">Nepodařilo se přidat zástupce</string>
+	<string name="toast_download_icon_restore_success">Úspěšně přidáno</string>
+	<string name="toast_update_data_limit_fail">Nepodařilo se nastavit</string>
 </resources>

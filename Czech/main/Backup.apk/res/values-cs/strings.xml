@@ -1130,4 +1130,7 @@ Velikost aktualizace delta: %2$s"</string>
     <string name="restore_data_title">Obnovení dat</string>
     <string name="restore_from_this_device">Obnovení dat</string>
     <string name="restore_home_screen_apps_options">Obnovení dat</string>
+	<string name="button_select">Vybrat</string>
+	<string name="feature_title_pc_mode_setting">Režim PC</string>
+	<string name="set_app_suspend">Tato aplikace se zálohuje. Počkejte na dokončení procesu a zkuste to znovu.</string>
 </resources>

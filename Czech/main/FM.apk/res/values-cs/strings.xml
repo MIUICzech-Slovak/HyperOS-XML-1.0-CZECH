@@ -163,4 +163,26 @@
     <string name="using_recorder_dialog_message">FM rádio vyžaduje povolení ohledně používání nahrávání, pro jeho správné fungování.</string>
     <string name="using_recorder_dialog_title">Povolení přístupu</string>
     <string name="view_stations_list">Zobrazit seznam stanic</string>
+	<string name="dialog_saf_btn">Autorizovat</string>
+    <string name="dialog_saf_desc">Tato aplikace vyžaduje oprávnění aplikace Soubory k ukládání nahraného obsahu.</string>
+    <string name="dialog_saf_step_one">"Klepněte na 'Autorizovat'"</string>
+    <string name="dialog_saf_step_two">Na další stránce udělte oprávnění klepnutím na tlačítko v dolní části</string>
+    <string name="dialog_saf_title">Vyžadována oprávnění</string>
+    <string name="menu_label">Nabídka</string>
+    <string name="menu_privacy">Zásady ochrany osobních údajů</string>
+    <string name="msg_try_plug_headset">Zapojte sluchátka a zkuste to znovu</string>
+    <string name="permission_cancel">"Nepovolit"</string>
+    <string name="permission_confirm">Povolit</string>
+    <string name="permission_desc_phone_state">Rádio bude během hovorů pozastaveno</string>
+    <string name="permission_desc_read_write">Uložení nahraných rozhlasových programů</string>
+    <string name="permission_desc_record_audio">Pro nahrávání rozhlasových programů</string>
+    <string name="permission_guide_tip">Poznámka</string>
+    <string name="permission_phone_setting_desc">Udělte zařízení oprávnění k používání všech funkcí aplikace.</string>
+    <string name="permission_phone_state_desc">"Tato aplikace vyžaduje oprávnění ke stavu zařízení ke čtení stavu připojení a zastavení přehrávání a nahrávání během hovorů."</string>
+    <string name="permission_read_write_setting_desc">Udělte oprávnění ke správě souborů k ukládání nahraného zvuku.</string>
+    <string name="permission_record_and_file_manage_setting_desc">Oprávnění k nahrávání a správě souborů jsou omezená. Povolte této aplikaci přístup k mikrofonu a správu souborů.</string>
+    <string name="permission_record_setting_desc">Udělte oprávnění k přístupu k mikrofonu za účelem nahrávání zvuku.</string>
+    <string name="permission_require">Vyžadována oprávnění</string>
+    <string name="permission_to_setting">Nastavení</string>
+    <string name="toast_saf_permission_denied">Udělte oprávnění k ukládání nahrávek</string>
 </resources>

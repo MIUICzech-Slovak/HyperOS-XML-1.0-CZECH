@@ -65,4 +65,25 @@ Klíč: %2$s
 "</string>
     <string name="wifi_ttls_config_text">"Uživatelské jméno: %s
 "</string>
+    <string name="action_missing_private_key">Pro instalaci certifikátu je vyžadován soukromý klíč</string>
+    <string name="action_missing_user_cert">K instalaci soukromého klíče je vyžadován certifikát</string>
+    <string name="ca_cert_is_added">Certifikát CA nainstalován</string>
+    <string name="ca_certificate">Certifikát CA</string>
+    <string name="cert_temp_error">Dočasná chyba. Zkuste to znovu později.</string>
+    <string name="certificate">Certifikát</string>
+    <string name="certificate_capabilities_warning">Poznámka: Vydavatel tohoto certifikátu může kontrolovat veškerý provoz tohoto zařízení.</string>
+    <string name="certificate_name">Název certifikátu</string>
+    <string name="invalid_certificate_close_button">Zavřít</string>
+    <string name="invalid_certificate_message">"Tento soubor nelze použít jako %1$s"</string>
+    <string name="invalid_certificate_title">„Tento soubor nelze použít“</string>
+    <string name="redirect_ca_certificate_close_button">Zavřít</string>
+    <string name="redirect_ca_certificate_message">Certifikáty CA mohou ohrozit vaše soukromí a musí být nainstalovány v Nastavení</string>
+    <string name="redirect_ca_certificate_title">"Instalovat certifikáty CA v Nastavení"</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Tento certifikát od %1$s musí být nainstalován v Nastavení. Instalujte pouze certifikáty CA od organizací, kterým důvěřujete.</string>
+    <string name="select_certificate_usage_title">Vyberte typ certifikátu</string>
+    <string name="user_cert_is_added">Uživatelský certifikát nainstalován</string>
+    <string name="user_certificate">VPN a certifikáty uživatelských aplikací</string>
+    <string name="userkey_type">Algoritmus:</string>
+    <string name="wifi_cert_is_added">Certifikát Wi-Fi nainstalován</string>
+    <string name="wifi_certificate">Certifikát Wi-Fi</string>
 </resources>

@@ -729,4 +729,5 @@ Pošlete tento kód technikovi."</string>
     <string name="system_error_info">Systém je zaneprázdněn. Zkuste to znovu později.</string>
     <string name="temporary_not_available">Dočasně nedostupné</string>
     <string name="unknown_error_info">Neznámá chyba</string>
+	<string name="backup_app_prominent_disclosure_dialog_message">Cloud Backup shromáždí seznam aplikací nainstalovaných v tomto zařízení a uloží tato data na servery Xiaomi, aby je bylo možné v budoucnu stáhnout a obnovit. Pokud s touto akcí souhlasíte, klepněte na tlačítko \"OK\".</string>
 </resources>

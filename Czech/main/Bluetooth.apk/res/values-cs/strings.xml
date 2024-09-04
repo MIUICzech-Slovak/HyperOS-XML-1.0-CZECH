@@ -491,4 +491,12 @@
     <string name="remote_phonebook_feature_downgrade">Přechod na starší verzi funkce vzdáleného telefonního seznamu</string>
     <string name="repair_for_adv_phonebook_feature">Opětovné spárování pro pokročilou funkci telefonního seznamu</string>
     <string name="repair_for_phonebook_access_version_comp">Opětovné spárování pro kompatibilitu verze přístupu k telefonnímu seznamu</string>
+	<string name="bluetooth_and_wifi_stays_on_message">"Vaše zařízení nechává Wi-Fi a Bluetooth zapnuté v režimu Letadlo. Pokud nechcete, aby se to stalo, vypněte tyto funkce."</string>
+	<string name="bluetooth_and_wifi_stays_on_title">Wi-Fi a Bluetooth jsou zapnuté</string>
+	<string name="bluetooth_enabled_apm_message">"Pokud necháte Bluetooth zapnuté, vaše zařízení jej nevypne, když znovu zapnete režim Letadlo"</string>
+	<string name="bluetooth_enabled_apm_title">Bluetooth povoleno v režimu v letadle</string>
+	<string name="bluetooth_stays_on_message">"Vaše zařízení nechává Bluetooth zapnuté v režimu Letadlo. Pokud nechcete, aby se to stalo, vypněte tuto funkci."</string>
+	<string name="bluetooth_stays_on_title">Bluetooth je zapnuto</string>
+	<string name="miheadset_close_broadcast_audio">Zavřít vysílání</string>
+	<string name="notice_Auracast_audio_share_disconnected">Už nesdílíte zvuk, protože připojení bylo odpojeno</string>
 </resources>

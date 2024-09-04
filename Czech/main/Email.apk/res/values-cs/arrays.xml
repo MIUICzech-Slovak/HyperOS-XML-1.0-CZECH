@@ -30,7 +30,16 @@
         <item>Email:</item>
         <item>Mobil:</item>
         <item>Telefon:</item>
+        <item>T:</item>
+		<item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
         <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adresa:</item>

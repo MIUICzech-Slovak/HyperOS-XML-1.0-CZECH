@@ -115,4 +115,26 @@
     <string name="toast_view_in_archives_unsupported">Soubory v archivu nelze otevírat</string>
     <string name="trusted_quick_viewer_package" />
     <string name="undo">Vrátit zpět</string>
+	<string name="app_label">Soubory</string>
+    <string name="button_clear">Odhlásit odběr</string>
+    <string name="button_show_provider">Zobrazit ve službě</string>
+    <string name="clipboard_files_cannot_paste">Vybrané soubory nelze vložit do tohoto umístění.</string>
+    <string name="continue_in_background">Pokračovat na pozadí</string>
+    <string name="copy_converted_warning_content">Tyto soubory byly převedeny do jiného formátu: %1$s</string>
+    <string name="copy_failure_alert_content">Tyto soubory nebyly zkopírovány: %1$s</string>
+    <string name="delete_failure_alert_content">Tyto soubory nebyly smazány: %1$s</string>
+    <string name="directory_items">Počet položek</string>
+    <string name="extract_notification_title">Rozbalování souborů</string>
+    <string name="extract_preparing">Připravuji...</string>
+    <string name="menu_file_size_hide">Skrýt velikost souboru</string>
+    <string name="menu_file_size_show">Zobrazit velikost souboru</string>
+    <string name="menu_inspect">Zobrazit informace</string>
+    <string name="menu_sort">Řadit podle</string>
+    <string name="move_failure_alert_content">Tyto soubory nebyly přesunuty: %1$s</string>
+    <string name="sort_date">Podle data úpravy</string>
+    <string name="sort_dimension_file_type">Typ</string>
+    <string name="sort_name">Podle jména</string>
+    <string name="sort_size">Podle velikosti</string>
+    <string name="too_many_in_select_all">Vybráno pouze 1000 položek</string>
+    <string name="too_many_selected">Můžete vybrat až 1000 položek najednou</string>
 </resources>

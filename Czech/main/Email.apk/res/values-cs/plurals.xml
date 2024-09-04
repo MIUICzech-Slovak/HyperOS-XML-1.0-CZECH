@@ -224,4 +224,8 @@
         <item quantity="few">%1$d týdny předem</item>
         <item quantity="many">%1$d týdne předem</item>
     </plurals>
+	<plurals name="new_incoming_messages_many">
+        <item quantity="other">Nové zprávy: %1$d. Zobrazit.</item>
+        <item quantity="one">Nová zpráva: %1$d. Zobrazit.</item>
+    </plurals>
 </resources>
