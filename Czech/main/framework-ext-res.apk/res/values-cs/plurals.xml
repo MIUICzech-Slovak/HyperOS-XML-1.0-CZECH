@@ -12,4 +12,7 @@
         <item quantity="few">%1$d soubory</item>
         <item quantity="many">%1$d souboru</item>
     </plurals>
+	<plurals name="ime_countDown_timer">
+        <item quantity="other">Přepínač (%d s)</item>
+     </plurals>
 </resources>

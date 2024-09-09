@@ -8,4 +8,5 @@
     <string name="error_title">Nelze synchronizovat</string>
     <string name="error_unauthorized">Synchr. byla deaktivována z důvodu příliš mnoho neúspěšných pokusů o přihlášení.</string>
     <string name="micloud_downloading_clipboard_message_from_web">Odeslání SMS do schránky</string>
+	<string name="micloud_send_message_desc">Cloudové zprávy</string>
 </resources>

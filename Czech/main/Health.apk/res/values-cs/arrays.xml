@@ -146,4 +146,12 @@
         <item>Ano</item>
         <item>Ne</item>
     </string-array>
+	<string-array name="weight_unit">
+        <item>" g"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+	</string-array>
 </resources>

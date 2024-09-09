@@ -875,4 +875,6 @@ Tato akce nebude mít vliv na ostatní oprávnění, která aplikace má, jako j
     <string name="yesterday_header">Včera</string>
     <string name="yoga">Jóga</string>
     <string name="zinc">Zinek</string>
+	<string name="install_type_instant">Okamžitá aplikace</string>
+	<string name="migration_whats_new_dialog_content">Nyní můžete Health Connect používat přímo prostřednictvím nastavení. Aplikaci Health Connect můžete kdykoli odinstalovat.</string>
 </resources>

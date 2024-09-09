@@ -1923,4 +1923,10 @@ Velikost: %2$s"</string>
 Velikost aktualizace Delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s aktualizace!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Úložiště není k dispozici, zkontrolujte kartu SD.</string>
+	<string name="body_weight_fkg">%1$.1f kg</string>
+    <string name="body_weight_kg">%1$d kg</string>
+    <string name="hr_detect_principle_desc_2">Vícenásobné testování ukazuje, že hranice chyby pro tuto metodu měření srdeční frekvence je přibližně 2 tepy za minutu.</string>
+    <string name="hr_disturb_detect_desc">Začněte znovu. Snažte se při měření nehýbat prstem.</string>
+    <string name="hr_pre_detect_finger_desc">Zkontroluji, zda jsou fotoaparát a svítilna zcela zakryty. Nehýbejte prstem.</string>
+    <string name="unit_thousand_format">%1$s tisíc</string>
 </resources>

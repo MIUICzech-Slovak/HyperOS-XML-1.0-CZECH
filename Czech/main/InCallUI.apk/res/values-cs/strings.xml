@@ -483,4 +483,24 @@ Udržujte zařízení v této poloze"</string>
     <string name="satellite_state_gps_noti_title">Satelitní komunikace</string>
     <string name="satellite_state_occlusion_prompt">Vyhýbejte se budovám nebo stromům, které by mohly blokovat signál</string>
     <string name="satellite_state_voice_reg_fail_exit">Ukončit</string>
+	<string name="ai_mode_auto">Automaticky</string>
+    <string name="calibrate_rotate_again">Zkuste to znovu</string>
+    <string name="call_recording_disclaimer_msg">"Zákony jurisdikce, ve které se nacházíte vy nebo jiní účastníci hovoru, mohou vyžadovat souhlas všech stran s nahrávkou. Xiaomi nenese odpovědnost za nezákonné použití této funkce. Nahrávky hovorů jsou uložené pouze na vašem zařízení k nim Xiaomi nemá přístup."</string>
+    <string name="call_recording_disclaimer_title">Informace</string>
+    <string name="flip_rotate_use_handset_or_speaker_text">Otočením použijete možnosti reproduktoru</string>
+    <string name="incoming_show_permission_msg">"Nelze přehrávat profilová videa pro příchozí připojení bez oprávnění k úložišti"</string>
+    <string name="satellite_cancel">Zrušit</string>
+    <string name="satellite_debug_antenna">Anténa</string>
+    <string name="satellite_debug_azimuth">Azimut</string>
+    <string name="satellite_debug_compass">Kompas</string>
+    <string name="satellite_debug_evevation">Výška</string>
+    <string name="satellite_debug_rssi">Síla signálu</string>
+    <string name="satellite_debug_satellite">Satelit</string>
+    <string name="satellite_diable_earpiece">"Reproduktor nelze použít pro hovory na satelitním připojení"</string>
+    <string name="satellite_ok">Použít</string>
+    <string name="satellite_satellite_fold_tip">Složte zařízení, abyste našli satelity rychleji</string>
+    <string name="sim1_description">SIM 1</string>
+    <string name="sim2_description">SIM 2</string>
+    <string name="start_call_record">Spustit</string>
+    <string name="video_crbt_title">Přehrávání profilového videa…</string>
 </resources>

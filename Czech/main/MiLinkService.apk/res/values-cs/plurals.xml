@@ -106,7 +106,7 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
         <item quantity="few">Před %d minutami</item>
-        <item quantity="many">Před %d minutou</item>
+        <item quantity="many">Před %d minutami</item>
     </plurals>
     <plurals name="car_map_hour">
         <item quantity="other">%d hod.</item>
@@ -139,15 +139,29 @@
         <item quantity="many">%d min</item>
     </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d devices</item>
-        <item quantity="one">%1$d device</item>
-        <item quantity="few">%1$d devices</item>
-        <item quantity="many">%1$d devices</item>
+        <item quantity="other">%1$d zařízení</item>
+        <item quantity="one">%1$d zařízení</item>
+        <item quantity="few">%1$d zařízení</item>
+        <item quantity="many">%1$d zařízení</item>
     </plurals>
     <plurals name="circulate_audio_group_title_format">
         <item quantity="other">%1$d zařízení</item>
         <item quantity="one">%1$d zařízení</item>
         <item quantity="few">%1$d zařízení</item>
         <item quantity="many">%1$d zařízení</item>
+    </plurals>
+	<plurals name="controller_auth_count_down">
+        <item quantity="one">Zadejte kód z %1$s (%2$d s)</item>
+        <item quantity="other">Zadejte kód z %1$s (%2$d s)</item>
+    </plurals>
+    <plurals name="remembered_number_habit">
+        <item quantity="other">Přidáno %1$d vzorů</item>
+        <item quantity="few">Přidány %1$d vzory</item>
+        <item quantity="one">Přidán %1$d vzor</item>
+    </plurals>
+    <plurals name="un_remember_number_habit">
+        <item quantity="other">Zbývá %1$d vzorů</item>
+        <item quantity="few">Zbývají %1$d vzory</item>
+        <item quantity="one">Zbývá %1$d vzor</item>
     </plurals>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Zkuste to znovu</item>
+        <item>Úplně zakryjte čtečku otisků prstů a stiskněte tlačítko</item>
+        <item>Úplně zakryjte čtečku otisků prstů a stiskněte tlačítko</item>
+        <item>Úplně zakryjte čtečku otisků prstů a stiskněte tlačítko</item>
+        <item>Úplně zakryjte čtečku otisků prstů a stiskněte tlačítko</item>
+        <item>Úplně zakryjte čtečku otisků prstů a stiskněte tlačítko</item>
+        <item>"Příliš rychle! Nepodařilo se rozpoznat tisk"</item>
+        <item>Pohněte trochu prstem a zkuste to znovu</item>
+        <item>Zvedněte prst a znovu jej položte na skener</item>
+        <item>Podržte prst na skeneru o něco déle</item>
+        <item>Pohybujte prstem plynule</item>
+        <item>Tento otisk již byl přidán, použijte prosím jiný prst</item>
+    </string-array>
+</resources>
