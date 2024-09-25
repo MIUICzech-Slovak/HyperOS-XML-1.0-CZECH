@@ -200,4 +200,81 @@
         <item quantity="few"> Stažení</item>
         <item quantity="many"> Stažení</item>
     </plurals>
+	<plurals name="download_done_info_for_sys_content">
+        <item quantity="other">%1$d položek úspěšně načteno</item>
+        <item quantity="few">%1$d položek úspěšně načteno</item>
+        <item quantity="one">%1$d položka</item> úspěšně načteno
+    </plurals>
+    <plurals name="download_fail_info_for_sys_content">
+        <item quantity="other">"Nepodařilo se načíst %1$d položek"</item>
+        <item quantity="one">"Nepodařilo se načíst položku %1$d"</item>
+    </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Čekání na stažení. Zbývají soubory: %1$s.</item>
+        <item quantity="one">Čekání na stažení. Zbývá %1$s soubor.</item>
+        <item quantity="few">Čekání na stažení. Zbývající soubory: %1$s.</item>
+    </plurals>
+    <plurals name="downloading_info_for_sys_title">
+        <item quantity="other">Načítání... zbývá %1$d položek (%2$s%%)</item>
+        <item quantity="few">Stahování… zbývá %1$d položek (%2$s%%)</item>
+        <item quantity="one">Načítání... %1$d zbývající položka (%2$s%%)</item>
+    </plurals>
+    <plurals name="exception_copy_delete">
+        <item quantity="other">"Některé položky chybí. Nepodařilo se zkopírovat %1$d položek."</item>
+        <item quantity="one">"Některé položky chybí. Nepodařilo se zkopírovat položku %1$d."</item>
+    </plurals>
+    <plurals name="exception_move_delete">
+        <item quantity="other">"Některé položky chybí. Nepodařilo se přesunout %1$d položek."</item>
+        <item quantity="one">"Některé položky chybí. Nepodařilo se přesunout položku %1$d."</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybráno %d zboží</item>
+        <item quantity="few">Vybráno %d položek</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">před %d minutami</item>
+        <item quantity="one">před 1 minutou</item>
+        <item quantity="few">před %d minutami</item>
+        <item quantity="many">před %d minutami</item>
+    </plurals>
+    <plurals name="setting_file_list_item_desc">
+        <item quantity="other">%1$d prvků | %2$s | %3$s</item>
+        <item quantity="few">%1$d položek | %2$s | %3$s</item>
+        <item quantity="one">%1$d prvek | %2$s | %3$s</item>
+    </plurals>
+    <plurals name="setting_list_folder_item_desc">
+        <item quantity="other">%1$d prvků | %2$s</item>
+        <item quantity="few">%1$d položek | %2$s</item>
+        <item quantity="one">%1$d prvek | %2$s</item>
+    </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%1$d položek</item>
+        <item quantity="few">%1$d položek</item>
+        <item quality="one">%1$d položka</item>
+    </plurals>
+    <plurals name="upload_done_info_for_sys_content">
+        <item quantity="other">%1$d položek bylo úspěšně odesláno</item>
+        <item quantity="few">%1$d položek bylo úspěšně odesláno</item>
+        <item quantity="one">%1$d položka úspěšně odeslána</item>
+    </plurals>
+    <plurals name="upload_fail_info_for_sys_content">
+        <item quantity="other">"Nepodařilo se odeslat %1$d položek"</item>
+        <item quantity="one">"Nepodařilo se odeslat položku %1$d"</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Čekání na odeslání. Zbývají soubory: %1$s.</item>
+        <item quantity="one">Čekání na odeslání. Zbývá %1$s soubor.</item>
+        <item quantity="few">Čekání na odeslání. Zbývající soubory: %1$s.</item>
+    </plurals>
+    <plurals name="uploading_info_for_sys_title">
+        <item quantity="other">Odesílání… Zbývá %1$d položek (%2$s%%)</item>
+        <item quantity="few">Odesílání... zbývá %1$d položek (%2$s%%)</item>
+        <item quantity="one">Odesílání… Zbývá %1$d položka (%2$s%%)</item>
+    </plurals>
+    <plurals name="view_all">
+        <item measurement="other">1$d položek</item>
+        <item measurement="one">%1$d položka</item>
+        <item quantity="few">%1$d položek</item>
+    </plurals>
 </resources>
