@@ -716,7 +716,7 @@ Vylepšené zabezpečení."</string>
     <string name="server_error">Nastala chyba serveru.</string>
     <string name="service_double_attention">Funkce vylepšeného vyhledávání poskytuje Branch Metrics Inc. Pro správné fungování budou informace o vašem vyhledávání, Reklamní Google ID a IP adresa sdíleny se společností Branch Metrics Inc. Před použitím této funkce souhlaste s <font color="#B3000000"><a href="http://url1">Pravidly a podmínkami Discovery pro koncového uživatele</a></font> a <font color="#B3000000"><a href="http://url2">Zásadami ochrany osobních údajů Branch Discovery</a></font>.</string>
     <string name="setting_close">Vypnuto</string>
-    <string name="setting_no_word">Kdekoli</string>
+    <string name="setting_no_word">Všude</string>
     <string name="setting_only_widget_no_word">Na widgetech</string>
     <string name="setting_wallpaper_tip">Posuňte nebo zvětšete</string>
     <string name="settings">Nastavení</string>
